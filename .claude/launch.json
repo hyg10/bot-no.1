@@ -1,0 +1,59 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Self-Improving Bot (추천)",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-X", "utf8", "run_self_improving_bot.py"],
+      "port": 8001
+    },
+    {
+      "name": "Advanced Bot",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-X", "utf8", "src/advanced_bot.py"],
+      "port": 8002
+    },
+    {
+      "name": "Market Making Bot",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-X", "utf8", "src/market_making_bot.py"],
+      "port": 8003
+    },
+    {
+      "name": "Market Making Bot (Safe)",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-X", "utf8", "src/market_making_bot_safe.py"],
+      "port": 8004
+    },
+    {
+      "name": "Market Making Bot v2",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-X", "utf8", "src/market_making_bot_v2.py"],
+      "port": 8005
+    },
+    {
+      "name": "Adaptive Market Making Bot",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-X", "utf8", "src/adaptive_market_making_bot.py"],
+      "port": 8006
+    },
+    {
+      "name": "Trend-Aware Bot",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-X", "utf8", "src/trend_aware_bot.py"],
+      "port": 8007
+    },
+    {
+      "name": "Backtester",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-X", "utf8", "run_backtest.py"],
+      "port": 8008
+    },
+    {
+      "name": "GA Optimizer",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-X", "utf8", "run_optimization.py"],
+      "port": 8009
+    }
+  ]
+}

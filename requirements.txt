@@ -1,0 +1,22 @@
+# Backpack Exchange SDK
+backpack-exchange-sdk>=1.1.4
+
+# Data & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Optimization
+deap>=1.4.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Environment & Config
+python-dotenv>=1.0.0
+
+# Utilities
+requests>=2.31.0

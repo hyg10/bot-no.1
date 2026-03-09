@@ -1,0 +1,112 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(if not exist \"C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2\\\\.claude\" mkdir \"C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2\\\\.claude\")",
+      "mcp__Claude_Preview__preview_start",
+      "mcp__dbdce635-916d-44bc-aaee-eec201a88a59__get_instruments",
+      "Bash(python -X utf8 -c:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(start \"Trading Bot\" /min cmd /c \"C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2\\\\start_bot.bat\")",
+      "Bash(powershell -Command \"Start-Process cmd -ArgumentList ''/c C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2\\\\start_bot.bat'' -WindowStyle Normal\")",
+      "Bash(timeout:*)",
+      "Bash(powershell -Command:*)",
+      "mcp__dbdce635-916d-44bc-aaee-eec201a88a59__get_instrument",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(cmd /c \"taskkill /F /PID 10548 /PID 21856\")",
+      "Bash(cmd /c \"tasklist | findstr python\")",
+      "Bash(cmd /c \"start \"\"Self-Improving Bot\"\" cmd /k \"\"cd /d C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2 && start_bot.bat\"\"\")",
+      "Bash(cmd /c \"cd /d C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2 && python -X utf8 run_self_improving_bot.py 2>&1\")",
+      "Bash(cmd /c \"cd /d C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2 && python -X utf8 -c \"\"from src.self_improving_bot import SelfImprovingTradingBot; print\\(''import ok''\\)\"\" 2>&1\")",
+      "Bash(cmd /c \"cd /d C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2 && python -X utf8 -c \"\"from src.self_improving_bot import SelfImprovingTradingBot; print\\(''import ok''\\)\"\" > C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2\\\\test_out.txt 2>&1\")",
+      "Bash(cmd /c \"cd /d C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2 && python run_self_improving_bot.py > bot_startup.log 2>&1 & timeout /t 20 /nobreak && type bot_startup.log\")",
+      "Bash(cmd /c \"cd /d C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2 && python -c \"\":*)",
+      "Bash(python -c \":*)",
+      "Bash(python -X utf8 -m pip install pypdf -q)",
+      "Bash(python -X utf8 -m pip install pymupdf -q)",
+      "Bash(python -c \"from backpack_exchange_sdk import PublicClient; pc = PublicClient\\(\\); print\\([m for m in dir\\(pc\\) if not m.startswith\\(''_''\\)]\\)\")",
+      "Bash(more +1)",
+      "Bash(powershell -ExecutionPolicy Bypass -File \"C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2\\\\create_startup.ps1\")",
+      "Bash(start \"Self-Improving Trading Bot\" /MIN cmd /c start_bot.bat)",
+      "Bash(python -X utf8 run_self_improving_bot.py)",
+      "Bash(python -X utf8 analyze_phases.py)",
+      "Bash(python -X utf8 analyze_deep.py)",
+      "Bash(powershell -ExecutionPolicy Bypass -File \"C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2\\\\restart_bot.ps1\")",
+      "Bash(powershell -NoProfile -Command \"$bb = \\(Get-Content ''C:\\\\Users\\\\rlask\\\\Downloads\\\\backpack-advanced-bot-v2\\\\logs\\\\trading_bot.log'' -Encoding UTF8 | Select-String ''2026-03-06.*\\\\[BB''\\); $bb.Count\")",
+      "Bash(python -c \"import py_compile; py_compile.compile\\(''src/self_improving_bot.py'', doraise=True\\); py_compile.compile\\(''src/risk_management/risk_manager.py'', doraise=True\\); py_compile.compile\\(''src/utils/backpack_client.py'', doraise=True\\); print\\(''OK: all files compile''\\)\")",
+      "Bash(python3 -c \":*)",
+      "Bash(python calc_fees.py)",
+      "Bash(python calc_fees_v2.py)",
+      "Bash(python -c \"import py_compile; py_compile.compile\\(''src/self_improving_bot.py'', doraise=True\\); py_compile.compile\\(''src/risk_management/risk_manager.py'', doraise=True\\); print\\(''OK: all files compile''\\)\")",
+      "Bash(sed 's/.*reason=//')",
+      "Bash(sed 's/ .*//')",
+      "Bash(powershell -File \"C:/Users/rlask/Downloads/backpack-advanced-bot-v2/restart_bot.ps1\")",
+      "Bash(powershell -ExecutionPolicy Bypass -File \"C:/Users/rlask/Downloads/backpack-advanced-bot-v2/restart_bot.ps1\")",
+      "Bash(python -c \"import json; json.load\\(open\\(''C:/Users/rlask/Downloads/backpack-advanced-bot-v2/.claude/settings.local.json''\\)\\); print\\(''JSON OK''\\)\")",
+      "Bash(python -c \"import json; json.load\\(open\\(''C:/Users/rlask/Downloads/backpack-advanced-bot-v2/.claude/settings.local.json'', encoding=''utf-8''\\)\\); print\\(''JSON OK''\\)\")",
+      "Bash(python \"C:/Users/rlask/Downloads/backpack-advanced-bot-v2/.claude/hooks/block_unsafe_dirs.py\")",
+      "Bash(echo \"exit=$?\")",
+      "Bash(python -X utf8 \"C:/Users/rlask/Downloads/backpack-advanced-bot-v2/.claude/hooks/block_unsafe_dirs.py\")",
+      "Bash(python -X utf8 \".claude/hooks/test_core_changes.py\")",
+      "Bash(python -X utf8 \".claude/hooks/format_after_edit.py\")",
+      "Bash(python -c \"import py_compile; py_compile.compile\\(''src/self_improving_bot.py'', doraise=True\\); py_compile.compile\\(''src/utils/backpack_client.py'', doraise=True\\); py_compile.compile\\(''src/risk_management/risk_manager.py'', doraise=True\\); print\\(''OK: all 3 files compile successfully''\\)\")",
+      "Bash(python -c \"import py_compile; py_compile.compile\\(''src/self_improving_bot.py'', doraise=True\\); print\\(''OK: compile passed''\\)\")",
+      "Bash(python tmp_analysis.py)",
+      "Bash(python mfe_analysis.py)",
+      "Bash(xargs grep -l \"websocket\\\\|ws\\\\|stream\")",
+      "Bash(xargs grep -l \"POST\\\\|GET\\\\|request\\\\|http\")",
+      "Bash(python -m py_compile src/self_improving_bot.py)",
+      "Bash(python -m py_compile src/ml/self_improvement_engine.py)",
+      "Bash(python -m py_compile src/risk_management/risk_manager.py)",
+      "Bash(python -m py_compile src/utils/backpack_client.py)",
+      "Bash(tasklist /FI \"WINDOWTITLE eq *backpack*\")",
+      "Bash(tasklist /FI \"IMAGENAME eq python.exe\")",
+      "Bash(tail -80 C:/Users/rlask/Downloads/backpack-advanced-bot-v2/logs/trading_*.log)",
+      "Bash(python -m py_compile src/ml/trade_analyst.py)",
+      "Bash(python -m py_compile src/utils/logger.py)",
+      "Bash(__NEW_LINE_da129d46c887c1de__ echo \"=== FLIP\\(3.5\\) signals \\(in position\\) ===\")",
+      "Bash(__NEW_LINE_fea0735775d9b871__ echo \"=== Signals that triggered actual entry ===\")",
+      "Bash(__NEW_LINE_5f95397da3423ee9__ echo \"=== Signals that triggered re-entry after close ===\")",
+      "Bash(python -c \"from backpack_exchange import AuthenticationClient; print\\([m for m in dir\\(AuthenticationClient\\) if ''cancel'' in m.lower\\(\\) or ''order'' in m.lower\\(\\)]\\)\")",
+      "Bash(pip show backpack-exchange)",
+      "Bash(pip show backpack_exchange_sdk)",
+      "Bash(python -c \"import sys; [print\\(p\\) for p in sys.path]\")",
+      "Bash(python -c \"from backpack_exchange_sdk import AuthenticationClient; print\\([m for m in dir\\(AuthenticationClient\\) if ''cancel'' in m.lower\\(\\) or ''order'' in m.lower\\(\\)]\\)\")"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .claude/hooks/block_unsafe_dirs.py",
+            "timeout": 5,
+            "statusMessage": "안전 디렉터리 검사 중..."
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .claude/hooks/format_after_edit.py",
+            "timeout": 10,
+            "statusMessage": "포맷 검사 중..."
+          },
+          {
+            "type": "command",
+            "command": "python .claude/hooks/test_core_changes.py",
+            "timeout": 30,
+            "statusMessage": "코어 테스트 실행 중..."
+          }
+        ]
+      }
+    ]
+  }
+}
