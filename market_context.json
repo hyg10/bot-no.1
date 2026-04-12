@@ -1,21 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.42,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI already released Apr 10)",
-      "time": "2026-04-12 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-04-28 00:00 UTC",
+      "name": "PPI (March 2026) Release",
+      "time": "2026-04-14 12:30:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC ~$71,800 범위 내 횡보. CPI 호조+이란 휴전 긍정적이나 극도의 공포 지속",
-  "updated": "2026-04-12 06:00:00 UTC",
-  "valid_until": "2026-04-12 10:00:00 UTC"
+  "notes": "CPI 하회 반등 후 공포지수 16, 단기 횡보 구간",
+  "updated": "2026-04-12 08:00:00 UTC",
+  "valid_until": "2026-04-12 12:00:00 UTC"
 }
