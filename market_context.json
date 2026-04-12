@@ -1,0 +1,21 @@
+{
+  "regime": "neutral",
+  "confidence": 0.4,
+  "key_events_next_24h": [
+    {
+      "name": "US-Iran ceasefire status update (ongoing geopolitical risk)",
+      "time": "2026-04-12 12:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "US PPI (March 2026) release - BLS",
+      "time": "2026-04-14 08:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    }
+  ],
+  "notes": "이란 휴전·저CPI로 BTC 반등 중, 극심공포 지속으로 방향성 불확실",
+  "updated": "2026-04-12 07:00:00 UTC",
+  "valid_until": "2026-04-12 11:00:00 UTC"
+}
