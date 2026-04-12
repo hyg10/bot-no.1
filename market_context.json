@@ -1,0 +1,21 @@
+{
+  "regime": "neutral",
+  "confidence": 0.40,
+  "key_events_next_24h": [
+    {
+      "name": "PPI March 2026 Release (BLS)",
+      "time": "2026-04-14 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "FOMC Meeting (April)",
+      "time": "2026-04-28 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    }
+  ],
+  "notes": "극단적 공포 지속, 이란 휴전·CPI 호조로 $72K 회복 중",
+  "updated": "2026-04-12 06:00:00 UTC",
+  "valid_until": "2026-04-12 10:00:00 UTC"
+}
