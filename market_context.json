@@ -1,21 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bearish",
+  "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI already released Apr 10)",
-      "time": "2026-04-12 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "PPI March 2026 BLS Release",
+      "time": "2026-04-14 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-04-28 00:00 UTC",
+      "name": "Trump Strait of Hormuz Blockade (ongoing geopolitical risk)",
+      "time": "2026-04-13 00:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC ~$71,800 범위 내 횡보. CPI 호조+이란 휴전 긍정적이나 극도의 공포 지속",
-  "updated": "2026-04-12 06:00:00 UTC",
-  "valid_until": "2026-04-12 10:00:00 UTC"
+  "notes": "호르무즈 봉쇄령·PPI 앞두고 공포지수 12, 단기 약세",
+  "updated": "2026-04-13 09:00:00 UTC",
+  "valid_until": "2026-04-13 13:00:00 UTC"
 }
