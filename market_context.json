@@ -1,21 +1,27 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI already released Apr 10)",
-      "time": "2026-04-12 00:00 UTC",
+      "name": "US-Iran Geopolitical Monitoring (Strait of Hormuz)",
+      "time": "2026-04-14 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Fed Speakers (potential, no scheduled FOMC until Apr 28-29)",
+      "time": "2026-04-14 14:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-04-28 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
+      "name": "Bitcoin Open Interest Watch (BTC OI +16.8% WoW to $54.8B)",
+      "time": "2026-04-14 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC ~$71,800 범위 내 횡보. CPI 호조+이란 휴전 긍정적이나 극도의 공포 지속",
-  "updated": "2026-04-12 06:00:00 UTC",
-  "valid_until": "2026-04-12 10:00:00 UTC"
+  "notes": "BTC $74,400 반등, 기관 강매 지속, 극도공포 속 상승세",
+  "updated": "2026-04-14 05:30:00 UTC",
+  "valid_until": "2026-04-14 09:30:00 UTC"
 }
