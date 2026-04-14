@@ -1,21 +1,39 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI already released Apr 10)",
-      "time": "2026-04-12 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "US-Iran Peace Talks - ongoing diplomatic developments",
+      "time": "2026-04-14 21:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
     },
     {
-      "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-04-28 00:00 UTC",
+      "name": "BTC $75K short squeeze risk (~$200M shorts at liquidation risk)",
+      "time": "2026-04-14 22:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin Premium Income ETF - SEC filing (Apr 14)",
+      "time": "2026-04-14 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "PPI March 2026 released: +0.5% MoM, +4.0% YoY, energy +8.5% - hot inflation",
+      "time": "2026-04-14 13:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Meeting (rate decision - NOT in 24h window)",
+      "time": "2026-04-29 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC ~$71,800 범위 내 횡보. CPI 호조+이란 휴전 긍정적이나 극도의 공포 지속",
-  "updated": "2026-04-12 06:00:00 UTC",
-  "valid_until": "2026-04-12 10:00:00 UTC"
+  "notes": "미국-이란 평화협상 기대로 BTC 5% 급등, 기관 매수 지속. 과매수 주의.",
+  "updated": "2026-04-14 20:00:00 UTC",
+  "valid_until": "2026-04-15 00:00:00 UTC"
 }
