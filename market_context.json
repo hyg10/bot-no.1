@@ -1,0 +1,27 @@
+{
+  "regime": "neutral",
+  "confidence": 0.4,
+  "key_events_next_24h": [
+    {
+      "name": "US-Iran Geopolitical Tensions (Ongoing)",
+      "time": "2026-04-15 12:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Empire State Manufacturing Index (Apr)",
+      "time": "2026-04-15 12:30 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Next FOMC Meeting (May)",
+      "time": "2026-05-05 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    }
+  ],
+  "notes": "BTC 74K 회복, 공포지수 극단(12), 미이란 지정학 리스크 지속",
+  "updated": "2026-04-15 00:17:00 UTC",
+  "valid_until": "2026-04-15 04:17:00 UTC"
+}
