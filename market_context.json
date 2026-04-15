@@ -3,19 +3,25 @@
   "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI already released Apr 10)",
-      "time": "2026-04-12 00:00 UTC",
-      "impact": "low",
+      "name": "US-Iran geopolitical tensions (Strait of Hormuz blockade ongoing)",
+      "time": "2026-04-15 18:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-04-28 00:00 UTC",
-      "impact": "high",
+      "name": "Goldman Sachs Bitcoin Premium Income ETF - SEC 75-day review begins",
+      "time": "2026-04-15 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "FOMC next meeting - no action today",
+      "time": "2026-04-28 18:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC ~$71,800 범위 내 횡보. CPI 호조+이란 휴전 긍정적이나 극도의 공포 지속",
-  "updated": "2026-04-12 06:00:00 UTC",
-  "valid_until": "2026-04-12 10:00:00 UTC"
+  "notes": "BTC $74K 반등 중 $76K 저항 돌파 실패. 공포지수 12 극단공포.",
+  "updated": "2026-04-15 16:00:00 UTC",
+  "valid_until": "2026-04-15 20:00:00 UTC"
 }
