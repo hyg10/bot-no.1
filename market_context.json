@@ -1,21 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI already released Apr 10)",
-      "time": "2026-04-12 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "US-Iran Peace Talks (ongoing geopolitical catalyst)",
+      "time": "2026-04-15 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     },
     {
-      "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-04-28 00:00 UTC",
+      "name": "Bitcoin ETF Daily Flow Data (Morgan Stanley MSBT + BlackRock IBIT)",
+      "time": "2026-04-16 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "FOMC Meeting (no decision today - next is Apr 28-29)",
+      "time": "2026-04-28 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC ~$71,800 범위 내 횡보. CPI 호조+이란 휴전 긍정적이나 극도의 공포 지속",
-  "updated": "2026-04-12 06:00:00 UTC",
-  "valid_until": "2026-04-12 10:00:00 UTC"
+  "notes": "BTC $74K 반등, $76K 저항 실패. 극도 공포·중립 판단",
+  "updated": "2026-04-15 19:00:00 UTC",
+  "valid_until": "2026-04-15 23:00:00 UTC"
 }
