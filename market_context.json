@@ -1,21 +1,34 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.55,
+  "current_price_usd": 74500,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI already released Apr 10)",
-      "time": "2026-04-12 00:00 UTC",
-      "impact": "low",
+      "name": "BTC Short Squeeze Risk ($200M shorts at $75,500)",
+      "time": "2026-04-16 12:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Geopolitical Tensions - Strait of Hormuz (ongoing)",
+      "time": "2026-04-16 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-04-28 00:00 UTC",
+      "name": "Goldman Sachs Bitcoin Premium Income ETF Filing (SEC 75-day review)",
+      "time": "2026-04-17 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Next FOMC Meeting (rate decision Apr 28-29, no action today)",
+      "time": "2026-04-28 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC ~$71,800 범위 내 횡보. CPI 호조+이란 휴전 긍정적이나 극도의 공포 지속",
-  "updated": "2026-04-12 06:00:00 UTC",
-  "valid_until": "2026-04-12 10:00:00 UTC"
+  "notes": "기관 ETF 수요 강세, $75K 저항 돌파 여부 핵심 변수",
+  "updated": "2026-04-16 07:00:00 UTC",
+  "valid_until": "2026-04-16 11:00:00 UTC"
 }
