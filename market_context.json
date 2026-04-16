@@ -3,19 +3,26 @@
   "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI already released Apr 10)",
-      "time": "2026-04-12 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-04-28 00:00 UTC",
+      "name": "SEC CLARITY Act Crypto Regulatory Roundtable",
+      "time": "2026-04-16 14:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC ~$71,800 범위 내 횡보. CPI 호조+이란 휴전 긍정적이나 극도의 공포 지속",
-  "updated": "2026-04-12 06:00:00 UTC",
-  "valid_until": "2026-04-12 10:00:00 UTC"
+  "notes": "BTC $74K대 $76K 돌파 실패, SEC 라운드테이블 대기 혼조세",
+  "updated": "2026-04-16 08:00:00 UTC",
+  "valid_until": "2026-04-16 12:00:00 UTC",
+  "price_snapshot": {
+    "btc_usd": 74576,
+    "change_24h_pct": 0.08,
+    "key_resistance": 76000,
+    "key_support": 73492
+  },
+  "signals": {
+    "institutional_flow": "bullish",
+    "funding_rate": "bearish",
+    "fear_greed": "recovering_from_fear",
+    "trend_from_feb_low": "bullish",
+    "short_term_momentum": "neutral"
+  }
 }
