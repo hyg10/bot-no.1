@@ -1,21 +1,29 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.65,
+  "btc_price_usd": 74500,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI already released Apr 10)",
-      "time": "2026-04-12 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "SEC CLARITY Act Roundtable (Digital Asset Market Structure)",
+      "time": "2026-04-16 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
     },
     {
-      "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-04-28 00:00 UTC",
-      "impact": "high",
+      "name": "FOMC Meeting (April 28-29, hold at 3.50-3.75% expected 85% prob)",
+      "time": "2026-04-17 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC ~$71,800 범위 내 횡보. CPI 호조+이란 휴전 긍정적이나 극도의 공포 지속",
-  "updated": "2026-04-12 06:00:00 UTC",
-  "valid_until": "2026-04-12 10:00:00 UTC"
+  "notes": "BTC $74.5K 저항선 직전, CLARITY법 청문회·ETF 유입 강세",
+  "updated": "2026-04-16 17:30:00 UTC",
+  "valid_until": "2026-04-16 21:30:00 UTC",
+  "analysis_summary": {
+    "price_structure": "Above MA7/MA14/MA30 ($73,495/$71,511/$69,984). Resistance $75,396-$76,016.",
+    "mfi": 79,
+    "funding_rates": "negative (caution signal)",
+    "etf_flows": "Q1 2026 net $12.4B. BlackRock IBIT AUM $54B.",
+    "sentiment": "Cautiously bullish - recovering from Feb 5 crash low at $60K"
+  }
 }
