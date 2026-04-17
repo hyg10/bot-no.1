@@ -1,21 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI already released Apr 10)",
-      "time": "2026-04-12 00:00 UTC",
+      "name": "No confirmed major macro events today",
+      "time": "2026-04-17 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-04-28 00:00 UTC",
+      "name": "US equity market open (S&P 500 at record highs)",
+      "time": "2026-04-17 13:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "FOMC Meeting (upcoming, NOT today)",
+      "time": "2026-04-28 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC ~$71,800 범위 내 횡보. CPI 호조+이란 휴전 긍정적이나 극도의 공포 지속",
-  "updated": "2026-04-12 06:00:00 UTC",
-  "valid_until": "2026-04-12 10:00:00 UTC"
+  "notes": "극도공포 지수 23, $76K 저항 실패, 기관 매수로 하방 지지",
+  "updated": "2026-04-17 06:00:00 UTC",
+  "valid_until": "2026-04-17 10:00:00 UTC"
 }
