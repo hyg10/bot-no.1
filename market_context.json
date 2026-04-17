@@ -1,27 +1,33 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "No confirmed major macro events today",
+      "name": "No major macro releases today (CPI Apr 10, PPI Apr 14 already released)",
       "time": "2026-04-17 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "US equity market open (S&P 500 at record highs)",
+      "name": "US equity market open (corr 84% with BTC)",
       "time": "2026-04-17 13:30 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (upcoming, NOT today)",
+      "name": "FOMC Meeting (upcoming Apr 28-29, rate hold expected at 3.50-3.75%)",
       "time": "2026-04-28 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin ETF SEC Filing (news already priced Apr 14)",
+      "time": "2026-04-14 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "극도공포 지수 23, $76K 저항 실패, 기관 매수로 하방 지지",
-  "updated": "2026-04-17 06:00:00 UTC",
-  "valid_until": "2026-04-17 10:00:00 UTC"
+  "notes": "BTC $75K 저항 돌파 실패, 공포지수 21(극도공포), 단기 혼조세",
+  "updated": "2026-04-17 09:30:00 UTC",
+  "valid_until": "2026-04-17 13:30:00 UTC"
 }
