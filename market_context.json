@@ -3,19 +3,25 @@
   "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "US equity market open (84% corr with BTC)",
-      "time": "2026-04-17 13:30 UTC",
+      "name": "US-Iran Ceasefire / Strait of Hormuz Reopening",
+      "time": "2026-04-17 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Weekend Low Liquidity Period",
+      "time": "2026-04-18 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "US-Iran ceasefire ongoing (market digesting, profit-taking pressure)",
+      "name": "Goldman Sachs Bitcoin Premium Income ETF SEC Filing (ongoing review)",
       "time": "2026-04-17 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "$75K 저항 근처 횡보, 이란 휴전 효과로 단기 강세. 관망 모드.",
-  "updated": "2026-04-17 13:00:00 UTC",
-  "valid_until": "2026-04-17 17:00:00 UTC"
+  "notes": "미국-이란 휴전으로 BTC $77K 급등, 극도공포(21) 지속",
+  "updated": "2026-04-17 17:00:00 UTC",
+  "valid_until": "2026-04-17 21:00:00 UTC"
 }
