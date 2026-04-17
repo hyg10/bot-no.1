@@ -1,21 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI already released Apr 10)",
-      "time": "2026-04-12 00:00 UTC",
-      "impact": "low",
+      "name": "Goldman Sachs BTC Premium Income ETF - SEC Review Pending (filed Apr 14)",
+      "time": "2026-04-17 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "BTC $76K Resistance Retest - Technical Level Watch",
+      "time": "2026-04-17 12:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-04-28 00:00 UTC",
-      "impact": "high",
+      "name": "FOMC Meeting (next scheduled Apr 28-29, no decision today)",
+      "time": "2026-04-28 18:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC ~$71,800 범위 내 횡보. CPI 호조+이란 휴전 긍정적이나 극도의 공포 지속",
-  "updated": "2026-04-12 06:00:00 UTC",
-  "valid_until": "2026-04-12 10:00:00 UTC"
+  "notes": "BTC 75K 저항 돌파 실패, 극도 공포(21), 주요 매크로 없음",
+  "updated": "2026-04-17 09:00:00 UTC",
+  "valid_until": "2026-04-17 13:00:00 UTC"
 }
