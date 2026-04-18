@@ -1,6 +1,7 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
+  "btc_price_usd": 77319,
   "key_events_next_24h": [
     {
       "name": "Iran-US Ceasefire Expiration Watch (~Apr 22)",
@@ -19,9 +20,26 @@
       "time": "2026-04-28 14:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin ETF SEC Filing (Pending, no imminent decision)",
+      "time": "2026-04-18 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "공포탐욕 극단공포(21), 정전휴전 랠리로 $77K 회복 중. 저항선 돌파 여부 주목",
-  "updated": "2026-04-18 12:00:00 UTC",
-  "valid_until": "2026-04-18 16:00:00 UTC"
+  "notes": "공포지수 26(공포), BTC $77K +3.4%, 기관 매집 지속, 중립",
+  "updated": "2026-04-18 12:04:09 UTC",
+  "valid_until": "2026-04-18 16:04:09 UTC",
+  "analysis": {
+    "fear_greed_index": 26,
+    "fear_greed_label": "Fear",
+    "btc_24h_change_pct": 3.42,
+    "btc_100d_ma": 75000,
+    "btc_200d_ma": 87519,
+    "funding_rate_note": "negative for 46 days (contrarian bullish signal)",
+    "institutional_flow": "accumulating (Harvard ETF +257%, CalPERS $500M, Goldman $108M Solana ETF)",
+    "market_cap_usd_T": 2.70,
+    "sources": ["coingabbar.com", "feargreedmeter.com", "coindesk.com", "fortune.com"]
+  }
 }
