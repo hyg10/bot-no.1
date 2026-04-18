@@ -1,45 +1,38 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.42,
   "btc_price_usd": 77319,
   "key_events_next_24h": [
     {
-      "name": "Iran-US Ceasefire Expiration Watch (~Apr 22)",
-      "time": "2026-04-22 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC $76K-$80K Resistance Zone Test",
-      "time": "2026-04-18 12:00 UTC",
+      "name": "BTC $80K-$80.6K Resistance Zone Watch",
+      "time": "2026-04-18 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "FOMC Meeting (no decision until Apr 28-29)",
-      "time": "2026-04-28 14:00 UTC",
-      "impact": "low",
+      "name": "FOMC Meeting (decision Apr 29, rate hold expected)",
+      "time": "2026-04-29 18:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC Filing (Pending, no imminent decision)",
-      "time": "2026-04-18 00:00 UTC",
-      "impact": "medium",
+      "name": "Goldman Sachs Bitcoin Premium Income ETF SEC Filing",
+      "time": "2026-04-19 00:00 UTC",
+      "impact": "low",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "공포지수 26(공포), BTC $77K +3.4%, 기관 매집 지속, 중립",
-  "updated": "2026-04-18 12:04:09 UTC",
-  "valid_until": "2026-04-18 16:04:09 UTC",
+  "notes": "BTC $77K 회복, 공포지수26, 음수펀딩 46일, 200일MA 하회 중립",
+  "updated": "2026-04-18 16:14:00 UTC",
+  "valid_until": "2026-04-18 20:14:00 UTC",
   "analysis": {
     "fear_greed_index": 26,
     "fear_greed_label": "Fear",
     "btc_24h_change_pct": 3.42,
-    "btc_100d_ma": 75000,
     "btc_200d_ma": 87519,
-    "funding_rate_note": "negative for 46 days (contrarian bullish signal)",
-    "institutional_flow": "accumulating (Harvard ETF +257%, CalPERS $500M, Goldman $108M Solana ETF)",
+    "funding_rate_note": "negative for 46 days (contrarian bullish signal, crowded shorts)",
     "market_cap_usd_T": 2.70,
-    "sources": ["coingabbar.com", "feargreedmeter.com", "coindesk.com", "fortune.com"]
+    "recent_macro": "CPI released Apr 10 (+3.3% YoY), PPI released Apr 14 (+0.5% vs 1.1% est, dovish surprise)",
+    "sources": ["coingabbar.com", "feargreedmeter.com", "coindesk.com", "fortune.com", "financialcontent.com"]
   }
 }
