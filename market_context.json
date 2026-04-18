@@ -1,27 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting (next scheduled: April 28-29, 2026)",
-      "time": "2026-04-28 18:00 UTC",
+      "name": "Iran-US Ceasefire Expiration Watch (~Apr 22)",
+      "time": "2026-04-22 00:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "Morgan Stanley BTC Spot ETF - SEC Review (ongoing)",
-      "time": "2026-04-18 00:00 UTC",
+      "name": "BTC $76K-$80K Resistance Zone Test",
+      "time": "2026-04-18 12:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Goldman Sachs BTC ETF Registration Filing (ongoing review)",
-      "time": "2026-04-18 00:00 UTC",
+      "name": "FOMC Meeting (no decision until Apr 28-29)",
+      "time": "2026-04-28 14:00 UTC",
       "impact": "low",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $75K 저항선, 공포지수21(극단), 중동 휴전으로 반등 시도 중",
-  "updated": "2026-04-18 09:00:00 UTC",
-  "valid_until": "2026-04-18 13:00:00 UTC"
+  "notes": "공포탐욕 극단공포(21), 정전휴전 랠리로 $77K 회복 중. 저항선 돌파 여부 주목",
+  "updated": "2026-04-18 12:00:00 UTC",
+  "valid_until": "2026-04-18 16:00:00 UTC"
 }
