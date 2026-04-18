@@ -1,27 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Ceasefire / Strait of Hormuz Reopening",
-      "time": "2026-04-17 00:00 UTC",
+      "name": "FOMC Meeting (next scheduled: April 28-29, 2026)",
+      "time": "2026-04-28 18:00 UTC",
       "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Weekend Low Liquidity Period",
-      "time": "2026-04-18 00:00 UTC",
-      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs Bitcoin Premium Income ETF SEC Filing (ongoing review)",
-      "time": "2026-04-17 00:00 UTC",
+      "name": "Morgan Stanley BTC Spot ETF - SEC Review (ongoing)",
+      "time": "2026-04-18 00:00 UTC",
       "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Goldman Sachs BTC ETF Registration Filing (ongoing review)",
+      "time": "2026-04-18 00:00 UTC",
+      "impact": "low",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "미국-이란 휴전으로 BTC $77K 급등, 극도공포(21) 지속",
-  "updated": "2026-04-17 17:00:00 UTC",
-  "valid_until": "2026-04-17 21:00:00 UTC"
+  "notes": "BTC $75K 저항선, 공포지수21(극단), 중동 휴전으로 반등 시도 중",
+  "updated": "2026-04-18 09:00:00 UTC",
+  "valid_until": "2026-04-18 13:00:00 UTC"
 }
