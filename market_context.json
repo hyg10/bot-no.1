@@ -1,16 +1,16 @@
 {
   "regime": "bullish",
-  "confidence": 0.55,
+  "confidence": 0.6,
   "btc_price_usd": 77319,
   "key_events_next_24h": [
     {
       "name": "BTC $80K resistance zone watch",
-      "time": "2026-04-19 00:00 UTC",
+      "time": "2026-04-19 12:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "FOMC Meeting (decision Apr 29, rate hold expected 99.3%)",
+      "name": "FOMC Meeting (decision Apr 29, rate hold expected ~99%)",
       "time": "2026-04-29 18:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
@@ -22,22 +22,23 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $77K(+3.42%), 공포지수26, 기관ETF확대, FOMC 4/28예정",
-  "updated": "2026-04-18 20:30:00 UTC",
-  "valid_until": "2026-04-19 00:30:00 UTC",
+  "notes": "BTC $77K 반등, ETF 유입 강세, 공포지수 26 개선 중",
+  "updated": "2026-04-19 09:00:00 UTC",
+  "valid_until": "2026-04-19 13:00:00 UTC",
   "analysis": {
     "fear_greed_index": 26,
     "fear_greed_label": "Fear",
+    "fear_greed_trend": "improving (15 last week -> 21 yesterday -> 26 today)",
     "btc_24h_change_pct": 3.42,
     "btc_200d_ma": 87519,
     "total_market_cap_usd_T": 2.70,
     "market_volume_usd_B": 146.2,
-    "funding_rate_note": "negative for 46 days on Binance (crowded shorts = contrarian bullish signal)",
-    "sentiment_trend": "improving (21 yesterday -> 26 today)",
-    "institutional_news": "Goldman Sachs filed Bitcoin Premium Income ETF (Apr 15), Morgan Stanley launched spot BTC ETF, BlackRock expanding BTC ETF lineup",
+    "funding_rate_note": "negative for 46+ days on Binance (crowded shorts = contrarian bullish signal, historically precedes squeeze)",
+    "sentiment_trend": "cautiously improving; negative funding + recovering F&G index",
+    "institutional_news": "Goldman Sachs filed Bitcoin Premium Income ETF (Apr 14/15), Morgan Stanley launched spot BTC ETF, spot ETFs accumulated $56B+ total inflows",
     "geopolitical": "US-Iran ceasefire in effect (Apr 17), easing geopolitical risk supports risk assets",
-    "macro_backdrop": "CPI +3.3% YoY (Apr 10), PPI +0.5% vs +1.1% est (Apr 14, dovish surprise). No major data releases in next 24h.",
-    "technical_note": "BTC below 200d MA ($87,519). Recovering from Feb 5 crash ($60K). Failed breakout at $76K on Apr 14. Negative gamma zone at $75K.",
-    "sources": ["coingabbar.com", "coindesk.com", "fortune.com", "yahoo.finance", "federalreserve.gov"]
+    "macro_backdrop": "CPI +3.3% YoY (Apr 10), PPI +0.5% vs +1.1% est (Apr 14, dovish surprise). No major data releases next 24h. FOMC Apr 28-29 (hold expected).",
+    "technical_note": "BTC recovering from Feb 5 crash ($60K low). Failed breakout at $76K on Apr 14. Now at ~$77K. Still below 200d MA ($87.5K). Short squeeze potential high.",
+    "sources": ["coingabbar.com", "coindesk.com", "fortune.com", "yahoo.finance", "feargreedmeter.com", "federalreserve.gov", "coinspectator.com"]
   }
 }
