@@ -1,18 +1,18 @@
 {
-  "regime": "bullish",
-  "confidence": 0.6,
-  "btc_price_usd": 77319,
+  "regime": "neutral",
+  "confidence": 0.40,
+  "btc_price_usd": 75000,
   "key_events_next_24h": [
     {
-      "name": "BTC $80K resistance zone watch",
-      "time": "2026-04-19 12:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "Weekend low-liquidity session",
+      "time": "2026-04-19 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (decision Apr 29, rate hold expected ~99%)",
+      "name": "FOMC Meeting (decision Apr 29, rate hold ~99% expected)",
       "time": "2026-04-29 18:00 UTC",
-      "impact": "low",
+      "impact": "high",
       "expected_direction": "neutral"
     },
     {
@@ -22,23 +22,24 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $77K 반등, ETF 유입 강세, 공포지수 26 개선 중",
-  "updated": "2026-04-19 09:00:00 UTC",
-  "valid_until": "2026-04-19 13:00:00 UTC",
+  "notes": "극단적 공포 46일 지속, BTC $75K 회복 중, 200일선 하회",
+  "updated": "2026-04-19 12:00:00 UTC",
+  "valid_until": "2026-04-19 16:00:00 UTC",
   "analysis": {
     "fear_greed_index": 26,
     "fear_greed_label": "Fear",
-    "fear_greed_trend": "improving (15 last week -> 21 yesterday -> 26 today)",
-    "btc_24h_change_pct": 3.42,
+    "fear_greed_trend": "slowly improving (15 last week -> 21 yesterday -> 26 today), but 46+ consecutive days extreme fear",
+    "btc_24h_change_pct": -2.68,
     "btc_200d_ma": 87519,
     "total_market_cap_usd_T": 2.70,
     "market_volume_usd_B": 146.2,
-    "funding_rate_note": "negative for 46+ days on Binance (crowded shorts = contrarian bullish signal, historically precedes squeeze)",
-    "sentiment_trend": "cautiously improving; negative funding + recovering F&G index",
-    "institutional_news": "Goldman Sachs filed Bitcoin Premium Income ETF (Apr 14/15), Morgan Stanley launched spot BTC ETF, spot ETFs accumulated $56B+ total inflows",
-    "geopolitical": "US-Iran ceasefire in effect (Apr 17), easing geopolitical risk supports risk assets",
-    "macro_backdrop": "CPI +3.3% YoY (Apr 10), PPI +0.5% vs +1.1% est (Apr 14, dovish surprise). No major data releases next 24h. FOMC Apr 28-29 (hold expected).",
-    "technical_note": "BTC recovering from Feb 5 crash ($60K low). Failed breakout at $76K on Apr 14. Now at ~$77K. Still below 200d MA ($87.5K). Short squeeze potential high.",
-    "sources": ["coingabbar.com", "coindesk.com", "fortune.com", "yahoo.finance", "feargreedmeter.com", "federalreserve.gov", "coinspectator.com"]
+    "funding_rate_note": "Negative funding on Binance for 46+ days (crowded shorts = contrarian bullish signal, historically precedes squeeze)",
+    "sentiment_trend": "Mixed: fear improving but still extreme; short-term momentum positive, long-term below 200d MA",
+    "institutional_news": "Harvard endowment +257% BTC ETF stake, CalPERS $500M Q1 allocation, Goldman Sachs $108M Solana ETF; Goldman filed Bitcoin Premium Income ETF",
+    "geopolitical": "US-Iran ceasefire (Apr 17) easing risk aversion; BofA global investor survey most bearish since June 2025",
+    "macro_backdrop": "CPI +3.3% YoY, PPI +0.5% (dovish vs +1.1% est). Fed funds 3.50-3.75%. No major data next 24h. FOMC Apr 28-29 (hold expected).",
+    "technical_note": "BTC recovering from Feb 5 crash ($60K low) to ~$74-77K range. Failed breakout at $76K on Apr 14. 200d MA at $87.5K = strong resistance. Short squeeze potential elevated due to crowded shorts.",
+    "regime_rationale": "Mixed signals: price recovering (+26% from $60K lows) but still extreme fear, below 200d MA, weekend low liquidity. No clear directional catalyst next 24h. Confidence below 0.5 threshold -> bot ignores this filter.",
+    "sources": ["coingabbar.com", "coindesk.com", "fortune.com", "yahoo.finance", "coinmarketcap.com", "federalreserve.gov", "thestreet.com"]
   }
 }
