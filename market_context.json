@@ -1,14 +1,8 @@
 {
   "regime": "neutral",
-  "confidence": 0.42,
-  "btc_price_usd": 75600,
+  "confidence": 0.55,
+  "btc_price_usd": 75500,
   "key_events_next_24h": [
-    {
-      "name": "Weekend Low-Liquidity Session (Sunday)",
-      "time": "2026-04-19 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
     {
       "name": "Asian Market Open (Monday)",
       "time": "2026-04-20 00:00 UTC",
@@ -22,31 +16,35 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC registration (ongoing)",
-      "time": "2026-04-19 00:00 UTC",
+      "name": "Goldman Sachs Bitcoin Premium Income ETF SEC Review (filed Apr 14)",
+      "time": "2026-06-15 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $75K 회복중, 공포지수 26, 주말 저유동성, FOMC 4/29 예정",
-  "updated": "2026-04-19 12:16:19 UTC",
-  "valid_until": "2026-04-19 16:16:19 UTC",
+  "notes": "공포지수 27, BTC $75K 지지 3회 테스트, $76K 돌파 실패 중립",
+  "updated": "2026-04-19 15:00:00 UTC",
+  "valid_until": "2026-04-19 19:00:00 UTC",
   "analysis": {
-    "fear_greed_index": 26,
+    "fear_greed_index": 27,
     "fear_greed_label": "Fear",
-    "fear_greed_trend": "slowly improving (21 yesterday -> 26 today), 46+ consecutive days in fear/extreme fear",
-    "btc_24h_change_pct": 1.35,
-    "btc_range_24h": "74300-77320",
+    "fear_greed_trend": "slowly improving (15 last week -> 21 yesterday -> 27 today)",
+    "btc_24h_change_pct": -0.26,
+    "btc_range_24h": "74300-77054",
     "btc_week_change_pct": 5.0,
-    "total_market_cap_usd_T": 2.70,
-    "market_volume_usd_B": 146.2,
-    "funding_rate_note": "Negative funding for 46+ days (crowded shorts = contrarian bullish signal, historically precedes squeeze)",
-    "sentiment_trend": "Mixed: fear slowly improving; institutional accumulation bullish offset by pullback from $76K resistance",
-    "institutional_news": "Harvard endowment +257% BTC ETF stake, CalPERS $500M Q1 allocation, Goldman Sachs $108M SOL ETF; Goldman/Morgan Stanley new BTC ETF SEC filings",
-    "geopolitical": "US-Iran ceasefire (Apr 17) easing risk aversion; optimism boosted risk markets",
-    "macro_backdrop": "Fed funds 3.50-3.75% (no change). No major data releases next 24h. FOMC Apr 28-29 (hold ~99% priced in). CPI last print +3.3% YoY.",
-    "technical_note": "BTC recovered from Feb 5 crash ($60K low) to $74-77K range. Failed breakout at $76K on Apr 14. Price now ~$75,600, up ~1% in 24h, up ~5% week. Resistance at $76K-77K.",
-    "regime_rationale": "Recovery from lows is constructive but still in fear, pulled back from $76K resistance, weekend low liquidity, no major catalysts next 24h. Confidence 0.42 < 0.5 -> bot ignores macro filter this cycle.",
-    "sources": ["coindesk.com", "fortune.com", "coingabbar.com", "yahoo.finance", "coinmarketcap.com", "feargreedmeter.com", "federalreserve.gov"]
+    "total_market_cap_usd_T": 2.62,
+    "market_volume_usd_B": 31.0,
+    "sentiment_key_signals": [
+      "BTC testing $75K support for 3rd time in 5 days (bearish signal)",
+      "Failed breakout above $76K on Apr 14 (resistance confirmed)",
+      "Broader crypto weakness: ETH -2.5%, SOL -3% today",
+      "Goldman Sachs filed Bitcoin Premium Income ETF with SEC (Apr 14) - mild bullish",
+      "Morgan Stanley spot BTC ETF launched - mild bullish",
+      "US-Iran ceasefire (Apr 17) reducing geopolitical risk premium"
+    ],
+    "macro_backdrop": "Fed funds 3.50-3.75% (no change). No major data releases next 24h. FOMC Apr 28-29 (hold ~99.3% priced in). CPI last print +3.3% YoY (Mar). NFP +178K (Mar), unemployment 4.3%.",
+    "technical_note": "BTC recovered from Feb 5 crash ($60K) to $74-77K range. Resistance at $76K-77K firm. Price ~$75,500, down 0.26% 24h. 200-day MA at $87,519 = still well below long-term average.",
+    "regime_rationale": "Fear sentiment (27), failed $76K breakout, 3rd test of $75K support, alt weakness all point to neutral-to-bearish short-term. But recovery from $60K and institutional ETF filings prevent full bearish call. Confidence 0.55 >= 0.5 -> bot applies macro filter this cycle.",
+    "sources": ["coindesk.com", "fortune.com", "blockchainmagazine.net", "coingabbar.com", "coinmarketcap.com", "milkroad.com", "federalreserve.gov", "coinspectator.com"]
   }
 }
