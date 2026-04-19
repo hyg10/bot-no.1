@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
   "confidence": 0.42,
-  "btc_price_usd": 76085,
+  "btc_price_usd": 75600,
   "key_events_next_24h": [
     {
       "name": "Weekend Low-Liquidity Session (Sunday)",
@@ -16,37 +16,37 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (decision Apr 28-29, rate hold ~99% expected)",
-      "time": "2026-04-28 18:00 UTC",
-      "impact": "low",
+      "name": "FOMC Meeting (decision Apr 29, rate hold ~99% expected at 3.50-3.75%)",
+      "time": "2026-04-29 18:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC review (ongoing)",
+      "name": "Goldman Sachs Bitcoin ETF SEC registration (ongoing)",
       "time": "2026-04-19 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $76K 돌파 시도 후 후퇴, 공포지수 26, 주말 저유동성",
-  "updated": "2026-04-19 14:30:00 UTC",
-  "valid_until": "2026-04-19 18:30:00 UTC",
+  "notes": "BTC $75K 회복중, 공포지수 26, 주말 저유동성, FOMC 4/29 예정",
+  "updated": "2026-04-19 12:16:19 UTC",
+  "valid_until": "2026-04-19 16:16:19 UTC",
   "analysis": {
     "fear_greed_index": 26,
     "fear_greed_label": "Fear",
-    "fear_greed_trend": "slowly improving (21 yesterday -> 26 today), but 46+ consecutive days in fear/extreme fear",
-    "btc_24h_change_pct": -2.68,
-    "btc_range_24h": "75500-77200",
-    "btc_200d_ma": 87519,
+    "fear_greed_trend": "slowly improving (21 yesterday -> 26 today), 46+ consecutive days in fear/extreme fear",
+    "btc_24h_change_pct": 1.35,
+    "btc_range_24h": "74300-77320",
+    "btc_week_change_pct": 5.0,
     "total_market_cap_usd_T": 2.70,
     "market_volume_usd_B": 146.2,
     "funding_rate_note": "Negative funding for 46+ days (crowded shorts = contrarian bullish signal, historically precedes squeeze)",
-    "sentiment_trend": "Mixed: fear slowly improving but still in fear zone; institutional accumulation bullish offset by below-200d-MA technical weakness",
-    "institutional_news": "Harvard endowment +257% BTC ETF stake, CalPERS $500M Q1 allocation, Goldman Sachs $108M SOL ETF; Goldman/Morgan Stanley filed new BTC ETF applications",
-    "geopolitical": "US-Iran ceasefire (Apr 17) easing risk aversion; BofA global investor survey most bearish since June 2025",
-    "macro_backdrop": "CPI +3.3% YoY, PPI dovish. Fed funds 3.50-3.75%. No major macro data releases next 24h. FOMC Apr 28-29 (hold 99% priced in).",
-    "technical_note": "BTC recovered from Feb 5 crash ($60K low) to $74-77K range (+26%). Failed breakout at $76K on Apr 14. 200d MA $87.5K = strong resistance. Down 2.68% today pulling back from $77K high.",
-    "regime_rationale": "Mixed signals: recovering from lows but still in fear, below 200d MA, weekend low liquidity, no catalysts next 24h. Confidence 0.42 < 0.5 threshold -> bot ignores macro filter this cycle.",
-    "sources": ["coingabbar.com", "coindesk.com", "fortune.com", "yahoo.finance", "coinmarketcap.com", "coingecko.com", "federalreserve.gov", "polymarket.com"]
+    "sentiment_trend": "Mixed: fear slowly improving; institutional accumulation bullish offset by pullback from $76K resistance",
+    "institutional_news": "Harvard endowment +257% BTC ETF stake, CalPERS $500M Q1 allocation, Goldman Sachs $108M SOL ETF; Goldman/Morgan Stanley new BTC ETF SEC filings",
+    "geopolitical": "US-Iran ceasefire (Apr 17) easing risk aversion; optimism boosted risk markets",
+    "macro_backdrop": "Fed funds 3.50-3.75% (no change). No major data releases next 24h. FOMC Apr 28-29 (hold ~99% priced in). CPI last print +3.3% YoY.",
+    "technical_note": "BTC recovered from Feb 5 crash ($60K low) to $74-77K range. Failed breakout at $76K on Apr 14. Price now ~$75,600, up ~1% in 24h, up ~5% week. Resistance at $76K-77K.",
+    "regime_rationale": "Recovery from lows is constructive but still in fear, pulled back from $76K resistance, weekend low liquidity, no major catalysts next 24h. Confidence 0.42 < 0.5 -> bot ignores macro filter this cycle.",
+    "sources": ["coindesk.com", "fortune.com", "coingabbar.com", "yahoo.finance", "coinmarketcap.com", "feargreedmeter.com", "federalreserve.gov"]
   }
 }
