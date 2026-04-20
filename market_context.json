@@ -1,10 +1,10 @@
 {
   "regime": "neutral",
   "confidence": 0.40,
-  "btc_price_usd": 75800,
+  "btc_price_usd": 78000,
   "key_events_next_24h": [
     {
-      "name": "Easter Holiday - US/EU reduced volume",
+      "name": "Easter Sunday - US/EU reduced volume (thin liquidity)",
       "time": "2026-04-20 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
@@ -22,36 +22,37 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "75K 지지 재테스트, 공포지수 27, 기관매수 지속, 단기 중립",
-  "updated": "2026-04-20 00:29:00 UTC",
-  "valid_until": "2026-04-20 04:29:00 UTC",
+  "notes": "75K 지지 유지, 공포지수 27, 기관매수 지속, 단기 중립",
+  "updated": "2026-04-20 12:00:00 UTC",
+  "valid_until": "2026-04-20 16:00:00 UTC",
   "analysis": {
-    "fear_greed_index": 27,
+    "fear_greed_index": 28,
     "fear_greed_label": "Fear",
-    "fear_greed_trend": "slowly recovering (21 last week -> 27 today), still fear",
-    "btc_24h_range": "74500-77500",
-    "btc_price_note": "Recovered from Feb 5 crash low of $60K; now testing $75K support for 3rd time",
+    "fear_greed_trend": "slowly recovering (21 last week -> 28 today), still fear territory",
+    "btc_24h_range": "75000-81000",
+    "btc_price_note": "Recovered from Feb 5 crash low of $60K; testing resistance at $77K-$81K range on Apr 20",
     "sentiment_key_signals": [
-      "Fear & Greed Index 27 (Fear) - 46+ consecutive days in fear/extreme fear",
-      "Negative funding rates on Binance perps for 46 days (crowded shorts, squeeze risk)",
-      "BTC testing $75K support for 3rd time in 5 days",
-      "Failed breakout above $76K resistance confirmed",
-      "BlackRock IBIT: $284M single-day inflows on Apr 17 (bullish institutional flow)",
-      "Harvard endowment raised BTC ETF stake +257%, CalPERS $500M Q1 2026",
-      "Broader altcoin weakness: ETH -2.5%, SOL -3% (risk-off within crypto)",
-      "Easter Sunday: reduced liquidity, potential for thin-market volatility"
+      "Fear & Greed Index 28 (Fear) - 46+ consecutive days in fear/extreme fear",
+      "Negative funding rates on Binance perps for 46+ days (crowded shorts, squeeze risk)",
+      "BTC completing rebound from $60K Feb crash, now probing $77-81K resistance",
+      "BlackRock IBIT: $284M single-day inflows on Apr 17 (strong institutional flow)",
+      "BTC ETF weekly inflows ~$1B - institutional adoption accelerating",
+      "Harvard endowment raised BTC ETF stake +257%; CalPERS $500M Q1 2026",
+      "Broader altcoin weakness: ETH -2.5%, SOL -3% (risk-off rotation within crypto)",
+      "Easter Sunday: reduced liquidity, potential for thin-market volatility spikes",
+      "BTC dominance rising while altcoins struggle - defensive positioning"
     ],
-    "macro_backdrop": "Fed funds 3.50-3.75% hold. CPI Mar 2026: +3.3% YoY (elevated). FOMC Apr 28-29 with 99% hold probability. No BTC ETF SEC decisions expected in next 24h. Geopolitical: US-Iran tensions persist.",
-    "technical_note": "Resistance at $76K-$77.5K. Support at $75K (100-day MA). 200-day MA at ~$87K indicates overall bearish structure vs long-term average. RSI ~62 (neutral). Negative funding rate = potential short squeeze catalyst.",
-    "regime_rationale": "Mixed signals: institutional buying is bullish but sentiment remains fearful, $76K resistance firm, CPI elevated constrains Fed easing. Confidence 0.40 is below 0.50 bot threshold - macro filter will NOT be applied this cycle.",
+    "macro_backdrop": "Fed funds 3.50-3.75% hold. CPI Mar 2026: +3.3% YoY (elevated). FOMC Apr 28-29 with 99% hold probability. No BTC ETF SEC decisions expected in next 24h. Geopolitical: Middle East tensions declining (oil prices dropped).",
+    "technical_note": "Key resistance $77.5K-$81K. Support at $75K (100-day MA). 200-day MA at ~$87.5K indicates bearish structure vs long-term avg. Negative funding rate = potential short squeeze catalyst if $77.5K breaks.",
+    "regime_rationale": "Mixed signals: institutional buying and short-squeeze setup are bullish; but sentiment remains fearful (28), CPI elevated constrains Fed easing, and Easter holiday reduces liquidity. Confidence 0.40 is below 0.50 bot threshold - macro filter will NOT be applied this cycle.",
     "sources": [
-      "blockchainmagazine.net (Apr 19 crypto market recap)",
-      "coindesk.com (BTC rally and technical analysis Apr 14-16)",
-      "feargreedmeter.com (Fear & Greed Index 27)",
-      "intellectia.ai (BTC price analysis Apr 2026)",
-      "federalreserve.gov (FOMC calendar)",
-      "polymarket.com (FOMC rate hold odds 99%)",
-      "coingabbar.com (crypto market update Apr 18)"
+      "blockchainmagazine.net (Apr 18-19 crypto market recaps)",
+      "coindesk.com (BTC rally and technical analysis Apr 14-16 2026)",
+      "feargreedmeter.com / milkroad.com (Fear & Greed Index 27-29)",
+      "intellectia.ai (BTC price analysis April 2026)",
+      "federalreserve.gov (FOMC calendar - Apr 28-29 meeting)",
+      "openpr.com (BTC ETF inflows $1B weekly Apr 2026)",
+      "coingabbar.com / coindesk.com (institutional flows Apr 17-18)"
     ]
   }
 }
