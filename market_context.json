@@ -1,61 +1,57 @@
 {
   "regime": "neutral",
   "confidence": 0.40,
-  "btc_price_usd": 75900,
+  "btc_price_usd": 75800,
   "key_events_next_24h": [
     {
-      "name": "Asian Market Open",
+      "name": "Easter Holiday - US/EU reduced volume",
       "time": "2026-04-20 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (decision Apr 29, rate hold ~99% expected at 3.50-3.75%)",
-      "time": "2026-04-29 18:00 UTC",
-      "impact": "high",
+      "name": "No major macro data releases scheduled (next 24h)",
+      "time": "2026-04-20 12:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs Bitcoin Premium Income ETF SEC Review (filed Apr 14, ~75-day review)",
-      "time": "2026-06-28 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "FOMC Meeting - rate decision (upcoming, 99% hold at 3.50-3.75%)",
+      "time": "2026-04-29 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수 27, BTC $76K 돌파 실패 반복, $75K 지지선 3회 테스트",
-  "updated": "2026-04-19 20:07:01 UTC",
-  "valid_until": "2026-04-20 00:07:01 UTC",
+  "notes": "75K 지지 재테스트, 공포지수 27, 기관매수 지속, 단기 중립",
+  "updated": "2026-04-20 00:29:00 UTC",
+  "valid_until": "2026-04-20 04:29:00 UTC",
   "analysis": {
     "fear_greed_index": 27,
     "fear_greed_label": "Fear",
-    "fear_greed_trend": "recovering slowly (extreme fear -> fear zone this week)",
-    "btc_24h_change_pct": -0.26,
-    "btc_range_24h": "74300-77054",
-    "btc_week_change_pct": 5.0,
-    "total_market_cap_usd_T": 2.62,
-    "market_volume_usd_B": 31.0,
+    "fear_greed_trend": "slowly recovering (21 last week -> 27 today), still fear",
+    "btc_24h_range": "74500-77500",
+    "btc_price_note": "Recovered from Feb 5 crash low of $60K; now testing $75K support for 3rd time",
     "sentiment_key_signals": [
-      "BTC testing $75K support for 3rd time in 5 days (bearish signal)",
-      "Failed breakout above $76K on Apr 14 (resistance confirmed)",
-      "Broader crypto weakness: ETH -2.5%, SOL -3% today",
-      "Capital rotating from high-beta altcoins into DeFi/RWA (risk-off within crypto)",
-      "Goldman Sachs filed Bitcoin Premium Income ETF with SEC (Apr 14) - mild bullish",
-      "Morgan Stanley spot BTC ETF launched - mild bullish",
-      "Negative funding rates indicate shorts dominant / cautious market"
+      "Fear & Greed Index 27 (Fear) - 46+ consecutive days in fear/extreme fear",
+      "Negative funding rates on Binance perps for 46 days (crowded shorts, squeeze risk)",
+      "BTC testing $75K support for 3rd time in 5 days",
+      "Failed breakout above $76K resistance confirmed",
+      "BlackRock IBIT: $284M single-day inflows on Apr 17 (bullish institutional flow)",
+      "Harvard endowment raised BTC ETF stake +257%, CalPERS $500M Q1 2026",
+      "Broader altcoin weakness: ETH -2.5%, SOL -3% (risk-off within crypto)",
+      "Easter Sunday: reduced liquidity, potential for thin-market volatility"
     ],
-    "macro_backdrop": "Fed funds 3.50-3.75% (no change). No major data releases next 24h. FOMC Apr 28-29 (hold ~99% priced in). CPI last print +3.3% YoY (Mar). No immediate BTC ETF SEC decisions expected.",
-    "technical_note": "BTC recovered from Feb 5 crash ($60K) to $74-77K range. Resistance at $76K firm. 200-day MA at $87,519 - price well below long-term average indicating overall bearish structure. Forecast +2.08% to ~$78K by Apr 19 per some models.",
-    "regime_rationale": "Fear sentiment (27), failed $76K breakout x2, 3rd test of $75K support, negative funding rates, alt weakness -> neutral-to-bearish short-term. Institutional ETF filings (Goldman, Morgan Stanley) provide floor but insufficient for bullish call. Confidence 0.40 < 0.50 -> bot does NOT apply macro filter this cycle.",
+    "macro_backdrop": "Fed funds 3.50-3.75% hold. CPI Mar 2026: +3.3% YoY (elevated). FOMC Apr 28-29 with 99% hold probability. No BTC ETF SEC decisions expected in next 24h. Geopolitical: US-Iran tensions persist.",
+    "technical_note": "Resistance at $76K-$77.5K. Support at $75K (100-day MA). 200-day MA at ~$87K indicates overall bearish structure vs long-term average. RSI ~62 (neutral). Negative funding rate = potential short squeeze catalyst.",
+    "regime_rationale": "Mixed signals: institutional buying is bullish but sentiment remains fearful, $76K resistance firm, CPI elevated constrains Fed easing. Confidence 0.40 is below 0.50 bot threshold - macro filter will NOT be applied this cycle.",
     "sources": [
-      "coindesk.com",
-      "fortune.com",
-      "blockchainmagazine.net",
-      "coinmarketcap.com",
-      "feargreedmeter.com",
-      "coingabbar.com",
-      "federalreserve.gov",
-      "coinspectator.com",
-      "latestly.com"
+      "blockchainmagazine.net (Apr 19 crypto market recap)",
+      "coindesk.com (BTC rally and technical analysis Apr 14-16)",
+      "feargreedmeter.com (Fear & Greed Index 27)",
+      "intellectia.ai (BTC price analysis Apr 2026)",
+      "federalreserve.gov (FOMC calendar)",
+      "polymarket.com (FOMC rate hold odds 99%)",
+      "coingabbar.com (crypto market update Apr 18)"
     ]
   }
 }
