@@ -1,16 +1,28 @@
 {
-  "regime": "neutral",
-  "confidence": 0.42,
-  "btc_price_usd": 75500,
+  "regime": "bearish",
+  "confidence": 0.65,
+  "btc_price_usd": 74335,
   "key_events_next_24h": [
     {
-      "name": "Easter Sunday - US/EU reduced volume (thin liquidity)",
+      "name": "US-Iran Geopolitical Tension (Iran closes Strait of Hormuz)",
       "time": "2026-04-20 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "impact": "high",
+      "expected_direction": "bearish"
     },
     {
-      "name": "No major macro data releases scheduled (next 24h)",
+      "name": "BTC $75K Resistance Breakdown - Bearish Flag Pattern (3D chart)",
+      "time": "2026-04-20 12:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "rsETH Bridge Exploit Aftermath (116,500 rsETH drained, DeFi freezes)",
+      "time": "2026-04-20 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "No major US macro data releases scheduled today",
       "time": "2026-04-20 12:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
@@ -22,37 +34,34 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "$75K 3차 지지 테스트, 공포27, 기관매집, 이활절 저유동성",
-  "updated": "2026-04-20 10:30:00 UTC",
-  "valid_until": "2026-04-20 14:30:00 UTC",
+  "notes": "미-이란 긴장·$75K 이탈·약세플래그로 단기 하락 우세",
+  "updated": "2026-04-20 12:22:55 UTC",
+  "valid_until": "2026-04-20 16:22:55 UTC",
   "analysis": {
-    "fear_greed_index": 27,
-    "fear_greed_label": "Fear",
-    "fear_greed_trend": "Extreme Fear for 46+ consecutive days, slowly recovering",
-    "btc_24h_range": "74000-77200",
-    "btc_price_note": "BTC testing $75K support for 3rd time in 5 days. Down ~1.59% in 24h. Failed breakout above $76K on Apr 14. Recovery from Feb 5 crash low of $60K is intact.",
+    "btc_24h_range": "74000-75500",
+    "btc_price_note": "BTC fell below $75K support on Apr 20 to ~$74,335 (-1.6% 24h). Iran reimposed Strait of Hormuz controls over weekend, triggering risk-off. Oil surged +5.7% while BTC lagged. $75K described as 'both the milestone and the ceiling' by CoinDesk.",
     "sentiment_key_signals": [
-      "Fear & Greed Index 27 (Fear) - 46+ consecutive days in fear/extreme fear",
-      "Negative funding rates on Binance perps for 46+ days (crowded shorts, squeeze risk)",
-      "BTC failed $76K breakout on Apr 14, now retesting $75K support",
-      "ETF weekly inflows ~$1B; $663M single session on Apr 17 (IBIT + FBTC leading)",
-      "Harvard endowment, CalPERS, Goldman Sachs actively accumulating (retail vs institutional divergence)",
-      "Altcoin weakness: ETH -2.5%, SOL -3% (risk-off rotation within crypto)",
-      "Easter Sunday: reduced US/EU liquidity - thin market, potential volatile spikes",
-      "BTC dominance rising - defensive positioning into BTC from alts",
-      "March 2026 CPI: 3.3% YoY (elevated) - constrains Fed easing expectations"
+      "BTC breaks $75K support -> now resistance after weekend geopolitical shock",
+      "Iran closes Strait of Hormuz: oil +5.7%, BTC -1.6% (energy-driven risk-off)",
+      "Bearish flag pattern on 3-day chart (potential bear trap signal from Apr 14 failed breakout)",
+      "rsETH bridge exploit: 116,500 rsETH drained (~18% circulating supply), Aave/SparkLend/Fluid emergency freezes",
+      "RaveDAO manipulation warning from ZachXBT - altcoin confidence hit",
+      "March 2026 CPI: 3.3% YoY (elevated, up from 2.4%) - constrains Fed easing",
+      "FOMC Apr 28-29: 99% probability of hold at 3.50-3.75%",
+      "Easter holiday thin liquidity persisting into Monday"
     ],
-    "macro_backdrop": "Fed funds 3.50-3.75% hold. CPI Mar 2026: +3.3% YoY (elevated, up from 2.4%). FOMC Apr 28-29 with 99% hold probability. No BTC ETF SEC decisions pending in next 24h. Goldman Sachs filed new BTC ETF registration. No major economic data releases April 20-21.",
-    "technical_note": "Key resistance $76K-$81K. Support at $75K (100-day MA). 200-day MA at ~$87.5K indicates bearish structure vs long-term avg. Negative funding for 46 days = potential short squeeze catalyst if $76K breaks. Volume profile on any $75K breakdown is critical.",
-    "regime_rationale": "Neutral: institutional buying and short-squeeze setup are bullish, but sentiment remains fearful (27), BTC failing to sustain above $76K, Easter holiday reduces liquidity, and CPI elevated constrains Fed easing. Confidence 0.42 is below 0.50 bot threshold - macro filter will NOT block trades this cycle.",
+    "macro_backdrop": "Fed funds 3.50-3.75% hold. CPI Mar 2026: +3.3% YoY. FOMC Apr 28-29 with 99% hold probability. No BTC ETF SEC decisions pending next 24h. No major economic data releases April 20-21.",
+    "technical_note": "BTC lost $75K support level. Next support ~$72K (Apr 8 levels). Bearish flag on 3D chart targets lower. Resistance now at $75K-$76K. Volume needed to confirm breakdown direction.",
+    "regime_rationale": "Bearish: multiple converging negative factors - geopolitical shock (Iran/Hormuz), $75K support broken, bearish 3D chart pattern, DeFi security incident (rsETH), altcoin manipulation concerns. Confidence 0.65 is above 0.50 bot threshold - macro filter WILL bias toward SHORT entries and AGAINST LONG entries this cycle.",
     "sources": [
-      "blockchainmagazine.net (Apr 18-19 crypto market today recaps)",
-      "coindesk.com (BTC rally/technical analysis Apr 14-16 2026)",
-      "feargreedmeter.com / milkroad.com (Fear & Greed Index 27)",
-      "fortune.com (BTC daily price Apr 14-16 2026)",
+      "invezz.com (Apr 20 - top reasons crypto going down today)",
+      "coindesk.com (BTC $75K milestone and ceiling, Apr 15 2026)",
+      "coindesk.com (BTC failed $76K breakout, bearish flag, Apr 14 2026)",
+      "coindesk.com (BTC/oil surge on US-Iran ceasefire Apr 8, then reversal)",
+      "blockchainmagazine.net (Crypto market Apr 18 - BTC tests $77K resistance)",
       "federalreserve.gov (FOMC calendar - Apr 28-29 meeting)",
-      "openpr.com (BTC ETF inflows $1B weekly, Apr 2026)",
-      "polymarket.com (FOMC Apr 99% hold probability)"
+      "mexc.com (Fed rate hold 94.8% probability for April 2026)",
+      "fortune.com (BTC daily prices Apr 8-16 2026)"
     ]
   }
 }
