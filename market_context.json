@@ -1,11 +1,11 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "btc_price_usd": 75325,
+  "btc_price_usd": 75000,
   "key_events_next_24h": [
     {
-      "name": "US-Iran geopolitical tensions (Strait of Hormuz seizure)",
-      "time": "2026-04-20 ongoing",
+      "name": "US-Iran Geopolitical Tensions (Strait of Hormuz)",
+      "time": "2026-04-21 ongoing",
       "impact": "medium",
       "expected_direction": "bearish"
     },
@@ -17,7 +17,7 @@
     },
     {
       "name": "Goldman Sachs Bitcoin ETF SEC Filing (ongoing review)",
-      "time": "2026-04-20 ongoing",
+      "time": "2026-04-21 ongoing",
       "impact": "low",
       "expected_direction": "bullish"
     },
@@ -28,36 +28,36 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수 26(공포), ETF 주간유입 $10억 강세, 이란긴장 혼조세",
-  "updated": "2026-04-20 18:00:00 UTC",
-  "valid_until": "2026-04-20 22:00:00 UTC",
+  "notes": "공포지수 26(공포), 이란 리스크 지속, $75K 저항 테스트",
+  "updated": "2026-04-21 00:07:34 UTC",
+  "valid_until": "2026-04-21 04:07:34 UTC",
   "analysis": {
-    "btc_24h_range": "74376-75658",
-    "btc_price_note": "BTC trading ~$75,325 on Apr 20 (range $74,376-$75,658). Prices rising despite US-Iran Strait of Hormuz tensions. ETF inflows ~$1B weekly (strongest since mid-Jan 2026), IBIT and FBTC leading. Recovering from Feb 5 crash low of ~$60K.",
+    "btc_24h_range": "73820-75325",
+    "btc_price_note": "BTC trading ~$74,814-$75,325 on Apr 21 (open $73,820). Prices rising on Monday morning despite US-Iran Strait of Hormuz tensions. Recovering from Feb 5 crash low of ~$60K. ATH $126,198 (Oct 2025).",
     "sentiment_key_signals": [
-      "Fear & Greed Index: 26 (Fear territory, slight improvement)",
-      "BTC holding $75K area, up from $60K Feb crash - recovery trend intact",
-      "Spot BTC ETF weekly inflows ~$1B (strongest since mid-Jan 2026), $663M on Apr 17 alone",
+      "Fear & Greed Index: 26 (Fear territory, slight recovery from recent lows)",
+      "BTC consolidating $70K-$77.5K range, testing $75K resistance",
+      "Spot BTC ETF inflows supporting floor (institutional demand strong)",
       "US-Iran tensions: US seized Iranian cargo ship near Hormuz - risk-off headwind",
-      "Short squeeze over weekend caused heavy liquidations - sentiment fragile",
-      "Crypto market cap: $2.70T (up from $2.63T), still ~45% below Oct 2025 ATH",
-      "No major US macro data scheduled Apr 20-21",
+      "Monday Apr 21 prices rising despite geopolitical pressure",
+      "DeFi exploit rattled altcoins over weekend, sentiment fragile",
+      "No major US macro data scheduled Apr 21",
       "FOMC Apr 28-29: 99% probability of hold at 3.50-3.75%",
       "March 2026 CPI: 3.3% YoY, Core CPI 2.6% - constrains Fed easing",
-      "Bitcoin Core v31.0 released April 2026 (privacy + fee efficiency improvements)"
+      "Morgan Stanley + Goldman Sachs BTC ETF filings signal continued institutional adoption"
     ],
-    "macro_backdrop": "Fed funds 3.50-3.75% hold. CPI Mar 2026: +3.3% YoY. FOMC Apr 28-29 with 99% hold probability. No BTC ETF SEC decisions pending next 24h. No major economic data releases April 20-21.",
-    "technical_note": "BTC holding $75K area. Recovering from $60K Feb 5 crash. ETF inflows providing floor. Key resistance ~$76-77K. Support at $73-74K. Fear & Greed 26 (Fear).",
-    "regime_rationale": "Neutral: Price recovering from Feb crash with strong ETF support (~$1B weekly inflows). However, Fear & Greed at 26 (Fear), geopolitical risks (US-Iran), and market still 45% below Oct 2025 ATH prevent bullish call. Confidence 0.45 = below 0.50 bot threshold - macro filter INACTIVE this cycle.",
+    "macro_backdrop": "Fed funds 3.50-3.75% hold. CPI Mar 2026: +3.3% YoY. FOMC Apr 28-29 with 99% hold probability. No BTC ETF SEC decisions pending next 24h. No major economic data releases April 21.",
+    "technical_note": "BTC at $75K. Key support $73,180 / $70-72K (200-DMA). Key resistance $76,950 / $77,500. Fear & Greed 26. Recovery from $60K Feb crash intact but fragile.",
+    "regime_rationale": "Neutral: Price recovering from Feb crash with institutional ETF support. However, Fear & Greed at 26 (Fear), geopolitical risks (US-Iran), and market 40%+ below Oct 2025 ATH prevent bullish call. Mixed signals dominate. Confidence 0.45 = below 0.50 bot threshold - macro filter INACTIVE this cycle.",
     "sources": [
-      "fortune.com (BTC price Apr 20 2026)",
-      "finance.yahoo.com (BTC/ETH prices Apr 20 2026)",
-      "coinmarketcap.com (Fear & Greed Index 26, Apr 2026)",
-      "openpr.com (BTC ETF inflows $1B weekly April 2026)",
+      "finance.yahoo.com (BTC/ETH prices Apr 20-21 2026)",
+      "fortune.com (BTC price Apr 20 2026 - $75,324.58)",
+      "blockchainmagazine.net (Fear & Greed 26, Apr 18-19 2026)",
+      "intellectia.ai (BTC price analysis April 2026)",
       "coindesk.com (BTC-Iran Hormuz tensions Apr 18-20 2026)",
-      "crowdfundinsider.com (crypto winter analysis April 2026)",
       "federalreserve.gov (FOMC calendar - Apr 28-29 meeting)",
-      "smallworldfs.com (crypto short squeeze liquidations Apr 19 2026)"
+      "pymnts.com (Goldman Sachs Bitcoin ETF SEC filing)",
+      "ebc.com (Fed meeting April 2026 - no change expected)"
     ]
   }
 }
