@@ -1,63 +1,52 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "btc_price_usd": 75000,
+  "btc_price_usd": 77810,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Geopolitical Tensions (Strait of Hormuz)",
-      "time": "2026-04-21 ongoing",
+      "name": "Iran-US Geopolitical Tension / Ceasefire Monitoring (Hormuz)",
+      "time": "2026-04-23 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "BTC Spot ETF Weekly Inflow Report (BlackRock IBIT / Fidelity FBTC)",
-      "time": "2026-04-21 12:00 UTC",
+      "name": "FOMC Meeting Approaching (Apr 28-29) — Pre-positioning Risk",
+      "time": "2026-04-24 12:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Goldman Sachs Bitcoin ETF SEC Filing (ongoing review)",
-      "time": "2026-04-21 ongoing",
-      "impact": "low",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "FOMC Meeting - rate decision (99% hold at 3.50-3.75%)",
-      "time": "2026-04-29 18:00 UTC",
-      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수 26(공포), 이란 리스크 지속, $75K 저항 테스트",
-  "updated": "2026-04-21 00:07:34 UTC",
-  "valid_until": "2026-04-21 04:07:34 UTC",
+  "notes": "기관매수·ETF유입 강세, 이란불안·공포지수46 혼조 중립",
+  "updated": "2026-04-23 14:00:00 UTC",
+  "valid_until": "2026-04-23 18:00:00 UTC",
   "analysis": {
-    "btc_24h_range": "73820-75325",
-    "btc_price_note": "BTC trading ~$74,814-$75,325 on Apr 21 (open $73,820). Prices rising on Monday morning despite US-Iran Strait of Hormuz tensions. Recovering from Feb 5 crash low of ~$60K. ATH $126,198 (Oct 2025).",
+    "btc_price_note": "BTC ~$77,810 on Apr 23 (9 AM ET). Up from $75K low on Apr 21. BTC dominance 58.1% as altcoins shed 2-3%. Fear & Greed 46 (Fear zone). Total market cap $2.68T, 24h volume $107.16B (below 30-day avg — low conviction).",
     "sentiment_key_signals": [
-      "Fear & Greed Index: 26 (Fear territory, slight recovery from recent lows)",
-      "BTC consolidating $70K-$77.5K range, testing $75K resistance",
-      "Spot BTC ETF inflows supporting floor (institutional demand strong)",
-      "US-Iran tensions: US seized Iranian cargo ship near Hormuz - risk-off headwind",
-      "Monday Apr 21 prices rising despite geopolitical pressure",
-      "DeFi exploit rattled altcoins over weekend, sentiment fragile",
-      "No major US macro data scheduled Apr 21",
-      "FOMC Apr 28-29: 99% probability of hold at 3.50-3.75%",
-      "March 2026 CPI: 3.3% YoY, Core CPI 2.6% - constrains Fed easing",
-      "Morgan Stanley + Goldman Sachs BTC ETF filings signal continued institutional adoption"
+      "Fear & Greed Index: 46 (Fear zone, -4 from neutral — 'no man's land')",
+      "BTC dominance 58.1% — capital rotating into BTC as defensive crypto asset",
+      "Spot BTC ETF: 5 consecutive days of inflows, $238M net on Apr 21",
+      "Strategy (Saylor) bought 34,164 BTC — largest acquisition since late 2024",
+      "KelpDAO $292M exploit drove DeFi TVL down $14B — bearish for altcoins, neutral for BTC",
+      "Kevin Warsh (Fed nominee) stressed Fed independence vs. Trump rate-cut pressure — hawkish tone",
+      "Iran-US Hormuz tensions ongoing — geopolitical uncertainty headwind",
+      "Bitcoin Core v31.0 upgrade released — neutral tech event",
+      "FOMC Apr 28-29: J.P. Morgan expects hold at 3.50-3.75%",
+      "UK CPI Apr 23: 3.3% YoY (already released) — no major US macro Apr 23-24"
     ],
-    "macro_backdrop": "Fed funds 3.50-3.75% hold. CPI Mar 2026: +3.3% YoY. FOMC Apr 28-29 with 99% hold probability. No BTC ETF SEC decisions pending next 24h. No major economic data releases April 21.",
-    "technical_note": "BTC at $75K. Key support $73,180 / $70-72K (200-DMA). Key resistance $76,950 / $77,500. Fear & Greed 26. Recovery from $60K Feb crash intact but fragile.",
-    "regime_rationale": "Neutral: Price recovering from Feb crash with institutional ETF support. However, Fear & Greed at 26 (Fear), geopolitical risks (US-Iran), and market 40%+ below Oct 2025 ATH prevent bullish call. Mixed signals dominate. Confidence 0.45 = below 0.50 bot threshold - macro filter INACTIVE this cycle.",
+    "macro_backdrop": "Fed funds 3.50-3.75% (on hold). US CPI Mar 2026: +3.3% YoY (+10.9% energy). FOMC Apr 28-29 — hold widely expected. No US CPI/PPI releases on Apr 23-24. Goldman Sachs Bitcoin ETF pending SEC review (no specific decision date).",
+    "technical_note": "BTC at $77,810. Recovering from Apr 21 low near $75K. BTC only -0.21% while alts -2-3%. Key resistance $80K round number. Key support $75K / $73K. 24h volume below average = limited conviction on current move.",
+    "regime_rationale": "Neutral: Strong institutional demand (ETF inflows 5 days, Strategy mega-buy) vs. Fear & Greed 46, Iran geopolitical risk, and post-DeFi-exploit caution. BTC acting as defensive crypto safe-haven. Mixed signals — no clear trend. Confidence 0.45 = below 0.50 bot threshold, macro filter INACTIVE this cycle.",
     "sources": [
-      "finance.yahoo.com (BTC/ETH prices Apr 20-21 2026)",
-      "fortune.com (BTC price Apr 20 2026 - $75,324.58)",
-      "blockchainmagazine.net (Fear & Greed 26, Apr 18-19 2026)",
-      "intellectia.ai (BTC price analysis April 2026)",
-      "coindesk.com (BTC-Iran Hormuz tensions Apr 18-20 2026)",
-      "federalreserve.gov (FOMC calendar - Apr 28-29 meeting)",
+      "fortune.com (BTC price Apr 23 2026 — $77,809.79 at 9 AM ET)",
+      "coindesk.com (BTC slides near $75K amid Warsh hearing, Iran talks — Apr 21)",
+      "blockchainmagazine.net (Crypto Market Apr 23 — BTC holds $77K, alts -2-3%)",
+      "coindesk.com (BTC climbs as risk sentiment improves, altcoins hit by exploit — Apr 21)",
+      "yahoo.finance (BTC/ETH prices Apr 21 2026 — prices on the rise)",
+      "federalreserve.gov (FOMC calendar — Apr 28-29 meeting)",
+      "jpmorgan.com (Fed expected to hold Apr 28-29)",
+      "coindesk.com (BTC bounces above $76K, DeFi $14B exodus after KelpDAO hack — Apr 20)",
       "pymnts.com (Goldman Sachs Bitcoin ETF SEC filing)",
-      "ebc.com (Fed meeting April 2026 - no change expected)"
+      "riotimesonline.com (Global Economy Briefing Apr 23 2026 — UK CPI 3.3%)"
     ]
   }
 }
