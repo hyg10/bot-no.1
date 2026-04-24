@@ -1,8 +1,8 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "btc_price_usd": 78200,
-  "fear_greed_index": 46,
+  "btc_price_usd": 78100,
+  "fear_greed_index": 12,
   "key_events_next_24h": [
     {
       "name": "CME Bitcoin & ETH Monthly Options Expiry",
@@ -11,51 +11,55 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "BTC Spot ETF daily inflow report (5 consecutive days positive, $245M+ mid-April)",
+      "name": "BTC Spot ETF daily inflow report (5 consecutive positive days, $245M+ mid-April)",
       "time": "2026-04-24 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "FOMC pre-positioning window begins (meeting: Apr 28-29, hold 99.4% priced)",
+      "name": "FOMC pre-positioning window (meeting Apr 28-29, hold ~99% priced in)",
       "time": "2026-04-25 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $78,200 횡보, CME 옵션만기·FOMC 대기 혼조세",
-  "updated": "2026-04-24 14:00:00 UTC",
-  "valid_until": "2026-04-24 18:00:00 UTC",
+  "notes": "BTC $78K 횡보, 극도공포12, 기관매수·CME만기 혼조세",
+  "updated": "2026-04-24 11:00:00 UTC",
+  "valid_until": "2026-04-24 15:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$78,200 on Apr 24 afternoon. Ranging $77,500-$78,500 since midnight UTC. Volatility cooling, derivatives momentum fading.",
+    "btc_price_note": "BTC ~$78,100 on Apr 24 morning UTC. Range today: $77,500-$78,500. Volatility cooling, derivatives momentum fading. BTC-USD near-perfect inverse correlation at 4-year extreme (dollar weakness supports BTC long-term).",
     "sentiment_key_signals": [
-      "Fear & Greed Index: 46 (Fear zone, cautious sentiment persisting)",
-      "BTC price range today: $77,500-$78,500 — tight compression, volatility cooled",
-      "Derivatives: negative funding rates signal many traders remain net-short/cautious",
-      "Spot BTC ETF: 5 consecutive days of inflows; $245M by mid-April; AUM growing",
+      "Fear & Greed Index: 12 (Extreme Fear) — deeply pessimistic retail sentiment, contrarian bullish signal",
+      "RSI: 65.26 — neutral, not overbought. 20 bullish vs 12 bearish technical indicators",
+      "BTC price range today: $77,500-$78,500 — tight compression, imminent volatility expansion risk",
+      "Long/short ratio: 50.68% — near-even split, market undecided on next direction",
+      "Derivatives: negative/cooling funding rates, cautious leverage, traders unwinding positions",
+      "Spot BTC ETF: 5 consecutive days of inflows; $245M by mid-April; $238M on Apr 21 alone",
       "Strategy (Saylor) bought 34,164 BTC ($2.54B) on Apr 20 — largest acquisition since late 2024",
+      "BTC-USD inverse correlation near 4-year extreme (Apr 24) — dollar weakness historically bullish for BTC",
       "Goldman Sachs filed for new Bitcoin ETF (regulatory tailwinds long-term bullish)",
       "Morgan Stanley filed for spot Bitcoin ETF in Jan 2026",
       "Altcoin season index: 39/100 — BTC dominance preferred over altcoins",
-      "KelpDAO $292M exploit hurt DeFi TVL (-$14B to 1-year low) — altcoin sentiment fragile",
-      "CPI Mar 2026: 3.3% YoY (up from 2.4% Feb) — elevated inflation, no rate cuts expected",
-      "CME monthly BTC+ETH options expiry today (Apr 24) — volatility risk event",
-      "Bitcoin Core v31.0 upgrade (Apr 2026) — redesigned mempool, Tor/I2P privacy"
+      "KelpDAO $292M exploit hurt DeFi TVL (-$14B to 1-year low) — altcoin sentiment fragile, BTC relatively unaffected",
+      "CPI Mar 2026: 3.3% YoY (up from 2.4% Feb) — elevated inflation, no rate cuts expected near-term",
+      "CME monthly BTC+ETH options expiry today (Apr 24 16:00 UTC) — key volatility event",
+      "Bitcoin Core v31.0 upgrade (Apr 2026) — redesigned mempool, mandatory Tor/I2P privacy"
     ],
-    "macro_backdrop": "Fed funds 3.50-3.75% (on hold). FOMC Apr 28-29 — 99.4% probability of hold (no cut/hike). CPI 3.3% limits dovish pivot. GDP Q1 advance + PCE due Apr 30. Geopolitical: Iran ceasefire extended (Trump), Hormuz risk reduced. Big Tech earnings (MSFT/Apple) clustered Apr 29-30 as risk sentiment driver.",
-    "technical_note": "BTC $78,200 — consolidating below $80K resistance. Tight range since midnight UTC suggests imminent volatility expansion (could be either direction). CME options expiry at 16:00 UTC today is the primary near-term catalyst. Confidence 0.45 — just below 0.50 bot threshold — macro filter INACTIVE this cycle.",
-    "regime_rationale": "Neutral: Institutional demand (ETF inflows, Saylor mega-buy, Goldman/Morgan Stanley filings) offset by Fear & Greed 46, negative funding rates, CPI 3.3% (no dovish pivot), CME expiry volatility risk today, and FOMC uncertainty Apr 28-29. BTC trading in narrow range — no clear directional conviction.",
+    "macro_backdrop": "Fed funds 3.50-3.75% (on hold). FOMC Apr 28-29 — ~99% probability of hold (no cut/hike). CPI 3.3% limits dovish pivot. GDP Q1 advance + PCE due Apr 30 — major risk event beyond 24h window. Kevin Warsh (Fed chair nominee) stressed Fed independence from Trump rate-cut pressure. Geopolitical: Iran/Hormuz tensions persist, oil prices elevated. Iran ceasefire stalling — risk-off pressure on macro assets. Big Tech earnings (MSFT/Apple) clustered Apr 29-30.",
+    "technical_note": "BTC $78,100 — consolidating below $80K resistance. Short-term forecast: $75,329-$79,755 range next 24h. 2-day forecast: +2.89% to ~$80,035. CME options expiry at 16:00 UTC today is primary near-term catalyst. Confidence 0.45 — below 0.50 bot threshold — macro filter INACTIVE this cycle.",
+    "regime_rationale": "Neutral: Institutional demand (ETF inflows, Saylor $2.54B buy, Goldman/Morgan Stanley filings, BTC-USD inverse at 4yr extreme) offset by Fear & Greed 12 (Extreme Fear), near-even long/short ratio, cooling derivatives momentum, CPI 3.3% (no dovish pivot), CME expiry volatility risk, FOMC uncertainty Apr 28-29. BTC trading in narrow range — no clear directional conviction despite structural bullish tailwinds.",
     "sources": [
       "coindesk.com (BTC stalls below $77,500, derivatives signal cooling momentum — Apr 24 2026)",
+      "coindesk.com (BTC-dollar near-perfect inverse opposition, 4-year extreme — Apr 24 2026)",
       "fortune.com (BTC price Apr 24 2026 — $78,126.15 at 9am ET)",
-      "yahoo.finance (BTC $78,278.66 open Apr 24 2026)",
-      "metamask.io (BTC price $78,254 Apr 24 2026)",
+      "yahoo.finance (BTC $78,278.66 open Apr 24; values up over last 5 days)",
+      "meyka.com (Crypto short-term forecast BTC Apr 24 2026: $75,329-$79,755 range)",
       "coindesk.com (crypto market strength led by BTC, altcoin sentiment fragile — Apr 21 2026)",
       "cryptobriefing.com (BTC spot ETF inflows $245M by mid-April 2026)",
       "lambdafin.com (Crypto Funding Rates and Open Interest: April 2026 Snapshot)",
-      "mexc.com (Fed Rate Hold Probability 94.8% for April 2026 FOMC)",
-      "gomarkets.com (Fed Watch April 2026: Oil, Inflation and FOMC Explained)",
-      "pymnts.com (Goldman Sachs seeks SEC approval for new Bitcoin ETF)"
+      "coindesk.com (BTC bounces above $76,000 as DeFi suffers $14B exodus after KelpDAO hack)",
+      "coindesk.com (Bitcoin slides toward $75,000 amid Warsh hearing — Apr 21 2026)",
+      "federalreserve.gov (FOMC meeting calendar — next meeting Apr 28-29 2026)"
     ]
   }
 }
