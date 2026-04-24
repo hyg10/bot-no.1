@@ -1,65 +1,67 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 78000,
+  "confidence": 0.40,
+  "btc_price_usd": 77736,
+  "fear_greed_index": 46,
   "key_events_next_24h": [
     {
-      "name": "US CPI March 2026 Release",
-      "time": "2026-04-24 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Minutes Release (March 18 decision)",
-      "time": "2026-04-24 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Iran-Hormuz Strait Tensions (Ongoing)",
+      "name": "Oil price surge / Strait of Hormuz geopolitical risk (ongoing)",
       "time": "2026-04-24 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting (Apr 28-29) — Pre-meeting Caution Window",
-      "time": "2026-04-28 18:00 UTC",
-      "impact": "high",
+      "name": "BTC Spot ETF daily inflow report (8 consecutive days positive, $2.1B total)",
+      "time": "2026-04-24 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "FOMC meeting pre-positioning window (meeting: Apr 28-29, hold expected at 3.50-3.75%)",
+      "time": "2026-04-25 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Big Tech earnings season (Tesla Q1 beat; MSFT/Apple on Apr 29-30) — risk sentiment driver",
+      "time": "2026-04-25 20:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수 46, CPI 발표 대기, 기관매수 지속, 중동리스크",
-  "updated": "2026-04-24 04:28:04 UTC",
-  "valid_until": "2026-04-24 08:28:04 UTC",
+  "notes": "ETF유입 강세나 $80K 돌파 실패, 지정학 리스크·공포지수46 중립",
+  "updated": "2026-04-24 08:05:53 UTC",
+  "valid_until": "2026-04-24 12:05:53 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$78,000 on Apr 24 (range $76K-$78.5K past 24h). Momentum stalling below $80K key resistance. Fear & Greed 46 (fear zone).",
+    "btc_price_note": "BTC ~$77,736 on Apr 24. Momentum stalled below $80K key resistance after failed breakout. Fear & Greed 46 (fear zone, 3rd consecutive session below 50).",
     "sentiment_key_signals": [
       "Fear & Greed Index: 46 (Fear zone, 3rd consecutive session below 50)",
       "BTC dominance 58.1% rising — capital rotating into BTC as defensive crypto asset",
-      "Spot BTC ETF: 5 consecutive days of inflows, $238M net on Apr 21; total AUM $96.5B",
-      "Strategy (Saylor) bought 34,164 BTC ($2.54B) on Apr 20 — largest since 2024",
-      "Goldman Sachs + Morgan Stanley filing new spot BTC ETFs — long-term bullish",
-      "US-Iran ceasefire extended indefinitely but talks stalled; Hormuz still at risk",
-      "KelpDAO $292M DeFi exploit — DeFi TVL -$14B, altcoin sentiment fragile",
-      "24h volume $107.16B below 30-day avg — low conviction in current move",
-      "CPI March 2026 release Apr 24 — first print to fully capture post-Hormuz energy spike",
-      "FOMC Apr 28-29 — J.P. Morgan expects hold at 3.50-3.75%; leadership transition risk",
-      "FOMC minutes for March 18 decision release Apr 24"
+      "Spot BTC ETF: 8 consecutive days of inflows totaling $2.1B; cumulative net inflows $58B; total AUM $102B",
+      "Strategy (Saylor) bought 34,164 BTC — largest acquisition since late 2024",
+      "Goldman Sachs seeks SEC approval for new Bitcoin ETF — long-term bullish",
+      "Bernstein maintains $150K year-end BTC target; describes recent drawdown as confidence shock, not structural",
+      "BTC rally powered mainly by perpetual futures, not spot buying — fragile momentum",
+      "Pentagon-backed inflation warning adds macro headwind to $80K breakout attempt",
+      "Oil prices surging on Strait of Hormuz risk — tightens financial conditions",
+      "24h volume $107.16B (~15-20% below March-April average) — low conviction compression",
+      "FOMC Apr 28-29: hold expected at 3.50-3.75%; GDP Q1 + PCE both release Apr 30",
+      "Big Tech: Tesla Q1 beat; Microsoft (Apr 29) and Apple earnings key risk sentiment events"
     ],
-    "macro_backdrop": "Fed funds 3.50-3.75% (on hold). March CPI due Apr 24 — energy-driven spike risk. FOMC Apr 28-29 — hold expected but Fed leadership transition adds uncertainty. GENIUS Act stablecoin law enacted. SEC shifted to non-enforcement approach for crypto.",
-    "technical_note": "BTC $78,000 — consolidating below $80K psychological resistance. Strong institutional demand (ETF inflows, Strategy mega-buy) vs. macro uncertainty (CPI, FOMC, geopolitics). Confidence 0.45 = below 0.50 bot threshold — macro filter INACTIVE this cycle.",
-    "regime_rationale": "Neutral: Institutional demand (ETF 5-day inflows, Strategy $2.54B, Goldman/Morgan Stanley ETF filings) and regulatory clarity offset by Fear & Greed 46, pending CPI (bearish risk if hot), Iran-Hormuz oil risk, DeFi exploit contagion fears, FOMC caution window.",
+    "macro_backdrop": "Fed funds 3.50-3.75% (on hold). No major macro releases in next 24h. FOMC Apr 28-29 (hold expected). GDP Q1 2026 advance estimate + PCE both due Apr 30. GDPNow Q1 estimate at 1.2%. Big Tech earnings clustered Apr 29-30. No CPI release until mid-May.",
+    "technical_note": "BTC $77,736 — consolidating below $80K psychological resistance. Low volume compression (statistically precedes expansion move within 3-5 sessions). Strong institutional demand (ETF inflows, Saylor mega-buy, Goldman filing) vs. macro uncertainty (FOMC, GDP, geopolitics). Confidence 0.40 = below 0.50 bot threshold — macro filter INACTIVE this cycle.",
+    "regime_rationale": "Neutral: Institutional demand (ETF 8-day inflows $2.1B, Saylor largest buy since 2024, Goldman ETF filing) and Bernstein $150K target offset by Fear & Greed 46, futures-driven (not spot) rally fragility, Pentagon inflation warning, Strait of Hormuz oil risk, and pre-FOMC caution window.",
     "sources": [
-      "coindesk.com (BTC bounces above $76K, DeFi suffers $14B exodus after KelpDAO hack — Apr 20)",
-      "coindesk.com (BTC slides toward $75K amid Warsh hearing, Iran talks — Apr 21)",
-      "coindesk.com (BTC tops $78K on ceasefire extension, Strategy $2.5B buy — Apr 22)",
-      "yahoo.finance (BTC/ETH prices Apr 23 2026 — strong open, traders cautious)",
       "fortune.com (BTC price Apr 23 2026 — $77,809.79)",
+      "yahoo.finance (BTC/ETH Apr 23 2026 — strong open, traders still cautious)",
+      "coindesk.com (BTC bullish momentum vs Pentagon inflation warning — Apr 23)",
+      "coindesk.com (BTC slips from $80K as oil price increase weighs on risk assets — Apr 23)",
       "blockchainmagazine.net (Crypto Market Apr 23 — BTC holds $77K, alts -2-3%)",
-      "webopedia.com (7 pending crypto ETF SEC decisions 2026)",
-      "pymnts.com (Goldman Sachs seeks SEC approval for Bitcoin ETF)",
+      "manilatimes.net (Crypto news Apr 24 — Bernstein $150K target, ETF inflows)",
+      "pymnts.com (Goldman Sachs seeks SEC approval for new Bitcoin ETF)",
       "federalreserve.gov (FOMC meeting calendar — Apr 28-29 meeting)",
-      "datasetiq.com (Economic calendar 2026 — CPI Apr 24 release)"
+      "bea.gov (GDP Q1 advance estimate release: Apr 30)",
+      "blog.kraken.com (FOMC, GDP, PCE, Big Tech earnings — next 2 weeks, Apr 22 2026)"
     ]
   }
 }
