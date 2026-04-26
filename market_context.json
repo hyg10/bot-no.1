@@ -1,53 +1,52 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 77791,
+  "confidence": 0.52,
+  "current_price_usd": 77430,
   "key_events_next_24h": [
     {
       "name": "Spot BTC ETF Daily Flow Report (US market open)",
       "time": "2026-04-27 13:30 UTC",
       "impact": "medium",
       "expected_direction": "bullish",
-      "note": "BlackRock IBIT leading inflows; Goldman Sachs new BTC ETF filing pending SEC review — structural demand ongoing"
+      "note": "BlackRock IBIT + Goldman Sachs ETF filing pending; structural institutional demand ongoing"
     },
     {
       "name": "FOMC Meeting Day 1 begins (rate decision Apr 29)",
-      "time": "2026-04-28 00:00 UTC",
+      "time": "2026-04-28 14:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral",
-      "note": "Pre-event compression already active; rate hold at 3.50-3.75% widely expected; hawkish tone risk if Warsh stresses Fed independence"
+      "expected_direction": "bearish",
+      "note": "Rate hold at 3.50-3.75% expected; hawkish tone risk — Warsh stressed Fed independence from Trump rate-cut demands"
     }
   ],
-  "notes": "BTC 77.8K 횡보, FOMC 이틀 앞 관망, 공탐지수 46 공포권",
-  "updated": "2026-04-26 00:04:51 UTC",
-  "valid_until": "2026-04-26 04:04:51 UTC",
+  "notes": "BTC $77K 보합, 공포지수 46, FOMC 이틀 앞 관망세",
+  "updated": "2026-04-26 04:20:30 UTC",
+  "valid_until": "2026-04-26 08:20:30 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,791 as of Apr 25 06:17 EDT. Apr 24 intraday high $78,126. Monthly gain +13% (best month in 1yr). Key resistance $78.5K-$80.7K (rejected twice). Support $77,005 / $75,831.",
+    "btc_price_note": "BTC ~$77,430 as of Apr 26 04:20 UTC. Apr 24 intraday high $78,126. 5-day gain +5.81%. Key resistance $78.5K-$80.7K. Support $77,005 / $75,831.",
     "sentiment_key_signals": [
-      "Fear & Greed Index: 46 — mild fear zone; market posture defensive consolidation",
-      "BTC dominance 60.14% — capital rotating into BTC as defensive crypto asset vs altcoin weakness",
+      "Fear & Greed Index: 46 — mild fear zone; defensive consolidation posture",
+      "BTC dominance 58.1% and rising — capital rotating to BTC as defensive crypto asset vs altcoin weakness",
       "Strategy bought 34,164 BTC for $2.54B (Apr week) — largest institutional buy since 2024",
-      "Goldman Sachs filed SEC registration for new Bitcoin ETF — institutional pipeline building",
-      "KelpDAO $292M exploit — DeFi TVL -$14B to 1yr low; altcoins -2-3%; BTC isolated from DeFi risk",
-      "Short squeeze pressure supporting price but trend unconfirmed (RSI neutral ~62)",
-      "Volume $107B/day — 15-20% below Mar-Apr avg; compression pattern, expansion expected in 3-5 sessions",
-      "FOMC Apr 28-29 — pre-event vol suppression; Fed Warsh stressed independence from Trump rate-cut demands",
-      "Iran ceasefire extended by Trump — geopolitical tail risk temporarily reduced",
-      "No major US macro data releases in next 24h; GDP Q1 + PCE due Apr 30"
+      "Goldman Sachs filed SEC registration for new Bitcoin ETF — structural institutional pipeline building",
+      "KelpDAO $292M exploit — DeFi TVL -$14B to 1yr low; altcoins -2-3%; BTC isolated from DeFi contagion",
+      "Bitcoin short squeeze supports price but trend unconfirmed (RSI ~62 neutral)",
+      "Volume $107B/day — below average; price action without full conviction",
+      "FOMC Apr 28-29: pre-event vol suppression begins; Warsh hawkish tone = rate cut expectations fading",
+      "Iran ceasefire extended by Trump — geopolitical tail risk temporarily reduced, oil off highs",
+      "No major US macro data in next 24h; GDP Q1 + Core PCE due Apr 30"
     ],
-    "macro_backdrop": "No CPI/PPI/NFP in next 24h. FOMC Apr 28-29 is the dominant near-term risk — rate hold expected at 3.50-3.75% but hawkish tone risk. GDP Q1 advance + Core PCE due Apr 30 (4 days). Iran ceasefire extended — oil prices off highs, risk assets stabilizing. Goldman Sachs BTC ETF filing is new bullish structural catalyst.",
-    "regime_rationale": "Neutral (0.45): BTC holding $77K-$78K with mixed signals — institutional buying (Strategy $2.54B) and ETF inflows are bullish, but Fear & Greed at 46 (fear), below-average volume, short squeeze without confirmed trend, and 2-day FOMC countdown all suppress directional conviction. Confidence 0.45 — below 0.50 threshold so macro filter is INACTIVE (bot trades on own technical signals). No clear catalyst to break $78.5K resistance in next 24h.",
+    "macro_backdrop": "No CPI/PPI/NFP in next 24h window. FOMC Apr 28-29 is dominant near-term risk — rate hold at 3.50-3.75% expected but hawkish rhetoric risk from Warsh. GDP Q1 advance + Core PCE due Apr 30 (4 days). Iran ceasefire extended — geopolitical risk reduced. Goldman Sachs BTC ETF filing adds bullish structural backdrop.",
+    "regime_rationale": "Neutral (0.52): BTC holding $77K-$78K with mixed signals. Bullish: Strategy $2.54B buy, Iran ceasefire extension, 5-day +5.81% recovery, Goldman ETF filing. Bearish: Fear&Greed at 46 (fear zone), below-average volume, short squeeze without confirmed trend, FOMC countdown with hawkish Warsh risk. Confidence 0.52 >= 0.50 threshold — macro filter ACTIVE. Regime=neutral means bot should treat cautiously but not halt entirely.",
     "sources": [
       "coindesk.com — BTC bounces above $76K, DeFi $14B exodus after KelpDAO hack (Apr 20 2026)",
-      "coindesk.com — BTC slides toward $75K amid Warsh hearing, Iran uncertainty (Apr 21 2026)",
-      "yahoo finance — BTC $78,126 Apr 24 2026; values up over last 5 days",
-      "yahoo finance — BTC $77,791 as of Apr 25 06:17 EDT 2026",
-      "coincodex.com — Daily market update Apr 25: BTC -0.57%, market cap $2.58T, vol $107B",
+      "coindesk.com — BTC slides toward $75K amid Warsh hearing (Apr 21 2026)",
+      "yahoo finance — BTC $78,126 Apr 24 2026; values up 5.81% over 5 days",
+      "coincodex.com — Daily market update Apr 25: BTC -0.57%, market cap $2.58T",
       "blockchainmagazine.net — Crypto market Apr 23: BTC holds $77K, altcoins -2-3%",
       "investing.com — Bitcoin short squeeze supports price but trend remains unconfirmed",
       "pymnts.com — Goldman Sachs files SEC registration for new Bitcoin ETF (Apr 2026)",
-      "zforex.com / youngplatform.com — FOMC meeting calendar: Apr 28-29 2026",
-      "bls.gov / bea.gov — CPI next May 12; PCE/GDP due Apr 30 2026"
+      "federalreserve.gov — FOMC meeting calendar: Apr 28-29 2026",
+      "tradingview.com / coinmarketcap.com — BTC $77,430-77,558 live price Apr 26 2026"
     ]
   }
 }
