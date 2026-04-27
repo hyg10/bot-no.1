@@ -1,60 +1,67 @@
 {
-  "regime": "neutral",
-  "confidence": 0.47,
-  "current_price_usd": 77558,
+  "regime": "bullish",
+  "confidence": 0.65,
+  "current_price_usd": 78900,
   "key_events_next_24h": [
     {
       "name": "FOMC Meeting Day 1 begins (rate decision Apr 29)",
       "time": "2026-04-28 14:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Rate hold at 3.50-3.75% expected; hawkish tone risk from Warsh stressing Fed independence from Trump rate-cut demands"
+      "expected_direction": "neutral",
+      "note": "Rate hold at 3.50-3.75% expected (99.9% Polymarket, 85% CME FedWatch); hawkish tone risk muted vs prior week"
     },
     {
       "name": "Spot BTC ETF Daily Flow Report (US market open)",
       "time": "2026-04-27 13:30 UTC",
       "impact": "medium",
       "expected_direction": "bullish",
-      "note": "Goldman Sachs ETF filing + Morgan Stanley BTC ETF filed; steady institutional inflows ongoing"
+      "note": "6 consecutive days of positive net ETF inflows; Goldman Sachs + Morgan Stanley BTC ETF filings add structural bid"
     },
     {
-      "name": "Iran Geopolitical Ceasefire Watch (ongoing)",
-      "time": "2026-04-26 08:00 UTC",
+      "name": "SEC CLARITY Act Crypto Roundtable",
+      "time": "2026-04-28 15:00 UTC",
       "impact": "medium",
+      "expected_direction": "bullish",
+      "note": "SEC-CFTC jurisdiction clarity legislation; shortened ETF approval timeline from 240 to 75 days already in effect"
+    },
+    {
+      "name": "Iran Geopolitical Watch (ongoing)",
+      "time": "2026-04-27 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral",
-      "note": "Trump extended ceasefire but peace talk uncertainty remains; oil volatility could spill into risk assets"
+      "note": "Hormuz re-opening confirmed; oil risk reduced; White House evacuation Apr 26 caused brief BTC spike +$1K"
     }
   ],
-  "notes": "BTC $7.76만 보합, 숏스퀴즈 지지, FOMC 앞 관망세",
-  "updated": "2026-04-26 08:10:59 UTC",
-  "valid_until": "2026-04-26 12:10:59 UTC",
+  "notes": "BTC $79K 상승, ETF 6일 연속 순유입, $80K 저항 테스트, FOMC 동결 예상",
+  "updated": "2026-04-27 12:30:00 UTC",
+  "valid_until": "2026-04-27 16:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,558 as of Apr 26 08:10 UTC (+0.33% in 24h). Range $77,500-$78,000. Key resistance $80,000 unconfirmed. Support $77,000 / $75,831.",
+    "btc_price_note": "BTC ~$78,900 as of Apr 27 ~12:30 UTC (+2.04% in 24h). Range $77,595-$79,400. Approaching $80,000 psychological resistance. Support $77,500 / $75,900.",
     "sentiment_key_signals": [
-      "Fear & Greed Index: at 3-month high (highest since mid-January 2026) — driven by short squeeze + ETF inflows",
-      "Short squeeze supporting price but trend unconfirmed per investing.com — RSI neutral zone",
-      "Goldman Sachs filed SEC registration for new Bitcoin ETF (after acquiring Innovator Capital Management Apr 2)",
-      "Morgan Stanley also filed for spot BTC ETF — major bank institutional embrace ongoing",
-      "Strategy bought 34,164 BTC for $2.54B (Apr week) — largest institutional buy since 2024",
-      "KelpDAO $292M DeFi exploit caused DeFi TVL -$14B; altcoin sentiment fragile; BTC isolated",
-      "ETF inflows steady; capital concentrating in BTC large-cap vs altcoin lag",
-      "FOMC Apr 28-29 (2 days): Warsh hawkish tone = rate cut expectations fading = mild headwind",
-      "Iran ceasefire extended by Trump — geopolitical tail risk temporarily reduced",
-      "Volume below average — price action lacking full conviction; pre-FOMC vol suppression"
+      "Fear & Greed Index: 47 (Neutral) — recovering sharply from 33 (Fear) yesterday and 29 last week",
+      "Total crypto market cap $2.71T, +1.7% in 24h; BTC dominance 58.2%",
+      "6 consecutive days of positive net BTC spot ETF inflows — hundreds of millions USD fresh capital",
+      "BTC +2.04% in 24h; trading volume $24.7B; clear upward momentum from Apr lows ($75K)",
+      "Goldman Sachs Bitcoin ETF SEC filing active (acquired Innovator Capital Management Apr 2)",
+      "Morgan Stanley filed for spot BTC ETF — major institutional structural demand",
+      "Institutional accumulation ongoing; BTC approaching $80K resistance not yet broken",
+      "FOMC Apr 28-29: 99.9% probability of rate hold (3.50-3.75%) per Polymarket — muted headwind",
+      "Mar 2026 CPI 3.3% YoY (hot) + NFP 178K (strong) — no near-term cut pressure on risk assets",
+      "Iran Hormuz fully re-opened; geopolitical tail risk reduced"
     ],
-    "macro_backdrop": "No CPI/PPI/NFP in next 24h. FOMC Apr 28-29 is dominant near-term risk (2 days away) — rate hold at 3.50-3.75% expected but hawkish Warsh rhetoric risk. GDP Q1 advance + Core PCE due Apr 30 (4 days). Iran ceasefire extended — geopolitical risk reduced. Goldman Sachs + Morgan Stanley BTC ETF filings add bullish structural backdrop.",
-    "regime_rationale": "Neutral (0.47): BTC consolidating $77K-$78K with mixed signals. Bullish: 3-month high sentiment index, steady ETF inflows, institutional accumulation (Strategy $2.54B), Goldman/Morgan Stanley ETF filings, Iran ceasefire. Bearish: Short squeeze (not organic buying), trend unconfirmed at $80K resistance, FOMC countdown with hawkish Warsh risk, altcoin sentiment fragile, below-avg volume. Confidence 0.47 < 0.50 threshold — macro filter INACTIVE this cycle. Regime=neutral.",
+    "macro_backdrop": "No CPI/PPI/NFP in next 24h. FOMC Apr 28-29 (day 1 tomorrow) — rate hold near-certain, muted impact expected. No PCE/GDP until Apr 30. ETF flow data mid-session key catalyst. Geopolitical risk reduced vs prior week. Regulatory clarity improving (SEC CLARITY Act roundtable Apr 28).",
+    "regime_rationale": "Bullish (0.65): BTC rallied from $75K low to $79K over 6 days, +2% in 24h, approaching $80K. Fear & Greed recovering from Fear to Neutral. ETF inflows 6 consecutive days. Institutional (Goldman, Morgan Stanley) ETF filings add structural demand. FOMC hold near-certain — no rate shock risk this cycle. Confidence 0.65 >= 0.50 threshold — macro filter ACTIVE. Regime=bullish. Risk: $80K resistance may reject, FOMC hawkish tone possible.",
     "sources": [
-      "coindesk.com — BTC bounces above $76K, DeFi $14B exodus after KelpDAO hack (Apr 20 2026)",
-      "coindesk.com — BTC slides toward $75K amid Warsh hearing, Iran talks uncertainty (Apr 21 2026)",
+      "latestly.com — Bitcoin Price Today Apr 27 2026: BTC approaches $80K amid strong ETF inflows",
+      "coingabbar.com — Crypto market hits $2.71T, BTC +2.04% Apr 27 2026",
       "coindesk.com — Crypto market strength led by bitcoin, altcoin sentiment fragile (Apr 21 2026)",
-      "investing.com — Bitcoin short squeeze supports price but trend remains unconfirmed (Apr 26 2026)",
-      "pymnts.com — Goldman Sachs seeks SEC approval for new Bitcoin ETF (Apr 2026)",
-      "bitcoinmagazine.com — Morgan Stanley files with SEC for spot Bitcoin ETF (Apr 2026)",
-      "tradingview.com — BTC $77,558 live price Apr 26 2026 (+0.33% 24h)",
-      "coindesk.com (fortune.com) — BTC $77,791 Apr 25 2026",
-      "calendarx.com — FOMC meeting April 28-29 2026",
-      "bea.gov (via kraken blog) — US Q1 GDP advance estimate scheduled Apr 30 2026"
+      "fortune.com — Bitcoin price Apr 17/20/21/23 2026 tracking",
+      "polymarket.com — Fed decision April 2026: 99.9% probability no change",
+      "cmegroup.com — FedWatch: ~85% probability rate hold Apr 28-29",
+      "datasetiq.com — FOMC meeting scheduled April 28-29 2026",
+      "pymnts.com — Goldman Sachs seeks SEC approval for new Bitcoin ETF (acquired Innovator Apr 2)",
+      "bitcoinmagazine.com — Morgan Stanley files with SEC for spot Bitcoin ETF",
+      "webopedia.com — 7 Pending Crypto ETF decisions: SEC CLARITY Act roundtable"
     ]
   }
 }
