@@ -40,10 +40,10 @@
     }
   ],
   "notes": "FOMC 결정 대기(4/29), ETF 9일 연속 유입, BTC $77K 횡보 중립",
-  "updated": "2026-04-28 12:00:00 UTC",
-  "valid_until": "2026-04-28 16:00:00 UTC",
+  "updated": "2026-04-28 21:00:00 UTC",
+  "valid_until": "2026-04-29 01:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,200 as of Apr 28 12:00 UTC (range $76,978-$78,670 on Apr 27). Down ~2% from morning highs. $80K resistance unbroken — heavy sell wall capping the rally. Support ~$75,000 (100-day MA). BTC +14% in April 2026.",
+    "btc_price_note": "BTC ~$77,200 as of Apr 28 21:00 UTC (range $76,870-$77,875 across sources Apr 28). $80K resistance unbroken — heavy sell wall capping the rally. Support ~$75,000 (100-day MA). BTC +14% in April 2026.",
     "sentiment_key_signals": [
       "Fear & Greed Index: 47 (Neutral) — recovered from 33 (Fear) yesterday and 29 last week",
       "Crypto market cap $2.71T, +1.7% in last 24h",
