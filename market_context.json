@@ -1,56 +1,66 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "current_price_usd": 77900,
+  "current_price_usd": 77000,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting Day 1 begins (rate decision Apr 29 2PM ET)",
-      "time": "2026-04-28 14:00 UTC",
+      "name": "FOMC Rate Decision (meeting day 2, announcement)",
+      "time": "2026-04-29 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral",
-      "note": "Rate hold 3.50-3.75% near-certain (99.9% Polymarket). Hawkish tone risk from Powell remains."
+      "note": "Rate hold 3.50-3.75% near-certain. Hawkish tone risk from Powell press conference at 18:30 UTC."
+    },
+    {
+      "name": "Fed Chair Powell Press Conference",
+      "time": "2026-04-29 18:30 UTC",
+      "impact": "high",
+      "expected_direction": "bullish",
+      "note": "If Powell signals future cuts or dovish pivot, bullish for BTC. Hawkish tone = bearish risk."
     },
     {
       "name": "Spot BTC ETF Daily Flow Report (US market open)",
       "time": "2026-04-28 13:30 UTC",
       "impact": "medium",
       "expected_direction": "bullish",
-      "note": "$2.44B ETF inflows in April (best month since Oct 2025); consecutive positive days continue."
+      "note": "9 consecutive days of positive inflows. $2.44B in April — best month since Oct 2025."
     },
     {
       "name": "US-Iran Peace Talks (ongoing geopolitical watch)",
-      "time": "2026-04-27 20:00 UTC",
+      "time": "2026-04-28 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Iran sent new proposal to Washington; Hormuz still under partial blockade, resolution not imminent."
+      "note": "Iran sent new proposal to Washington; Hormuz still partially blocked. No resolution imminent."
     }
   ],
-  "notes": "FOMC 대기 관망세, $80K 저항 돌파 실패, 공포탐욕 47 중립",
-  "updated": "2026-04-27 17:30:00 UTC",
-  "valid_until": "2026-04-27 21:30:00 UTC",
+  "notes": "FOMC 금리결정 대기, ETF 9일 연속 유입, BTC $77K 지지 중",
+  "updated": "2026-04-28 00:15:18 UTC",
+  "valid_until": "2026-04-28 04:15:18 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,900 as of Apr 27 ~17:30 UTC (range $76,800-$79,032 today). Hit wall at $80,000 — concentrated sell orders capped gains. Support $77,500 / $75,900.",
+    "btc_price_note": "BTC ~$77,000 as of Apr 28 00:15 UTC (range $76,870-$77,875 on Apr 28). Down ~2% from yesterday's $77,900. $80K resistance unbroken — heavy sell wall capping the rally. Support $75,000 (100-day MA).",
     "sentiment_key_signals": [
       "Fear & Greed Index: 47 (Neutral) — improved from 33 (Fear) yesterday and 29 last week",
-      "Crypto market cap $2.71T, +1.7% led by BTC and ETH",
-      "BTC dominance 58.2% — strong relative strength vs altcoins",
-      "$80,000 psychological resistance NOT broken — sell wall capped rally",
-      "$2.44B spot BTC ETF inflows this month (best since Oct 2025 all-time highs)",
-      "Short squeeze supports price but trend remains unconfirmed per Investing.com",
-      "FOMC Apr 28-29: rate hold near-certain but hawkish Powell tone is key risk",
-      "Iran peace proposal sent to Washington; Hormuz reopening still uncertain",
-      "No CPI/PPI releases in next 24h (CPI next release May 12, PPI May 13)"
+      "Crypto market cap $2.71T, +1.7% in last 24h",
+      "BTC up +13.71% in April 2026 — best April since 2020",
+      "9 consecutive days of positive BTC spot ETF inflows",
+      "KelpDAO exploit: $292M stolen, $14B DeFi TVL exodus — altcoins hit harder than BTC",
+      "Trump proposal to expand US government BTC holdings — bullish long-term signal",
+      "RSI 62.63 (neutral-bullish); 21 bullish vs 11 bearish technical indicators",
+      "FOMC Apr 28-29: rate hold near-certain (3.50-3.75%); Powell tone is key risk",
+      "Iran peace proposal sent; Hormuz reopening still uncertain",
+      "No CPI/PPI releases in next 24h (CPI Apr release: May 12)"
     ],
-    "macro_backdrop": "FOMC Day 1 starts Apr 28; rate decision Apr 29 18:00 UTC. Rate hold ~100% priced. Biggest risk = hawkish Powell tone. ETF inflows positive but $80K resistance unbroken. F&G recovered to Neutral (47) suggesting stabilizing sentiment. No CPI/PPI in 24h window. Geopolitical: Iran-Hormuz remains uncertain variable.",
-    "regime_rationale": "Neutral (0.45): Market shows improving sentiment (F&G 47 vs 31 yesterday) and strong ETF inflows, but $80K resistance is a clear ceiling. FOMC beginning tomorrow creates pre-event uncertainty. Confidence below 0.50 — bot macro filter INACTIVE for this cycle. Bullish signals: ETF inflows record pace, F&G recovering, institutional buying. Bearish/caution signals: $80K wall, unconfirmed trend, FOMC overhang, Iran geopolitical risk.",
+    "macro_backdrop": "FOMC Day 2 Apr 29 brings rate decision at 18:00 UTC — hold near-certain but market awaits Powell tone. ETF inflows strongest in months but $80K is a firm resistance. BTC showed resilience vs DeFi exploit impact. F&G recovered to Neutral (47). Confidence kept at 0.45 — macro filter INACTIVE (requires >= 0.50).",
+    "regime_rationale": "Neutral (0.45): Strong monthly gain (+13.7%) and record ETF inflows are bullish, but FOMC overhang creates pre-event uncertainty. $80K resistance unbroken. KelpDAO exploit rattled DeFi sentiment. Iran geopolitical risk unresolved. Mixed signals = neutral regime, confidence just below threshold.",
     "sources": [
       "latestly.com — Bitcoin Price Today Apr 27 2026: BTC approaches $80K amid strong ETF inflows",
       "yahoo finance — Bitcoin and ethereum price today Apr 27 2026: prices hold ahead of peace talks and Fed meeting",
-      "coindesk.com — BTC price hits wall at $80,000, analyst says pullback is temporary (Apr 27)",
+      "fool.com — Crypto Markets Today Apr 27: Bitcoin slips below $77K as rally falters",
+      "coindesk.com — BTC bounces above $76K as DeFi suffers $14B exodus after KelpDAO hack (Apr 20)",
       "coingabbar.com — Crypto Market hits $2.71T as Bitcoin and Ethereum lead gains (Apr 27)",
-      "investing.com — Bitcoin short squeeze supports price but trend remains unconfirmed (Apr 27)",
-      "calendarx.com / kiplinger.com — FOMC Meeting April 28-29 2026; rate hold 99.9% probability",
-      "bls.gov — CPI Apr release May 12; PPI Apr release May 13"
+      "calendarx.com — FOMC Meeting April 28-29 2026",
+      "federalreserve.gov — FOMC Minutes March 2026: rate held at 3.50-3.75%",
+      "bls.gov — CPI Apr release May 12; March CPI +3.3% YoY",
+      "intellectia.ai — Bitcoin Price Analysis April 2026: RSI 62.63, 21 bullish / 11 bearish signals"
     ]
   }
 }
