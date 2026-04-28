@@ -1,75 +1,66 @@
 {
   "regime": "neutral",
-  "confidence": 0.50,
-  "current_price_usd": 77200,
+  "confidence": 0.45,
+  "current_price_usd": 76500,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (meeting day 2, announcement)",
+      "name": "FOMC Rate Decision (Powell Final Meeting, Day 2)",
       "time": "2026-04-29 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral",
-      "note": "Rate hold 3.50-3.75% near-certain. Hawkish Powell tone = bearish risk; dovish pivot signal = bullish."
+      "note": "Rate hold 3.50-3.75% near-certain (CME FedWatch 100%). Pre-event uncertainty causing BTC selloff today (-1.6%). Powell tone at presser is key risk."
     },
     {
       "name": "Fed Chair Powell Press Conference",
       "time": "2026-04-29 18:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral",
-      "note": "Market watching for any hint of future cuts. Forward guidance tone is the key catalyst for BTC direction."
+      "expected_direction": "bearish",
+      "note": "Powell's likely final meeting adds uncertainty on forward guidance. Hawkish tone risk elevated given oil at $104+."
     },
     {
-      "name": "Spot BTC ETF Daily Flow Report (US market open)",
-      "time": "2026-04-28 13:30 UTC",
+      "name": "Spot BTC ETF Daily Flow Report",
+      "time": "2026-04-29 13:30 UTC",
       "impact": "medium",
       "expected_direction": "bullish",
-      "note": "9 consecutive days of positive inflows. Ongoing institutional accumulation supports BTC floor."
-    },
-    {
-      "name": "SEC NYSE Arca Crypto ETF Listing Rule Change (published Apr 27)",
-      "time": "2026-04-28 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "bullish",
-      "note": "Proposed rule could shorten crypto ETF approval timelines from 240 to 75 days. Structurally bullish."
+      "note": "BlackRock IBIT leading inflows ~$246M/day recently. 9+ consecutive days positive. Institutional demand provides BTC floor."
     },
     {
       "name": "US-Iran Peace Talks / Hormuz Watch",
       "time": "2026-04-28 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Iran sent new proposal to Washington; naval blockade ongoing, Hormuz still partially restricted. No resolution imminent."
+      "note": "Hormuz still restricted, Brent crude above $104. No resolution imminent. Inflation risk dampens Fed dovish pivot expectations."
     }
   ],
-  "notes": "FOMC 결정 대기(4/29), ETF 9일 연속 유입, BTC $77K 횡보 중립",
-  "updated": "2026-04-28 21:00:00 UTC",
-  "valid_until": "2026-04-29 01:00:00 UTC",
+  "notes": "FOMC 금리 동결 예상, 파월 마지막 회의. BTC $76K 하락 중",
+  "updated": "2026-04-28 16:09:24 UTC",
+  "valid_until": "2026-04-28 20:09:24 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,200 as of Apr 28 21:00 UTC (range $76,870-$77,875 across sources Apr 28). $80K resistance unbroken — heavy sell wall capping the rally. Support ~$75,000 (100-day MA). BTC +14% in April 2026.",
+    "btc_price_note": "BTC ~$76,500 as of Apr 28 16:09 UTC. Opened at $77,368 today, fell -1.6% from Monday open ($78,661). Range today: $76,290-$77,368. $80K resistance intact; support ~$75,000 (100-day MA).",
     "sentiment_key_signals": [
       "Fear & Greed Index: 47 (Neutral) — recovered from 33 (Fear) yesterday and 29 last week",
-      "Crypto market cap $2.71T, +1.7% in last 24h",
-      "BTC up ~14% in April 2026 (best April performance in years)",
-      "9 consecutive days of positive BTC spot ETF inflows",
-      "Strategy (MicroStrategy) bought $2.54B BTC (34,164 BTC) — largest buy since 2024",
-      "Goldman Sachs filed SEC registration for Bitcoin Premium Income ETF (Apr 15)",
+      "BTC down -1.6% today ahead of FOMC meeting (Apr 28-29)",
+      "Technical indicators: 19 bearish vs 9 bullish signals (short-term bias bearish)",
+      "RSI ~65 (neutral-to-overbought range)",
+      "Strategy (MicroStrategy) bought $2.54B BTC (34,164 BTC) — largest buy in 17 months",
+      "BlackRock IBIT: ~$246M inflows on Apr 22; 9+ consecutive days positive ETF flows",
       "KelpDAO exploit: $292M stolen, $14B DeFi TVL exodus — altcoins hit harder than BTC",
-      "Trump proposal to expand US government BTC holdings — bullish long-term structural signal",
-      "FOMC Apr 28-29 meeting: rate hold 3.50-3.75% near-certain; Powell tone is key risk event",
-      "Iran peace proposal sent to Washington; Hormuz partially restricted, no resolution imminent",
+      "Brent crude >$104/barrel — elevated inflation concern for Fed",
+      "FOMC Apr 28-29: rate hold 3.50-3.75% near-certain; Powell press conference is key risk",
       "No CPI/PPI releases in next 24h (CPI Apr release: May 12; PPI Apr release: May 13)"
     ],
-    "macro_backdrop": "FOMC Day 1 Apr 28, decision Apr 29 at 18:00 UTC. Rate hold near-certain but market awaits Powell press conference for forward guidance tone. ETF inflows remain strong (9 consecutive days). BTC holding $77K support but $80K resistance intact. F&G recovered to Neutral (47), up sharply from 33 yesterday. Confidence at 0.50 — macro filter ACTIVE (requires >= 0.50).",
-    "regime_rationale": "Neutral (0.50): Monthly gain (+14%) and sustained ETF inflows are bullish structural signals. However, FOMC decision tomorrow creates pre-event volatility uncertainty. BTC slipped 1.6% on Apr 27 despite positive daily market cap. $80K resistance unbroken. KelpDAO DeFi exploit adds risk-off undertone for altcoins. Mixed signals justify neutral regime; confidence at 0.50 threshold based on F&G recovery and continued ETF demand.",
+    "macro_backdrop": "FOMC Day 1 Apr 28 (now), decision Apr 29 at 18:00 UTC. Rate hold near-certain but pre-event uncertainty pushing BTC lower today. Powell press conference (18:30 UTC Apr 29) is the key catalyst — tone on forward guidance and transition to new chair adds uncertainty. Oil at $104+ reduces likelihood of dovish signal. ETF inflows remain positive structural support.",
+    "regime_rationale": "Neutral (0.45): FOMC pre-event volatility, -1.6% BTC decline today, 19 vs 9 bearish technical indicators, and elevated oil prices all lean bearish short-term. Offset by Strategy $2.54B purchase, 9+ days of ETF inflows, and F&G recovering from Fear to Neutral. Confidence below 0.50 threshold — macro filter INACTIVE. Mixed signals do not support a directional trade.",
     "sources": [
-      "yahoo finance — Bitcoin and ethereum price today Apr 27 2026: prices hold ahead of peace talks and Fed meeting",
+      "yahoo finance — Bitcoin and ethereum prices today Apr 28 2026: values falling ahead of Fed meeting",
+      "fortune.com — Current price of Bitcoin Apr 28 2026 ($76,342)",
+      "capital.com — Bitcoin price forecast Apr 28 2026 (technical analysis)",
       "fool.com — Crypto Markets Today Apr 27: Bitcoin slips below $77K as rally falters",
-      "coingabbar.com — Crypto Market hits $2.71T as Bitcoin and Ethereum lead gains (Apr 27)",
-      "coindesk.com — BTC bounces above $76K as DeFi suffers $14B exodus after KelpDAO hack (Apr 20)",
-      "fortune.com — Current price of Bitcoin Apr 27 2026",
-      "metamask.io/price/bitcoin — BTC price $77,875 (latest)",
-      "milkroad.com — Crypto Fear & Greed Index: 47 (Neutral)",
-      "federalreserve.gov — FOMC Meeting April 28-29 2026",
-      "bls.gov — CPI Apr release May 12; PPI Apr release May 13",
-      "kiplinger.com — April Fed meeting live updates Apr 28 2026"
+      "coingabbar.com — Crypto Market hits $2.71T as Bitcoin and Ethereum lead gains",
+      "coindesk.com — BTC bounces above $76K as DeFi suffers $14B exodus after KelpDAO hack",
+      "kiplinger.com — April Fed meeting live updates: decision Apr 29 at 2pm ET",
+      "cbsnews.com — Fed rate decision April 2026 / Powell final meeting",
+      "financemagnates.com — Why Is Crypto Going Up? BTC tops $77K on peace"
     ]
   }
 }
