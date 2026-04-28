@@ -40,15 +40,16 @@
     }
   ],
   "notes": "FOMC 결정 대기(4/29), ETF 9일 연속 유입, BTC $77K 횡보 중립",
-  "updated": "2026-04-28 05:30:00 UTC",
-  "valid_until": "2026-04-28 09:30:00 UTC",
+  "updated": "2026-04-28 12:00:00 UTC",
+  "valid_until": "2026-04-28 16:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,200 as of Apr 28 05:30 UTC (range $76,978-$78,670 on Apr 27). Down ~2% from morning highs. $80K resistance unbroken — heavy sell wall capping the rally. Support ~$75,000 (100-day MA). BTC +14% in April 2026.",
+    "btc_price_note": "BTC ~$77,200 as of Apr 28 12:00 UTC (range $76,978-$78,670 on Apr 27). Down ~2% from morning highs. $80K resistance unbroken — heavy sell wall capping the rally. Support ~$75,000 (100-day MA). BTC +14% in April 2026.",
     "sentiment_key_signals": [
       "Fear & Greed Index: 47 (Neutral) — recovered from 33 (Fear) yesterday and 29 last week",
       "Crypto market cap $2.71T, +1.7% in last 24h",
       "BTC up ~14% in April 2026 (best April performance in years)",
       "9 consecutive days of positive BTC spot ETF inflows",
+      "Strategy (MicroStrategy) bought $2.54B BTC (34,164 BTC) — largest buy since 2024",
       "Goldman Sachs filed SEC registration for Bitcoin Premium Income ETF (Apr 15)",
       "KelpDAO exploit: $292M stolen, $14B DeFi TVL exodus — altcoins hit harder than BTC",
       "Trump proposal to expand US government BTC holdings — bullish long-term structural signal",
@@ -56,8 +57,8 @@
       "Iran peace proposal sent to Washington; Hormuz partially restricted, no resolution imminent",
       "No CPI/PPI releases in next 24h (CPI Apr release: May 12; PPI Apr release: May 13)"
     ],
-    "macro_backdrop": "FOMC Day 1 Apr 28, decision Apr 29 at 18:00 UTC. Rate hold near-certain but market awaits Powell press conference for forward guidance tone. ETF inflows remain strong (9 consecutive days). BTC holding $77K support but $80K resistance intact. F&G recovered to Neutral (47), up sharply from 33 yesterday. Confidence raised to 0.50 — macro filter now ACTIVE (requires >= 0.50).",
-    "regime_rationale": "Neutral (0.50): Monthly gain (+14%) and sustained ETF inflows are bullish structural signals. However, FOMC decision tomorrow creates pre-event volatility uncertainty. BTC slipped 1.6% on Apr 27 despite positive daily market cap. $80K resistance unbroken. KelpDAO DeFi exploit adds risk-off undertone for altcoins. Mixed signals justify neutral regime; confidence edge to 0.50 threshold based on F&G recovery and continued ETF demand.",
+    "macro_backdrop": "FOMC Day 1 Apr 28, decision Apr 29 at 18:00 UTC. Rate hold near-certain but market awaits Powell press conference for forward guidance tone. ETF inflows remain strong (9 consecutive days). BTC holding $77K support but $80K resistance intact. F&G recovered to Neutral (47), up sharply from 33 yesterday. Confidence at 0.50 — macro filter ACTIVE (requires >= 0.50).",
+    "regime_rationale": "Neutral (0.50): Monthly gain (+14%) and sustained ETF inflows are bullish structural signals. However, FOMC decision tomorrow creates pre-event volatility uncertainty. BTC slipped 1.6% on Apr 27 despite positive daily market cap. $80K resistance unbroken. KelpDAO DeFi exploit adds risk-off undertone for altcoins. Mixed signals justify neutral regime; confidence at 0.50 threshold based on F&G recovery and continued ETF demand.",
     "sources": [
       "yahoo finance — Bitcoin and ethereum price today Apr 27 2026: prices hold ahead of peace talks and Fed meeting",
       "fool.com — Crypto Markets Today Apr 27: Bitcoin slips below $77K as rally falters",
@@ -65,11 +66,10 @@
       "coindesk.com — BTC bounces above $76K as DeFi suffers $14B exodus after KelpDAO hack (Apr 20)",
       "fortune.com — Current price of Bitcoin Apr 27 2026",
       "metamask.io/price/bitcoin — BTC price $77,875 (latest)",
-      "milkroad.com — Crypto Fear & Greed Index Apr 28: 47 (Neutral)",
+      "milkroad.com — Crypto Fear & Greed Index: 47 (Neutral)",
       "federalreserve.gov — FOMC Meeting April 28-29 2026",
       "bls.gov — CPI Apr release May 12; PPI Apr release May 13",
-      "news.bitcoin.com — SEC Reviews 85% Proposal impacting Bitcoin/XRP ETF listings (Apr 27)",
-      "pymnts.com — Goldman Sachs seeks SEC approval for new Bitcoin ETF (Apr 15 2026)"
+      "kiplinger.com — April Fed meeting live updates Apr 28 2026"
     ]
   }
 }
