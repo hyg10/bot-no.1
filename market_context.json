@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
   "confidence": 0.62,
-  "current_price_usd": 76317,
+  "current_price_usd": 77500,
   "key_events_next_24h": [
     {
       "name": "FOMC Rate Decision (Hold Expected, Powell Final Meeting)",
@@ -37,13 +37,19 @@
       "impact": "medium",
       "expected_direction": "bearish",
       "note": "Hormuz restrictions ongoing, Brent >$104/barrel. No resolution imminent. Sustained oil pressure keeps inflation concerns elevated, reducing Fed dovish pivot probability."
+    },
+    {
+      "name": "SEC comment period: crypto ETF listing rule (NYSE Arca 85-item proposal)",
+      "time": "2026-04-29 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
     }
   ],
   "notes": "FOMC 오늘 18시 금리동결 예상, $80K 저항 실패, ETF 자금유출",
-  "updated": "2026-04-29 07:00:00 UTC",
-  "valid_until": "2026-04-29 11:00:00 UTC",
+  "updated": "2026-04-29 10:00:00 UTC",
+  "valid_until": "2026-04-29 14:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,317 as of Apr 29 07:00 UTC. Down ~1% from 24h ago (~$76,957). Rejected $80K twice in past week. Support ~$75,000 (100-day MA area).",
+    "btc_price_note": "BTC ~$77,500 as of Apr 29 10:00 UTC. Twice rejected at $80K. Coinbase premium index negative (fading US institutional demand). BTC ETF saw $263M outflows on Apr 28, breaking 9-day positive streak. Support ~$75,000 (100-day MA area).",
     "sentiment_key_signals": [
       "BTC twice rejected at $80K resistance — technical ceiling intact",
       "Spot BTC ETF outflows: $263M Apr 28 — breaking 9-day positive inflow streak, bearish signal",
@@ -67,10 +73,10 @@
       "motleyfool.com — Crypto Markets Today Apr 28: BTC slips as geopolitical tensions weigh",
       "coindesk.com — Crypto Godfather: BTC not bottomed, no ATH in 2026 (Apr 28)",
       "kiplinger.com — April Fed meeting live updates: decision Apr 29 at 2pm ET (18:00 UTC)",
-      "cbsnews.com — Fed rate decision April 2026 / Powell final meeting",
       "cmegroup.com — FedWatch: 100% probability of rate hold Apr 29",
-      "atlantafed.org — GDPNow Q1 2026 estimate: 1.2% (Apr 21)",
-      "kraken.com — FOMC decision, GDP, PCE, and Big Tech earnings preview (Apr 22)"
+      "atlantafed.org — GDPNow Q1 2026 estimate: 1.2%",
+      "coinbase.com — BTC price $77,548 as of Apr 29 2026",
+      "yahoo finance — SEC comment period opens on crypto ETF listing rule (Apr 27 2026)"
     ]
   }
 }
