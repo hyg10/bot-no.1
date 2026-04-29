@@ -1,21 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.58,
+  "confidence": 0.60,
   "current_price_usd": 77161,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Hold Expected at 3.50-3.75%)",
+      "name": "FOMC Rate Decision RESULT - Fed holds 3.5-3.75% (8-4 dissent; last 4 dissenters: Oct 1992)",
       "time": "2026-04-29 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral",
-      "note": "Rate hold near-certain (CME FedWatch ~100%). No cuts priced for all of 2026. Decision itself is not a shock — Powell press conference tone is the real catalyst."
+      "expected_direction": "bearish",
+      "note": "COMPLETED. Unusual 4-member dissent increases uncertainty. Powell's last meeting as Chair. Warsh nomination advancing. Historical: BTC drops after 8 of last 9 FOMC meetings within 48h."
     },
     {
-      "name": "Fed Chair Powell Press Conference",
+      "name": "Powell Press Conference (Final as Fed Chair)",
       "time": "2026-04-29 18:30 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Forward guidance on inflation outlook is key. Hormuz/oil pressure keeps hawkish tone risk elevated. Hawkish remarks could push BTC below $76K support."
+      "note": "COMPLETED. Post-conference reaction ongoing. Hawkish undertone expected given Hormuz oil pressure and 4 dissenters. Watch for BTC reaction below $76K."
     },
     {
       "name": "US GDP Q1 2026 Advance Estimate (BEA)",
@@ -25,56 +25,69 @@
       "note": "Atlanta Fed GDPNow nowcast: ~1.2% vs consensus 2.5-3.0%. Weak print = stagflation signal = bearish for risk assets."
     },
     {
-      "name": "Spot BTC ETF Daily Flow Report",
-      "time": "2026-04-29 20:00 UTC",
+      "name": "SEC Chair Atkins speech at Bitcoin 2026 conference (Las Vegas)",
+      "time": "2026-04-29 22:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral",
-      "note": "Apr 28 outflow: $89.7M (following $263.2M outflow on Apr 27). Two consecutive outflow days breaks recent positive streak. Watch for continuation or reversal."
+      "expected_direction": "bullish",
+      "note": "First major public speech on digital asset regulation, custody, exchange oversight. Positive tone expected (Atkins is pro-crypto)."
     },
     {
-      "name": "US-Iran / Hormuz Watch (Ongoing)",
+      "name": "Spot BTC ETF Daily Flow Report",
+      "time": "2026-04-30 02:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "note": "Three consecutive outflow days feared: Apr 27 $263.2M, Apr 28 $89.7M outflows. Continuation would confirm institutional retreat."
+    },
+    {
+      "name": "US-Iran / Hormuz Blockade (Ongoing)",
       "time": "2026-04-29 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Hormuz restrictions ongoing, Brent >$104/barrel. No resolution imminent. Sustained oil pressure keeps inflation concerns elevated."
+      "note": "Brent >$104/barrel. No resolution imminent. Trump prepping 'lengthy Hormuz block'. Sustained oil pressure keeps inflation elevated."
     },
     {
-      "name": "SEC comment period: crypto ETF listing rule (NYSE Arca 85-item proposal)",
+      "name": "SEC 85-item NYSE Arca ETF listing rule (comment period)",
       "time": "2026-04-29 00:00 UTC",
       "impact": "low",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "FOMC 오늘 18시, ETF 이틀 연속 순유출, $80K 저항 실패 지속",
-  "updated": "2026-04-29 14:30:00 UTC",
-  "valid_until": "2026-04-29 18:30:00 UTC",
+  "notes": "FOMC 동결(8-4 이견), $80K 저항, ETF 이틀 연속 유출, GDP 내일 발표",
+  "updated": "2026-04-29 20:20:00 UTC",
+  "valid_until": "2026-04-30 00:20:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,161 as of Apr 29 ~09:30 ET (14:30 UTC). Up ~1% from yesterday but still repeatedly rejected at $80K. Support ~$75,000 (100-day MA area). Volume declining since Feb highs — low-volume recovery is fragile.",
+    "btc_price_note": "BTC ~$77,161 as of Apr 29 ~09:30 ET. Rose briefly to $77,000 ahead of FOMC. Repeatedly rejected at $80K resistance. Support ~$75,000. Volume declining since Feb highs — fragile recovery.",
     "sentiment_key_signals": [
+      "FOMC RESULT: Held 3.5-3.75%; unusual 8-4 split (last 4-dissenter vote: Oct 1992) — uncertainty elevated",
+      "Powell's final press conference as Chair — Warsh nomination advancing, policy shift risk ahead",
+      "Historical: BTC dropped after 8 of last 9 FOMC meetings within 48h — bearish pattern",
       "BTC twice rejected at $80K resistance — technical ceiling intact",
-      "Spot BTC ETF outflows: $89.7M Apr 28 + $263.2M Apr 27 — two consecutive days bearish",
-      "Fear & Greed Index: 47 (Neutral) — fragile sentiment ahead of FOMC",
-      "BTC dominance >60% — altcoins underperform; flight-to-quality within crypto",
-      "Trading volume declining sharply since Feb highs (Glassnode: low depth, high sensitivity to flows)",
+      "Spot BTC ETF outflows: $89.7M Apr 28 + $263.2M Apr 27 — two consecutive outflow days",
+      "Fear & Greed Index: 47 (Neutral, recovering from 33/Fear)",
+      "Negative Coinbase premium index — weakening US demand signal",
+      "BTC trading volume falling fast (Glassnode) — low-depth, high-sensitivity environment",
+      "BVIV implied vol at 3-month lows <42% annualized — market positioned for calm (can amplify moves)",
       "Brent crude >$104/barrel (Hormuz restrictions) — inflation pressure sustained",
-      "FOMC Apr 29: decision at 18:00 UTC, Powell press conference 18:30 UTC — key macro catalyst today",
       "GDP Q1 2026 advance estimate Apr 30 12:30 UTC — Atlanta Fed nowcast ~1.2% (well below 2.5-3% consensus)",
-      "SEC regulatory shift to collaboration (positive long-term, no immediate catalyst)",
-      "Bitcoin 2026 Conference ongoing — Lightning Network infra upgrades (mild positive)"
+      "SEC Chair Atkins speech at Bitcoin 2026 tonight — potentially positive for crypto regulation sentiment",
+      "7-day ETF flow still net positive (+3,725 BTC) — longer-term institutional demand intact"
     ],
-    "macro_backdrop": "FOMC decision at 18:00 UTC today (Apr 29). Rate hold near-certain but Powell press conference (18:30 UTC) is key risk. Oil >$104 reduces likelihood of dovish tone. GDP Q1 advance estimate (Apr 30) expected weak — stagflation signal bearish for risk assets. ETF outflows turning negative for two consecutive days and $80K double rejection reinforce bearish short-term bias. Today's +1% intraday bounce is low-volume and fragile.",
-    "regime_rationale": "Bearish (0.58): BTC failed $80K twice, ETF outflows two consecutive days ($263M + $89.7M), declining volume, Hormuz/oil headwinds, FOMC pre-event uncertainty, weak GDP nowcast. Confidence slightly reduced from 0.62 to 0.58 due to today's +1% bounce and SEC pro-crypto stance. Macro filter ACTIVE (>=0.5). Prefer SHORT bias or cautious HOLD. Reassess after FOMC press conference (18:30 UTC).",
+    "macro_backdrop": "Post-FOMC: Fed held rates at 3.5-3.75% with 8-4 dissent — most divided vote since Oct 1992. Powell's last meeting as Chair adds transition uncertainty. Oil >$104 (Hormuz) keeps inflation pressure elevated. GDP Q1 advance estimate tomorrow (Apr 30 12:30 UTC) expected weak (~1.2% nowcast vs 2.5-3% consensus) — stagflation signal bearish for risk. ETF outflows for two consecutive days and $80K double rejection reinforce bearish short-term bias.",
+    "regime_rationale": "Bearish (0.60): Post-FOMC bearish pattern (8/9 historical), 8-4 dissent adds policy uncertainty, $80K double rejection, two consecutive days ETF outflows, declining volume, Hormuz/oil headwinds, weak GDP nowcast. Confidence raised slightly from 0.58 to 0.60 post-FOMC confirmation and Powell bearish press conference tone. Macro filter ACTIVE (>=0.5). Prefer SHORT bias or cautious HOLD. Next reassessment after GDP release (Apr 30 12:30 UTC).",
     "sources": [
-      "fortune.com — Current price of Bitcoin Apr 29 2026: $77,160.91 at 09:30 ET",
-      "yahoo finance — Bitcoin prices today Apr 29 2026: values continue to fall this week",
-      "coindesk.com — Bitcoin trading volume falling fast (Apr 29 Daybook)",
+      "fortune.com — BTC price Apr 29 2026: $77,160.91 at 09:30 ET",
+      "yahoo finance — Bitcoin prices today Apr 29: values continue to fall this week",
+      "coindesk.com — BTC trading volume falling fast (Apr 29 Daybook)",
+      "coindesk.com — BTC rises to $77K ahead of Fed decision; Trump preps Hormuz block (Apr 29)",
       "coindesk.com — BTC retreat deepens after repeated rejection at $80K (Apr 28)",
-      "motleyfool.com — Crypto Markets Today Apr 28: BTC slips as geopolitical tensions weigh",
-      "yahoo finance — BTC ETF outflows: $89.7M Apr 28 / $263.2M Apr 27 (Farside Investors)",
-      "kiplinger.com — April Fed meeting: decision Apr 29 at 2pm ET (18:00 UTC)",
-      "cnbc.com — Fed meeting preview April 2026: hold expected",
+      "cnbc.com — Fed holds rates steady amid dissent (8-4); Powell final meeting (Apr 29)",
+      "pbs.org — Powell holds final briefing after Fed leaves rate unchanged (Apr 29)",
+      "coinpedia.org — BTC price prediction next 24h ahead of FOMC: historical drop pattern",
+      "kiplinger.com — April Fed meeting live updates (Apr 29)",
       "binance.com — Fear & Greed Index: 47 (Neutral)",
-      "yahoo finance/cryptonews — SEC 85-item ETF proposal comment period opened Apr 27"
+      "yahoo finance — BTC ETF outflows: $89.7M Apr 28 / $263.2M Apr 27",
+      "yahoo finance/sec — SEC 85-item ETF proposal; Goldman Sachs Bitcoin Premium Income ETF filing",
+      "coingabbar.com — BTC rejected at $80K, ETF outflow, Atkins at Bitcoin 2026"
     ]
   }
 }
