@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
-  "current_price_usd": 76317,
+  "confidence": 0.62,
+  "current_price_usd": 76582,
   "key_events_next_24h": [
     {
       "name": "FOMC Rate Decision (Hold Expected, Powell Final Meeting)",
@@ -15,14 +15,14 @@
       "time": "2026-04-29 18:30 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Powell's likely final meeting as Fed chair. Hawkish tone risk elevated with Brent crude >$104 and CPI at 3.3% YoY. Forward guidance tone is the key catalyst for crypto direction."
+      "note": "Powell's likely final meeting as Fed chair. Hawkish tone risk elevated with Brent crude >$104 and CPI at 3.3% YoY. Forward guidance tone is the key catalyst for crypto direction post-FOMC."
     },
     {
       "name": "Spot BTC ETF Daily Flow Report",
       "time": "2026-04-29 13:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Yesterday saw $263M in outflows — first significant outflow in weeks. Monitoring whether this continues or reverses; key signal for institutional sentiment."
+      "note": "Yesterday saw $263M in outflows — significant reversal after 9 consecutive inflow days. Key signal for institutional sentiment direction."
     },
     {
       "name": "US-Iran / Hormuz Watch (Ongoing)",
@@ -32,35 +32,35 @@
       "note": "Hormuz restrictions ongoing, Brent >$104/barrel. No resolution imminent. Sustained oil pressure keeps inflation concerns elevated, reducing Fed dovish pivot probability."
     }
   ],
-  "notes": "BTC $76K 하락, FOMC 오늘 금리동결 예상, ETF 유출 전환",
-  "updated": "2026-04-29 00:38:01 UTC",
-  "valid_until": "2026-04-29 04:38:01 UTC",
+  "notes": "FOMC 오늘 18시 금리동결 예상, BTC $80K 저항 실패 지속",
+  "updated": "2026-04-29 06:30:00 UTC",
+  "valid_until": "2026-04-29 10:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,317 as of Apr 29 00:38 UTC. Down from $78,661 Monday open (-3.1%). Failed $80K resistance twice in past week. Support ~$75,000 (100-day MA area).",
+    "btc_price_note": "BTC ~$76,582 as of Apr 29 06:30 UTC. Down from ~$78,000 Monday open. Failed $80K resistance twice in past week. Support ~$75,000 (100-day MA area).",
     "sentiment_key_signals": [
-      "Fear & Greed Index: mid-range (recovered from 29 Fear on Apr 20 to 62 Greed on Apr 25, now pulling back)",
-      "BTC down ~3.1% from Monday open ahead of FOMC (Apr 29 decision 18:00 UTC)",
-      "Spot BTC ETF outflows: $263M yesterday — breaking recent positive streak, bearish signal",
-      "BTC dominance crossed 60% (Apr 22), peaked 60.66% (Apr 25) — altcoins underperform",
+      "BTC twice rejected at $80K resistance — technical ceiling intact",
+      "Spot BTC ETF outflows: $263M Apr 28 — breaking 9-day positive inflow streak, bearish signal",
       "Negative Coinbase premium index — weakening US spot demand",
-      "Twice rejected at $80K resistance — technical ceiling intact",
-      "KelpDAO exploit: $292M stolen, $14B DeFi TVL exodus (Apr 20) — DeFi sentiment depressed",
+      "Fear & Greed Index: recovering from lows but sentiment fragile with mixed geopolitical signals",
+      "BTC dominance >60% — altcoins underperform; flight-to-quality within crypto",
+      "KelpDAO exploit: $292M stolen, $14B DeFi TVL exodus (Apr 20) — DeFi sentiment still depressed",
       "Brent crude >$104/barrel (Hormuz restrictions) — inflation pressure sustained",
       "FOMC Apr 29: decision at 18:00 UTC, press conference 18:30 UTC — key macro catalyst today",
-      "No CPI/PPI releases in next 24h (CPI Apr: May 12; PPI Apr: May 13)"
+      "No CPI/PPI releases in next 24h (CPI Apr: May 12; PPI Apr: May 13)",
+      "Crypto market cap fell 1.3% to $2.64T on Apr 28"
     ],
-    "macro_backdrop": "FOMC decision at 18:00 UTC today (Apr 29). Rate hold near-certain but Powell press conference (18:30 UTC) is key risk — forward guidance on inflation outlook matters. Oil >$104 reduces likelihood of dovish tone. ETF outflows turning negative and $80K double rejection reinforce bearish short-term bias. Waiting for FOMC clarity before directional positioning is prudent.",
-    "regime_rationale": "Bearish (0.60): BTC -3.1% from week high, failed $80K twice, ETF outflows $263M, negative Coinbase premium, Hormuz/oil headwinds, FOMC pre-event uncertainty. Partially offset by 60%+ BTC dominance (flight to quality within crypto) and rate hold being fully priced in (no rate shock expected). Confidence at 0.60 — macro filter ACTIVE. Avoid long entries until after FOMC press conference resolves directional uncertainty.",
+    "macro_backdrop": "FOMC decision at 18:00 UTC today (Apr 29). Rate hold near-certain (100% CME FedWatch) but Powell press conference (18:30 UTC) is key risk — forward guidance on inflation outlook matters. Oil >$104 reduces likelihood of dovish tone. ETF outflows turning negative and $80K double rejection reinforce bearish short-term bias.",
+    "regime_rationale": "Bearish (0.62): BTC failed $80K twice, ETF outflows $263M (reversal after 9-day streak), negative Coinbase premium, Hormuz/oil headwinds, FOMC pre-event uncertainty. Partially offset by 60%+ BTC dominance and rate hold fully priced in. Confidence 0.62 — macro filter ACTIVE. Prefer SHORT bias or HOLD until after FOMC press conference resolves directional uncertainty.",
     "sources": [
       "yahoo finance — Bitcoin prices today Apr 28 2026: values falling ahead of Fed meeting",
-      "fortune.com — Current price of Bitcoin Apr 28 2026 ($76,342.57)",
+      "fortune.com — Current price of Bitcoin Apr 28 2026 ($76,342.57 / $76,581.68)",
       "coindesk.com — BTC retreat deepens after repeated rejection at $80K (Apr 28)",
       "motleyfool.com — Crypto Markets Today Apr 28: BTC slips as geopolitical tensions weigh",
-      "neuralarb.com — Crypto Market Update Apr 20-27: BTC reclaims $78K, dominance 60.66%",
       "coindesk.com — BTC bounces above $76K as DeFi suffers $14B exodus after KelpDAO hack",
-      "kiplinger.com — April Fed meeting live updates: decision Apr 29 at 2pm ET",
+      "kiplinger.com — April Fed meeting live updates: decision Apr 29 at 2pm ET (18:00 UTC)",
       "cbsnews.com — Fed rate decision April 2026 / Powell final meeting",
-      "cmegroup.com — FedWatch: 100% probability of rate hold Apr 29"
+      "cmegroup.com — FedWatch: 100% probability of rate hold Apr 29",
+      "crypto.news — Why is crypto market dropping today April 28"
     ]
   }
 }
