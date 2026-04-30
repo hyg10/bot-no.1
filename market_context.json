@@ -1,14 +1,14 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
-  "current_price_usd": 76000,
+  "confidence": 0.62,
+  "current_price_usd": 76100,
   "key_events_next_24h": [
     {
-      "name": "US GDP Q1 2026 Advance + PCE Release (BEA) — scheduled today",
+      "name": "US GDP Q1 2026 Advance + PCE Release (BEA) — IMMINENT",
       "time": "2026-04-30 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Atlanta Fed GDPNow nowcast ~1.2% vs consensus 2.5-3.0%. Weak print = stagflation signal. Hot PCE would compound bearish pressure. High-volatility event."
+      "note": "Atlanta Fed GDPNow nowcast ~1.2% vs consensus 2.5-3.0%. Weak print = stagflation signal. Hot PCE would compound bearish pressure. High-volatility event. RELEASING IN ~13 MINUTES."
     },
     {
       "name": "Spot BTC ETF Daily Flow Report",
@@ -18,11 +18,11 @@
       "note": "Third consecutive outflow day feared: Apr 27 $263.2M + Apr 28 $89.7M confirmed. Continuation would reinforce institutional retreat narrative."
     },
     {
-      "name": "FOMC Rate Decision (COMPLETED Apr 29)",
-      "time": "2026-04-29 18:00 UTC",
+      "name": "US Non-Farm Payrolls (April 2026)",
+      "time": "2026-05-01 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish",
-      "note": "COMPLETED. Fed held 3.5-3.75%; 8-4 dissent (most divided since Oct 1992). Historical: BTC drops after 8 of last 9 FOMC meetings within 48h — still within window."
+      "expected_direction": "neutral",
+      "note": "First Friday of May. Strong jobs data = less pressure on Fed to cut = bearish for risk assets. Weak = bullish for BTC. Key macro swing catalyst."
     },
     {
       "name": "FOMC May 6-7 (upcoming)",
@@ -32,34 +32,34 @@
       "note": "No rate change expected. Hold at 3.5-3.75%. Focus shifts to June for any action contingent on inflation data."
     }
   ],
-  "notes": "BTC $76K, ETF 유출, 거래량 최저, 지정학 긴장. 단기 하락 압력 우세",
-  "updated": "2026-04-30 08:00:00 UTC",
-  "valid_until": "2026-04-30 12:00:00 UTC",
+  "notes": "BTC $76K 횡보·$80K 이중천장, ETF 유출, GDP 발표 임박·단기 하방",
+  "updated": "2026-04-30 12:17:32 UTC",
+  "valid_until": "2026-04-30 16:17:32 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,000 as of Apr 30 08:00 UTC (range $75,652-$76,283 across sources). Down from weekly high ~$79K. Twice rejected at $80K resistance. Support ~$75,000. Volume at lowest since Oct 2023 — fragile, low-depth environment.",
+    "btc_price_note": "BTC ~$76,000-76,340 across exchanges as of Apr 30 12:17 UTC. Down from weekly high ~$79K. Twice rejected at $80K resistance. Support ~$74,959 (24h low). Progressively lower opening prices each morning this week.",
     "sentiment_key_signals": [
       "FOMC COMPLETED Apr 29: held 3.5-3.75%; unusual 8-4 dissent — most divided vote since Oct 1992",
       "Still within 48h post-FOMC window — historical BTC weakness pattern (8 of last 9 meetings) still active",
-      "BTC twice rejected at $80K resistance — technical ceiling firm",
+      "BTC twice rejected at $80K resistance — technical ceiling firm (double top pattern)",
       "Spot BTC ETF outflows: $263.2M (Apr 27) + $89.7M (Apr 28) — two confirmed consecutive outflow days",
-      "ETF outflows yesterday $263M vs $2B total April inflows — short-term sentiment reversing",
-      "BTC trading volume below $8B — lowest since Oct 2023, high sensitivity to macro shocks",
+      "BTC opening prices declining every morning this week — sustained sell-side pressure",
       "Brent crude >$104/barrel (Hormuz restrictions) — sustained inflation headwind",
-      "GDP Q1 advance + PCE due Apr 30 12:30 UTC — Atlanta Fed nowcast ~1.2% vs consensus 2.5-3%",
-      "KelpDAO $290M exploit weighing on DeFi/altcoin sentiment",
-      "Geopolitical tensions (oil, global) weighing on risk assets",
-      "Fear & Greed Index recovering from lows but not yet bullish"
+      "GDP Q1 advance + PCE due TODAY Apr 30 12:30 UTC — Atlanta Fed nowcast ~1.2% vs consensus 2.5-3%",
+      "NFP May 1 12:30 UTC — directional impact depends on print",
+      "Geopolitical tensions (U.S.-Iran, Strait of Hormuz) weighing on risk assets",
+      "Fear & Greed Index recovering from lows but fragile; negative funding rates signal trader skepticism"
     ],
-    "macro_backdrop": "Post-FOMC: Fed held at 3.5-3.75% with 8-4 dissent (most divided since Oct 1992). Powell's final Chair meeting adds transition uncertainty. Oil >$104 (Hormuz) keeps inflation elevated. GDP Q1 advance + PCE releasing today Apr 30 12:30 UTC — stagflation risk high if GDP misses and PCE beats. Two consecutive days of ETF outflows and $80K double top reinforce bearish short-term bias.",
-    "regime_rationale": "Bearish (0.60): FOMC bearish 48h pattern still active, $80K double rejection, consecutive ETF outflows, declining volume, Hormuz oil headwinds, weak GDP nowcast, geopolitical tensions. Confidence 0.60 (>=0.5 threshold) — macro filter ACTIVE. Prefer SHORT bias or cautious HOLD. Reassess after GDP/PCE release at 12:30 UTC.",
+    "macro_backdrop": "Post-FOMC: Fed held at 3.5-3.75% with 8-4 dissent (most divided since Oct 1992). Oil >$104 (Hormuz) keeps inflation elevated. GDP Q1 advance + PCE releasing TODAY at 12:30 UTC — stagflation risk high if GDP misses and PCE beats. Two consecutive days of ETF outflows and $80K double top reinforce bearish short-term bias. NFP on May 1 is next major binary catalyst.",
+    "regime_rationale": "Bearish (0.62): FOMC bearish 48h pattern still active, $80K double rejection, consecutive ETF outflows, declining weekly open prices, Hormuz oil headwinds, weak GDP nowcast, geopolitical tensions. Confidence 0.62 (>=0.5 threshold) — macro filter ACTIVE. Prefer SHORT bias or cautious HOLD. Reassess after GDP/PCE release at 12:30 UTC.",
     "sources": [
-      "latestly.com — BTC price Apr 30 2026: $76,000-76,283",
-      "coindesk.com — BTC trading volume falling to lowest since Oct 2023",
-      "motley fool — Crypto Markets Today Apr 28: geopolitical tensions weigh on sentiment",
-      "coingabbar.com — BTC rejected at $80K, ETF outflow",
-      "yahoo finance — Bitcoin prices continue to fall this week",
-      "federalreserve.gov — FOMC held 3.5-3.75% Apr 29 2026",
-      "primerates.com — FOMC May 6-7 next meeting, no change expected"
+      "latestly.com — BTC price Apr 30 2026: $76,000",
+      "yahoo finance — Bitcoin/Ethereum prices moving lower each morning this week",
+      "coindesk.com — BTC price retreat deepens, $80K repeated rejection",
+      "phemex.com — BTC $76,308 on Apr 30, holds $76K analysis",
+      "cnbc.com — Fed holds at 3.5-3.75%, 8-4 dissent, Apr 29 2026",
+      "neuralarb.com — Crypto Market Update Apr 20-27: BTC reclaims $78K, dominance 60.66%",
+      "coindesk.com — BTC trading volume falling fast, Apr 29 2026",
+      "bls.gov — CPI May 12, PPI May 13 (confirmed)"
     ]
   }
 }
