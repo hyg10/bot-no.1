@@ -1,65 +1,65 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
+  "confidence": 0.70,
   "current_price_usd": 76100,
   "key_events_next_24h": [
     {
-      "name": "US GDP Q1 2026 Advance + PCE Release (BEA) — IMMINENT",
+      "name": "US Q1 2026 GDP Advance Estimate RELEASED: +2.0% (miss vs 2.2% forecast, but up from Q4 0.5%)",
       "time": "2026-04-30 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Atlanta Fed GDPNow nowcast ~1.2% vs consensus 2.5-3.0%. Weak print = stagflation signal. Hot PCE would compound bearish pressure. High-volatility event. RELEASING IN ~13 MINUTES."
+      "note": "GDP missed expectations at 2.0% vs 2.2% consensus. Slight bearish pressure. PCE component key for inflation narrative. Less dire than Atlanta Fed 1.2% nowcast implied."
+    },
+    {
+      "name": "US Non-Farm Payrolls April 2026",
+      "time": "2026-05-01 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral",
+      "note": "First Friday of May. Strong jobs = less Fed cut pressure = bearish for BTC. Weak = Fed dovish pivot hope = bullish. Key binary catalyst within 24h."
     },
     {
       "name": "Spot BTC ETF Daily Flow Report",
       "time": "2026-04-30 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Third consecutive outflow day feared: Apr 27 $263.2M + Apr 28 $89.7M confirmed. Continuation would reinforce institutional retreat narrative."
+      "note": "Apr 29 confirmed -$137.77M outflow. Third consecutive day feared. Institutional retreat narrative."
     },
     {
-      "name": "US Non-Farm Payrolls (April 2026)",
-      "time": "2026-05-01 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral",
-      "note": "First Friday of May. Strong jobs data = less pressure on Fed to cut = bearish for risk assets. Weak = bullish for BTC. Key macro swing catalyst."
-    },
-    {
-      "name": "FOMC May 6-7 (upcoming)",
-      "time": "2026-05-06 18:00 UTC",
+      "name": "Powell Fed Chair Term Expiry (May 15) / Kevin Warsh Transition",
+      "time": "2026-05-15 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "No rate change expected. Hold at 3.5-3.75%. Focus shifts to June for any action contingent on inflation data."
+      "note": "Policy uncertainty around leadership transition. Warsh seen as more hawkish."
     }
   ],
-  "notes": "BTC $76K 횡보·$80K 이중천장, ETF 유출, GDP 발표 임박·단기 하방",
-  "updated": "2026-04-30 12:17:32 UTC",
-  "valid_until": "2026-04-30 16:17:32 UTC",
+  "notes": "FOMC 매파적 동결, GDP 미달, ETF 유출 3일 연속, NFP 내일 발표",
+  "updated": "2026-04-30 13:10:00 UTC",
+  "valid_until": "2026-04-30 17:10:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,000-76,340 across exchanges as of Apr 30 12:17 UTC. Down from weekly high ~$79K. Twice rejected at $80K resistance. Support ~$74,959 (24h low). Progressively lower opening prices each morning this week.",
+    "btc_price_note": "BTC ~$75,600-$76,300 on Apr 30. Down ~2% in 24h. Twice rejected at $80K resistance (double top). Support ~$74,900. Progressively lower opens each morning this week.",
     "sentiment_key_signals": [
-      "FOMC COMPLETED Apr 29: held 3.5-3.75%; unusual 8-4 dissent — most divided vote since Oct 1992",
-      "Still within 48h post-FOMC window — historical BTC weakness pattern (8 of last 9 meetings) still active",
-      "BTC twice rejected at $80K resistance — technical ceiling firm (double top pattern)",
-      "Spot BTC ETF outflows: $263.2M (Apr 27) + $89.7M (Apr 28) — two confirmed consecutive outflow days",
-      "BTC opening prices declining every morning this week — sustained sell-side pressure",
-      "Brent crude >$104/barrel (Hormuz restrictions) — sustained inflation headwind",
-      "GDP Q1 advance + PCE due TODAY Apr 30 12:30 UTC — Atlanta Fed nowcast ~1.2% vs consensus 2.5-3%",
-      "NFP May 1 12:30 UTC — directional impact depends on print",
-      "Geopolitical tensions (U.S.-Iran, Strait of Hormuz) weighing on risk assets",
-      "Fear & Greed Index recovering from lows but fragile; negative funding rates signal trader skepticism"
+      "FOMC Apr 28-29: held 3.5-3.75%, hawkish 8-4 dissent — most divided since Oct 1992, tone opposed further cuts",
+      "Still within 48h post-FOMC window — historical BTC weakness pattern active",
+      "BTC twice rejected at $80K — firm technical ceiling (double top pattern)",
+      "Spot BTC ETF: -$137.77M on Apr 29 (second confirmed outflow day)",
+      "30-year US Treasury yield hit 5.0% — highest since Jul 2025; capital rotation away from risk",
+      "GDP Q1 2026: 2.0% advance estimate — missed 2.2% forecast, still recovery from Q4 0.5%",
+      "NFP May 1 at 12:30 UTC — next high-impact binary catalyst within 24h",
+      "Geopolitical: Iran / Strait of Hormuz tensions, oil elevated, risk-off sentiment",
+      "Fear & Greed Index: 33 (Fear zone)",
+      "Bitcoin dominance high; altcoins fragile — market breadth narrow"
     ],
-    "macro_backdrop": "Post-FOMC: Fed held at 3.5-3.75% with 8-4 dissent (most divided since Oct 1992). Oil >$104 (Hormuz) keeps inflation elevated. GDP Q1 advance + PCE releasing TODAY at 12:30 UTC — stagflation risk high if GDP misses and PCE beats. Two consecutive days of ETF outflows and $80K double top reinforce bearish short-term bias. NFP on May 1 is next major binary catalyst.",
-    "regime_rationale": "Bearish (0.62): FOMC bearish 48h pattern still active, $80K double rejection, consecutive ETF outflows, declining weekly open prices, Hormuz oil headwinds, weak GDP nowcast, geopolitical tensions. Confidence 0.62 (>=0.5 threshold) — macro filter ACTIVE. Prefer SHORT bias or cautious HOLD. Reassess after GDP/PCE release at 12:30 UTC.",
+    "macro_backdrop": "Post-FOMC hawkish hold (3.5-3.75%, 8-4 split against further cuts language). 30yr yield at 5% signals sustained inflation concern and rate-cut delay. GDP Q1 missed at 2.0% vs 2.2%. ETF outflows second consecutive day. BTC double-topped at $80K. NFP May 1 is next major catalyst within 24h — bearish lean maintained until NFP confirms.",
+    "regime_rationale": "Bearish (0.70): FOMC hawkish aftermath, $80K double rejection, consecutive ETF outflows, 30yr yield at 5%, GDP miss, Fear & Greed 33, declining weekly opens. Confidence 0.70 (>=0.5 threshold) — macro filter ACTIVE. Prefer SHORT bias or cautious HOLD until NFP May 1.",
     "sources": [
       "latestly.com — BTC price Apr 30 2026: $76,000",
-      "yahoo finance — Bitcoin/Ethereum prices moving lower each morning this week",
-      "coindesk.com — BTC price retreat deepens, $80K repeated rejection",
-      "phemex.com — BTC $76,308 on Apr 30, holds $76K analysis",
-      "cnbc.com — Fed holds at 3.5-3.75%, 8-4 dissent, Apr 29 2026",
-      "neuralarb.com — Crypto Market Update Apr 20-27: BTC reclaims $78K, dominance 60.66%",
-      "coindesk.com — BTC trading volume falling fast, Apr 29 2026",
-      "bls.gov — CPI May 12, PPI May 13 (confirmed)"
+      "yahoo finance — Bitcoin values moving lower each morning this week (Apr 30 2026)",
+      "coindesk.com — BTC $80K repeated rejection, retreat deepens (Apr 28)",
+      "coindesk.com — 30-year Treasury yield hits 5%, BTC crash risk (Apr 30)",
+      "cnbc.com — Fed holds 3.5-3.75%, 8-4 dissent, Apr 29 2026",
+      "cryptotimes.io — BTC/ETH/XRP slide, ETF outflows deepen (Apr 30)",
+      "advisorperspectives.com — Q1 GDP advance: 2.0% (Apr 30 2026)",
+      "finance.yahoo.com — Fear & Greed 33, crypto sentiment risk-off (Apr 28)"
     ]
   }
 }
