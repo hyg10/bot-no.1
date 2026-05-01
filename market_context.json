@@ -1,40 +1,53 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 76665,
+  "confidence": 0.4,
+  "btc_price_usd": 76800,
   "key_events_next_24h": [
+    {
+      "name": "ISM Manufacturing PMI (May 1)",
+      "time": "2026-05-01 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US Initial Jobless Claims (May 2)",
+      "time": "2026-05-02 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
     {
       "name": "BTC ETF Daily Flow Report",
       "time": "2026-05-01 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Outflow streak ongoing ($138M Apr 29). Watch for reversal signal."
+      "note": "Apr 29 saw $138M outflow; watch for reversal."
     }
   ],
-  "notes": "ETF 유출 지속·BTC +2% 소폭 반등, $78,500 저항선 돌파 여부 주목",
-  "updated": "2026-05-01 17:00:00 UTC",
-  "valid_until": "2026-05-01 21:00:00 UTC",
+  "notes": "BTC $76.8K 소폭 반등, ETF 유출·혼조세, NFP 5/8 주목",
+  "updated": "2026-05-01 07:00:00 UTC",
+  "valid_until": "2026-05-01 11:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,550–$76,988 on May 1 (avg ~$76,665). Up +2.07% in 24h after recent consolidation. Resistance at $78,500; support holding above $76,000. 74% of altcoins still in the red despite BTC recovery.",
+    "btc_price_note": "BTC ~$76,300–$77,100 on May 1 (avg ~$76,800). Up +2.07% in 24h after dip to $75,500. Resistance at $78,500; support holding above $76,000. 74% of altcoins still in the red despite BTC recovery.",
     "sentiment_key_signals": [
-      "BTC +2.07% in 24h — slight recovery, trading ~$76,665",
+      "BTC +2% in 24h — recovery from $75,500 overnight low",
       "74% of crypto coins lost value in 24h — broad market weakness persists",
-      "ETF outflow: $138M net outflow on Apr 29 — institutional selling continues",
+      "ETF outflow: $138M net outflow on Apr 29 — single-day headwind",
+      "ETF inflow: $2B net inflow for April total — monthly trend remains bullish",
       "FOMC held 3.5%–3.75% on Apr 29 — rates steady, no new shock",
-      "Institutional buying providing support above $76,000",
       "Resistance at $78,500 — key level for trend reversal confirmation",
-      "Senate Clarity Act markup scheduled May 2026 — neutral regulatory tailwind",
-      "No major macro data releases in next 24h (NFP May 8, CPI May 12, PPI May 13)"
+      "Senate Clarity Act markup scheduled May 2026 — regulatory tailwind",
+      "BlackRock IBIT continues leading institutional demand",
+      "North Korea-linked hacks ~$577M in 2026 YTD — security headwind"
     ],
-    "macro_backdrop": "FOMC held rates at 3.5-3.75% on Apr 29 — already priced in. No major economic data due in next 24h. ETF outflows are the primary near-term headwind. ISM Manufacturing PMI released earlier today (impact digested). Next major catalyst: NFP May 8.",
-    "regime_rationale": "Neutral (0.40): BTC showing slight recovery (+2.07%) with institutional support above $76K, but ETF outflows and weak altcoin breadth (74% down) prevent a bullish reading. Mixed signals warrant neutral stance. Bot filter INACTIVE — confidence 0.40 < 0.50 threshold.",
+    "macro_backdrop": "FOMC held rates at 3.5-3.75% on Apr 29 — already priced in. ISM Manufacturing today (medium impact). Next major catalyst: NFP May 8, CPI May 12, PPI May 13. No FOMC until Jun 16-17.",
+    "regime_rationale": "Neutral (0.40): BTC up +2% with strong monthly ETF inflows, but single-day ETF outflow and weak altcoin breadth (74% down) cancel bullish signals. Mixed picture warrants neutral. Bot filter INACTIVE — confidence 0.40 < 0.50 threshold.",
     "sources": [
+      "cryptotimes.io — BTC at $77K, institutional moves, May 1 2026",
       "latestly.com — BTC $76,550 steady May 1 2026",
       "coincodex.com — BTC +2.07% 24h, global mcap $2.65T",
-      "thecoinrepublic.com — ETF outflows, centralization concerns",
+      "coinmarketcap.com — BTC $76,665 May 1 2026",
       "federalreserve.gov — FOMC held 3.5-3.75% Apr 29 2026",
-      "bls.gov — CPI Apr release May 12, PPI Apr release May 13",
-      "5paisa.com / fxstreet.com — FOMC May 2026 calendar"
+      "datasetiq.com — ISM Manufacturing May 1, NFP May 8 economic calendar"
     ]
   }
 }
