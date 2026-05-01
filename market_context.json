@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 76800,
+  "confidence": 0.40,
+  "btc_price_usd": 77000,
   "key_events_next_24h": [
     {
       "name": "ISM Manufacturing PMI (May 1)",
@@ -19,35 +19,38 @@
       "name": "BTC ETF Daily Flow Report",
       "time": "2026-05-01 21:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "Apr 29 saw $138M outflow; watch for reversal."
+      "expected_direction": "neutral",
+      "note": "Apr 29 saw $138M outflow; watch for reversal as BTC recovers to $77K."
     }
   ],
-  "notes": "BTC $76.8K 소폭 반등, ETF 유출·혼조세, NFP 5/8 주목",
-  "updated": "2026-05-01 07:00:00 UTC",
-  "valid_until": "2026-05-01 11:00:00 UTC",
+  "notes": "BTC $77K 회복중, FOMC 매파적 동결, 알트 약세, 기관수요 긍정",
+  "updated": "2026-05-01 12:00:00 UTC",
+  "valid_until": "2026-05-01 16:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,300–$77,100 on May 1 (avg ~$76,800). Up +2.07% in 24h after dip to $75,500. Resistance at $78,500; support holding above $76,000. 74% of altcoins still in the red despite BTC recovery.",
+    "btc_price_note": "BTC ~$76,300–$78,450 on May 1 (avg ~$77,000). Up +2% in 24h after FOMC dip to $75,000. Resistance at $80,000 not yet broken. 74% of altcoins still in the red despite BTC recovery.",
     "sentiment_key_signals": [
-      "BTC +2% in 24h — recovery from $75,500 overnight low",
+      "BTC +2% in 24h — recovery from $75,000 post-FOMC dip",
       "74% of crypto coins lost value in 24h — broad market weakness persists",
-      "ETF outflow: $138M net outflow on Apr 29 — single-day headwind",
-      "ETF inflow: $2B net inflow for April total — monthly trend remains bullish",
-      "FOMC held 3.5%–3.75% on Apr 29 — rates steady, no new shock",
-      "Resistance at $78,500 — key level for trend reversal confirmation",
+      "FOMC Apr 29: hawkish hold at 3.5–3.75%, unusual 8-4 dissent, rate cut odds fell to 44%",
+      "Fed statement upgraded inflation language to 'elevated' from 'somewhat elevated'",
+      "ETF monthly inflow April: ~$2B net positive — monthly trend bullish",
+      "ETF single-day Apr 29: $138M outflow — short-term headwind",
+      "Ark Invest: BTC market cap target $16T by 2030, price $300K–$1.5M",
       "Senate Clarity Act markup scheduled May 2026 — regulatory tailwind",
-      "BlackRock IBIT continues leading institutional demand",
-      "North Korea-linked hacks ~$577M in 2026 YTD — security headwind"
+      "North Korea-linked hacks ~$577M in 2026 YTD — security/FUD headwind",
+      "Consensus 2026 conference May 5–7 Miami — potential sentiment catalyst"
     ],
-    "macro_backdrop": "FOMC held rates at 3.5-3.75% on Apr 29 — already priced in. ISM Manufacturing today (medium impact). Next major catalyst: NFP May 8, CPI May 12, PPI May 13. No FOMC until Jun 16-17.",
-    "regime_rationale": "Neutral (0.40): BTC up +2% with strong monthly ETF inflows, but single-day ETF outflow and weak altcoin breadth (74% down) cancel bullish signals. Mixed picture warrants neutral. Bot filter INACTIVE — confidence 0.40 < 0.50 threshold.",
+    "macro_backdrop": "FOMC held rates at 3.5-3.75% on Apr 29 with hawkish tone — reinforces higher-for-longer, weighing on risk assets. ISM Manufacturing today (medium). Next major catalysts: NFP May 8, CPI May 12, PPI May 13. No FOMC until Jun 2026.",
+    "regime_rationale": "Neutral (0.40): BTC recovering +2% with strong monthly ETF inflows and institutional demand, but FOMC hawkish hold (rate cut odds 44%), single-day ETF outflow, and weak altcoin breadth (74% down) offset bulls. Mixed signals warrant neutral. Bot filter INACTIVE — confidence 0.40 < 0.50 threshold.",
     "sources": [
       "cryptotimes.io — BTC at $77K, institutional moves, May 1 2026",
       "latestly.com — BTC $76,550 steady May 1 2026",
       "coincodex.com — BTC +2.07% 24h, global mcap $2.65T",
       "coinmarketcap.com — BTC $76,665 May 1 2026",
-      "federalreserve.gov — FOMC held 3.5-3.75% Apr 29 2026",
-      "datasetiq.com — ISM Manufacturing May 1, NFP May 8 economic calendar"
+      "federalreserve.gov — FOMC held 3.5-3.75%, Apr 29 2026",
+      "cnbc.com — Fed holds rates steady, 8-4 dissent, Apr 29 2026",
+      "coindesk.com — Ark Invest $16T BTC market cap forecast by 2030",
+      "bls.gov — NFP May 8, CPI May 12, PPI May 13 release schedule"
     ]
   }
 }
