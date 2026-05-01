@@ -1,52 +1,57 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
-  "btc_price_usd": 76400,
+  "confidence": 0.63,
+  "btc_price_usd": 76550,
   "key_events_next_24h": [
     {
       "name": "ISM Manufacturing PMI (April 2026)",
       "time": "2026-05-01 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "First business day of May. Weak print = risk-off; strong = dollar strength, risk-off for BTC either way."
+      "note": "First business day of May. Weak print = risk-off for BTC."
     },
     {
       "name": "BTC ETF Daily Flow Report (Outflow streak watch)",
       "time": "2026-05-01 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Multiple consecutive outflow days confirmed through Apr 29. Institutional retreat narrative ongoing."
+      "note": "Ongoing institutional ETF outflow streak through Apr 29."
+    },
+    {
+      "name": "Fed Chair Powell Term Expiry Uncertainty (May 2026)",
+      "time": "2026-05-01 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "note": "Fed leadership transition adds policy uncertainty, risk-off bias."
     }
   ],
-  "notes": "공포지수 26, 유가 급등·매파 연준으로 약세 우위",
-  "updated": "2026-05-01 00:08:24 UTC",
-  "valid_until": "2026-05-01 04:08:24 UTC",
+  "notes": "$80K 저항 반복 실패, 연준 고금리 유지·유가급등 매크로 부담",
+  "updated": "2026-05-01 12:00:00 UTC",
+  "valid_until": "2026-05-01 16:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,300-$76,528 on May 1 00:08 UTC. Up +0.24% in 24h but consolidating. 13% gain in April now stalling. $80K double-top resistance still firm.",
+    "btc_price_note": "BTC ~$76,300–$76,665 on May 1. Slight +0.24% 24h recovery but consolidating below $80K resistance. April closed +13% but momentum fading after repeated $80K rejections and $110M+ leveraged liquidations.",
     "sentiment_key_signals": [
-      "Fear & Greed Index: 26 (Fear zone, worsened from prior 33)",
-      "Technical indicators: 35% bullish (65% bearish) sentiment",
-      "Brent crude oil surged +7.1% to $126/barrel — risk-off pressure",
-      "FOMC held at 3.5%-3.75% with hawkish dissent — most divided Fed since Oct 1992",
-      "Bond yields rising — capital rotating out of risk assets",
-      "US-Iran blockade and geopolitical tensions adding risk premium",
-      "Crypto market cap down 1.28% in 24h despite BTC slight uptick",
-      "Spot BTC ETF outflow streak ongoing",
-      "NFP April 2026 scheduled May 8 at 12:30 UTC (next major binary catalyst)",
-      "CPI April 2026 scheduled May 12 at 08:30 UTC",
-      "PPI April 2026 scheduled May 13 at 08:30 UTC",
-      "Regulatory positive: Clarity Act senate markup scheduled for May 2026"
+      "BTC ~$76,550 — repeated rejection at $80K double-top resistance",
+      "$110M+ leveraged BTC positions liquidated, downside momentum",
+      "FOMC held 3.5%–3.75% on Apr 29 — higher-for-longer signal confirmed",
+      "Fed Chair Powell term expiry May 2026 — leadership/policy uncertainty",
+      "Iran conflict + elevated oil prices — macro risk-off headwind",
+      "Crypto traders turning cautious, 47% implied probability BTC holds $76,500",
+      "Prediction market: 64% chance BTC holds above $76,000 by May 1 5pm EDT",
+      "North Korean hackers stole $6B in crypto — regulatory/security overhang",
+      "Next high-impact macro: NFP May 8, CPI May 12, PPI May 13"
     ],
-    "macro_backdrop": "Hawkish Fed hold at 3.5-3.75% with oil surging to $126 Brent drives bond yields higher and squeezes risk assets. Fear & Greed at 26 (Fear). No major macro data release within 24h — ISM Manufacturing PMI today is medium-impact only. Next high-impact catalysts: NFP May 8, CPI May 12, PPI May 13.",
-    "regime_rationale": "Bearish (0.62): Fear & Greed 26, 65% bearish technical indicators, $126 oil, hawkish Fed macro headwind, ETF outflow streak, geopolitical risk-off. Confidence 0.62 (>=0.5 threshold) — macro filter ACTIVE. Prefer SHORT bias or cautious HOLD until NFP May 8.",
+    "macro_backdrop": "FOMC held rates at 3.5-3.75% on Apr 29 with higher-for-longer stance. Iran conflict keeps oil elevated, squeezing risk assets. Fed Chair transition uncertainty adds further caution. No major data release within 24h — ISM PMI today is medium-impact only. Macro filter ACTIVE (confidence 0.63 >= 0.50).",
+    "regime_rationale": "Bearish (0.63): $80K resistance firmly rejected, $110M liquidations, hawkish Fed hold, geopolitical risk-off, leadership uncertainty. Prefer SHORT bias or cautious entries. Next binary catalyst: NFP May 8.",
     "sources": [
-      "coinmarketcap.com — BTC $76,528, +0.24% 24h, Fear & Greed 26",
-      "coingecko.com — BTC $76,306, 24h vol $37.16B",
+      "latestly.com — BTC $76,550 steady, slight recovery May 1 2026",
+      "coinmarketcap.com — BTC $76,666, 24h vol $29.1B",
+      "coingecko.com — BTC $76,306, 24h vol $37.2B",
       "coinbase.com — BTC $76,344",
-      "bitcoinethereumnews.com/finbold.com — May 2026 market predictions, 35% bullish",
-      "bls.gov — NFP May 8, CPI May 12, PPI May 13 2026 schedule",
-      "federalreserve.gov — FOMC held 3.5-3.75%, hawkish dissent",
-      "coingape.com — US-Iran blockade, oil surge to $126, risk-off"
+      "coindesk.com — BTC retreat deepens after $80K rejection, traders cautious",
+      "bitcoinethereumnews.com/finbold.com — prediction market 64%/$76K hold probability",
+      "federalreserve.gov — FOMC held 3.5-3.75% Apr 29 2026",
+      "theblock.co / kraken.com — macro week: FOMC minutes + CPI setup"
     ]
   }
 }
