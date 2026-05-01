@@ -1,64 +1,52 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "current_price_usd": 76200,
+  "confidence": 0.62,
+  "btc_price_usd": 76400,
   "key_events_next_24h": [
     {
-      "name": "US Non-Farm Payrolls April 2026",
-      "time": "2026-05-01 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral",
-      "note": "First Friday of May. Strong jobs = less Fed cut pressure = bearish for BTC. Weak = dovish pivot hope = bullish. Key binary catalyst within 24h."
-    },
-    {
-      "name": "Spot BTC ETF Daily Flow Report (4th Consecutive Outflow Expected)",
-      "time": "2026-04-30 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "Apr 29 confirmed -$137.77M outflow (IBIT -$54.73M, FBTC -$36.13M). Third straight day. Institutional retreat narrative active."
-    },
-    {
-      "name": "US 30-Year Treasury Yield Holding Near 5%",
-      "time": "2026-04-30 13:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish",
-      "note": "30yr yield at 5% — highest since Jul 2025. Capital rotation away from risk assets including BTC."
-    },
-    {
-      "name": "Powell Fed Chair Term Expiry (May 15) / Warsh Transition Uncertainty",
-      "time": "2026-05-15 00:00 UTC",
+      "name": "ISM Manufacturing PMI (April 2026)",
+      "time": "2026-05-01 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Warsh seen as more hawkish than Powell. Leadership uncertainty adds macro risk premium."
+      "note": "First business day of May. Weak print = risk-off; strong = dollar strength, risk-off for BTC either way."
+    },
+    {
+      "name": "BTC ETF Daily Flow Report (Outflow streak watch)",
+      "time": "2026-05-01 21:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "note": "Multiple consecutive outflow days confirmed through Apr 29. Institutional retreat narrative ongoing."
     }
   ],
-  "notes": "BTC $76K, 공포지수 33, ETF 유출 지속, NFP 내일, 30yr 국채 5%",
-  "updated": "2026-04-30 20:07:19 UTC",
-  "valid_until": "2026-05-01 00:07:19 UTC",
+  "notes": "공포지수 26, 유가 급등·매파 연준으로 약세 우위",
+  "updated": "2026-05-01 00:08:24 UTC",
+  "valid_until": "2026-05-01 04:08:24 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,000-$76,350 on Apr 30 (20:00 UTC). Down ~2% in 24h. Twice rejected at $80K resistance (double top). Support ~$74,900. Progressive lower opens each session this week.",
+    "btc_price_note": "BTC ~$76,300-$76,528 on May 1 00:08 UTC. Up +0.24% in 24h but consolidating. 13% gain in April now stalling. $80K double-top resistance still firm.",
     "sentiment_key_signals": [
-      "FOMC Apr 28-29: held 3.5-3.75%, hawkish 8-4 dissent — most divided since Oct 1992",
-      "Still within post-FOMC 48h window — historical BTC weakness pattern active",
-      "BTC twice rejected at $80K — firm technical ceiling (double top pattern)",
-      "Spot BTC ETF: -$137.77M on Apr 29 (third confirmed consecutive outflow day)",
-      "30-year US Treasury yield at ~5.0% — highest since Jul 2025; risk-off capital rotation",
-      "US Q1 GDP 2026: 2.0% advance estimate — missed 2.2% forecast",
-      "NFP May 1 at 12:30 UTC — next high-impact binary catalyst within 24h",
-      "Geopolitical: Iran / Strait of Hormuz tensions, oil elevated, risk-off sentiment",
-      "Fear & Greed Index: 33 (Fear zone)",
-      "Global crypto market cap $2.63T, down ~0.4% over 24h; total volume $107.3B"
+      "Fear & Greed Index: 26 (Fear zone, worsened from prior 33)",
+      "Technical indicators: 35% bullish (65% bearish) sentiment",
+      "Brent crude oil surged +7.1% to $126/barrel — risk-off pressure",
+      "FOMC held at 3.5%-3.75% with hawkish dissent — most divided Fed since Oct 1992",
+      "Bond yields rising — capital rotating out of risk assets",
+      "US-Iran blockade and geopolitical tensions adding risk premium",
+      "Crypto market cap down 1.28% in 24h despite BTC slight uptick",
+      "Spot BTC ETF outflow streak ongoing",
+      "NFP April 2026 scheduled May 8 at 12:30 UTC (next major binary catalyst)",
+      "CPI April 2026 scheduled May 12 at 08:30 UTC",
+      "PPI April 2026 scheduled May 13 at 08:30 UTC",
+      "Regulatory positive: Clarity Act senate markup scheduled for May 2026"
     ],
-    "macro_backdrop": "Post-FOMC hawkish hold (3.5-3.75%, 8-4 split against further cuts). 30yr yield at 5% signals sustained inflation concern and rate-cut delay. Q1 GDP missed at 2.0% vs 2.2%. ETF outflows three consecutive days. BTC double-topped at $80K. NFP May 1 is next major catalyst — bearish lean maintained until data confirms direction.",
-    "regime_rationale": "Bearish (0.65): FOMC hawkish aftermath, $80K double rejection, consecutive ETF outflows, 30yr yield at 5%, GDP miss, Fear & Greed 33. Confidence 0.65 (>=0.5 threshold) — macro filter ACTIVE. Prefer SHORT bias or cautious HOLD until NFP May 1 12:30 UTC resolves.",
+    "macro_backdrop": "Hawkish Fed hold at 3.5-3.75% with oil surging to $126 Brent drives bond yields higher and squeezes risk assets. Fear & Greed at 26 (Fear). No major macro data release within 24h — ISM Manufacturing PMI today is medium-impact only. Next high-impact catalysts: NFP May 8, CPI May 12, PPI May 13.",
+    "regime_rationale": "Bearish (0.62): Fear & Greed 26, 65% bearish technical indicators, $126 oil, hawkish Fed macro headwind, ETF outflow streak, geopolitical risk-off. Confidence 0.62 (>=0.5 threshold) — macro filter ACTIVE. Prefer SHORT bias or cautious HOLD until NFP May 8.",
     "sources": [
-      "latestly.com — BTC price Apr 30 2026: $76,000",
-      "coindesk.com — BTC $80K repeated rejection, retreat deepens (Apr 28)",
-      "coindesk.com — 30-year Treasury yield hits 5%, BTC crash risk (Apr 30)",
-      "cryptotimes.io — BTC/ETH/XRP slide, ETF outflows deepen (Apr 30)",
-      "coinmarketcap.com — BTC $76,223, Fear & Greed 33 (Apr 30)",
-      "yahoo finance — crypto values falling ahead of/post Fed meeting (Apr 28-30)",
-      "finance.yahoo.com — FOMC held 3.75%, 4 dissenting votes"
+      "coinmarketcap.com — BTC $76,528, +0.24% 24h, Fear & Greed 26",
+      "coingecko.com — BTC $76,306, 24h vol $37.16B",
+      "coinbase.com — BTC $76,344",
+      "bitcoinethereumnews.com/finbold.com — May 2026 market predictions, 35% bullish",
+      "bls.gov — NFP May 8, CPI May 12, PPI May 13 2026 schedule",
+      "federalreserve.gov — FOMC held 3.5-3.75%, hawkish dissent",
+      "coingape.com — US-Iran blockade, oil surge to $126, risk-off"
     ]
   }
 }
