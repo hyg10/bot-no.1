@@ -1,58 +1,63 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 77200,
+  "confidence": 0.55,
+  "btc_price_usd": 77500,
   "key_events_next_24h": [
     {
-      "name": "May Day / Labor Day (global holiday) - reduced market liquidity",
-      "time": "2026-05-01 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "BTC $80K resistance test - technical rejection risk zone",
-      "time": "2026-05-01 12:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC ETF daily inflow report (Fidelity +$19M reversal signal)",
-      "time": "2026-05-01 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "US Initial Jobless Claims (May 2)",
+      "name": "US Initial Jobless Claims (weekly)",
       "time": "2026-05-02 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Fed Officials Post-FOMC Speeches (after Apr 29 hold at 3.5-3.75%)",
+      "time": "2026-05-02 15:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "BTC Mining Difficulty Drop (135.59T -> 131.43T, reduces miner sell pressure)",
+      "time": "2026-05-02 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Consensus 2026 Miami Conference (May 5-7) - pre-event positioning begins",
+      "time": "2026-05-03 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $77K 중립세, $80K 저항·Fed 동결·오일 리스크 혼재",
-  "updated": "2026-05-01 09:00:00 UTC",
-  "valid_until": "2026-05-01 13:00:00 UTC",
+  "notes": "연준 동결·ETF 유입 강세, $80K 저항·공포지수 26 중립 회복세",
+  "updated": "2026-05-02 12:00:00 UTC",
+  "valid_until": "2026-05-02 16:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,550-$78,178 on May 1 (consensus ~$77,200). Up +2% in 24h. Strong April +13% monthly gain. Key resistance at $80K not broken. 74% of altcoins in the red despite BTC recovery.",
+    "btc_price_note": "BTC ~$76,343-$78,178 on May 2 (consensus ~$77,500). Up +2% in 24h. Strong April +14% monthly gain. Key resistance at $80K not yet broken. Fear & Greed Index at 26 (Fear territory, recovering from extreme low of 8 in early April).",
     "sentiment_key_signals": [
-      "BTC +2% in 24h — recovery attempt toward $80K resistance",
-      "74% of crypto coins lost value in 24h — broad market weakness persists",
-      "Fed held rates at 3.5-3.75% (Apr 28-29 FOMC) — higher-for-longer confirmed",
-      "Rising oil prices from Iran conflict weighing on risk assets",
-      "ETF inflows resuming: Fidelity +$19M reversal after 3-day outflows",
-      "BTC dominance at 60% — defensive positioning, capital in majors only",
-      "18 bullish vs 4 bearish technical indicators — short-term lean bullish",
-      "Bhutan sovereign fund (~$287M BTC transfer) — destination unconfirmed",
-      "Consensus 2026 conference May 5-7 Miami — upcoming sentiment catalyst"
+      "BTC +2% in 24h — recovery from $75,500 lows toward $80K resistance",
+      "Fear & Greed Index: 26 — Fear territory but recovering from cycle low of 8",
+      "April ETF inflows $2.44B — strongest institutional month since October 2025",
+      "FOMC held 3.5-3.75% on April 29 (8-4 contentious vote) — no rate hike",
+      "Mining difficulty dropped 135.59T -> 131.43T (May 2) — reduces miner sell pressure",
+      "SEC approved IBIT option position limit raised to 1M contracts — bullish for liquidity",
+      "Goldman Sachs filed for Bitcoin Premium Income ETF with SEC",
+      "Consensus 2026 conference May 5-7 Miami — upcoming sentiment catalyst",
+      "Bhutan sovereign fund $287M BTC transfer — institutional activity",
+      "Ark Invest projects BTC market cap to $16T by 2030"
     ],
-    "macro_backdrop": "FOMC held 3.5-3.75% Apr 28-29, hawkish tone. No major macro releases in next 24h. Next key catalysts: ISM Services May 5, NFP May 8, CPI May 12, PPI May 13. No FOMC until Jun 2026.",
-    "regime_rationale": "Neutral (0.40): BTC recovering +2% with April being its best month in a year (+13%), institutional demand steady and ETF inflows returning. However, Fed higher-for-longer, rising oil/geopolitical risk, and weak altcoin breadth (74% down) offset bullish signals. $80K is untested resistance. Mixed signals → neutral. Bot filter INACTIVE — confidence 0.40 < 0.50 threshold.",
+    "macro_backdrop": "FOMC held 3.5-3.75% on Apr 29 — most dissents (4) since 1992. No major macro releases May 2-3. Next key catalysts: ISM Services May 5, NFP May 8, CPI/PPI May 13. Next FOMC June 2026. Jobs data released May 1 (first Friday). No imminent rate catalyst.",
+    "regime_rationale": "Neutral (0.55): BTC recovering from April lows with strong ETF institutional backing ($2.44B in April) and reduced mining sell pressure. However, F&G still at 26 (Fear), $80K resistance untested and technically risky, altcoin breadth weak. FOMC uncertainty remains (8-4 split signals internal disagreement). Mixed signals with slight bullish lean from institutional demand. Bot filter ACTIVE — confidence 0.55 >= 0.50 threshold.",
     "sources": [
       "fortune.com — BTC $78,178 May 1 2026",
       "latestly.com — BTC $76,550 steady May 1 2026",
-      "cryptotimes.io — BTC at $77K, institutional moves, ETF strongest April 2026",
-      "coincodex.com — BTC +2.07% 24h, global mcap $2.65T",
-      "federalreserve.gov — FOMC held 3.5-3.75%, rates unchanged",
-      "bls.gov — CPI release scheduled May 12 2026"
+      "cryptotimes.io — BTC at $77K, institutional moves",
+      "coincodex.com — BTC +2.07% 24h, Fear & Greed 26",
+      "spotedcrypto.com — Fear market context May 2026",
+      "cnbc.com — FOMC April 29 held rates 3.5-3.75%, 8-4 vote",
+      "federalreserve.gov — Official FOMC statement April 29 2026",
+      "bls.gov — CPI May 13 2026, PPI May 13 2026",
+      "bitcoinethereumnews.com — SEC raises IBIT option limit to 1M contracts",
+      "247wallst.com — April ETF inflows $2.44B strongest since Oct 2025"
     ]
   }
 }
