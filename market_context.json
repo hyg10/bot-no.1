@@ -1,7 +1,7 @@
 {
-  "regime": "neutral",
-  "confidence": 0.50,
-  "btc_price_usd": 78324,
+  "regime": "bullish",
+  "confidence": 0.62,
+  "current_price_usd": 78324,
   "key_events_next_24h": [
     {
       "name": "US Initial Jobless Claims (weekly)",
@@ -16,53 +16,49 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "BTC Mining Difficulty Drop (135.59T -> 131.43T, reduces miner sell pressure)",
+      "name": "Iran Peace Proposal — US Crude Futures -5% (Strait of Hormuz relief)",
       "time": "2026-05-02 00:00 UTC",
-      "impact": "low",
+      "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Consensus 2026 Miami Conference pre-event positioning begins (May 5-7)",
-      "time": "2026-05-03 00:00 UTC",
-      "impact": "low",
+      "name": "BTC Spot ETF Daily Flow Report (BlackRock IBIT)",
+      "time": "2026-05-02 20:00 UTC",
+      "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "ETF 유입 강세·기관 매수, $80K 저항·매크로 불확실성 혼조",
-  "updated": "2026-05-02 08:16:52 UTC",
-  "valid_until": "2026-05-02 12:16:52 UTC",
+  "notes": "BTC $78K 상승, ETF 유입 $630M, 채널 이탈. 이란 평화협상 유가 하락",
+  "updated": "2026-05-02 08:45:00 UTC",
+  "valid_until": "2026-05-02 12:45:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC rose to $78,324 on May 2 (up from $76,550 on May 1, +2.4%). April closed +14% MoM. Key resistance at $80K not yet broken. All-time high $126,198 (Oct 2025) — currently ~52% below ATH. Fear & Greed Index at 26-29 (Fear territory, recovering from extreme low of 8 in early April).",
+    "btc_price_note": "BTC at $78,324 on May 2 (up ~1.89% in 24h). Broken out of multi-month descending channel — 31% rally off yearly lows. Key resistance: $80K not yet broken. ATH $126,198 (Oct 2025). Bitcoin dominance 58.5%. Daily volume $37.5B.",
     "sentiment_key_signals": [
-      "BTC +2.4% on May 2 ($76,550 -> $78,324) — recovery momentum toward $80K resistance",
-      "April ETF inflows $2.44B — strongest institutional month since October 2025",
-      "Futures funding rate -5% 30-day avg — rare bearish futures signal despite rising spot",
-      "Retail sentiment in extreme fear (F&G 26-29); whale wallets continue accumulating",
-      "Technical indicators: 18 bullish vs 4 bearish (RSI 55.65, neutral)",
-      "FOMC held 3.5-3.75% on April 29 (8-4 contentious vote) — no rate hike",
+      "BTC +1.89% in 24h ($78,324) — breaking multi-month descending channel",
+      "US Spot BTC ETF net inflows $630M on May 1 — led by BlackRock IBIT",
+      "Bitcoin dominance 58.5%, global crypto market cap $2.68T (+0.66% 24h)",
+      "Iran peace proposal sent to Pakistan mediators — US crude futures fell ~5% (macro relief)",
+      "SEC raised IBIT option position limit to 1M contracts (approved May 1)",
+      "Goldman Sachs filed for Bitcoin Premium Income ETF — institutional expansion",
+      "FOMC held 3.5-3.75% on April 29 — no rate hike",
       "CPI March 3.3% YoY (above 2% Fed target); zero rate cuts in 2026 at 59% Polymarket",
-      "Oil prices surged to $115 (Iran Strait of Hormuz blockade) — macro headwind",
-      "Mining difficulty dropped 135.59T -> 131.43T (May 2) — reduces miner sell pressure",
-      "SEC approved IBIT option position limit raised to 1M contracts",
-      "Goldman Sachs filed for Bitcoin Premium Income ETF",
-      "Consensus 2026 conference May 5-7 Miami — upcoming sentiment catalyst",
+      "Ark Invest projects BTC market cap to $16T by 2030 — long-term bullish",
+      "Fear & Greed recovering — markets showing resilience despite geopolitical headwinds",
       "Powell term ends May 15; Kevin Warsh nominated as next Fed Chair — transition risk",
-      "Senate stablecoin yield compromise removing legislative roadblock — positive",
-      "Ark Invest projects BTC market cap to $16T by 2030"
+      "Consensus 2026 conference May 5-7 Miami — upcoming sentiment catalyst"
     ],
-    "macro_backdrop": "FOMC held 3.5-3.75% on Apr 29 — most dissents (4) since 1992. CPI at 3.3% well above 2% target. Key today: Initial Jobless Claims 12:30 UTC + Fed speeches 15:00 UTC. Next: ISM Services May 5, NFP May 8, CPI/PPI May 13. Fed leadership transition (Powell exits May 15, Warsh incoming) adds uncertainty. Oil at $115 inflation driver.",
-    "regime_rationale": "Neutral (0.50): BTC recovering with strong institutional backing (ETF $2.44B April, whale accumulation, mining sell pressure down, 18/4 bullish technical indicators). However, macro headwinds are material — inflation 3.3%, no rate cuts expected, oil at $115, Fed transition uncertainty, futures funding -5% (bearish speculative sentiment). Fear & Greed at 26-29. $80K resistance not yet breached. Bot macro filter ACTIVE at 0.50 threshold.",
+    "macro_backdrop": "FOMC held 3.5-3.75% on Apr 29. CPI at 3.3% above 2% target. Iran peace proposal pushing crude futures down ~5% (positive macro relief). Key today: Initial Jobless Claims 12:30 UTC + Fed speeches 15:00 UTC. Next major events: ISM Services May 5, NFP May 8, CPI/PPI May 12-13. Fed leadership transition (Powell exits May 15, Warsh incoming) adds uncertainty.",
+    "regime_rationale": "Bullish (0.62): BTC breaking out of multi-month descending channel with ETF inflows surging ($630M May 1). Institutional demand robust. Iran peace talks easing oil price pressure — removes key macro headwind from prior analysis. However, $80K resistance not yet broken, CPI elevated, futures funding ambiguous, and geopolitical stalemate unresolved. Confidence capped at 0.62 — bot macro filter ACTIVE.",
     "sources": [
       "latestly.com — BTC $78,324 May 2 2026",
-      "latestly.com — BTC $76,550 May 1 2026",
-      "cryptotimes.io — BTC at $77K institutional moves May 1 2026",
-      "spotedcrypto.com — fear market context May 2026",
-      "coindesk.com — April ETF inflows strongest since Oct 2025 / Ark Invest $16T target",
-      "bitcoinethereumnews.com — BTC XRP outlook CLARITY Act May 2026",
-      "federalreserve.gov — FOMC statement April 29 2026",
-      "blog.kraken.com — The Fed decides today Apr 29 2026",
-      "alternative.me — Fear & Greed Index 26-29 Fear",
-      "coincodex.com — BTC 18 bullish / 4 bearish indicators May 2026"
+      "yellow.com — BTC $78,445 May 2 volume $37.5B",
+      "fortune.com — BTC May 1 2026 prices",
+      "247wallst.com — BTC price prediction May 2026",
+      "coindesk.com — Ark Invest $16T target / institutional demand",
+      "bitcoinethereumnews.com — SEC raises IBIT option limit to 1M contracts",
+      "pymnts.com — Goldman Sachs SEC Bitcoin ETF filing",
+      "forex.com — BTC/USD 30% breakout rally faces $80K test",
+      "theblock.co — crypto ETFs 2026 regulatory tailwinds"
     ]
   }
 }
