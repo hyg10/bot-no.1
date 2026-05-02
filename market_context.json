@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
-  "btc_price_usd": 77500,
+  "confidence": 0.50,
+  "btc_price_usd": 78324,
   "key_events_next_24h": [
     {
       "name": "US Initial Jobless Claims (weekly)",
@@ -22,42 +22,45 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "Consensus 2026 Miami Conference (May 5-7) - pre-event positioning begins",
+      "name": "Consensus 2026 Miami Conference pre-event positioning begins (May 5-7)",
       "time": "2026-05-03 00:00 UTC",
       "impact": "low",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "연준 동결·ETF 유입 강세, $80K 저항·공포지수 26 중립 회복세",
-  "updated": "2026-05-02 12:00:00 UTC",
-  "valid_until": "2026-05-02 16:00:00 UTC",
+  "notes": "ETF 유입 강세·기관 매수, $80K 저항·매크로 불확실성 혼조",
+  "updated": "2026-05-02 04:22:13 UTC",
+  "valid_until": "2026-05-02 08:22:13 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,343-$78,178 on May 2 (consensus ~$77,500). Up +2% in 24h. Strong April +14% monthly gain. Key resistance at $80K not yet broken. Fear & Greed Index at 26 (Fear territory, recovering from extreme low of 8 in early April).",
+    "btc_price_note": "BTC rose to $78,324 on May 2 (up from $76,550 on May 1, +2.4%). April closed +14% MoM. Key resistance at $80K not yet broken. All-time high $126,198 (Oct 2025) — currently ~52% below ATH. Fear & Greed Index at 26 (Fear territory, recovering from extreme low of 8 in early April).",
     "sentiment_key_signals": [
-      "BTC +2% in 24h — recovery from $75,500 lows toward $80K resistance",
-      "Fear & Greed Index: 26 — Fear territory but recovering from cycle low of 8",
+      "BTC +2.4% on May 2 ($76,550 -> $78,324) — recovery momentum toward $80K resistance",
       "April ETF inflows $2.44B — strongest institutional month since October 2025",
+      "Futures funding rate -5% 30-day avg — rare bearish futures signal despite rising spot",
+      "Retail sentiment in extreme fear; whale wallets continue accumulating",
       "FOMC held 3.5-3.75% on April 29 (8-4 contentious vote) — no rate hike",
+      "CPI March 3.3% YoY (above 2% Fed target); zero rate cuts in 2026 at 59% Polymarket",
+      "Oil prices surged to $115 (Iran Strait of Hormuz blockade) — macro headwind",
       "Mining difficulty dropped 135.59T -> 131.43T (May 2) — reduces miner sell pressure",
-      "SEC approved IBIT option position limit raised to 1M contracts — bullish for liquidity",
-      "Goldman Sachs filed for Bitcoin Premium Income ETF with SEC",
+      "SEC approved IBIT option position limit raised to 1M contracts",
+      "Goldman Sachs filed for Bitcoin Premium Income ETF",
       "Consensus 2026 conference May 5-7 Miami — upcoming sentiment catalyst",
-      "Bhutan sovereign fund $287M BTC transfer — institutional activity",
+      "Powell term ends May 15; Kevin Warsh nominated as next Fed Chair — transition risk",
       "Ark Invest projects BTC market cap to $16T by 2030"
     ],
-    "macro_backdrop": "FOMC held 3.5-3.75% on Apr 29 — most dissents (4) since 1992. No major macro releases May 2-3. Next key catalysts: ISM Services May 5, NFP May 8, CPI/PPI May 13. Next FOMC June 2026. Jobs data released May 1 (first Friday). No imminent rate catalyst.",
-    "regime_rationale": "Neutral (0.55): BTC recovering from April lows with strong ETF institutional backing ($2.44B in April) and reduced mining sell pressure. However, F&G still at 26 (Fear), $80K resistance untested and technically risky, altcoin breadth weak. FOMC uncertainty remains (8-4 split signals internal disagreement). Mixed signals with slight bullish lean from institutional demand. Bot filter ACTIVE — confidence 0.55 >= 0.50 threshold.",
+    "macro_backdrop": "FOMC held 3.5-3.75% on Apr 29 — most dissents (4) since 1992. CPI at 3.3% well above 2% target. No major macro releases May 2-3. Next key catalysts: ISM Services May 5, NFP May 8, CPI/PPI May 13. Fed leadership transition (Powell exits May 15, Warsh incoming) adds uncertainty. Oil at $115 inflation driver.",
+    "regime_rationale": "Neutral (0.50): BTC recovering with strong institutional backing (ETF $2.44B April, whale accumulation, mining sell pressure down). However, macro headwinds are material — inflation 3.3%, no rate cuts expected, oil at $115, Fed transition uncertainty, futures funding -5% (bearish speculative sentiment). Fear & Greed at 26. $80K resistance not yet breached. Conflicting signals warrant neutral stance. Bot filter ACTIVE at threshold 0.50.",
     "sources": [
-      "fortune.com — BTC $78,178 May 1 2026",
-      "latestly.com — BTC $76,550 steady May 1 2026",
-      "cryptotimes.io — BTC at $77K, institutional moves",
-      "coincodex.com — BTC +2.07% 24h, Fear & Greed 26",
-      "spotedcrypto.com — Fear market context May 2026",
-      "cnbc.com — FOMC April 29 held rates 3.5-3.75%, 8-4 vote",
-      "federalreserve.gov — Official FOMC statement April 29 2026",
-      "bls.gov — CPI May 13 2026, PPI May 13 2026",
-      "bitcoinethereumnews.com — SEC raises IBIT option limit to 1M contracts",
-      "247wallst.com — April ETF inflows $2.44B strongest since Oct 2025"
+      "latestly.com — BTC $78,324 May 2 2026",
+      "fortune.com — BTC $76,988 May 1 2026",
+      "cryptotimes.io — BTC at $77K institutional moves May 1 2026",
+      "spotedcrypto.com — fear market context May 2026",
+      "ccn.com — Bitcoin $75K Fed holds rates FOMC Powell",
+      "coindesk.com — April ETF inflows $2.44B strongest since Oct 2025",
+      "theccpress.com — upcoming crypto macro events 2026",
+      "federalreserve.gov — FOMC calendar and decisions",
+      "phemex.com — CPI 3.3% March 2026 Bitcoin impact",
+      "247wallst.com — BTC price prediction May 2026"
     ]
   }
 }
