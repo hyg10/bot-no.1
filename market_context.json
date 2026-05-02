@@ -29,15 +29,16 @@
     }
   ],
   "notes": "ETF 유입 강세·기관 매수, $80K 저항·매크로 불확실성 혼조",
-  "updated": "2026-05-02 04:22:13 UTC",
-  "valid_until": "2026-05-02 08:22:13 UTC",
+  "updated": "2026-05-02 08:16:52 UTC",
+  "valid_until": "2026-05-02 12:16:52 UTC",
   "analysis": {
-    "btc_price_note": "BTC rose to $78,324 on May 2 (up from $76,550 on May 1, +2.4%). April closed +14% MoM. Key resistance at $80K not yet broken. All-time high $126,198 (Oct 2025) — currently ~52% below ATH. Fear & Greed Index at 26 (Fear territory, recovering from extreme low of 8 in early April).",
+    "btc_price_note": "BTC rose to $78,324 on May 2 (up from $76,550 on May 1, +2.4%). April closed +14% MoM. Key resistance at $80K not yet broken. All-time high $126,198 (Oct 2025) — currently ~52% below ATH. Fear & Greed Index at 26-29 (Fear territory, recovering from extreme low of 8 in early April).",
     "sentiment_key_signals": [
       "BTC +2.4% on May 2 ($76,550 -> $78,324) — recovery momentum toward $80K resistance",
       "April ETF inflows $2.44B — strongest institutional month since October 2025",
       "Futures funding rate -5% 30-day avg — rare bearish futures signal despite rising spot",
-      "Retail sentiment in extreme fear; whale wallets continue accumulating",
+      "Retail sentiment in extreme fear (F&G 26-29); whale wallets continue accumulating",
+      "Technical indicators: 18 bullish vs 4 bearish (RSI 55.65, neutral)",
       "FOMC held 3.5-3.75% on April 29 (8-4 contentious vote) — no rate hike",
       "CPI March 3.3% YoY (above 2% Fed target); zero rate cuts in 2026 at 59% Polymarket",
       "Oil prices surged to $115 (Iran Strait of Hormuz blockade) — macro headwind",
@@ -46,21 +47,22 @@
       "Goldman Sachs filed for Bitcoin Premium Income ETF",
       "Consensus 2026 conference May 5-7 Miami — upcoming sentiment catalyst",
       "Powell term ends May 15; Kevin Warsh nominated as next Fed Chair — transition risk",
+      "Senate stablecoin yield compromise removing legislative roadblock — positive",
       "Ark Invest projects BTC market cap to $16T by 2030"
     ],
-    "macro_backdrop": "FOMC held 3.5-3.75% on Apr 29 — most dissents (4) since 1992. CPI at 3.3% well above 2% target. No major macro releases May 2-3. Next key catalysts: ISM Services May 5, NFP May 8, CPI/PPI May 13. Fed leadership transition (Powell exits May 15, Warsh incoming) adds uncertainty. Oil at $115 inflation driver.",
-    "regime_rationale": "Neutral (0.50): BTC recovering with strong institutional backing (ETF $2.44B April, whale accumulation, mining sell pressure down). However, macro headwinds are material — inflation 3.3%, no rate cuts expected, oil at $115, Fed transition uncertainty, futures funding -5% (bearish speculative sentiment). Fear & Greed at 26. $80K resistance not yet breached. Conflicting signals warrant neutral stance. Bot filter ACTIVE at threshold 0.50.",
+    "macro_backdrop": "FOMC held 3.5-3.75% on Apr 29 — most dissents (4) since 1992. CPI at 3.3% well above 2% target. Key today: Initial Jobless Claims 12:30 UTC + Fed speeches 15:00 UTC. Next: ISM Services May 5, NFP May 8, CPI/PPI May 13. Fed leadership transition (Powell exits May 15, Warsh incoming) adds uncertainty. Oil at $115 inflation driver.",
+    "regime_rationale": "Neutral (0.50): BTC recovering with strong institutional backing (ETF $2.44B April, whale accumulation, mining sell pressure down, 18/4 bullish technical indicators). However, macro headwinds are material — inflation 3.3%, no rate cuts expected, oil at $115, Fed transition uncertainty, futures funding -5% (bearish speculative sentiment). Fear & Greed at 26-29. $80K resistance not yet breached. Bot macro filter ACTIVE at 0.50 threshold.",
     "sources": [
       "latestly.com — BTC $78,324 May 2 2026",
-      "fortune.com — BTC $76,988 May 1 2026",
+      "latestly.com — BTC $76,550 May 1 2026",
       "cryptotimes.io — BTC at $77K institutional moves May 1 2026",
       "spotedcrypto.com — fear market context May 2026",
-      "ccn.com — Bitcoin $75K Fed holds rates FOMC Powell",
-      "coindesk.com — April ETF inflows $2.44B strongest since Oct 2025",
-      "theccpress.com — upcoming crypto macro events 2026",
-      "federalreserve.gov — FOMC calendar and decisions",
-      "phemex.com — CPI 3.3% March 2026 Bitcoin impact",
-      "247wallst.com — BTC price prediction May 2026"
+      "coindesk.com — April ETF inflows strongest since Oct 2025 / Ark Invest $16T target",
+      "bitcoinethereumnews.com — BTC XRP outlook CLARITY Act May 2026",
+      "federalreserve.gov — FOMC statement April 29 2026",
+      "blog.kraken.com — The Fed decides today Apr 29 2026",
+      "alternative.me — Fear & Greed Index 26-29 Fear",
+      "coincodex.com — BTC 18 bullish / 4 bearish indicators May 2026"
     ]
   }
 }
