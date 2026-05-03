@@ -1,13 +1,13 @@
 {
-  "regime": "bullish",
-  "confidence": 0.60,
-  "current_price_usd": 78281,
+  "regime": "neutral",
+  "confidence": 0.55,
+  "current_price_usd": 78350,
   "key_events_next_24h": [
     {
-      "name": "BTC $80K Psychological Resistance Test (key breakout level)",
+      "name": "BTC $80K Psychological Resistance Test (LTH Selling Zone)",
       "time": "2026-05-03 12:00 UTC",
       "impact": "high",
-      "expected_direction": "bullish"
+      "expected_direction": "bearish"
     },
     {
       "name": "Weekend Low Liquidity Window (No Scheduled Macro Releases)",
@@ -40,36 +40,34 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 유입 강세+채널 돌파. $80K 저항 테스트 중, 강세 전환",
-  "updated": "2026-05-03 10:00:00 UTC",
-  "valid_until": "2026-05-03 14:00:00 UTC",
+  "notes": "FOMC 매파적 홀드, 공포지수39, $80K 저항선 횡보 중",
+  "updated": "2026-05-03 10:30:00 UTC",
+  "valid_until": "2026-05-03 14:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$78,281 on May 3 consolidating just below $80K resistance (+1.89% 24h). Broke out of multi-month descending channel. Down ~38% from Oct 2025 ATH of $126K. Market cap ~$2.68T.",
+    "btc_price_note": "BTC ~$78,350 on May 3 consolidating below $80K resistance. Up ~11.87% in April (best monthly 2026). Fear & Greed Index: 39 (Fear zone, down from 70 last week). 24h range: $78,095-$79,005. BTC dominance: 58.5%. Market cap: ~$2.68T.",
     "sentiment_key_signals": [
-      "BTC holding above $78K for first time since February — bullish structural shift",
-      "May already logged >$600M ETF inflows; April BTC spot ETF monthly: $2.44B — strongest since Oct 2025",
+      "Fear & Greed Index: 39 (Fear) — significant bearish sentiment shift vs 70 (Greed) last week",
+      "FOMC April 29: held 3.5-3.75% with rare 8-4 dissent split — hawkish signals 'higher-for-longer', weighing on crypto",
+      "$80K strong resistance zone — long-term holders reducing positions at psychological level",
+      "April BTC spot ETF monthly: $2.44B — strongest institutional demand since Oct 2025 (bullish)",
       "May 1 single-day ETF: $629.8M net (BlackRock IBIT $284.4M, Fidelity FBTC $213.4M)",
-      "Ethereum ETFs returned to inflows May 1: $101.2M net",
-      "Glassnode RHODL ratio 4.5 — 3rd highest in BTC history; prior readings at cycle bottoms preceded bull markets",
-      "Iran updated peace proposal submitted May 1 — risk-on, crude oil -5%",
-      "FOMC held rates 3.5-3.75% April 29; next meeting June 16-17",
-      "Goldman Sachs SEC filing for Bitcoin Premium Income ETF active",
-      "SEC raised IBIT option position limit to 1M contracts — institutional expansion positive",
-      "ARK Invest: BTC market cap $16T by 2030 — long-term institutional bullish",
-      "Large-cap crypto range-bound below $80K; altcoins showing selective gains",
-      "Total crypto liquidations $449.52M/24h — elevated but manageable"
+      "SEC raised IBIT option position limit to 1M contracts on May 1 — institutional infrastructure expansion",
+      "ARK Invest: BTC market cap $16T by 2030 — long-term bullish institutional narrative",
+      "Technical support at $76,200 (23.6% Fibonacci retracement) — buyers defending level",
+      "No major macro data releases in next 24h (PPI May 13, next FOMC June 16-17)",
+      "Iran peace proposal submitted May 1 — mild risk-on backdrop, crude oil declining"
     ],
-    "macro_backdrop": "Weekend May 3-4: no scheduled macro releases. FOMC held 3.5-3.75% on Apr 29 — no near-term rate shock. Fed Chair Powell exits May 15; Kevin Warsh replacing — some transition uncertainty. CPI ~3.3% YoY (elevated). Next key macro: ISM Services May 5, NFP Apr data May 8, CPI/PPI ~May 12-13. Iran peace proposal is positive near-term catalyst.",
-    "regime_rationale": "Bullish (0.60): BTC broke multi-month descending channel and is consolidating above $78K with record ETF inflows in May. Strong institutional demand (IBIT/FBTC daily $629.8M), rising on-chain cycle indicators (RHODL 4.5), and Iran peace deal reducing geopolitical risk all support bullish bias. Key risk: $80K psychological resistance, weekend low liquidity. Confidence capped at 0.60 pending confirmed $80K breakout.",
+    "macro_backdrop": "Weekend May 3-4: no scheduled macro releases. FOMC held 3.5-3.75% on Apr 29 — 8-4 dissent split is hawkish signal, 'higher-for-longer' language weighing on speculative assets. Fed Chair Powell exits May 15; Kevin Warsh transition adds uncertainty. CPI ~3.3% YoY (elevated). Next key macro: ISM Services May 5, NFP Apr data May 8, PPI May 13, CPI ~May 12.",
+    "regime_rationale": "Neutral (0.55): BTC is consolidating after April's +11.87% rally, facing strong $80K resistance with LTH profit-taking. Fear & Greed at 39 (Fear) indicates sentiment deterioration from peak. FOMC hawkish hold with rare 8-4 dissent signals 'higher-for-longer' monetary policy, historically bearish for crypto. Bullish counterweights: record ETF inflows, strong institutional demand, and intact technical structure above $76K support. Net signal: sideways/neutral — momentum exhaustion at resistance with no clear catalyst to break above or below in next 24h.",
     "sources": [
-      "latestly.com — BTC $78,281 May 3 2026 consolidation",
-      "cryptotimes.io — BTC reclaims $77K, April strongest ETF month 2026",
-      "ambcrypto.com — May records strongest BTC ETF inflows in 2026",
-      "247wallst.com — BTC channel breakout, May 2026",
-      "coindesk.com — Ark Invest $16T BTC target, May 2026",
-      "pymnts.com — Goldman Sachs Bitcoin ETF SEC filing",
+      "latestly.com — BTC $78,281 May 3 2026 consolidation, traders eye resistance",
+      "spotedcrypto.com — BTC dominance 58.5%, Fear & Greed 39, May 2 2026",
+      "bingx.com — May 2026 BTC ETF inflows record, $80K resistance",
+      "cnbc.com — FOMC April 29 holds 3.5-3.75%, 8-4 dissent, hawkish tone",
+      "federalreserve.gov — FOMC April 29 official statement",
+      "cryptonews.net — crypto sentiment, Fear & Greed analysis May 2026",
       "bitcoinethereumnews.com — SEC raises IBIT option position limit to 1M contracts",
-      "federalreserve.gov — FOMC April 29 statement, held 3.5-3.75%"
+      "coindesk.com — ARK Invest $16T BTC target, institutional demand May 2026"
     ]
   }
 }
