@@ -1,14 +1,8 @@
 {
   "regime": "neutral",
-  "confidence": 0.50,
+  "confidence": 0.55,
   "current_price_usd": 78500,
   "key_events_next_24h": [
-    {
-      "name": "BTC $80K Psychological Resistance Test (LTH Selling Zone)",
-      "time": "2026-05-03 13:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
     {
       "name": "Weekend Low Liquidity Window (No Scheduled Macro Releases)",
       "time": "2026-05-03 18:00 UTC",
@@ -20,54 +14,31 @@
       "time": "2026-05-04 12:00 UTC",
       "impact": "low",
       "expected_direction": "bullish"
-    },
-    {
-      "name": "Strategy (MicroStrategy) Q1 Earnings Report",
-      "time": "2026-05-05 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "ISM Services Index Release",
-      "time": "2026-05-05 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US NFP April Jobs Data Release",
-      "time": "2026-05-08 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $78.5K 횡보, $80K 저항 테스트 중. ETF 유입 강세 지속",
-  "updated": "2026-05-03 13:00:00 UTC",
-  "valid_until": "2026-05-03 17:00:00 UTC",
+  "notes": "BTC $78K 저항선 공방, ETF 유입 긍정적, 관망세 지속",
+  "updated": "2026-05-03 14:00:00 UTC",
+  "valid_until": "2026-05-03 18:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$78,500 on May 3 (range $78,281-$78,804 across exchanges). Broke out of multi-month descending channel — major technical development. April +11.87% (best month of 2026). ETF inflows: $629.8M on May 1 alone (BlackRock IBIT $284.4M, Fidelity FBTC $213.4M). BTC dominance: 58.4%. Global crypto market cap: $2.7T.",
+    "btc_price_note": "BTC ~$78,500 on May 3 (range $78,281-$78,804 across exchanges). 31% off yearly lows. April ETF inflows: ~$2B net (strongest ETF month of 2026). May 1 single-day: $629.8M net (BlackRock IBIT $284.4M, Fidelity FBTC $213.4M). BTC dominance: 58.4%. Global crypto market cap: $2.7T.",
     "sentiment_key_signals": [
       "BTC broke out of multi-month descending channel — structurally bullish technical signal",
-      "$80K is the primary resistance: largest liquidity cluster in current market, LTH profit-taking zone",
+      "$80K primary resistance: largest liquidity cluster, LTH profit-taking zone",
       "May 1 single-day ETF inflows: $629.8M net — strongest institutional demand of May 2026 so far",
-      "April 2026 ETF monthly: ~$2B net inflows — strongest ETF month of 2026",
-      "Selective risk appetite: altcoins (LAB, TAGGER, SkyAI) rallying while large-caps range-bound",
+      "Selective risk appetite: altcoins (LAB, TAGGER, SkyAI) rallying; large-caps range-bound",
       "24h liquidations: $449.52M total / 110,109 traders — elevated leverage risk beneath surface calm",
-      "FOMC April 28-29: held rates, next meeting June 16-17 — no imminent rate catalyst",
-      "CPI April data release: May 12 — no CPI event in next 24h",
-      "ARK Invest: BTC market cap $16T by 2030 — bullish long-term institutional narrative",
-      "No major macro data releases in next 24h (Sunday May 3-4)"
+      "FOMC Apr 29: held rates 3.5-3.75% (4 hawkish dissents); next meeting June 16-17",
+      "No major macro data releases this weekend (May 3-4)"
     ],
-    "macro_backdrop": "Weekend May 3-4: no scheduled macro data releases. FOMC held rates on Apr 29; next meeting June 16-17. CPI April data due May 12. ISM Services May 5, NFP April data May 8. Geopolitical backdrop mildly risk-on (no acute crisis). Fed policy uncertainty persists but no new catalyst expected in next 24h.",
-    "regime_rationale": "Neutral (0.50): BTC consolidating after April +11.87% rally. Bullish signals: descending channel breakout, record ETF inflows ($629.8M/day), strong institutional demand, no negative macro catalyst in next 24h. Bearish/cautious signals: $80K hard resistance with LTH profit-taking, elevated liquidations ($449M) suggesting leverage, selective (not broad) altcoin rally. Net: balanced — momentum exhaustion at key resistance, breakout or rejection equally plausible without new catalyst.",
+    "macro_backdrop": "Weekend May 3-4: no scheduled macro data. FOMC held rates Apr 29; next June 16-17. CPI April due May 12. ISM Services May 5, NFP April May 8. JOLTS Mar data May 5. No acute macro catalyst expected in next 24h.",
+    "regime_rationale": "Neutral (0.55): BTC consolidating after April +11.87% rally. Bulls: channel breakout, record ETF inflows ($629.8M/day), institutional bid. Bears: $80K hard resistance with LTH selling, elevated liquidations, selective (not broad) risk appetite. Net: range-bound momentum pause — breakout or rejection equally plausible without new catalyst.",
     "sources": [
       "latestly.com — BTC $78,281 May 3 2026, consolidating at resistance",
-      "bingx.com — May 2026 ETF inflows record, $80K resistance wall",
       "cryptotimes.io — May 3 crypto market, altcoin gainers, selective risk appetite",
       "fool.com — crypto markets May 1, BTC above $78K, tech stocks new highs",
-      "federalreserve.gov — FOMC Apr 29 statement (no rate change)",
-      "coindesk.com — ARK Invest $16T BTC target May 2026",
-      "bitget.com — BTC $85K target, $80K liquidity resistance wall analysis",
-      "ig.com — BTC toppish signals near $80K resistance"
+      "federalreserve.gov — FOMC Apr 29 statement, 4 dissents, rates held",
+      "coindesk.com — ARK Invest $16T BTC target; BTC bounces on big tech earnings",
+      "bitget.com — BTC $85K target, $80K liquidity resistance wall analysis"
     ]
   }
 }
