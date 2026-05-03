@@ -1,64 +1,67 @@
 {
   "regime": "bullish",
-  "confidence": 0.62,
-  "current_price_usd": 78324,
+  "confidence": 0.60,
+  "current_price_usd": 78210,
   "key_events_next_24h": [
     {
-      "name": "US Initial Jobless Claims (weekly)",
-      "time": "2026-05-02 12:30 UTC",
+      "name": "Weekend Low Liquidity Window (No Scheduled Macro Releases)",
+      "time": "2026-05-03 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Fed Officials Post-FOMC Speeches (after Apr 29 hold at 3.5-3.75%)",
-      "time": "2026-05-02 15:00 UTC",
+      "name": "US-Iran Geopolitical Stalemate (Naval Blockade / Strait of Hormuz)",
+      "time": "2026-05-03 12:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "Iran Peace Proposal — US Crude Futures -5% (Strait of Hormuz relief)",
-      "time": "2026-05-02 00:00 UTC",
-      "impact": "medium",
+      "name": "Consensus 2026 Conference Preview (Miami, May 5-7) — Sentiment Catalyst",
+      "time": "2026-05-04 12:00 UTC",
+      "impact": "low",
       "expected_direction": "bullish"
     },
     {
-      "name": "BTC Spot ETF Daily Flow Report (BlackRock IBIT)",
-      "time": "2026-05-02 20:00 UTC",
-      "impact": "medium",
+      "name": "Goldman Sachs Bitcoin Premium Income ETF — SEC Filing Review (Ongoing)",
+      "time": "2026-05-04 15:00 UTC",
+      "impact": "low",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $78K 상승, ETF 유입 $630M, 채널 이탈. 이란 평화협상 유가 하락",
-  "updated": "2026-05-02 08:45:00 UTC",
-  "valid_until": "2026-05-02 12:45:00 UTC",
+  "notes": "BTC $78K대 강세, $80K 저항. 이란-미 교착, ETF 유입 지속",
+  "updated": "2026-05-03 00:25:13 UTC",
+  "valid_until": "2026-05-03 04:25:13 UTC",
   "analysis": {
-    "btc_price_note": "BTC at $78,324 on May 2 (up ~1.89% in 24h). Broken out of multi-month descending channel — 31% rally off yearly lows. Key resistance: $80K not yet broken. ATH $126,198 (Oct 2025). Bitcoin dominance 58.5%. Daily volume $37.5B.",
+    "btc_price_note": "BTC ~$78,210 on May 3 (up ~1.89% in 24h from May 2 close of $78,324). 31% rally off yearly lows, breaking multi-month descending channel. Key resistance: $80K psychological level not yet broken. Market cap ~$1.57T. Bitcoin dominance ~58.2%.",
     "sentiment_key_signals": [
-      "BTC +1.89% in 24h ($78,324) — breaking multi-month descending channel",
-      "US Spot BTC ETF net inflows $630M on May 1 — led by BlackRock IBIT",
-      "Bitcoin dominance 58.5%, global crypto market cap $2.68T (+0.66% 24h)",
-      "Iran peace proposal sent to Pakistan mediators — US crude futures fell ~5% (macro relief)",
-      "SEC raised IBIT option position limit to 1M contracts (approved May 1)",
-      "Goldman Sachs filed for Bitcoin Premium Income ETF — institutional expansion",
-      "FOMC held 3.5-3.75% on April 29 — no rate hike",
-      "CPI March 3.3% YoY (above 2% Fed target); zero rate cuts in 2026 at 59% Polymarket",
-      "Ark Invest projects BTC market cap to $16T by 2030 — long-term bullish",
-      "Fear & Greed recovering — markets showing resilience despite geopolitical headwinds",
-      "Powell term ends May 15; Kevin Warsh nominated as next Fed Chair — transition risk",
-      "Consensus 2026 conference May 5-7 Miami — upcoming sentiment catalyst"
+      "BTC +1.89% in 24h (~$78,210-78,324) — multi-month descending channel breakout confirmed",
+      "April spot BTC ETF monthly inflows $2.44B — strongest month since October 2025",
+      "May 1 daily ETF net inflows $629.8M: BlackRock IBIT $284.4M, Fidelity FBTC $213.4M",
+      "Ethereum ETFs returned to inflows May 1: $101.2M net",
+      "Total crypto market cap ~$2.69T (+0.66% 24h)",
+      "US-Iran standoff: US maintaining naval blockade; Iran demands blockade lifted before reopening Strait of Hormuz — geopolitical risk unresolved",
+      "Goldman Sachs filed SEC registration for Bitcoin Premium Income ETF — institutional expansion",
+      "SEC approved generic ETF listing standards (faster approval — up to 75 days vs 240 days)",
+      "SEC reviewing NYSE Arca proposal requiring 85% NAV in pre-approved assets for crypto ETPs",
+      "FOMC held 3.5-3.75% at April 29 meeting; next FOMC June 16-17",
+      "Powell Fed chairmanship ends May 15; Kevin Warsh nominated as next Fed Chair — transition risk",
+      "Ark Invest projects BTC market cap $16T by 2030; Standard Chartered targets $150K for 2026",
+      "Consensus 2026 conference Miami May 5-7 — upcoming sentiment catalyst",
+      "Market is selective: broad altcoin breakout NOT confirmed; large-caps in narrow range"
     ],
-    "macro_backdrop": "FOMC held 3.5-3.75% on Apr 29. CPI at 3.3% above 2% target. Iran peace proposal pushing crude futures down ~5% (positive macro relief). Key today: Initial Jobless Claims 12:30 UTC + Fed speeches 15:00 UTC. Next major events: ISM Services May 5, NFP May 8, CPI/PPI May 12-13. Fed leadership transition (Powell exits May 15, Warsh incoming) adds uncertainty.",
-    "regime_rationale": "Bullish (0.62): BTC breaking out of multi-month descending channel with ETF inflows surging ($630M May 1). Institutional demand robust. Iran peace talks easing oil price pressure — removes key macro headwind from prior analysis. However, $80K resistance not yet broken, CPI elevated, futures funding ambiguous, and geopolitical stalemate unresolved. Confidence capped at 0.62 — bot macro filter ACTIVE.",
+    "macro_backdrop": "Weekend May 3 — no scheduled macro data releases. FOMC April 29 held at 3.5-3.75%; Fed projects median one cut in 2026 but 7 members forecast zero cuts. CPI at 3.3% YoY (above 2% target). Next key data: ISM Services May 5 (Monday), NFP April data May 8, CPI/PPI ~May 12-13. Powell exit May 15 adds leadership uncertainty. Iran-US Strait of Hormuz standoff is key geopolitical risk — any escalation = sharp BTC selloff possible.",
+    "regime_rationale": "Bullish (0.60): BTC maintaining breakout above $77.5K former resistance-turned-support after 31% rally off lows. ETF institutional demand strong ($2.44B April). However: (1) $80K resistance not broken, (2) US-Iran standoff unresolved — prior 'peace proposal' headline walked back, blockade ongoing, (3) weekend low liquidity = gap risk, (4) market rally is selective not broad-based. Confidence 0.60 — macro filter ACTIVE at this level.",
     "sources": [
       "latestly.com — BTC $78,324 May 2 2026",
-      "yellow.com — BTC $78,445 May 2 volume $37.5B",
-      "fortune.com — BTC May 1 2026 prices",
-      "247wallst.com — BTC price prediction May 2026",
-      "coindesk.com — Ark Invest $16T target / institutional demand",
-      "bitcoinethereumnews.com — SEC raises IBIT option limit to 1M contracts",
-      "pymnts.com — Goldman Sachs SEC Bitcoin ETF filing",
-      "forex.com — BTC/USD 30% breakout rally faces $80K test",
-      "theblock.co — crypto ETFs 2026 regulatory tailwinds"
+      "cryptotimes.io — April closes strongest ETF month of 2026; BTC reclaims $77K",
+      "fortune.com — BTC May 1 2026 prices moving higher",
+      "forex.com — BTC/USD 30%+ breakout rally faces first test at $80K",
+      "coindesk.com — Ark Invest $16T BTC target by 2030",
+      "pymnts.com — Goldman Sachs SEC Bitcoin Premium Income ETF filing",
+      "theblock.co — crypto ETFs 2026 regulatory tailwinds",
+      "news.bitcoin.com — SEC reviews 85% proposal for ETF listings",
+      "bls.gov — NFP April 2026 scheduled May 8",
+      "federalreserve.gov — FOMC calendar, June 16-17 next meeting"
     ]
   }
 }
