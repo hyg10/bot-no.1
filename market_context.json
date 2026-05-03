@@ -1,17 +1,17 @@
 {
-  "regime": "neutral",
-  "confidence": 0.50,
+  "regime": "bullish",
+  "confidence": 0.60,
   "current_price_usd": 78281,
   "key_events_next_24h": [
     {
-      "name": "Iran Updated Peace Proposal (submitted to Pakistan mediators May 1)",
-      "time": "2026-05-03 00:00 UTC",
-      "impact": "medium",
+      "name": "BTC $80K Psychological Resistance Test (key breakout level)",
+      "time": "2026-05-03 12:00 UTC",
+      "impact": "high",
       "expected_direction": "bullish"
     },
     {
       "name": "Weekend Low Liquidity Window (No Scheduled Macro Releases)",
-      "time": "2026-05-03 12:00 UTC",
+      "time": "2026-05-03 14:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
@@ -26,35 +26,49 @@
       "time": "2026-05-05 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
+    },
+    {
+      "name": "ISM Services Index Release",
+      "time": "2026-05-05 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US NFP (April Jobs Data) Release",
+      "time": "2026-05-08 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "$78K 횡보, $80K 저항 미돌파. 이란 평화협상 긍정적 신호.",
-  "updated": "2026-05-03 04:30:00 UTC",
-  "valid_until": "2026-05-03 08:30:00 UTC",
+  "notes": "ETF 유입 강세+채널 돌파. $80K 저항 테스트 중, 강세 전환",
+  "updated": "2026-05-03 10:00:00 UTC",
+  "valid_until": "2026-05-03 14:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$78,281 on May 3 consolidating below $80K resistance (+1.89% 24h). Broke out of multi-month descending channel. Down ~38% from Oct 2025 ATH of $126K. Market cap ~$2.68T (+0.1% 24h — very flat).",
+    "btc_price_note": "BTC ~$78,281 on May 3 consolidating just below $80K resistance (+1.89% 24h). Broke out of multi-month descending channel. Down ~38% from Oct 2025 ATH of $126K. Market cap ~$2.68T.",
     "sentiment_key_signals": [
-      "BTC consolidating at $78,281 — range-bound below $80K psychological resistance",
-      "April spot BTC ETF monthly inflows: strongest since October 2025; May 1 single-day $629.8M (BlackRock IBIT $284.4M, Fidelity FBTC $213.4M)",
+      "BTC holding above $78K for first time since February — bullish structural shift",
+      "May already logged >$600M ETF inflows; April BTC spot ETF monthly: $2.44B — strongest since Oct 2025",
+      "May 1 single-day ETF: $629.8M net (BlackRock IBIT $284.4M, Fidelity FBTC $213.4M)",
       "Ethereum ETFs returned to inflows May 1: $101.2M net",
-      "Iran submitted updated peace proposal to Pakistan mediators May 1 — positive geopolitical development",
-      "US crude futures fell ~5% on Iran peace signal — risk-on implications",
+      "Glassnode RHODL ratio 4.5 — 3rd highest in BTC history; prior readings at cycle bottoms preceded bull markets",
+      "Iran updated peace proposal submitted May 1 — risk-on, crude oil -5%",
       "FOMC held rates 3.5-3.75% April 29; next meeting June 16-17",
-      "Fed Chair Powell exits May 15; Kevin Warsh replacing — transition uncertainty",
-      "Goldman Sachs SEC filing for Bitcoin Premium Income ETF (April 15)",
-      "Large-cap crypto range-bound; selective altcoin gains only — no broad breakout confirmed",
-      "Retail sentiment in extreme fear; whale wallets still accumulating",
-      "Ark Invest: BTC market cap to $16T by 2030 — bullish long-term outlook"
+      "Goldman Sachs SEC filing for Bitcoin Premium Income ETF active",
+      "SEC raised IBIT option position limit to 1M contracts — institutional expansion positive",
+      "ARK Invest: BTC market cap $16T by 2030 — long-term institutional bullish",
+      "Large-cap crypto range-bound below $80K; altcoins showing selective gains",
+      "Total crypto liquidations $449.52M/24h — elevated but manageable"
     ],
-    "macro_backdrop": "Weekend May 3-4 — no major scheduled macro releases. FOMC held at 3.5-3.75% April 29. CPI ~3.3% YoY. Next key events: ISM Services May 5, NFP April data May 8, CPI/PPI ~May 12-13. Iran peace proposal is key near-term catalyst — if confirmed, risk-on rally likely.",
-    "regime_rationale": "Neutral (0.50): BTC broke descending channel but is consolidating below critical $80K resistance on weekend low liquidity. Strong ETF inflows support bullish case, but large-caps are range-bound and retail fear is elevated. Iran peace proposal is a positive catalyst but not yet confirmed. Waiting for $80K breakout confirmation before upgrading to bullish. Macro filter active at 0.50 threshold.",
+    "macro_backdrop": "Weekend May 3-4: no scheduled macro releases. FOMC held 3.5-3.75% on Apr 29 — no near-term rate shock. Fed Chair Powell exits May 15; Kevin Warsh replacing — some transition uncertainty. CPI ~3.3% YoY (elevated). Next key macro: ISM Services May 5, NFP Apr data May 8, CPI/PPI ~May 12-13. Iran peace proposal is positive near-term catalyst.",
+    "regime_rationale": "Bullish (0.60): BTC broke multi-month descending channel and is consolidating above $78K with record ETF inflows in May. Strong institutional demand (IBIT/FBTC daily $629.8M), rising on-chain cycle indicators (RHODL 4.5), and Iran peace deal reducing geopolitical risk all support bullish bias. Key risk: $80K psychological resistance, weekend low liquidity. Confidence capped at 0.60 pending confirmed $80K breakout.",
     "sources": [
       "latestly.com — BTC $78,281 May 3 2026 consolidation",
       "cryptotimes.io — BTC reclaims $77K, April strongest ETF month 2026",
-      "247wallst.com — BTC channel breakout, Iran peace proposal, May 2026",
-      "coindesk.com — Ark Invest $16T BTC target",
+      "ambcrypto.com — May records strongest BTC ETF inflows in 2026",
+      "247wallst.com — BTC channel breakout, May 2026",
+      "coindesk.com — Ark Invest $16T BTC target, May 2026",
       "pymnts.com — Goldman Sachs Bitcoin ETF SEC filing",
-      "theblock.co — crypto ETFs 2026 regulatory tailwinds",
+      "bitcoinethereumnews.com — SEC raises IBIT option position limit to 1M contracts",
       "federalreserve.gov — FOMC April 29 statement, held 3.5-3.75%"
     ]
   }
