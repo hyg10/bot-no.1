@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.50,
-  "current_price_usd": 78434,
+  "confidence": 0.42,
+  "current_price_usd": 79337,
   "key_events_next_24h": [
     {
       "name": "ISM Services PMI (April) - US Economic Activity",
@@ -22,36 +22,39 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "No FOMC / CPI scheduled (next FOMC June 16-17, CPI May 12)",
+      "name": "No FOMC / CPI scheduled (next FOMC June 16-17, CPI May 12, NFP May 8)",
       "time": "2026-05-04 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
   "notes": "ETF 강한 유입이나 $80K 저항·레버리지 우려로 혼조세",
-  "updated": "2026-05-04 00:23:37 UTC",
-  "valid_until": "2026-05-04 04:23:37 UTC",
+  "updated": "2026-05-04 06:30:00 UTC",
+  "valid_until": "2026-05-04 10:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$78,434 on May 4 (range $78,180-$78,782 across exchanges). April ETF inflows: $2.44B net (strongest institutional month since Oct 2025). May 1 single-day: $629.8M net. BTC dominance: 58.4%. Global crypto market cap: $2.69T.",
+    "btc_price_note": "BTC ~$79,337 on May 4 (range $78,357-$79,932 across OKX/Coinbase/MetaMask). April ETF inflows: $2.44B net (strongest institutional month since Oct 2025). May 1 single-day: $630M net. BTC dominance: 58.6%. Global crypto market cap: $2.75T.",
     "sentiment_key_signals": [
-      "BTC broke out of multi-month descending channel — structurally bullish technical signal",
+      "BTC bounced above $79K; consolidating just below $80K hard resistance",
       "$80K primary resistance: largest liquidity cluster, LTH profit-taking zone",
       "April ETF inflows: $2.44B — strongest institutional month since Oct 2025",
       "CryptoQuant warns: April gains leverage-driven, not spot demand — pullback risk",
-      "US-Iran diplomatic talks: BTC briefly spiked to $79K then reversed on Trump skepticism",
+      "US-Iran talks: BTC briefly spiked to $79K then reversed on Trump skepticism",
       "FOMC Apr 29: held rates 3.5-3.75%; next meeting June 16-17",
-      "ISM Services + JOLTS due May 5 — moderate macro risk tomorrow"
+      "ISM Services + JOLTS due May 5 — moderate macro risk tomorrow",
+      "Retail Fear & Greed: extreme fear; whale wallets accumulating"
     ],
-    "macro_backdrop": "May 4-5: ISM Services PMI and JOLTS job openings release May 5. No FOMC until June 16-17. CPI April due May 12. NFP April due May 8. PCE due May 28. No acute macro catalyst in immediate 24h but ISM/JOLTS data could move risk assets.",
-    "regime_rationale": "Neutral (0.50): BTC consolidating near $78.4K after April +11.87% rally. Bulls: channel breakout, record ETF inflows, institutional bid. Bears: $80K hard resistance, CryptoQuant leverage warning, geopolitical uncertainty (US-Iran), ISM/JOLTS uncertainty tomorrow. Net: range-bound at resistance — signals evenly matched.",
+    "macro_backdrop": "May 4-5: ISM Services PMI and JOLTS due May 5 14:00 UTC. No FOMC until June 16-17. CPI April due May 12. NFP April due May 8. PCE due May 28. Kevin Warsh Fed Chair Senate vote expected week of May 11. No acute catalyst in immediate 24h but ISM/JOLTS could move risk assets.",
+    "regime_rationale": "Neutral (0.42): BTC at ~$79.3K, slightly higher than prior session. Bulls: channel breakout, record ETF inflows, institutional bid, whale accumulation. Bears: $80K hard resistance, CryptoQuant leverage warning, geopolitical uncertainty (US-Iran + Trump skepticism), ISM/JOLTS uncertainty tomorrow, retail extreme fear. Net: range-bound at resistance — mixed signals, below 0.5 confidence threshold for bot filter.",
     "sources": [
-      "latestly.com — BTC $78,281 May 3 2026, consolidating at resistance",
-      "coindesk.com — April ETF inflows $2.44B, BTC bounces on big tech earnings",
-      "cryptotimes.io — May 3 crypto market, altcoin gainers",
-      "fool.com — crypto markets May 1, BTC above $78K",
+      "coindesk.com — BTC bounces on big tech earnings, short-term pressures remain, May 1 2026",
+      "cryptotimes.io — May 3 crypto market, BTC $79K spike reversed",
+      "fool.com — crypto markets May 1, BTC holds above $78K",
       "federalreserve.gov — FOMC Apr 29 statement, rates held 3.5-3.75%",
-      "coinmarketcap.com — BTC $78,434 May 4 2026",
-      "coindesk.com — CryptoQuant leverage warning, pullback risk"
+      "metamask.io/price/bitcoin — BTC $79,722 May 4 2026",
+      "coinbase.com — BTC $78,357 May 4 2026",
+      "okx.com — BTC $79,932 May 4 2026",
+      "milkroad.com — Crypto Fear & Greed May 2 2026",
+      "bls.gov — CPI release schedule May 12, PPI May 13, NFP May 8"
     ]
   }
 }
