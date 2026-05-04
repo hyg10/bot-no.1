@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.42,
-  "current_price_usd": 79337,
+  "confidence": 0.4,
+  "current_price_usd": 79000,
   "key_events_next_24h": [
     {
       "name": "ISM Services PMI (April) - US Economic Activity",
@@ -16,10 +16,10 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "US-Iran Diplomatic Talks - Geopolitical Uncertainty",
+      "name": "US-Iran Diplomatic Talks - Geopolitical Wildcard",
       "time": "2026-05-04 12:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     },
     {
       "name": "No FOMC / CPI scheduled (next FOMC June 16-17, CPI May 12, NFP May 8)",
@@ -28,33 +28,32 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 강한 유입이나 $80K 저항·레버리지 우려로 혼조세",
-  "updated": "2026-05-04 06:30:00 UTC",
-  "valid_until": "2026-05-04 10:30:00 UTC",
+  "notes": "BTC $79K 횡보, ETF유입 호조나 레버리지 과열 주의",
+  "updated": "2026-05-04 08:09:03 UTC",
+  "valid_until": "2026-05-04 12:09:03 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$79,337 on May 4 (range $78,357-$79,932 across OKX/Coinbase/MetaMask). April ETF inflows: $2.44B net (strongest institutional month since Oct 2025). May 1 single-day: $630M net. BTC dominance: 58.6%. Global crypto market cap: $2.75T.",
+    "btc_price_note": "BTC ~$79,000 on May 4 08:09 UTC (range $78,763-$79,904 across CoinGecko/CMC/Coinbase/Kraken). April ETF inflows: ~$2.44B net (strongest institutional month since Oct 2025). May 1 single-day: $630M net. Global crypto market cap: $2.73T.",
     "sentiment_key_signals": [
-      "BTC bounced above $79K; consolidating just below $80K hard resistance",
-      "$80K primary resistance: largest liquidity cluster, LTH profit-taking zone",
-      "April ETF inflows: $2.44B — strongest institutional month since Oct 2025",
+      "BTC consolidating near $80K hard resistance — key breakout/rejection zone",
+      "April ETF inflows: strongest month since Oct 2025; $630M inflows on May 1 alone",
       "CryptoQuant warns: April gains leverage-driven, not spot demand — pullback risk",
-      "US-Iran talks: BTC briefly spiked to $79K then reversed on Trump skepticism",
-      "FOMC Apr 29: held rates 3.5-3.75%; next meeting June 16-17",
-      "ISM Services + JOLTS due May 5 — moderate macro risk tomorrow",
-      "Retail Fear & Greed: extreme fear; whale wallets accumulating"
+      "US-Iran diplomatic proposal briefly spiked BTC above $79K; Trump skepticism reversed move",
+      "FOMC Apr 28-29: held rates; next meeting June 16-17 — no acute Fed risk",
+      "ISM Services PMI + JOLTS due May 5 14:00 UTC — moderate macro risk tomorrow",
+      "Retail Fear & Greed: extreme fear; whale wallets accumulating",
+      "SEC Chair signals inadequate current laws for crypto — potential rule shift (neutral short-term)"
     ],
-    "macro_backdrop": "May 4-5: ISM Services PMI and JOLTS due May 5 14:00 UTC. No FOMC until June 16-17. CPI April due May 12. NFP April due May 8. PCE due May 28. Kevin Warsh Fed Chair Senate vote expected week of May 11. No acute catalyst in immediate 24h but ISM/JOLTS could move risk assets.",
-    "regime_rationale": "Neutral (0.42): BTC at ~$79.3K, slightly higher than prior session. Bulls: channel breakout, record ETF inflows, institutional bid, whale accumulation. Bears: $80K hard resistance, CryptoQuant leverage warning, geopolitical uncertainty (US-Iran + Trump skepticism), ISM/JOLTS uncertainty tomorrow, retail extreme fear. Net: range-bound at resistance — mixed signals, below 0.5 confidence threshold for bot filter.",
+    "macro_backdrop": "May 4-5 window: ISM Services PMI and JOLTS due May 5 14:00 UTC. No FOMC until June 16-17. CPI April due May 12. NFP April due May 8. PCE due May 28. No acute macro catalyst in immediate 24h but ISM/JOLTS tomorrow could move risk assets.",
+    "regime_rationale": "Neutral (0.40): BTC at ~$79K, just below $80K resistance. Bulls: record ETF inflows, institutional bid, whale accumulation, channel technical breakout setup. Bears: $80K hard resistance, CryptoQuant leverage warning, geopolitical uncertainty (Iran-US), ISM/JOLTS uncertainty tomorrow, retail extreme fear. Net: range-bound at resistance — mixed signals. Below 0.5 confidence threshold, bot filter inactive.",
     "sources": [
-      "coindesk.com — BTC bounces on big tech earnings, short-term pressures remain, May 1 2026",
-      "cryptotimes.io — May 3 crypto market, BTC $79K spike reversed",
+      "coindesk.com — BTC bounces on big tech earnings, May 1 2026",
+      "cryptotimes.io — May 3 crypto market, BTC $79K spike reversed on Trump skepticism",
       "fool.com — crypto markets May 1, BTC holds above $78K",
-      "federalreserve.gov — FOMC Apr 29 statement, rates held 3.5-3.75%",
-      "metamask.io/price/bitcoin — BTC $79,722 May 4 2026",
-      "coinbase.com — BTC $78,357 May 4 2026",
-      "okx.com — BTC $79,932 May 4 2026",
+      "federalreserve.gov — FOMC Apr 28-29 statement, rates held",
+      "coinmarketcap.com — BTC $79,904, global cap $2.73T",
+      "coingecko.com — BTC $78,763 May 4 2026",
       "milkroad.com — Crypto Fear & Greed May 2 2026",
-      "bls.gov — CPI release schedule May 12, PPI May 13, NFP May 8"
+      "bls.gov — CPI release schedule May 12, NFP May 8"
     ]
   }
 }
