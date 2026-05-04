@@ -1,7 +1,7 @@
 {
   "regime": "bullish",
-  "confidence": 0.60,
-  "current_price_usd": 79000,
+  "confidence": 0.65,
+  "current_price_usd": 79200,
   "key_events_next_24h": [
     {
       "name": "ISM Services PMI (April) - US Economic Activity",
@@ -16,46 +16,46 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "US-Iran Diplomatic Talks - Geopolitical Wildcard",
+      "name": "US-Iran Diplomatic Talks (Trump responded to 14-point peace proposal)",
       "time": "2026-05-04 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "No FOMC this week (next FOMC June 16-17, CPI May 12, NFP May 8)",
+      "name": "No FOMC this week (next FOMC June 16-17; NFP May 8; CPI May 12)",
       "time": "2026-05-04 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC 80K 돌파 후 반락, ETF 유입 2026 최강, 하락채널 이탈 확인",
-  "updated": "2026-05-04 12:30:00 UTC",
-  "valid_until": "2026-05-04 16:30:00 UTC",
+  "notes": "BTC 80K 돌파 후 반락, 이란 완화·ETF 유입 강세, 상승세 유효",
+  "updated": "2026-05-04 13:30:00 UTC",
+  "valid_until": "2026-05-04 17:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC briefly crossed $80,000 on May 4 (first time since Jan 2026), triggering $150M short liquidations in 1hr, then pulled back to ~$78,950-$79,900. Up 17% in the last month. Broke out of multi-month descending channel.",
+    "btc_price_note": "BTC touched $80,393 on May 4 (3-month high since Jan 31), triggering ~$150M short liquidations, then pulled back to ~$79,200. Up 17% in the last month. Broke out of multi-month descending channel. Iran de-escalation (Trump responded to 14-point peace proposal) drove the spike; Brent crude fell to $107 from 4-year high.",
     "sentiment_key_signals": [
-      "BTC crossed $80K briefly on May 4 — $150M short liquidations, first time since Jan 2026",
+      "BTC crossed $80K briefly on May 4 — $80,393 high, 3-month peak since Jan 31",
       "Fear & Greed Index: 47 (Neutral) — improved from prior extreme fear readings",
-      "May 2026 ETF inflows already strongest of the year (building on April record of ~$2.44B)",
-      "BTC broke out of multi-month descending channel — major technical bullish signal",
-      "US-Iran diplomatic proposal briefly spiked price; Trump skepticism reversed short-term move",
-      "FOMC Apr 28-29: rates held at 3.5-3.75%; next meeting June 16-17 — no acute Fed risk",
+      "BTC ETF net inflows $629.8M on May 1 (BlackRock IBIT $284M, Fidelity FBTC $213M)",
+      "April 2026 ETF month strongest of the year, ETH ETFs also returned to inflows ($101.2M May 1)",
+      "BTC dominance at 60% — capital still defensive and majors-anchored",
+      "Iran de-escalation: Trump responded to 14-point peace proposal; Brent crude fell from 4yr high",
+      "FOMC Apr 28-29: rates held at 3.5-3.75% (4 dissenters — most since 1992); next June 16-17",
+      "Fed Chair transition: Powell term expires May 2026; Warsh nomination Senate vote ~week of May 11",
       "ISM Services PMI + JOLTS due May 5 14:00 UTC — moderate macro risk tomorrow",
-      "SEC Chair signals inadequate current laws for crypto — potential rule shift (mildly bullish long-term)",
-      "Dormant wallets (2011 era) spending 793 BTC — distribution risk watch"
+      "ARK Invest projects BTC market cap $16T by 2030 on institutional demand"
     ],
-    "macro_backdrop": "May 4-5 window: ISM Services PMI and JOLTS due May 5 14:00 UTC. No FOMC until June 16-17. CPI April due May 12. NFP April due May 8. PCE due May 28. No acute macro catalyst in immediate 24h. Geopolitical uncertainty (Iran-US) remains a wildcard.",
-    "regime_rationale": "Bullish (0.60): BTC touched $80K today for first time since Jan 2026 and $150M shorts liquidated, confirming strong upside momentum. Structural support: record ETF inflows, channel breakout, 17% monthly gain, F&G recovering to neutral. Bears: $80K remains key resistance (pulled back after touch), geopolitical uncertainty, ISM/JOLTS tomorrow. Net: momentum is bullish but $80K resistance is real — moderate confidence.",
+    "macro_backdrop": "FOMC held Apr 29 at 3.5-3.75%; no FOMC until June 16-17. CPI April due May 12, NFP May 8, PCE May 28. Immediate 24h risk: JOLTS + ISM Services May 5 14:00 UTC. Fed Chair uncertainty (Warsh vote ~May 11) adds medium-term uncertainty. Geopolitical: Iran-US de-escalation is net positive for risk assets; Brent crude declining from 4-year high reduces inflation pressure.",
+    "regime_rationale": "Bullish (0.65): BTC touched $80K for first time since Jan 2026, $150M shorts liquidated, strong ETF inflows ($629M May 1), Iran de-escalation bullish for risk assets, Brent crude down. Bears: $80K still key resistance (pulled back), FOMC 4 dissenters signal uncertainty, Fed Chair transition risk. Confidence raised to 0.65 from 0.60 on stronger geopolitical catalyst and ETF flow confirmation.",
     "sources": [
       "finance.yahoo.com — Bitcoin tops $80,000 then pulls back, May 4 2026",
-      "ambcrypto.com — May records strongest BTC ETF inflows in 2026",
-      "news.bitcoin.com — Dormant wallets spend 793 BTC as BTC crosses $79K",
-      "fool.com — crypto markets May 1, BTC holds above $78K",
-      "cryptotimes.io — BTC $79K spike reversed on Trump/Iran skepticism",
-      "federalreserve.gov — FOMC Apr 28-29 rates held at 3.5-3.75%",
-      "coinmarketcap.com — BTC $79,904 live May 4 2026",
-      "milkroad.com — Crypto Fear & Greed 47 (Neutral) May 2026",
-      "bls.gov — CPI release schedule May 12, NFP May 8"
+      "financemagnates.com — BTC surges on Iran de-escalation, tops $80K for 3-month high",
+      "fool.com — crypto markets May 1, BTC holds above $78K as tech stocks set new highs",
+      "cryptotimes.io — April closes strongest ETF month of 2026, BTC reclaims $77K",
+      "federalreserve.gov — FOMC Apr 29 rates held at 3.5-3.75%, 4 dissenters",
+      "kraken.com/blog — FOMC minutes and CPI macro week analysis",
+      "milkroad.com — Crypto Fear & Greed 47 (Neutral) May 2 2026",
+      "coindesk.com — ARK Invest: BTC market cap $16T by 2030 on institutional demand"
     ]
   }
 }
