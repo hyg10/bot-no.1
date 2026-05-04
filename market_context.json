@@ -4,7 +4,7 @@
   "current_price_usd": 79200,
   "key_events_next_24h": [
     {
-      "name": "ISM Services PMI (April) - US Economic Activity",
+      "name": "ISM Services PMI (April) - US Economic Activity Indicator",
       "time": "2026-05-05 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
@@ -16,7 +16,13 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "US-Iran Diplomatic Talks (Trump responded to 14-point peace proposal)",
+      "name": "Consensus 2026 Miami Conference Day 1 (May 5-7, major crypto industry event)",
+      "time": "2026-05-05 13:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Iran-US Diplomatic Talks (Trump responded to 14-point peace proposal, Brent $107)",
       "time": "2026-05-04 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
@@ -29,33 +35,38 @@
     }
   ],
   "notes": "BTC 80K 돌파 후 반락, 이란 완화·ETF 유입 강세, 상승세 유효",
-  "updated": "2026-05-04 13:30:00 UTC",
-  "valid_until": "2026-05-04 17:30:00 UTC",
+  "updated": "2026-05-04 14:00:00 UTC",
+  "valid_until": "2026-05-04 18:00:00 UTC",
   "analysis": {
     "btc_price_note": "BTC touched $80,393 on May 4 (3-month high since Jan 31), triggering ~$150M short liquidations, then pulled back to ~$79,200. Up 17% in the last month. Broke out of multi-month descending channel. Iran de-escalation (Trump responded to 14-point peace proposal) drove the spike; Brent crude fell to $107 from 4-year high.",
     "sentiment_key_signals": [
       "BTC crossed $80K briefly on May 4 — $80,393 high, 3-month peak since Jan 31",
-      "Fear & Greed Index: 47 (Neutral) — improved from prior extreme fear readings",
-      "BTC ETF net inflows $629.8M on May 1 (BlackRock IBIT $284M, Fidelity FBTC $213M)",
-      "April 2026 ETF month strongest of the year, ETH ETFs also returned to inflows ($101.2M May 1)",
+      "Fear & Greed Index: 47 (Neutral) — improved significantly from prior extreme fear readings",
+      "BTC ETF net inflows $629.8M on May 1 (BlackRock IBIT $284.4M, Fidelity FBTC $213M)",
+      "April 2026 ETF month strongest of the year; ETH ETFs also returned to inflows ($101.2M May 1)",
       "BTC dominance at 60% — capital still defensive and majors-anchored",
-      "Iran de-escalation: Trump responded to 14-point peace proposal; Brent crude fell from 4yr high",
+      "Iran de-escalation: Trump responded to 14-point peace proposal; Brent crude fell from 4yr high to $107",
       "FOMC Apr 28-29: rates held at 3.5-3.75% (4 dissenters — most since 1992); next June 16-17",
       "Fed Chair transition: Powell term expires May 2026; Warsh nomination Senate vote ~week of May 11",
       "ISM Services PMI + JOLTS due May 5 14:00 UTC — moderate macro risk tomorrow",
+      "Consensus 2026 Miami conference begins May 5-7 — major industry sentiment catalyst",
+      "BTC up 17% over last month, ETH up 13% in same period",
+      "Altcoin rotation: LAB, TAGGER, SkyAI leading gains but large-caps range-bound",
+      "IBIT option position limit raised to 1M contracts; Goldman Sachs Bitcoin ETF filing progressing",
       "ARK Invest projects BTC market cap $16T by 2030 on institutional demand"
     ],
     "macro_backdrop": "FOMC held Apr 29 at 3.5-3.75%; no FOMC until June 16-17. CPI April due May 12, NFP May 8, PCE May 28. Immediate 24h risk: JOLTS + ISM Services May 5 14:00 UTC. Fed Chair uncertainty (Warsh vote ~May 11) adds medium-term uncertainty. Geopolitical: Iran-US de-escalation is net positive for risk assets; Brent crude declining from 4-year high reduces inflation pressure.",
-    "regime_rationale": "Bullish (0.65): BTC touched $80K for first time since Jan 2026, $150M shorts liquidated, strong ETF inflows ($629M May 1), Iran de-escalation bullish for risk assets, Brent crude down. Bears: $80K still key resistance (pulled back), FOMC 4 dissenters signal uncertainty, Fed Chair transition risk. Confidence raised to 0.65 from 0.60 on stronger geopolitical catalyst and ETF flow confirmation.",
+    "regime_rationale": "Bullish (0.65): BTC touched $80K for first time since Jan 2026, ~$150M shorts liquidated, strong ETF inflows ($629.8M May 1), Iran de-escalation bullish for risk assets, Brent crude down, F&G recovered to 47. Bears: $80K still key resistance (pulled back after touch), FOMC 4 dissenters signal uncertainty, Fed Chair transition risk, large-cap altcoins not confirming broad breakout. Bot macro filter ACTIVE at 0.65 (above 0.50 threshold).",
     "sources": [
       "finance.yahoo.com — Bitcoin tops $80,000 then pulls back, May 4 2026",
       "financemagnates.com — BTC surges on Iran de-escalation, tops $80K for 3-month high",
       "fool.com — crypto markets May 1, BTC holds above $78K as tech stocks set new highs",
       "cryptotimes.io — April closes strongest ETF month of 2026, BTC reclaims $77K",
       "federalreserve.gov — FOMC Apr 29 rates held at 3.5-3.75%, 4 dissenters",
-      "kraken.com/blog — FOMC minutes and CPI macro week analysis",
-      "milkroad.com — Crypto Fear & Greed 47 (Neutral) May 2 2026",
-      "coindesk.com — ARK Invest: BTC market cap $16T by 2030 on institutional demand"
+      "milkroad.com — Crypto Fear & Greed 47 (Neutral) May 4 2026",
+      "coindesk.com — ARK Invest: BTC market cap $16T by 2030 on institutional demand",
+      "coinmarketcap.com — BTC $80,124 live price May 4 2026",
+      "coingecko.com — BTC $78,763 live price May 4 2026"
     ]
   }
 }
