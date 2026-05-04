@@ -1,44 +1,57 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
-  "current_price_usd": 78500,
+  "confidence": 0.50,
+  "current_price_usd": 78434,
   "key_events_next_24h": [
     {
-      "name": "Weekend Low Liquidity Window (No Scheduled Macro Releases)",
-      "time": "2026-05-03 18:00 UTC",
-      "impact": "low",
+      "name": "ISM Services PMI (April) - US Economic Activity",
+      "time": "2026-05-05 14:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Consensus 2026 Conference Miami (Pre-event Sentiment Buildup)",
+      "name": "JOLTS Job Openings (March) - Labor Market Signal",
+      "time": "2026-05-05 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US-Iran Diplomatic Talks - Geopolitical Uncertainty",
       "time": "2026-05-04 12:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "No FOMC / CPI scheduled (next FOMC June 16-17, CPI May 12)",
+      "time": "2026-05-04 00:00 UTC",
       "impact": "low",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $78K 저항선 공방, ETF 유입 긍정적, 관망세 지속",
-  "updated": "2026-05-03 14:00:00 UTC",
-  "valid_until": "2026-05-03 18:00:00 UTC",
+  "notes": "ETF 강한 유입이나 $80K 저항·레버리지 우려로 혼조세",
+  "updated": "2026-05-04 00:23:37 UTC",
+  "valid_until": "2026-05-04 04:23:37 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$78,500 on May 3 (range $78,281-$78,804 across exchanges). 31% off yearly lows. April ETF inflows: ~$2B net (strongest ETF month of 2026). May 1 single-day: $629.8M net (BlackRock IBIT $284.4M, Fidelity FBTC $213.4M). BTC dominance: 58.4%. Global crypto market cap: $2.7T.",
+    "btc_price_note": "BTC ~$78,434 on May 4 (range $78,180-$78,782 across exchanges). April ETF inflows: $2.44B net (strongest institutional month since Oct 2025). May 1 single-day: $629.8M net. BTC dominance: 58.4%. Global crypto market cap: $2.69T.",
     "sentiment_key_signals": [
       "BTC broke out of multi-month descending channel — structurally bullish technical signal",
       "$80K primary resistance: largest liquidity cluster, LTH profit-taking zone",
-      "May 1 single-day ETF inflows: $629.8M net — strongest institutional demand of May 2026 so far",
-      "Selective risk appetite: altcoins (LAB, TAGGER, SkyAI) rallying; large-caps range-bound",
-      "24h liquidations: $449.52M total / 110,109 traders — elevated leverage risk beneath surface calm",
-      "FOMC Apr 29: held rates 3.5-3.75% (4 hawkish dissents); next meeting June 16-17",
-      "No major macro data releases this weekend (May 3-4)"
+      "April ETF inflows: $2.44B — strongest institutional month since Oct 2025",
+      "CryptoQuant warns: April gains leverage-driven, not spot demand — pullback risk",
+      "US-Iran diplomatic talks: BTC briefly spiked to $79K then reversed on Trump skepticism",
+      "FOMC Apr 29: held rates 3.5-3.75%; next meeting June 16-17",
+      "ISM Services + JOLTS due May 5 — moderate macro risk tomorrow"
     ],
-    "macro_backdrop": "Weekend May 3-4: no scheduled macro data. FOMC held rates Apr 29; next June 16-17. CPI April due May 12. ISM Services May 5, NFP April May 8. JOLTS Mar data May 5. No acute macro catalyst expected in next 24h.",
-    "regime_rationale": "Neutral (0.55): BTC consolidating after April +11.87% rally. Bulls: channel breakout, record ETF inflows ($629.8M/day), institutional bid. Bears: $80K hard resistance with LTH selling, elevated liquidations, selective (not broad) risk appetite. Net: range-bound momentum pause — breakout or rejection equally plausible without new catalyst.",
+    "macro_backdrop": "May 4-5: ISM Services PMI and JOLTS job openings release May 5. No FOMC until June 16-17. CPI April due May 12. NFP April due May 8. PCE due May 28. No acute macro catalyst in immediate 24h but ISM/JOLTS data could move risk assets.",
+    "regime_rationale": "Neutral (0.50): BTC consolidating near $78.4K after April +11.87% rally. Bulls: channel breakout, record ETF inflows, institutional bid. Bears: $80K hard resistance, CryptoQuant leverage warning, geopolitical uncertainty (US-Iran), ISM/JOLTS uncertainty tomorrow. Net: range-bound at resistance — signals evenly matched.",
     "sources": [
       "latestly.com — BTC $78,281 May 3 2026, consolidating at resistance",
-      "cryptotimes.io — May 3 crypto market, altcoin gainers, selective risk appetite",
-      "fool.com — crypto markets May 1, BTC above $78K, tech stocks new highs",
-      "federalreserve.gov — FOMC Apr 29 statement, 4 dissents, rates held",
-      "coindesk.com — ARK Invest $16T BTC target; BTC bounces on big tech earnings",
-      "bitget.com — BTC $85K target, $80K liquidity resistance wall analysis"
+      "coindesk.com — April ETF inflows $2.44B, BTC bounces on big tech earnings",
+      "cryptotimes.io — May 3 crypto market, altcoin gainers",
+      "fool.com — crypto markets May 1, BTC above $78K",
+      "federalreserve.gov — FOMC Apr 29 statement, rates held 3.5-3.75%",
+      "coinmarketcap.com — BTC $78,434 May 4 2026",
+      "coindesk.com — CryptoQuant leverage warning, pullback risk"
     ]
   }
 }
