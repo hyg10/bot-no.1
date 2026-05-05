@@ -1,80 +1,66 @@
 {
   "regime": "bullish",
   "confidence": 0.65,
-  "current_price_usd": 80900,
+  "current_price_usd": 81286,
   "key_events_next_24h": [
     {
-      "name": "ISM Services PMI (April) - US Economic Activity",
-      "time": "2026-05-05 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "JOLTS Job Openings (March) - Labor Market Signal",
-      "time": "2026-05-05 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Consensus 2026 Miami Conference Day 1 (May 5-7)",
-      "time": "2026-05-05 13:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Iran-US Geopolitical Developments (ongoing tail-risk)",
-      "time": "2026-05-05 00:00 UTC",
+      "name": "FOMC Meeting Day 1 (May 6-7, hold ~86% prob)",
+      "time": "2026-05-06 14:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
       "name": "BTC ETF Daily Inflow Data",
       "time": "2026-05-05 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
+    },
+    {
+      "name": "Consensus 2026 Miami Conference Day 2",
+      "time": "2026-05-06 13:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Iran-US Geopolitical Developments (tail-risk)",
+      "time": "2026-05-05 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $81K 신고점 돌파, ETF 유입 급증, 이란 리스크 주의",
-  "updated": "2026-05-05 12:00:00 UTC",
-  "valid_until": "2026-05-05 16:00:00 UTC",
+  "notes": "BTC $81K 돌파, FOMC 5/6~7 동결 예상, ETF 유입 강세 지속",
+  "updated": "2026-05-05 14:30:00 UTC",
+  "valid_until": "2026-05-05 18:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC surged to $81,000+ on May 5 — highest level since January 2026. On May 4 BTC topped $80,594 (3-month high), briefly pulled back on Iran missile reports (later denied by US), then resumed uptrend. Today (May 5) opened at $78,543 and rose to $80,921 by 7:16am ET. Month gain: +17% since April. Fear & Greed Index at 41 (Fear zone but improved from extreme fear of 9 in April). BTC ETF inflows: $532M daily on May 5 led by BlackRock IBIT and Fidelity FBTC. $2.56B institutional inflows in past 30 days. $300M+ short squeeze contributed to move. Clean breakout above $80K with ETF support marks shift to bullish regime.",
+    "btc_price_note": "BTC surged to $81,286 on May 5 (8:45am ET) — highest level since January 2026. Opened at $78,543 and pushed above $81K on three converging catalysts: Iran de-escalation (Trump responded to Iran 14-point peace proposal, Brent crude fell from 4-year highs), CLARITY Act regulatory progress, and $300M+ short squeeze. Month gain: +19% since April. BTC ETF net inflows $2.56B in past 30 days (BlackRock IBIT + Fidelity FBTC leading). $80K level, previously a ceiling in multiple attempts, now acting as a floor.",
     "sentiment_key_signals": [
-      "BTC ~$80,900 on May 5 — 3-month high, broke $80K with conviction",
-      "May 5 high $81,000+ — first time above $81K since January 2026",
-      "BTC ETF net inflows $532M on May 5 (IBIT + FBTC leading) — strong institutional demand",
-      "Fear & Greed Index ~41 (Fear) — improved from extreme fear (9) but still cautious; rally not euphoric",
-      "Global crypto market cap $2.76T (+2.0% in 24h)",
+      "BTC ~$81,286 on May 5 (8:45am ET) — highest since January 2026",
+      "BTC +5.2% in past 5 days, +19% past month (outperforming S&P 500 +10%)",
+      "BTC ETF inflows $2.56B in 30 days — strong institutional demand",
+      "Fear & Greed Index ~41 (Fear zone) — rally not euphoric, more sustainable",
+      "Perp funding rates negative: BTC -4.7% APR, ETH -1.9% — retail heavily short (65%)",
       "$300M+ short squeeze triggered on $80K breakout",
-      "Iran de-escalation: Trump responded to Iran 14-point peace proposal; Brent crude fell from 4-year highs",
-      "CLARITY Act regulatory progress cited as crypto tailwind",
-      "SEC raised IBIT option position limit to 1M contracts (bullish institutional infrastructure)",
-      "Goldman Sachs filed for Bitcoin Premium Income ETF (institutional adoption expanding)",
-      "ARK Invest: BTC market cap $16T by 2030 driven by institutional demand",
-      "Consensus 2026 Miami conference running May 5-7 — industry sentiment catalyst",
-      "BTC dominance ~60% — major coins leading; altcoins not yet broadly confirming",
-      "FOMC Apr 29: rates held 3.50-3.75% (no change); next FOMC June 16-17",
-      "April CPI 3.3% YoY (hottest since May 2024); next CPI release May 12 — not in 24h window",
-      "NFP April due May 8; CPI April due May 12; PPI April due May 13 — major catalysts next week",
-      "Historical pattern alert: May seasonality caution (2014/2018/2022 cycles showed 61-66% corrections)"
+      "BTC dominance ~58.8% — broad crypto lift but BTC leading",
+      "FOMC May 6-7: ~86% probability of rate hold at 3.50-3.75% (bullish if confirmed)",
+      "Iran de-escalation: Brent crude fell from 4-year high to $107",
+      "CLARITY Act: lawmakers reached compromise on major sticking point — regulatory tailwind",
+      "SEC raised IBIT option position limit to 1M contracts (bullish infrastructure)",
+      "Goldman Sachs filed for Bitcoin Premium Income ETF",
+      "Consensus 2026 Miami conference May 5-7 — industry sentiment catalyst",
+      "Next major macro: NFP May 8, CPI April May 12, PPI April May 13"
     ],
-    "macro_backdrop": "No FOMC until June 16-17. Immediate 24h risks: ISM Services PMI + JOLTS at 14:00 UTC (moderate impact). Iran/US geopolitical tail risk still live — market showed sharp sensitivity to (fake) missile reports on May 4 but recovered quickly. Brent crude fell from 4-year highs on de-escalation signals but can spike on any escalation. Next week brings major macro catalysts: NFP May 8, CPI May 12, PPI May 13. Today: Consensus Miami conference Day 1 (industry positive). Bot filter ACTIVE at confidence 0.65 — macro context is bullish, reinforcing long-side trades.",
-    "regime_rationale": "Bullish (0.65, above 0.5 threshold — macro filter ACTIVE): BTC broke above $80K with institutional ETF backing ($532M daily inflows), short squeeze, and Iran de-escalation. Three converging catalysts (geopolitical relief + ETF inflows + technical breakout) mark a clear uptrend. Fear & Greed at 41 (Fear) means market is not euphoric — rally is more sustainable. Counter-factors: geopolitical headline risk from Iran remains live, and Fear zone sentiment indicates retail is still cautious. Net: institutional demand + technical breakout overrides caution signals = bullish at moderate confidence 0.65.",
+    "macro_backdrop": "FOMC May 6-7 is the critical 24h event — 86% probability of hold at 3.50-3.75%. A hold is neutral-to-bullish for BTC; any surprise cut would be strongly bullish. Geopolitical tail risk from Iran remains live — market showed sharp intraday sensitivity (fake missile report May 4 caused brief dip, recovered quickly). Brent crude at $107 after falling from 4-year highs on de-escalation. Next major macro: NFP May 8, CPI May 12, PPI May 13. Bot filter ACTIVE at confidence 0.65.",
+    "regime_rationale": "Bullish (0.65 confidence, macro filter ACTIVE): Three converging catalysts drove BTC above $80K — institutional ETF inflows, geopolitical de-escalation, and technical breakout with short squeeze. Fear & Greed at 41 (Fear) means not euphoric — rally more sustainable. Counter-factors: FOMC uncertainty tomorrow, geopolitical headline risk from Iran, retail still heavily short (65%) creating potential for continued squeeze OR snapback. Net: institutional + technical momentum overrides caution = bullish at moderate 0.65.",
     "sources": [
       "finance.yahoo.com — Bitcoin tops $81,000 Tuesday May 5 2026",
-      "finance.yahoo.com — Bitcoin tops $80,000 then pulls back, May 4 2026",
       "bloomberg.com — BTC tops $80K for three-month high as Asian stocks rise",
       "financemagnates.com — BTC surges on Iran de-escalation, tops $80K 3-month high",
+      "fortune.com — Bitcoin breaks $80K as CLARITY Act approaches finish line",
       "coinstats.app — Bitcoin daily market analysis May 5 2026",
-      "mexc.com — Crypto market update May 3 2026, sentiment recovers while on-chain signals lag",
       "milkroad.com — Crypto Fear & Greed Index May 4 2026 (41, Fear)",
-      "fool.com — Crypto markets today May 1 2026: BTC holds above $78K",
-      "federalreserve.gov — FOMC Apr 29 statement: rates held 3.50-3.75%",
-      "cmegroup.com — FedWatch: 95.5% probability no June rate change",
+      "primerates.com / federalreserve.gov — FOMC May 6-7 scheduled, hold ~86% probability",
       "bitcoinethereumnews.com — SEC raises IBIT option position limit to 1M contracts",
-      "pymnts.com — Goldman Sachs seeks SEC approval for Bitcoin Premium Income ETF",
-      "coindesk.com — ARK Invest: BTC market cap to hit $16T by 2030",
-      "webopedia.com — 7 pending crypto ETF SEC decisions 2026"
+      "webopedia.com — Pending crypto ETF SEC decisions 2026"
     ]
   }
 }
