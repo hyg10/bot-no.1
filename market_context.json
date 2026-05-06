@@ -29,8 +29,8 @@
     }
   ],
   "notes": "BTC $81K 돌파 유지, CLARITY법·이란완화 강세. ETF 유입 견조",
-  "updated": "2026-05-06 07:00:00 UTC",
-  "valid_until": "2026-05-06 11:00:00 UTC",
+  "updated": "2026-05-06 07:20:00 UTC",
+  "valid_until": "2026-05-06 11:20:00 UTC",
   "analysis": {
     "btc_price_note": "BTC at ~$81,550 on May 6 (+1.61% 24h) — holding gains above $80K (highest since January 2026). Three-day ETF inflow streak $532M/day. Perp funding rates negative (BTC -4.7% APR), retail still 65% short — further short squeeze potential intact. No FOMC until June 16-17. NFP May 8 is the nearest high-impact macro.",
     "sentiment_key_signals": [
@@ -60,8 +60,7 @@
       "openpr.com — BTC ETFs pull $1.97B in April 2026",
       "federalreserve.gov — FOMC statement April 29 2026, rates held 3.50-3.75%",
       "bls.gov — CPI April release scheduled May 12 2026",
-      "crypto.news — Why crypto market going up May 5 2026",
-      "milkroad.com — Fear & Greed index May 5 2026 at 50 (neutral)"
+      "crypto.news — Why crypto market going up May 5 2026"
     ]
   }
 }
