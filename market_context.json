@@ -1,14 +1,8 @@
 {
   "regime": "bullish",
   "confidence": 0.65,
-  "btc_price_usd": 81500,
+  "btc_price_usd": 81401,
   "key_events_next_24h": [
-    {
-      "name": "NFP (Non-Farm Payroll) April release",
-      "time": "2026-05-08 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
     {
       "name": "Bitcoin spot ETF daily inflow report (BlackRock/Fidelity)",
       "time": "2026-05-07 20:00 UTC",
@@ -16,55 +10,53 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "CLARITY Act Congressional Progress (ongoing)",
+      "name": "CLARITY Act Congressional Progress (ongoing legislative markup)",
       "time": "2026-05-07 ongoing",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC Review (ongoing)",
-      "time": "2026-05-07 ongoing",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "No FOMC (last: Apr 29, rates held 3.50-3.75%; next: June 16-17)",
+      "name": "No FOMC (last: Apr 29, rates held 3.50-3.75%; next: Jun 16-17)",
       "time": "N/A",
       "impact": "low",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "US April Non-Farm Payrolls (NFP) — approaching in ~52h",
+      "time": "2026-05-09 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $81,500 강세, ETF 유입 $10억+, NFP 변동성 주의",
-  "updated": "2026-05-07 04:06:49 UTC",
-  "valid_until": "2026-05-07 08:06:49 UTC",
+  "notes": "BTC $81K, ETF 유입 강세, 200일EMA 돌파 시도중",
+  "updated": "2026-05-07 08:07:49 UTC",
+  "valid_until": "2026-05-07 12:07:49 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$81,500 on May 7 2026 (~04:00 UTC), holding 3-month highs. $80K established as strong support. Consolidating after $82,320 peak on May 6. 7-day change +5.60%.",
-    "fear_greed_index": 46,
-    "fear_greed_label": "Neutral",
+    "btc_price_note": "BTC ~$81,401 on May 7 2026 (08:07 UTC), testing 200-day EMA resistance ~$83K. Up 35% from early Feb lows. Highest level since January. $80K established as strong support.",
     "sentiment_key_signals": [
-      "BTC $81,500 — holding 3-month high range since January 2026",
-      "Spot ETF inflows ~$1B over 2 days led by BlackRock/Fidelity",
-      "Fear & Greed Index at 46 (Neutral), recovering from lows — rally more durable",
-      "Negative funding rates — retail still net short = continued squeeze potential",
-      "FOMC held 3.5-3.75% on Apr 29 — no FOMC risk until June 16-17",
-      "Iran de-escalation: geopolitical de-risking lifting risk assets broadly",
-      "CLARITY Act: Senate Banking Committee markup targeted May — strong regulatory tailwind",
-      "Goldman Sachs filed for Bitcoin Premium Income ETF — institutional adoption expanding",
-      "SEC streamlined crypto ETF listing process (75-day approval vs 240-day prior)",
-      "NFP April release on May 8 12:30 UTC is next major macro risk event"
+      "BTC $81,401 — 200-day EMA test at $83K is next key resistance",
+      "Spot ETF inflows $500M+ over 2 days led by BlackRock/Fidelity (ongoing)",
+      "Whale accumulation: 270K BTC in 30 days — largest monthly buy since 2013",
+      "FOMC held 3.50-3.75% on Apr 29 — no FOMC risk until Jun 16-17 (bullish)",
+      "CLARITY Act: Senate compromise reached — strong regulatory tailwind",
+      "23 bullish vs 10 bearish technical indicators on daily chart",
+      "Negative funding rates — retail still cautious = continued squeeze potential",
+      "Strategy $12.5B unrealized loss — institutional sentiment headwind",
+      "Fear & Greed recovering from lows but fragile",
+      "NFP April (May 9 12:30 UTC) is next major macro risk event"
     ],
-    "macro_backdrop": "No major macro events on May 7. FOMC next June 16-17. NFP May 8 12:30 UTC is key near-term risk (strong NFP = hawkish Fed = BTC headwind). CPI April on May 12, PPI ~May 13. Iran geopolitical tail risk de-escalating (bullish for risk assets). Fed rate at 3.5-3.75%, no cuts expected near-term.",
-    "regime_rationale": "Bullish (0.65 confidence): BTC holding $80K+ support with institutional tailwinds (ETF inflows ~$1B), regulatory tailwinds (CLARITY Act, SEC streamlining), and geopolitical relief (Iran de-escalation). F&G at 46 (neutral) and negative perp funding suggest remaining upside potential. Counter-factors: NFP uncertainty (<32h away), consolidation phase after rally.",
+    "macro_backdrop": "No high-impact macro releases on May 7-8. FOMC next June 16-17. NFP May 9 12:30 UTC is nearest risk (strong NFP = hawkish Fed = BTC headwind). CPI April on May 12, PPI May 13. FOMC April 29 held rates — removed near-term uncertainty. Regulatory tailwinds (CLARITY Act, SEC ETF streamlining) dominating macro narrative.",
+    "regime_rationale": "Bullish (0.65 confidence): BTC above $80K with strong ETF institutional inflows, historic whale accumulation, and regulatory tailwinds from CLARITY Act. Technical: 200-day EMA test at $83K — daily close above shifts target to $89K-$100K. Counter-factors: Strategy's $12.5B unrealized loss weighing on sentiment, negative funding rates showing leverage caution, NFP risk in ~52h.",
     "sources": [
-      "fortune.com — BTC $82,320 May 6 2026, highest since Jan 31",
+      "finance.yahoo.com — BTC $82,305 May 6 2026, highest since Jan 31",
       "coindesk.com — BTC $81,500 May 5 2026, ETF inflows $500M+",
-      "finance.yahoo.com — Bitcoin reaches over $81,000 May 5 2026 (3-month high)",
-      "financemagnates.com — BTC surges on Iran de-escalation, tops $80K",
-      "fortune.com — Bitcoin breaks $80K as CLARITY Act approaches finish line May 4",
-      "mexc.com — ETF Inflows Return, Options Markets Stay Hedged May 6 2026",
-      "federalreserve.gov — FOMC statement April 29 2026 rates held 3.5-3.75%",
-      "bls.gov — CPI April May 12 2026",
-      "pymnts.com — Goldman Sachs seeks SEC approval for new Bitcoin ETF"
+      "dailyforex.com — Bitcoin Analysis 07/05/2026, 200-day EMA test",
+      "mexc.com — BTC price prediction May 2026, $81K support analysis",
+      "fortune.com — Bitcoin breaks $80K as CLARITY Act approaches finish line",
+      "cryptobriefing.com — Strategy $12.5B net loss impacting Bitcoin sentiment",
+      "federalreserve.gov — FOMC statement April 29 2026 rates held 3.50-3.75%",
+      "bls.gov — NFP April release May 9 2026, CPI April May 12 2026",
+      "blog.kraken.com — April jobs and inflation data outlook May 6 2026"
     ]
   }
 }
