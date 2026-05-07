@@ -1,7 +1,7 @@
 {
-  "regime": "bullish",
-  "confidence": 0.65,
-  "btc_price_usd": 81401,
+  "regime": "neutral",
+  "confidence": 0.40,
+  "btc_price_usd": 81000,
   "key_events_next_24h": [
     {
       "name": "Bitcoin spot ETF daily inflow report (BlackRock/Fidelity)",
@@ -22,41 +22,41 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "US April Non-Farm Payrolls (NFP) — approaching in ~52h",
+      "name": "US April Non-Farm Payrolls (NFP) — approaching in ~48h",
       "time": "2026-05-09 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $81K, ETF 유입 강세, 200일EMA 돌파 시도중",
-  "updated": "2026-05-07 08:07:49 UTC",
-  "valid_until": "2026-05-07 12:07:49 UTC",
+  "notes": "BTC $81K 저항 돌파 실패, 단기 조정 주의. NFP 대기",
+  "updated": "2026-05-07 12:10:00 UTC",
+  "valid_until": "2026-05-07 16:10:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$81,401 on May 7 2026 (08:07 UTC), testing 200-day EMA resistance ~$83K. Up 35% from early Feb lows. Highest level since January. $80K established as strong support.",
+    "btc_price_note": "BTC ~$81,000 on May 7 2026 (12:10 UTC). Session opened $81,350, ran to $82,500 high, sold off to ~$80,900. Narrowly missed 200-day SMA resistance at ~$83,300. 'History says be careful' after failed breakout. $80,500 remains key support.",
     "sentiment_key_signals": [
-      "BTC $81,401 — 200-day EMA test at $83K is next key resistance",
-      "Spot ETF inflows $500M+ over 2 days led by BlackRock/Fidelity (ongoing)",
-      "Whale accumulation: 270K BTC in 30 days — largest monthly buy since 2013",
-      "FOMC held 3.50-3.75% on Apr 29 — no FOMC risk until Jun 16-17 (bullish)",
-      "CLARITY Act: Senate compromise reached — strong regulatory tailwind",
-      "23 bullish vs 10 bearish technical indicators on daily chart",
-      "Negative funding rates — retail still cautious = continued squeeze potential",
-      "Strategy $12.5B unrealized loss — institutional sentiment headwind",
-      "Fear & Greed recovering from lows but fragile",
-      "NFP April (May 9 12:30 UTC) is next major macro risk event"
+      "BTC rejected from $82,500 intraday — failed 200-day SMA test at $83,300",
+      "CoinDesk: 'Bitcoin narrowly missed a major breakout. History says be careful.'",
+      "Spot ETF inflows $500M+ over past 2 days (BlackRock/Fidelity) — ongoing positive",
+      "Iran de-escalation (Rubio comments) provided macro tailwind earlier this week",
+      "Strategy $12.5B unrealized loss — continued institutional sentiment headwind",
+      "Negative funding rates — retail still cautious, leveraged longs light",
+      "Fear & Greed recovering but fragile — consolidation phase likely",
+      "NFP April (May 9 12:30 UTC) is next major macro risk event in ~48h",
+      "FOMC held 3.50-3.75% on Apr 29 — no FOMC risk until Jun 16-17",
+      "Tokenization narrative: Galaxy Digital, Centrifuge posting gains"
     ],
-    "macro_backdrop": "No high-impact macro releases on May 7-8. FOMC next June 16-17. NFP May 9 12:30 UTC is nearest risk (strong NFP = hawkish Fed = BTC headwind). CPI April on May 12, PPI May 13. FOMC April 29 held rates — removed near-term uncertainty. Regulatory tailwinds (CLARITY Act, SEC ETF streamlining) dominating macro narrative.",
-    "regime_rationale": "Bullish (0.65 confidence): BTC above $80K with strong ETF institutional inflows, historic whale accumulation, and regulatory tailwinds from CLARITY Act. Technical: 200-day EMA test at $83K — daily close above shifts target to $89K-$100K. Counter-factors: Strategy's $12.5B unrealized loss weighing on sentiment, negative funding rates showing leverage caution, NFP risk in ~52h.",
+    "macro_backdrop": "No high-impact macro releases on May 7-8. FOMC next June 16-17. NFP May 9 12:30 UTC is nearest macro risk (~48h away — strong NFP = hawkish = BTC headwind). CPI April on May 12, PPI May 13. FOMC April 29 held rates at 3.50-3.75% with dissent (Miran wanted cut; Hammack/Kashkari/Logan opposed easing bias). Regulatory tailwinds (CLARITY Act, Goldman/Morgan Stanley ETF filings) remain constructive.",
+    "regime_rationale": "Neutral (0.40 confidence): BTC failed to break $83,300 (200-day SMA) after touching $82,500 intraday. Technical rejection + profit-taking after strong 3-month rebound. Counter-factors: ETF inflows remain strong, macro backdrop constructive (no FOMC risk, Iran de-escalation). NFP in 48h adds uncertainty. Regime set to neutral — bot will require strong signal consensus (score >= 2.5) to enter.",
     "sources": [
+      "blockchainreporter.net — BTC at $81,540 after rejecting $82,500",
+      "coindesk.com — Bitcoin narrowly missed breakout, history says be careful, May 7 2026",
+      "coindesk.com — BTC $81,500 May 5, tokenization push, ETF $500M+ inflows",
       "finance.yahoo.com — BTC $82,305 May 6 2026, highest since Jan 31",
-      "coindesk.com — BTC $81,500 May 5 2026, ETF inflows $500M+",
-      "dailyforex.com — Bitcoin Analysis 07/05/2026, 200-day EMA test",
-      "mexc.com — BTC price prediction May 2026, $81K support analysis",
-      "fortune.com — Bitcoin breaks $80K as CLARITY Act approaches finish line",
       "cryptobriefing.com — Strategy $12.5B net loss impacting Bitcoin sentiment",
-      "federalreserve.gov — FOMC statement April 29 2026 rates held 3.50-3.75%",
+      "federalreserve.gov — FOMC statement April 29 2026, rates held 3.50-3.75%",
       "bls.gov — NFP April release May 9 2026, CPI April May 12 2026",
-      "blog.kraken.com — April jobs and inflation data outlook May 6 2026"
+      "mexc.com — Crypto market update May 3 2026, sentiment recovering, on-chain lagging",
+      "financemagnates.com — BTC tops $80K, Iran de-escalation lifts crypto"
     ]
   }
 }
