@@ -1,66 +1,62 @@
 {
-  "regime": "neutral",
-  "confidence": 0.40,
+  "regime": "bullish",
+  "confidence": 0.58,
   "btc_price_usd": 81000,
   "key_events_next_24h": [
     {
-      "name": "BTC 200-Day SMA Resistance (~$82,228-$83,300) — recent intraday rejection",
-      "time": "2026-05-07 12:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Spot BTC ETF Daily Inflow Report (BlackRock/Fidelity)",
-      "time": "2026-05-07 20:00 UTC",
+      "name": "BTC Spot ETF Daily Inflow Report (BlackRock/Fidelity)",
+      "time": "2026-05-07 22:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Goldman Sachs BTC Premium Income ETF — SEC review ongoing, no imminent decision",
-      "time": "2026-05-08 00:00 UTC",
-      "impact": "low",
+      "name": "Consensus 2026 Conference (Miami) - Day 4, ongoing",
+      "time": "2026-05-08 14:00 UTC",
+      "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "No FOMC meeting (last: Apr 29, rates held 3.50-3.75%; next: Jun 16-17)",
-      "time": "N/A",
-      "impact": "low",
+      "name": "BTC Technical: 200-day SMA Resistance (~$83,300) — key breakout level",
+      "time": "2026-05-08 00:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "US April Non-Farm Payrolls (NFP) — major risk in ~36-48h",
+      "name": "US April Non-Farm Payrolls (NFP) — ~40h away, pre-positioning risk builds",
       "time": "2026-05-09 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "200일선 저항 거절, ETF 유입 강세 유지. NFP 전 혼조 중립",
-  "updated": "2026-05-07 11:30:00 UTC",
-  "valid_until": "2026-05-07 15:30:00 UTC",
+  "notes": "$80K 유지, ETF 9일 연속 유입. NFP(9일) 전 포지션 조정 주의",
+  "updated": "2026-05-07 20:08:31 UTC",
+  "valid_until": "2026-05-08 00:08:31 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$80,900-$81,600 on May 7 2026. Session high ~$82,500, sold off overnight to ~$80,900. Rejected at 200-day SMA ($82,228-$83,300). BTC has risen from ~$63,000 to $80K+ over 3 months. $80,500 is key support.",
+    "btc_price_note": "BTC ~$80,800-$81,540 on May 7 2026. Session high ~$82,500 rejected at 200-day SMA ($82,228-$83,300). 9-day ETF inflow streak totaling $2.7B. BTC up 35%+ from Feb lows (~$63K), highest since January. $80,000 remains key psychological support.",
     "sentiment_key_signals": [
-      "BTC rejected from $82,500 intraday — failed 200-day SMA test ($82,228-$83,300)",
-      "CoinDesk: 'Bitcoin narrowly missed a major breakout. History says be careful.'",
-      "Spot ETF inflows $1.63B since May 1 ($467M on Tuesday alone) — strongly bullish",
-      "Funding rates flipped from negative to neutral — less short pressure, less FOMO",
-      "Altcoin season index at 45/100 — capital rotating into alts, BTC dominance softening",
-      "OI declined 3% to $133B — deleveraging, not expansion, suggests caution",
-      "Fear & Greed recovering but fragile — consolidation phase likely",
-      "NFP April (May 9 12:30 UTC) is next major macro risk event in ~36-48h",
-      "FOMC held 3.50-3.75% on Apr 29, 4 members dissented — no June cut priced in yet",
-      "Goldman Sachs filed for BTC Premium Income ETF — regulatory tailwind ongoing"
+      "BTC reclaimed $80K for first time since January 31 — macro uptrend resumed",
+      "Spot ETF 9-day inflow streak: $2.7B total, $532M on May 4 (BlackRock, Fidelity)",
+      "200-day SMA ($82,228-$83,300) rejected intraday $82,500 high — key resistance",
+      "65.5% of Binance BTCUSDT accounts are short — contrarian short squeeze fuel",
+      "Fear & Greed Index at 40 (Fear) — cautious sentiment despite price recovery",
+      "Strategy (MSTR) reported $12.5B net loss — near-term BTC sentiment headwind",
+      "Funding rates neutral (from negative) — shorts covering, less sustained pressure",
+      "Tokenization narrative boosting crypto: Galaxy, Bullish, Centrifuge leading",
+      "Goldman Sachs BTC Premium Income ETF SEC filing — regulatory tailwind ongoing",
+      "NFP April release May 9 12:30 UTC (~40h) — pre-positioning caution building"
     ],
-    "macro_backdrop": "No high-impact macro releases on May 7-8. FOMC next June 16-17. NFP May 9 12:30 UTC is nearest macro risk. CPI April on May 12, PPI May 13. FOMC April 29 held rates at 3.50-3.75% with dissent (Miran wanted cut; Hammack/Kashkari/Logan opposed easing bias). Regulatory tailwinds (Goldman ETF, SEC accelerated listing standards) remain constructive longer-term.",
-    "regime_rationale": "Neutral (0.40 confidence): BTC failed intraday $82,500 breakout, 200-day SMA acting as resistance for 7+ months. Today -0.7% pullback with declining OI signals deleveraging. Bullish counter-factors: $1.63B ETF inflows since May 1, recovery from $63K lows. NFP in 48h adds directional uncertainty. Regime set to neutral — bot requires strong signal consensus (score >= 2.5) to enter.",
+    "macro_backdrop": "No high-impact macro releases on May 7-8. FOMC held 3.50-3.75% on Apr 29 (3rd consecutive hold), next meeting Jun 16-17. NFP April on May 9 12:30 UTC is nearest major macro risk within 48h. CPI April on May 12, PPI May 13. Regulatory tailwinds (Goldman ETF, SEC accelerated ETP listing standards) constructive. Consensus 2026 Miami conference ongoing through May 8 (historically bullish crypto catalyst).",
+    "regime_rationale": "Bullish (0.58 confidence): BTC holding above $80K for first time since January with strong ETF institutional demand (9-day streak, $2.7B). 65.5% short ratio on Binance creates short squeeze potential. Three technical signals (CoinDesk) pointing to $85K Active Realized Price target. Confidence capped at 0.58 due to: 200-day SMA ($83,300) acting as resistance for 7+ months with intraday rejection today; Strategy $12.5B loss headwind; Fear & Greed at 40; NFP in ~40h adds macro uncertainty. Bot filter active (confidence >= 0.50 threshold met).",
     "sources": [
       "blockchainreporter.net — BTC at $81,540 after rejecting $82,500, May 7 2026",
-      "coindesk.com — Bitcoin narrowly missed breakout; three signals point to $85K",
-      "coindesk.com — Altcoins climb as BTC/ETH retreat from weekly highs, May 7 2026",
-      "finance.yahoo.com — BTC $82,305 May 6 2026, highest since Jan 31",
-      "coindesk.com — BTC tops $81,500, ETF inflows $467M Tuesday, $1B+ two-day",
+      "coindesk.com — Bitcoin narrowly missed breakout; three signals point to $85K, May 7 2026",
+      "coindesk.com — BTC tops $81,500 as tokenization push lifts BLSH, GLXY, May 5 2026",
+      "finance.yahoo.com — Bitcoin at highest since January, May 6 2026",
+      "phemex.com — Bitcoin ETFs 9-day inflow streak $2.7B, May 2026",
+      "cryptotimes.io — BTC ETFs $532M inflows May 4 2026",
+      "cryptobriefing.com — Strategy $12.5B net loss impact on BTC sentiment May 2026",
+      "mexc.com — Crypto market update, bears cleared, sentiment retreats from $80K, May 4 2026",
       "federalreserve.gov — FOMC statement April 29 2026, rates held 3.50-3.75%",
-      "mexc.com — Crypto market update May 6 2026, ETF inflows return, options hedged",
       "pymnts.com — Goldman Sachs files for BTC Premium Income ETF SEC review"
     ]
   }
