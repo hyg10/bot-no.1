@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 79340,
+  "confidence": 0.55,
+  "btc_price_usd": 80000,
   "key_events_next_24h": [
     {
       "name": "BTC Spot ETF Daily Inflow Report (BlackRock IBIT / Fidelity FBTC)",
@@ -22,42 +22,41 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "$82K 고점 후 조정, NFP 소화, ETF 유입 강세, 숏 과다 역발상 강세",
-  "updated": "2026-05-08 14:30:00 UTC",
-  "valid_until": "2026-05-08 18:30:00 UTC",
+  "notes": "NFP 강세에도 80K 유지, 단기 조정 국면, CPI(5/12) 주목",
+  "updated": "2026-05-08 20:08:49 UTC",
+  "valid_until": "2026-05-09 00:08:49 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$79,340 on May 8, 2026. Weekly high $82,000 (May 6 — highest since January). Down ~-0.57% in 24h. Consolidating after rejection near 200-day SMA resistance (~$82,228). Support: $79,228 / $78,440 / $77,221. Resistance: $81,236 / $82,456. BTC opened week at $76,960; up ~27% from Feb lows (~$63K).",
-    "regime_rationale": "NEUTRAL (0.45 confidence): BTC is in post-rally consolidation after hitting $82K on May 6. US April NFP released at 12:30 UTC today — BTC held ~$79K indicating no major negative shock. Fear & Greed at 40 (Fear zone). However, structural bullish signals remain intact: ETF inflows, 3 consecutive positive months, exchange reserves at 7-year lows. Binance long/short ratio at 34.5% long / 65.5% short — heavily crowded shorts provide contrarian bullish fuel. Confidence 0.45 (just below 0.50 bot filter): post-NFP settling, Warsh confirmation uncertainty, and daily pullback prevent full bullish conviction. Next decisive catalyst: CPI May 12.",
+    "btc_price_note": "BTC ~$80,000 on May 8, 2026 (range $79,340–$80,394 across sources). Weekly high $82,000 (May 6 — highest since January). Pulling back from $82K resistance. Support: $79,228 / $78,440. Resistance: $81,236 / $82,456 (200-day SMA). BTC up ~27% from Feb lows (~$63K).",
+    "regime_rationale": "NEUTRAL (0.55 confidence): BTC held ~$79.3K–$80.4K after a strong US April NFP — resilience above $79K is a mild bullish sign. Three consecutive positive monthly returns (Mar, Apr, May in progress). Tom Lee: May close above $76K = bull market confirmed. However, BTC rejected at $82K twice; Fear & Greed still in cautious zone; CPI May 12 brings uncertainty. No FOMC in next 24h. Confidence 0.55: above the bot 0.50 filter, slight bullish bias with caution.",
     "bullish_signals": [
-      "ETF inflows: >$500M net (BlackRock + Fidelity leading); Goldman Sachs BTC ETF SEC filing ongoing",
-      "BTC highest level since January; May net positive ~+5% — Tom Lee: bull market confirmed if May closes >$76K",
-      "3 consecutive positive monthly returns (Mar, Apr, May in progress)",
-      "MA stack bullish: price above MA-7 > MA-14 > MA-30",
-      "Exchange reserves at 7-year low; whale accumulation — structural demand",
-      "65.5% shorts on Binance = crowded short = fuel for squeeze if price holds $79K",
-      "Consensus 2026 Miami: tokenization + AI agentic finance driving next bull cycle narrative",
-      "Warsh (incoming Fed Chair) personal crypto investments — most crypto-literate Fed era expected"
+      "BTC held $80K despite strong NFP (fewer rate-cut expectations) — resilient bid",
+      "ETF inflows: >$500M net (BlackRock + Fidelity leading); structural institutional demand",
+      "Three consecutive positive monthly returns (Mar, Apr, May in progress)",
+      "Tom Lee: bull market confirmed if May closes above $76K",
+      "Exchange reserves at 7-year low; whale accumulation",
+      "Crowded shorts (65.5% short on Binance) = fuel for squeeze above $80K",
+      "Consensus 2026 Miami: tokenization + AI agentic finance driving next bull cycle",
+      "Analysts cite three signals pointing to possible $85K move"
     ],
     "bearish_signals": [
-      "BTC -0.57% 24h, consecutive intraday rejections near $82K / 200-day SMA",
-      "Fear & Greed Index at 40 (Fear zone) — sentiment fragile",
-      "Futures OI declined 3% to $133B — position reduction by leveraged longs",
-      "NFP absorbed but macro uncertainty persists (Warsh confirmation, CPI May 12)",
-      "Strategy (MicroStrategy) reported $12.54B net loss — negative institutional sentiment signal",
-      "Geopolitical oil spike tail risk (Iran) remains elevated"
+      "BTC twice rejected at $82K / 200-day SMA — firm resistance",
+      "Strong NFP reduces probability of near-term Fed rate cuts",
+      "Fear & Greed Index in cautious zone — sentiment fragile",
+      "Futures OI declined — leveraged longs de-risking",
+      "CPI (May 12) and PPI (May 13) could reset rate-cut expectations sharply",
+      "Fed Chair transition (Powell ends May 15, Warsh TBD) adds policy uncertainty"
     ],
-    "macro_backdrop": "No FOMC in next 24h — last Apr 29 (held 3.50-3.75%, 3rd consecutive hold). Next FOMC June 16-17. US April NFP released today at 12:30 UTC (BTC held above $79K = neutral reaction). CPI April on May 12. PPI May 13. Fed Chair Powell term ends May 15; Warsh confirmation expected Senate vote week of May 11. Goldman Sachs BTC ETF SEC filing ongoing (structural tailwind).",
+    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 29: held 3.50–3.75% (3rd consecutive hold). Next FOMC June 16–17. US April NFP already released today May 8 at 8:30 ET — BTC held above $79K (neutral/bullish reaction). CPI April on May 12 at 8:30 ET. PPI May 13. Fed Chair Powell term ends May 15; Warsh confirmation Senate vote expected week of May 11.",
     "sources": [
-      "blockchainreporter.net — BTC at $79,340 after weekly high of $82K, May 8 2026",
+      "blockchainreporter.net — BTC pulls back to $79,340 after weekly high of $82K, May 8 2026",
+      "fortune.com — Current price of Bitcoin May 8 2026: $80,394",
+      "finance.yahoo.com — BTC prices holding following strong jobs report, May 8 2026",
       "coindesk.com — Tom Lee: closing May above $76K confirms new bull market, May 7 2026",
-      "coindesk.com — Three signals pointing to possible Bitcoin move to $85,000, May 7 2026",
-      "coindesk.com — BTC climbs, ETH lags as investors pile into altcoins, May 6 2026",
-      "coindesk.com — Bitcoin extends gains to $81,500, tokenization push, May 5 2026",
-      "finance.yahoo.com — BTC highest level since January, May 6 2026",
-      "mexc.com — Crypto market update: bears cleared, sentiment retreats from $80K, May 4 2026",
-      "cryptobriefing.com — Strategy $12.5B net loss impacting Bitcoin sentiment, May 2026",
-      "federalreserve.gov — FOMC statement April 29 2026, rates held 3.50-3.75%",
-      "5paisa.com — 2026 FOMC meeting calendar: next meeting June 16-17"
+      "coindesk.com — Three signals pointing to possible Bitcoin move to $85K, May 7 2026",
+      "coindesk.com — Altcoins flash bullish rotation as BTC stalls below $83K, May 7 2026",
+      "mexc.com — Crypto market update: sentiment recovers, on-chain signals lag, May 3-4 2026",
+      "kraken.com/blog — FOMC minutes and CPI macro week, May 6 2026",
+      "federalreserve.gov — FOMC meeting calendars 2026"
     ]
   }
 }
