@@ -1,63 +1,64 @@
 {
   "regime": "bullish",
   "confidence": 0.58,
-  "btc_price_usd": 81000,
+  "btc_price_usd": 80500,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Inflow Report (BlackRock/Fidelity)",
-      "time": "2026-05-07 22:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "US April Non-Farm Payrolls (NFP)",
+      "time": "2026-05-08 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     },
     {
-      "name": "Consensus 2026 Conference (Miami) - Day 4, ongoing",
+      "name": "Consensus 2026 Conference (Miami) — ongoing",
       "time": "2026-05-08 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "BTC Technical: 200-day SMA Resistance (~$83,300) — key breakout level",
-      "time": "2026-05-08 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
+      "name": "BTC Spot ETF Daily Inflow Report (BlackRock/Fidelity)",
+      "time": "2026-05-08 22:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     },
     {
-      "name": "US April Non-Farm Payrolls (NFP) — ~40h away, pre-positioning risk builds",
-      "time": "2026-05-09 12:30 UTC",
+      "name": "BTC 200-day SMA Resistance (~$83,300) — critical breakout level",
+      "time": "2026-05-08 00:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "$80K 유지, ETF 9일 연속 유입. NFP(9일) 전 포지션 조정 주의",
-  "updated": "2026-05-07 20:08:31 UTC",
-  "valid_until": "2026-05-08 00:08:31 UTC",
+  "notes": "BTC $80K 지지 유지, NFP 대기. $83K 저항선 돌파 여부 핵심",
+  "updated": "2026-05-08 08:00:00 UTC",
+  "valid_until": "2026-05-08 12:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$80,800-$81,540 on May 7 2026. Session high ~$82,500 rejected at 200-day SMA ($82,228-$83,300). 9-day ETF inflow streak totaling $2.7B. BTC up 35%+ from Feb lows (~$63K), highest since January. $80,000 remains key psychological support.",
+    "btc_price_note": "BTC ~$80,000-$81,076 on May 8 2026. 24h range $79,693-$81,653. Previous session high ~$82,800 rejected near 200-day SMA (~$83,300). Market cap $1.60T. BTC up ~27% from Feb lows (~$63K), highest since January. $80,000 is key psychological support.",
     "sentiment_key_signals": [
-      "BTC reclaimed $80K for first time since January 31 — macro uptrend resumed",
-      "Spot ETF 9-day inflow streak: $2.7B total, $532M on May 4 (BlackRock, Fidelity)",
-      "200-day SMA ($82,228-$83,300) rejected intraday $82,500 high — key resistance",
-      "65.5% of Binance BTCUSDT accounts are short — contrarian short squeeze fuel",
-      "Fear & Greed Index at 40 (Fear) — cautious sentiment despite price recovery",
-      "Strategy (MSTR) reported $12.5B net loss — near-term BTC sentiment headwind",
-      "Funding rates neutral (from negative) — shorts covering, less sustained pressure",
-      "Tokenization narrative boosting crypto: Galaxy, Bullish, Centrifuge leading",
-      "Goldman Sachs BTC Premium Income ETF SEC filing — regulatory tailwind ongoing",
-      "NFP April release May 9 12:30 UTC (~40h) — pre-positioning caution building"
+      "BTC holding $80K for first time since January — macro uptrend still intact",
+      "Spot ETF inflows continue: $500M+ led by BlackRock and Fidelity (multi-day streak)",
+      "200-day SMA (~$83,300) capping advances — intraday rejection at $82,800 on May 7",
+      "Tom Lee (Fundstrat): closing May above $76K confirms end of crypto winter",
+      "Altcoin rotation: ALGO, TON +9%; altcoin season index at 45/100 — BTC dominance watch",
+      "Fear & Greed Index recovering from recent lows, sentiment fragile but improving",
+      "Goldman Sachs BTC Premium Income ETF SEC filing — ongoing regulatory tailwind",
+      "Funding rates neutral (from negative) — shorts covering, less sustained downward pressure",
+      "NFP release today at 12:30 UTC: strong jobs = hawkish Fed = headwind for BTC",
+      "Tokenization narrative: AI agentic finance cited as next bull cycle driver (May 2026)"
     ],
-    "macro_backdrop": "No high-impact macro releases on May 7-8. FOMC held 3.50-3.75% on Apr 29 (3rd consecutive hold), next meeting Jun 16-17. NFP April on May 9 12:30 UTC is nearest major macro risk within 48h. CPI April on May 12, PPI May 13. Regulatory tailwinds (Goldman ETF, SEC accelerated ETP listing standards) constructive. Consensus 2026 Miami conference ongoing through May 8 (historically bullish crypto catalyst).",
-    "regime_rationale": "Bullish (0.58 confidence): BTC holding above $80K for first time since January with strong ETF institutional demand (9-day streak, $2.7B). 65.5% short ratio on Binance creates short squeeze potential. Three technical signals (CoinDesk) pointing to $85K Active Realized Price target. Confidence capped at 0.58 due to: 200-day SMA ($83,300) acting as resistance for 7+ months with intraday rejection today; Strategy $12.5B loss headwind; Fear & Greed at 40; NFP in ~40h adds macro uncertainty. Bot filter active (confidence >= 0.50 threshold met).",
+    "macro_backdrop": "No FOMC in next 24h — last meeting April 29, rates held at 3.50-3.75% (3rd consecutive hold), next FOMC June 16-17. US April Nonfarm Payrolls TODAY May 8 at 12:30 UTC is the single highest-impact macro event of the day. A strong payroll print could push back rate-cut expectations and weigh on risk assets including BTC. CPI April on May 12, PPI May 13 — both outside current 24h window. Consensus 2026 Conference (Miami) ongoing through May 8, historically a bullish catalyst for crypto narratives. Goldman Sachs BTC ETF filing adds structural regulatory tailwind. Geopolitical risk subdued (Rubio comments eased Iran escalation fears).",
+    "regime_rationale": "Bullish (0.58 confidence): BTC has sustained a 3-month rally from $63K to $80K+ with strong institutional demand via ETF inflows. Price holding above $80K psychological support. Three technical signals (CoinDesk analysis) point toward $85K target. Confidence capped at 0.58 due to: 200-day SMA (~$83,300) acting as resistance with back-to-back intraday rejections; NFP release today at 12:30 UTC introduces macro uncertainty before data; fear & greed still in recovering phase, not confirmed greed; altcoin outperformance may signal short-term BTC capital rotation. Bot filter active (confidence >= 0.50 threshold met).",
     "sources": [
-      "blockchainreporter.net — BTC at $81,540 after rejecting $82,500, May 7 2026",
-      "coindesk.com — Bitcoin narrowly missed breakout; three signals point to $85K, May 7 2026",
-      "coindesk.com — BTC tops $81,500 as tokenization push lifts BLSH, GLXY, May 5 2026",
-      "finance.yahoo.com — Bitcoin at highest since January, May 6 2026",
-      "phemex.com — Bitcoin ETFs 9-day inflow streak $2.7B, May 2026",
-      "cryptotimes.io — BTC ETFs $532M inflows May 4 2026",
-      "cryptobriefing.com — Strategy $12.5B net loss impact on BTC sentiment May 2026",
-      "mexc.com — Crypto market update, bears cleared, sentiment retreats from $80K, May 4 2026",
+      "coindesk.com — Bitcoin stalls below $83K, altcoins flash bullish rotation, May 7 2026",
+      "coindesk.com — Bitcoin narrowly missed a major breakout; history says be careful, May 7 2026",
+      "coindesk.com — Three signals pointing to possible BTC move to $85K, May 7 2026",
+      "finance.yahoo.com — BTC at highest level since January, May 6 2026",
+      "fortune.com — BTC price $82,320 on May 6 2026",
+      "coindesk.com — Tom Lee: closing May above $76K confirms new bull market, May 7 2026",
+      "coindesk.com — Bitcoin extends gains to $81,500 as tokenization push lifts BLSH/GLXY, May 5 2026",
+      "mexc.com — Crypto market update: sentiment recovers, on-chain signals lag, May 3 2026",
+      "regimeanalysis.com — Economic calendar May 2026: payrolls May 8, CPI May 12",
       "federalreserve.gov — FOMC statement April 29 2026, rates held 3.50-3.75%",
-      "pymnts.com — Goldman Sachs files for BTC Premium Income ETF SEC review"
+      "pymnts.com — Goldman Sachs seeks SEC approval for BTC Premium Income ETF 2026"
     ]
   }
 }
