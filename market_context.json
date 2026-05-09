@@ -1,16 +1,10 @@
 {
   "regime": "bullish",
-  "confidence": 0.60,
+  "confidence": 0.65,
   "btc_price_usd": 80369,
   "key_events_next_24h": [
     {
-      "name": "Weekend - No Major Macro Data (markets closed)",
-      "time": "2026-05-09 13:30 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Fed Chair Warsh Senate Confirmation Vote (expected week of May 11)",
+      "name": "Fed Chair Warsh Senate Confirmation (expected week of May 11)",
       "time": "2026-05-11 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
@@ -28,45 +22,42 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $80K 회복, ETF 유입 강세. 이란 협상 기대, CPI 앞두고 주목.",
-  "updated": "2026-05-09 08:03:13 UTC",
-  "valid_until": "2026-05-09 12:03:13 UTC",
+  "notes": "BTC $80,369 상승세. ETF 유입 강세, $85K 목표 신호 출현.",
+  "updated": "2026-05-09 12:10:00 UTC",
+  "valid_until": "2026-05-09 16:10:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC $80,369 on May 9 2026, up +1.25% (+$998) in 24h. Range $79,149-$80,449. Recovery from May 8 Iran-shock dip. Weekly high $82,000 (May 6). BTC up ~35% from Feb lows (~$63K). Key support $79,340; resistance $82,000.",
-    "regime_rationale": "BULLISH (0.60 confidence): BTC recovered to $80,369 (+1.25%) on May 9 as Iran peace-talk hopes reduced geopolitical risk. ETF inflows hit $603M/day (SEC exemption news) with BlackRock IBIT holding 812,000 BTC (3.8% of supply). Three technical signals point to $85K. Strong NFP (May 8) absorbed positively — prices held, not dumped. Confidence capped at 0.60 due to: $82K double-top resistance, upcoming CPI (May 12) could disappoint, weekend liquidity thin, and funding rates still mixed. Bot regime filter active at confidence >= 0.5.",
+    "btc_price_note": "BTC $80,369 on May 9 2026, up +1.25% in 24h. Range $79,149-$80,449. Recovery continues from recent dip. Weekly high $82,000 (May 6). BTC up ~35% from Feb lows (~$63K). Key support $79,340; resistance $82,000.",
+    "regime_rationale": "BULLISH (0.65 confidence): BTC at $80,369 (+1.25%) on May 9. ETF inflows strong ($500M+ led by BlackRock/Fidelity). Three technical signals pointing to $85K. Tom Lee confirms bull market with May monthly close above $76K. Strong jobs report (May 8) absorbed positively. Confidence raised to 0.65 vs prior 0.60 as weekend risk premium fades and ETF inflows sustain. Capped at 0.65 due to: $82K resistance double-top, upcoming CPI (May 12) risk, funding rates still mixed, Fed leadership transition uncertainty.",
     "bullish_signals": [
-      "BTC +1.25% today (May 9) — Iran-shock dip absorbed, recovery confirmed",
-      "Iran peace talks hopes reducing geopolitical risk premium",
-      "Spot ETF inflows $603M/day — SEC exemption rule change accelerating approvals",
-      "BlackRock IBIT: 812,000 BTC held (~3.8% of supply), institutional ownership 38% of ETF AUM",
-      "Three technical signals converging toward $85K target",
+      "BTC +1.25% today (May 9) — uptrend intact above $80K",
+      "Spot ETF inflows $500M+ led by BlackRock IBIT and Fidelity FBTC",
+      "Three technical signals converging toward $85K target (CoinDesk May 7)",
       "Tom Lee: May closing above $76K = bull market confirmed (BTC well above at $80K+)",
-      "Third consecutive positive monthly return in progress",
-      "Altcoin rotation bullish: ALGO, TON +9%, altcoin season index 45/100",
-      "Exchange reserves at multi-year lows — supply squeeze",
-      "Goldman Sachs, Morgan Stanley filing new Bitcoin ETFs"
+      "Third consecutive positive monthly return in progress (+2.63% MTD)",
+      "Altcoin rotation healthy: ALGO, TON +9%; altcoin season index 45/100",
+      "Tokenization and AI agentic finance narratives driving next bull cycle",
+      "Regulatory optimism: pending crypto legislation expected to bring clarity",
+      "Iran peace-talk hopes reducing geopolitical risk premium"
     ],
     "bearish_signals": [
       "BTC twice rejected at $82K — double-top resistance zone",
       "Funding rates still mixed/negative — caution among futures traders",
-      "CPI April release May 12: March was +3.3% YoY (highest since May 2024) — hot print could delay rate cuts",
-      "PPI May 13 rounds out inflation picture — both prints watched closely",
-      "Fed chair transition (Powell term ends May 15, Warsh confirmation pending) adds policy uncertainty",
-      "Weekend thin liquidity — volatility possible on low volume",
+      "Options markets staying hedged despite spot rally",
+      "CPI April release May 12 — hot print could delay rate cuts",
+      "PPI May 13 rounds out inflation picture",
+      "Fed chair transition (Powell ends May 15, Warsh pending) adds policy uncertainty",
+      "On-chain signals lagging price action per MEXC market update May 6",
       "Fear & Greed recovering but described as 'fragile'"
     ],
-    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 29 2026: held 3.50-3.75% (3rd consecutive hold). Next FOMC June 16-17 2026 (first under Warsh). No CPI/PPI today (weekend). April CPI May 12, April PPI May 13 — last inflation prints before June FOMC. Strong April NFP (released May 8) supports 'higher for longer' narrative but market absorbed it positively. Iran peace talks reducing risk-off pressure. Weekend = no major catalysts expected.",
+    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 29 2026: held 3.50-3.75% (3rd consecutive hold). Next FOMC June 16-17 2026 (first under Warsh). April CPI May 12, April PPI May 13 — next major macro catalysts. Strong April NFP (released May 8) absorbed positively. Weekend = no major catalysts expected in next 24h.",
     "sources": [
       "phemex.com — BTC $80,369 on May 9 2026, up +1.25%",
       "coindesk.com — Three signals pointing to possible Bitcoin move to $85K, May 7 2026",
       "coindesk.com — Tom Lee: closing May above $76K confirms new bull market, May 7 2026",
       "finance.yahoo.com — BTC prices holding following strong jobs report, May 8 2026",
-      "ainvest.com — SEC exemption imminent as Bitcoin ETFs capture $603M daily inflow, May 2026",
-      "unboxfuture.com — Bitcoin supply crunch May 2026: ETFs consuming new mining output",
-      "coindesk.com — Bitcoin ETF recovery in flows is real, May 4 2026",
-      "blog.kraken.com — April jobs and inflation data; FOMC backdrop, May 6 2026",
+      "mexc.com — Crypto market update: ETF inflows return, options markets stay hedged, May 6 2026",
       "coindesk.com — Bitcoin holds $81,500, altcoins rally on tokenization push, May 5 2026",
-      "mexc.com — Crypto market update: sentiment recovers while on-chain signals lag, May 3 2026"
+      "federalreserve.gov — FOMC statement Apr 29 2026: held 3.50-3.75%"
     ]
   }
 }
