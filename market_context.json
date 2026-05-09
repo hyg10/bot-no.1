@@ -1,17 +1,17 @@
 {
   "regime": "bullish",
-  "confidence": 0.60,
-  "btc_price_usd": 80350,
+  "confidence": 0.62,
+  "btc_price_usd": 80400,
   "key_events_next_24h": [
     {
-      "name": "No FOMC in next 24h (next meeting May 15, Warsh era begins)",
-      "time": "2026-05-15 18:00 UTC",
+      "name": "Fed Chair Transition: Warsh Takes Over from Powell (May 15)",
+      "time": "2026-05-15 00:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
       "name": "US April CPI Release",
-      "time": "2026-05-12 12:30 UTC",
+      "time": "2026-05-12 08:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
@@ -22,49 +22,50 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC Filing (ongoing review)",
-      "time": "2026-05-09 ongoing",
+      "name": "Spot Bitcoin ETF Daily Flow Report (BlackRock IBIT / Fidelity FBTC)",
+      "time": "2026-05-10 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $80K 회복, ETF 유입 강세, 85K 목표, 단기 조정 가능",
-  "updated": "2026-05-09 16:03:00 UTC",
-  "valid_until": "2026-05-09 20:03:00 UTC",
+  "notes": "BTC $80K 강세, ETF 유입 지속, CPI(5/12) 앞두고 단기 조정",
+  "updated": "2026-05-09 17:20:00 UTC",
+  "valid_until": "2026-05-09 21:20:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$80,350 on May 9 2026 (sources: $80,315-$80,435). Up ~+1% in 24h, recovering from May 8 dip to $79,340. Weekly high $82,000 on May 6. BTC up ~27% from 3-month lows (~$63K). Key support $79,340; resistance $82,000.",
-    "regime_rationale": "BULLISH (0.60 confidence): BTC holding above $80K with +1% recovery on May 9. Strong spot ETF inflows ($500M+ led by BlackRock IBIT/Fidelity FBTC). Three technical signals pointing to $85K (CoinDesk May 7). Tom Lee: bull market confirmed if May closes above $76K — BTC already $4K+ above that. Confidence set at 0.60 (moderate): double-top at $82K, mixed funding rates, upcoming CPI/PPI risk (May 12-13), Fed leadership transition uncertainty (Warsh), altcoin rotation reducing BTC momentum.",
+    "btc_price_note": "BTC ~$80,400 on May 9 2026 (sources: $80,315-$80,725 range). Up ~+1.25% in 24h, recovering from May 8 dip to $79,340. Weekly high $82,000 on May 6. BTC up ~27% from 3-month lows (~$63K). Key support $79,340; resistance $82,000.",
+    "regime_rationale": "BULLISH (0.62 confidence): BTC holding above $80K with +1.25% recovery on May 9. Strong spot ETF inflows ($3.4B over 6 consecutive weeks, led by BlackRock IBIT/Fidelity FBTC). Three technical signals pointing to $85K (CoinDesk May 7). Tom Lee: bull market confirmed if May closes above $76K — BTC already $4K+ above that. 327 of 390 crypto tokens rising on May 9. Confidence 0.62 (moderate-bullish): rejected twice at $82K double-top, CPI/PPI risk in 3-4 days, Fed leadership transition adding policy uncertainty.",
     "bullish_signals": [
-      "BTC +1% on May 9 — recovering from pullback, above $80K",
-      "Spot ETF inflows $500M+ led by BlackRock IBIT and Fidelity FBTC",
+      "BTC +1.25% on May 9 — recovering above $80K",
+      "Spot ETF inflows $3.4B over 6 consecutive weeks (BlackRock IBIT + Fidelity FBTC)",
       "Three technical signals converging toward $85K (CoinDesk May 7)",
-      "Tom Lee: May close above $76K = confirmed bull market (BTC well above)",
-      "Third consecutive positive monthly return (+2.63% MTD in May)",
-      "Funding rates flipped from negative to neutral — short pressure easing",
-      "Altcoin rotation (ALGO, TON +9%); altcoin season index 45/100",
-      "Goldman Sachs + Morgan Stanley filing Bitcoin ETFs — institutional demand wave",
-      "Regulatory clarity: joint SEC/CFTC staking ruling Mar 2026 reducing overhang"
+      "Tom Lee: May close above $76K = confirmed bull market (BTC well above at $80K+)",
+      "Third consecutive positive monthly return in May (upward trend)",
+      "327 of 390 tokens rising on May 9 — broad market participation",
+      "Goldman Sachs Bitcoin Premium Income ETF SEC filing — institutional demand wave",
+      "Regulatory clarity: SEC/CFTC staking ruling reducing regulatory overhang"
     ],
     "bearish_signals": [
       "BTC rejected twice at $82K — double-top resistance zone",
-      "Funding rates still mixed — caution persists in futures market",
+      "Negative funding rates indicate cautious futures positioning",
       "CPI April release May 12 — hot print could delay rate cuts, pressure risk assets",
-      "PPI May 13 adds to inflation risk picture",
-      "Fed chair transition (Powell ends May 15, Warsh pending) adds policy uncertainty",
-      "On-chain signals lagging price action (MEXC May 6)",
+      "PPI May 13 adds further inflation risk",
+      "Fed chair transition (Powell ends, Warsh takes over ~May 15) adds policy uncertainty",
+      "On-chain signals lagging price action",
       "Fear & Greed recovering but described as fragile",
-      "Next 24h weekend period — reduced liquidity, sharp moves possible"
+      "Weekend period next 24h — reduced liquidity, sharp moves possible"
     ],
-    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 29 2026: held 3.50-3.75% (3rd consecutive hold). Next FOMC June 16-17 under Warsh. April CPI May 12, PPI May 13 = next major catalysts. Weekend period = reduced liquidity. Goldman Sachs + Morgan Stanley Bitcoin ETF SEC filings pending.",
+    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 29 2026: held 3.50-3.75% (8-4 dissent vote, most contentious since 1992). Next FOMC June 16-17. April CPI May 12, PPI May 13 = next major catalysts. Fed chair transition ~May 15 = policy uncertainty. Goldman Sachs Bitcoin ETF SEC review ongoing. 6-week ETF inflow streak continues.",
     "sources": [
       "phemex.com — BTC $80,369 May 9 2026, +1.25% 24h",
       "metamask.io/price — BTC $80,315 May 9 2026",
       "coindesk.com — Three signals pointing to $85K, May 7 2026",
       "coindesk.com — Tom Lee bull market confirmation above $76K, May 7 2026",
       "blockchainreporter.net — BTC pulled back to $79,340 after $82K high, May 8 2026",
+      "aimsfx.com — 327/390 tokens rising, bullish trend May 9 2026",
       "mexc.com — Crypto market update: sentiment recovering, on-chain lagging, May 6 2026",
-      "federalreserve.gov — FOMC Apr 29 2026: held 3.50-3.75%",
-      "pymnts.com — Goldman Sachs Bitcoin ETF SEC filing 2026"
+      "federalreserve.gov — FOMC Apr 29 2026: held 3.50-3.75%, 8-4 dissent vote",
+      "pymnts.com — Goldman Sachs Bitcoin Premium Income ETF SEC filing 2026",
+      "bls.gov/schedule — US April CPI release scheduled May 12 2026"
     ]
   }
 }
