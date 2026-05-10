@@ -1,7 +1,7 @@
 {
-  "regime": "bullish",
-  "confidence": 0.65,
-  "btc_price_usd": 80702,
+  "regime": "neutral",
+  "confidence": 0.50,
+  "btc_price_usd": 80700,
   "key_events_next_24h": [
     {
       "name": "Spot Bitcoin ETF Daily Flow Report (BlackRock IBIT / Fidelity FBTC)",
@@ -34,12 +34,12 @@
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC 80,700달러 유지, ETF 유입 강세, 워시 인준·CPI 대기",
-  "updated": "2026-05-10 14:30:00 UTC",
-  "valid_until": "2026-05-10 18:30:00 UTC",
+  "notes": "BTC 8만불대 횡보, 워시 인준·CPI 대기로 방향성 불확실",
+  "updated": "2026-05-10 16:09:23 UTC",
+  "valid_until": "2026-05-10 20:09:23 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$80,702 on May 10 2026 (CoinCodex +0.40% 24h). Weekly range: opened $76,960, peaked $82,000 on May 6, pulled back to $79,340 on May 8, recovered to $80,702 on May 10. BTC up ~28% from 3-month lows (~$63K). Total crypto market cap $2.68T, BTC dominance 60.42%. Key resistance $82,000 double-top; support ~$79,340.",
-    "regime_rationale": "BULLISH (0.65 confidence): BTC holding above $80K, uptrend intact from $63K lows over 3 months. Strong spot ETF inflows >$500M weekly. Tom Lee: bull market confirmed if May closes above $76K -- BTC $4K+ above. Three technical signals pointing to $85K. Goldman Sachs filed Bitcoin ETF. Tokenization narrative (Bullish, Galaxy Digital, Centrifuge) driving participation. Confidence 0.65 due to $82K double-top rejection, negative funding rates, and Warsh vote/CPI/PPI risk cluster.",
+    "btc_price_note": "BTC ~$80,700 on May 10 2026 (CoinCodex +0.40% 24h). Weekly range: opened $76,960, peaked $82,000 on May 6, pulled back to $79,340 on May 8, recovered to $80,702 on May 10. BTC up ~28% from 3-month lows (~$63K). Total crypto market cap $2.68T, BTC dominance 60.42%. Key resistance $82,000 double-top; support ~$79,340.",
+    "regime_rationale": "NEUTRAL (0.50 confidence): BTC holding above $80K with uptrend intact from $63K lows, but rejected twice at $82K double-top. Strong ETF inflows bullish; however negative funding rates, Warsh Senate vote May 11 (hawkish risk), CPI May 12, and PPI May 13 create near-term uncertainty. Mixed signals prevent clear directional bias.",
     "bullish_signals": [
       "BTC $80,702 holding above $80K -- uptrend intact from $63K lows",
       "Spot ETF >$500M weekly inflows (BlackRock IBIT + Fidelity FBTC) continuing",
@@ -68,15 +68,12 @@
       "coincodex.com -- Daily market update May 10 2026: BTC +0.40%, $80,702",
       "coindesk.com -- Three signals pointing to $85K, May 7 2026",
       "coindesk.com -- Tom Lee: bull market confirmed above $76K, May 7 2026",
-      "coindesk.com -- BTC $81,500, tokenization narrative (BLSH/GLXY/CFG), May 5 2026",
       "blockchainreporter.net -- BTC $79,340 after $82K weekly high, May 8 2026",
       "mexc.com -- ETF inflows return, options stay hedged, May 6 2026",
       "mexc.com -- Sentiment recovers, on-chain signals lag, May 3 2026",
-      "federalreserve.gov -- FOMC meeting calendars 2026: held 3.50-3.75%",
       "bls.gov -- CPI schedule: April CPI release May 12 2026",
-      "ishares.com -- Fed Outlook 2026: Warsh appointment May 15",
-      "pymnts.com -- Goldman Sachs Bitcoin ETF SEC filing 2026",
-      "webopedia.com -- 7 pending crypto ETF decisions 2026"
+      "blog.kraken.com -- April jobs and inflation data, May 6 2026",
+      "pymnts.com -- Goldman Sachs Bitcoin ETF SEC filing 2026"
     ]
   }
 }
