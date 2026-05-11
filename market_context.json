@@ -1,7 +1,7 @@
 {
   "regime": "bullish",
-  "confidence": 0.55,
-  "btc_price_usd": 80900,
+  "confidence": 0.52,
+  "btc_price_usd": 80624,
   "key_events_next_24h": [
     {
       "name": "Kevin Warsh Senate Confirmation Vote (Fed Chair)",
@@ -16,43 +16,43 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $80K대, ETF 5주 유입. 워시 인준·CPI로 단기 변동성 주의",
-  "updated": "2026-05-11 00:16:25 UTC",
-  "valid_until": "2026-05-11 04:16:25 UTC",
+  "notes": "BTC $80K대 보합, CPI·워시 인준 앞두고 변동성 주의",
+  "updated": "2026-05-11 07:00:00 UTC",
+  "valid_until": "2026-05-11 11:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$80,900 on May 11 2026 (OKX: $82,362, CMC: $80,299, avg ~$80,900). Weekly range: opened $76,960, peaked $82,000 on May 6, pulled back to $79,340 on May 8, recovered ~$80-82K on May 11. BTC up ~28% from April lows (~$63K). Fear & Greed Index: ~46 (Neutral, up from 41 last week). Funding rates: flipped negative to neutral.",
-    "regime_rationale": "BULLISH (0.55 confidence): BTC clear 3-month uptrend $63K -> $80K+. Five-week ETF inflow streak from BlackRock/Fidelity. Three technical signals pointing to $85K. Fear & Greed recovering 41->46. However, two high-impact events within next 24h (Warsh confirmation vote 18:00 UTC today = hawkish risk; CPI tomorrow = inflation risk) cap confidence below 0.70. Bot filter activates at >= 0.50, so signals are active.",
+    "btc_price_note": "BTC ~$80,624 on May 11 2026 (+0.93% in 24h). Weekly range: opened $76,960, peaked $82,000 on May 6, pulled back to $79,340 on May 8, recovered to $80,624 on May 11. BTC up ~28% from April lows (~$63K). Fear & Greed Index: 47 (Neutral, jumped +9 from 38 — largest single-day recovery in weeks). Funding rates: negative to neutral.",
+    "regime_rationale": "BULLISH (0.52 confidence): BTC clear 3-month uptrend $63K -> $80K+. Five-week ETF inflow streak from BlackRock/Fidelity ($500M+ inflow on May 5). Three technical signals pointing to $85K. Fear & Greed recovering strongly 38->47. However, two high-impact events within next 24h (Warsh confirmation vote today = hawkish risk; CPI tomorrow = inflation risk) cap confidence near 0.50 threshold.",
     "bullish_signals": [
-      "BTC ~$80-82K, three-month uptrend intact from $63K April lows",
-      "Spot ETF five-week inflow streak — BlackRock IBIT and Fidelity FBTC leading",
+      "BTC $80,624 (+0.93% 24h), three-month uptrend intact from $63K April lows",
+      "Spot ETF five-week inflow streak — $500M+ led by BlackRock IBIT and Fidelity FBTC",
       "Three technical signals pointing to $85K target (CoinDesk May 7 2026)",
       "Tom Lee: May close above $76K = confirmed bull market; BTC well above at $80K+",
-      "Fear & Greed Index recovering 41->46 (Neutral), improving from Fear zone",
+      "Fear & Greed Index 38->47 largest single-day jump in weeks (MEXC May 10 2026)",
       "Funding rates flipped from negative to neutral — short squeeze fuel building",
-      "Altcoin rotation signs: BTC dominance 58.6%, altcoin index 45/100",
-      "US Strategic Bitcoin Reserve update expected within weeks (announced May 7)",
-      "Tokenization narrative boosting broader crypto sentiment"
+      "US Strategic Bitcoin Reserve details expected within weeks (announced May 7)",
+      "BTC above key cost basis levels — dealer short-gamma around $82K forces hedging buys"
     ],
     "bearish_signals": [
       "Warsh Senate confirmation vote today (May 11 ~18:00 UTC) — hawkish reputation, near-term risk-off",
-      "CPI April release May 12 — above-2% inflation risk could trigger hawkish repricing",
+      "CPI April release May 12 12:30 UTC — above-2% inflation risk could trigger hawkish repricing",
       "BTC double-top resistance around $82K — two rejections at this level",
-      "On-chain signals lagging price recovery per MEXC analysis",
-      "Market cap $2.81T still well below January 2026 peak of $3.01T",
-      "Altcoin season index at 45/100 — broad risk appetite not fully restored"
+      "Rising wedge formation on chart — analyst target $70K if breakdown occurs",
+      "Strategy (MicroStrategy) paused BTC purchases recently",
+      "Fed reduced near-term rate-cut expectations, reducing liquidity tailwind",
+      "Market cap $2.81T still below January 2026 peak of $3.01T"
     ],
-    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 28-29 2026: held 3.50-3.75%, noted inflation still above 2% target. Next FOMC June 2026. Fed Chair transition: Kevin Warsh Senate confirmation vote expected today May 11 (~18:00 UTC, hawkish short-term risk). April CPI May 12 12:30 UTC = next major macro catalyst. US Strategic Bitcoin Reserve update from White House within next few weeks of May 7.",
+    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 28-29 2026: held 3.50-3.75%, noted inflation still above 2% target. Next FOMC June 16-17 2026. Fed Chair transition: Kevin Warsh Senate confirmation vote expected today May 11 (~18:00 UTC, hawkish short-term risk). April CPI May 12 12:30 UTC = next major macro catalyst. April PPI May 13. No new major BTC ETF SEC decisions expected in this window.",
     "sources": [
       "coindesk.com -- Three signals pointing to $85K, May 7 2026",
       "coindesk.com -- Tom Lee: bull market confirmed above $76K, May 7 2026",
       "coindesk.com -- Bitcoin stalls below $83K, altcoins flash bullish rotation, May 7 2026",
       "blockchainreporter.net -- BTC $79,340 after $82K weekly high, May 8 2026",
-      "okx.com -- BTC live price $82,362, May 11 2026",
-      "coinmarketcap.com -- BTC $80,299, Fear & Greed ~46 Neutral, May 11 2026",
+      "coingecko.com -- BTC $80,624 +0.93% May 11 2026",
+      "coinmarketcap.com -- Fear & Greed 47 Neutral May 11 2026",
+      "mexc.com -- Liquidity repositioned, F&G +9 largest jump in weeks, May 10 2026",
       "spotedcrypto.com -- Crypto market May 2026 key moves and institutional flows",
-      "mexc.com -- Sentiment recovers while on-chain signals lag, May 3 2026",
-      "usinflationcalculator.com -- CPI release schedule May 12 2026",
-      "federalreserve.gov -- FOMC held 3.50-3.75% April 28-29 2026"
+      "kraken.com -- April CPI May 12 and FOMC minutes macro week brief",
+      "federalreserve.gov -- FOMC meeting calendar 2026"
     ]
   }
 }
