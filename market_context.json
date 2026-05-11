@@ -1,18 +1,18 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.40,
   "btc_price_usd": 81224,
   "key_events_next_24h": [
     {
       "name": "US April CPI Release (BLS)",
       "time": "2026-05-12 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "Iran Geopolitical Tensions (ongoing pressure on risk assets)",
+      "name": "Iran-US Geopolitical Tensions (ongoing, Hormuz risk)",
       "time": "2026-05-11 ongoing",
-      "impact": "medium",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
@@ -22,39 +22,40 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "이란긴장+CPI앞두고중립, ETF유입6주연속긍정적",
-  "updated": "2026-05-11 14:00:00 UTC",
-  "valid_until": "2026-05-11 18:00:00 UTC",
+  "notes": "이란긴장+CPI앞두고 변동성 확대, 기관매수 지속이나 중립관망",
+  "updated": "2026-05-11 14:30:00 UTC",
+  "valid_until": "2026-05-11 18:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$81,224 on May 11 2026. Surged from $80,700 to $82,400 on CME weekly open, then reversed on Iran tensions + USD strength. BTC up ~28% from April lows (~$63K). Fear & Greed Index: 46 (Neutral, recovered from 26 Extreme Fear). Six consecutive weeks of spot ETF inflows. $500M+ inflows led by BlackRock and Fidelity.",
-    "regime_rationale": "NEUTRAL (0.45 confidence): BTC in medium-term uptrend from $63K but short-term whipsaw from $82,400 high. Iran tensions + USD strength pressuring risk assets. CPI tomorrow 12:30 UTC is high-impact event creating directional uncertainty. Below 0.50 threshold -- bot filter will not activate, allowing normal signal-based trading.",
+    "btc_price_note": "BTC ~$81,224 on May 11 2026. Opened at $82,164 (strongest since Jan 31), surged to $82,400, then reversed on Iran tensions + USD strength. CoinDesk 100 fell 1.5%, CoinDesk 5 dropped 0.6%. Fear & Greed Index: 38-46 (Fear-to-Neutral, recovered from 26 Extreme Fear). Six consecutive weeks of spot ETF inflows; $858M in institutional inflows last week (~$700M into BTC products). BTC dominance: 58.6%.",
+    "regime_rationale": "NEUTRAL (0.40 confidence): BTC in medium-term uptrend from $63K April lows but short-term whipsaw visible ($82,400 -> ~$81,000) as Iran tensions + oil/USD pressure risk assets. Open interest pinned at $130B for 4th straight day (no fresh leverage). April CPI tomorrow 12:30 UTC is high-impact wildcard. Confidence 0.40 < 0.50 threshold -- macro filter inactive, normal signal-based trading continues.",
     "bullish_signals": [
-      "BTC ~$81K, three-month uptrend intact from $63K April lows; May up ~5%",
-      "Spot ETF six consecutive weeks of net inflows -- sustained BlackRock/Fidelity buying",
-      "Tom Lee: May close above $76K = confirmed bull market; BTC well above at $81K+",
-      "Fear & Greed recovered from 26 (Extreme Fear) to 46 (Neutral) -- rapid sentiment shift",
-      "Three technical signals pointing to $85K (above cost basis, EMA uptrend, short-gamma at $82K)",
-      "Altcoin season signals suggest broader risk appetite returning"
+      "6 consecutive weeks of spot BTC ETF net inflows -- longest streak in 9 months",
+      "$858M institutional inflows last week, $700M+ into BTC products",
+      "BTC well above $80K support; $63K -> $82K rally = +30% in weeks",
+      "Fear & Greed rapidly recovered from 26 (Extreme Fear) to 38-46 (Neutral)",
+      "Three technical signals pointing to $85K (EMA, short-gamma squeeze at $82K)",
+      "Bitcoin dominance 58.6% -- capital stays in BTC, not rotating out"
     ],
     "bearish_signals": [
-      "BTC whipsawed from $82,400 -> reversed on CME open, Iran tensions boosting USD/oil",
-      "April CPI May 12 12:30 UTC -- above-2% print could trigger hawkish repricing",
+      "BTC whipsawed: $82,400 -> $81,000 reversal on CME open Monday May 11",
+      "Iran tensions: Strait of Hormuz effectively closed, Brent crude >$104, USD rising",
+      "April CPI May 12 12:30 UTC -- above-2% print could trigger hawkish USD repricing",
       "BTC double-top resistance ~$82K -- two rejections at this level",
-      "Market cap $2.81T still below January 2026 peak of $3.01T",
-      "Fed held rates 3.50-3.75% Apr 29 -- no near-term cut catalyst",
-      "Iran submitted war reparations demand; Trump called it 'completely unacceptable'"
+      "Market cap $2.81T still below Jan 2026 peak of $3.01T",
+      "OI pinned $130B 4 days (no fresh leverage -- stalled momentum)",
+      "Iran counterproposal rejected: 'completely unacceptable' per Trump admin"
     ],
-    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 28-29 2026: held 3.50-3.75%, inflation still above 2% target. Next FOMC June 16-17 2026. April CPI May 12 12:30 UTC = primary macro catalyst for next 24h. Iran tensions creating broad risk-off pressure with oil crossing $100 at times. No new BTC ETF SEC decisions expected in next 24h.",
+    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 28-29 2026: held 3.50-3.75%, inflation still above 2% target. Next FOMC June 16-17 2026. April CPI May 12 12:30 UTC = primary macro catalyst for next 24h. Iran-US tensions ongoing: Strait of Hormuz closure driving oil +24%, USD strength. No new BTC ETF SEC decisions expected in next 24h. Goldman Sachs Bitcoin Premium Income ETF SEC application pending (not imminent).",
     "sources": [
       "coindesk.com -- Bitcoin whipsaws on CME open as Iran tensions pressure crypto, May 11 2026",
-      "coindesk.com -- Three signals pointing to $85K, May 7 2026",
-      "coindesk.com -- Tom Lee bull market confirmed above $76K, May 7 2026",
-      "finance.yahoo.com -- Bitcoin strongest opening in months May 11 2026",
+      "coindesk.com -- Bitcoin funds capture $700M as institutions place their bets, May 11 2026",
+      "theblock.co -- Crypto at the crossroads: Iran tensions and whale selling cloud outlook, May 11 2026",
+      "yahoo.finance -- Bitcoin strongest opening in months May 11 2026 ($82,164 open)",
       "mexc.com -- Crypto market update May 9 2026: Bitcoin holds range as sentiment lags ETF flows",
       "fortune.com -- BTC price $81,224 May 11 2026",
-      "bls.gov -- CPI April 2026 release scheduled May 12 2026 08:30 ET",
-      "tipranks.com -- Bitcoin collapses toward $81K as Iran tensions explode and CME markets open",
-      "spotedcrypto.com -- Crypto market May 2026 institutional flows"
+      "bls.gov -- CPI April 2026 release scheduled May 12 2026 08:30 ET (12:30 UTC)",
+      "spotedcrypto.com -- Crypto market May 2026 institutional flows; total market cap $2.81T",
+      "tradingkey.com -- US-Iran conflict crypto BTC price Fed CPI tone for pullback risk, May 11 2026"
     ]
   }
 }
