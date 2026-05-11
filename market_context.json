@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
   "confidence": 0.55,
-  "btc_price_usd": 80756,
+  "btc_price_usd": 81000,
   "key_events_next_24h": [
     {
       "name": "Kevin Warsh Senate Confirmation Vote (Fed Chair)",
@@ -14,41 +14,49 @@
       "time": "2026-05-12 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Iran Geopolitical Tensions (ongoing pressure on risk assets)",
+      "time": "2026-05-11 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $80,756 보합, CPI·워시 인준 앞두고 중립 유지",
-  "updated": "2026-05-11 08:09:18 UTC",
-  "valid_until": "2026-05-11 12:09:18 UTC",
+  "notes": "이란긴장+CME변동성, 워시인준·CPI대기 중립 유지",
+  "updated": "2026-05-11 09:30:00 UTC",
+  "valid_until": "2026-05-11 13:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$80,756 on May 11 2026 (+0.33% in 24h). Weekly range: $76,960 open, $82,000 peak (May 6), $79,340 low (May 8), recovered to $80,756. BTC up ~28% from April lows (~$63K). Fear & Greed Index: 47 (Neutral, jumped +9 from 38 prev day — largest single-day recovery in weeks). Funding rates: negative to neutral.",
-    "regime_rationale": "NEUTRAL (0.55 confidence): BTC in 3-month uptrend from $63K but currently range-bound $80K-$82K. Six consecutive weeks of spot ETF inflows (BlackRock/Fidelity). Fear & Greed at 47 = borderline neutral. Two imminent high-impact events (Warsh hawkish risk today 18:00 UTC; CPI tomorrow 12:30 UTC) justify neutral over bullish. Bot filter active at confidence>=0.50.",
+    "btc_price_note": "BTC ~$81,000 on May 11 2026. Surged from $80,700 to $82,400 on CME weekly open, then reversed on Iran tensions + USD strength. BTC up ~28% from April lows (~$63K). Fear & Greed Index: 47 (Neutral, jumped +9 from 38 prev day). Six consecutive weeks of spot ETF inflows. Total ETF AUM >$59B, institutional exposure >$106B.",
+    "regime_rationale": "NEUTRAL (0.55 confidence): BTC in medium-term uptrend from $63K but short-term whipsaw from $82,400 high. Iran tensions + USD strength pressuring risk assets. Two imminent high-impact events (Warsh hawkish risk today 18:00 UTC; CPI tomorrow 12:30 UTC) justify neutral over bullish. CLARITY Act Senate vote May 14 = near-term bullish catalyst but outside 24h window. Bot filter active at confidence>=0.50.",
     "bullish_signals": [
-      "BTC $80,756 (+0.33% 24h), three-month uptrend intact from $63K April lows",
+      "BTC ~$81K, three-month uptrend intact from $63K April lows; May up ~5%",
       "Spot ETF six consecutive weeks of net inflows — sustained BlackRock/Fidelity buying",
-      "Three technical signals pointing to $85K target (funding neutral, above cost basis, short-gamma at $82K)",
-      "Tom Lee: May close above $76K = confirmed bull market; BTC well above at $80K+",
+      "Tom Lee: May close above $76K = confirmed bull market; BTC well above at $81K+",
       "Fear & Greed 38->47 largest single-day recovery in weeks",
-      "SEC Chair Atkins signaling support for onchain finance rules (bullish regulatory backdrop)",
-      "CLARITY Act Senate committee vote May 14 — potential institutional confidence boost",
-      "SUI +24% alt-season signal suggests risk appetite returning"
+      "CLARITY Act Senate Banking Committee vote May 14 — institutional confidence boost expected",
+      "Three technical signals pointing to $85K (above cost basis, short-gamma at $82K, EMA uptrend +0.6%)",
+      "SUI +24% alt-season signal suggests risk appetite returning",
+      "White House bullish on crypto post-CLARITY passage"
     ],
     "bearish_signals": [
+      "BTC whipsawed from $82,400 -> reversed on CME open, Iran tensions boosting USD/oil",
       "Warsh confirmation vote today ~18:00 UTC — hawkish reputation = near-term rate-risk",
       "April CPI May 12 12:30 UTC — above-2% print could trigger hawkish repricing",
       "BTC double-top resistance ~$82K — two rejections at this level",
       "Market cap $2.81T still below January 2026 peak of $3.01T",
       "Fed held rates 3.50-3.75% Apr 29 — no near-term cut catalyst"
     ],
-    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 28-29 2026: held 3.50-3.75%, inflation still above 2% target. Next FOMC June 16-17 2026. Kevin Warsh Senate confirmation vote expected today May 11 (~18:00 UTC, hawkish short-term risk). April CPI May 12 12:30 UTC = primary macro catalyst. CLARITY Act vote May 14. No new BTC ETF SEC decisions expected.",
+    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 28-29 2026: held 3.50-3.75%, inflation still above 2% target. Next FOMC June 16-17 2026. Kevin Warsh Senate confirmation vote expected today May 11 (~18:00 UTC, hawkish short-term risk). April CPI May 12 12:30 UTC = primary macro catalyst. Iran tensions creating broad risk-off pressure. CLARITY Act vote May 14 (Senate Banking, 10:30 AM). No new BTC ETF SEC decisions expected.",
     "sources": [
+      "coindesk.com -- Bitcoin whipsaws on CME open as Iran tensions pressure crypto, May 11 2026",
       "coindesk.com -- Three signals pointing to $85K, May 7 2026",
       "coindesk.com -- Tom Lee bull market confirmed above $76K, May 7 2026",
       "cryptotimes.io -- BTC holds $81K, CLARITY Act vote set May 14, May 11 2026",
       "mexc.com -- Liquidity repositioned, F&G +9 largest jump in weeks, May 10 2026",
-      "coingecko.com/coinmarketcap.com -- BTC $80,756 +0.33% May 11 2026",
-      "spotedcrypto.com -- Crypto market May 2026 key moves and institutional flows",
-      "federalreserve.gov -- FOMC statement April 29 2026, held 3.50-3.75%",
-      "bls.gov -- CPI release scheduled May 12 2026 08:30 ET"
+      "coinmarketcap.com -- BTC $80,601 live price May 11 2026",
+      "okx.com -- BTC $81,160 live price May 11 2026",
+      "spotedcrypto.com -- Crypto market May 2026 institutional flows",
+      "federalreserve.gov -- FOMC schedule: next meeting June 16-17 2026"
     ]
   }
 }
