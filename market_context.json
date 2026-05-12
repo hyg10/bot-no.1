@@ -1,61 +1,61 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 81224,
+  "confidence": 0.55,
+  "btc_price_usd": 81745,
   "key_events_next_24h": [
     {
-      "name": "US April CPI Release (BLS)",
+      "name": "US April CPI Release (BLS) - expected +3.7% YoY",
       "time": "2026-05-12 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Iran-US Geopolitical Tensions (ongoing, Hormuz risk)",
-      "time": "2026-05-11 ongoing",
+      "name": "US Senate CLARITY Act markup vote",
+      "time": "2026-05-14 14:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "bullish"
     },
     {
-      "name": "BTC Spot ETF Daily Flow Report",
-      "time": "2026-05-12 20:00 UTC",
+      "name": "Kevin Warsh Fed Chair appointment effective",
+      "time": "2026-05-15 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "이란긴장+CPI앞두고 변동성 확대, 기관매수 지속이나 중립관망",
-  "updated": "2026-05-11 14:30:00 UTC",
-  "valid_until": "2026-05-11 18:30:00 UTC",
+  "notes": "4월 CPI 오늘 12:30UTC 발표, 3.7% 예상 변동성 주의",
+  "updated": "2026-05-12 06:30:00 UTC",
+  "valid_until": "2026-05-12 10:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$81,224 on May 11 2026. Opened at $82,164 (strongest since Jan 31), surged to $82,400, then reversed on Iran tensions + USD strength. CoinDesk 100 fell 1.5%, CoinDesk 5 dropped 0.6%. Fear & Greed Index: 38-46 (Fear-to-Neutral, recovered from 26 Extreme Fear). Six consecutive weeks of spot ETF inflows; $858M in institutional inflows last week (~$700M into BTC products). BTC dominance: 58.6%.",
-    "regime_rationale": "NEUTRAL (0.40 confidence): BTC in medium-term uptrend from $63K April lows but short-term whipsaw visible ($82,400 -> ~$81,000) as Iran tensions + oil/USD pressure risk assets. Open interest pinned at $130B for 4th straight day (no fresh leverage). April CPI tomorrow 12:30 UTC is high-impact wildcard. Confidence 0.40 < 0.50 threshold -- macro filter inactive, normal signal-based trading continues.",
+    "btc_price_note": "BTC ~$81,745 on May 12, up +1.58% in 24h. Trading in $80,500-$82,000 range. Fear & Greed Index 47 (Neutral), jumped +9pts from 38 yesterday. Largest single-day sentiment recovery in weeks. BTC is +1.03% above 20-period EMA with positive EMA slope (+0.65%). US spot BTC ETFs logged 6th consecutive week of net inflows -- longest streak in 9 months.",
+    "regime_rationale": "NEUTRAL (0.55 confidence): BTC in medium-term uptrend ($63K -> $82K over 3 months) but consolidating. Dominant near-term risk = April CPI at 12:30 UTC today, expected +3.7% YoY (hottest since 2024) driven by energy/Iran shock. Hot print would reinforce no-rate-cut narrative, USD strength, risk-asset pressure. Bullish underpinning from ETF flows and CLARITY Act vote (May 14). Mixed signals justify NEUTRAL with confidence above 0.50 threshold -- macro filter active.",
     "bullish_signals": [
       "6 consecutive weeks of spot BTC ETF net inflows -- longest streak in 9 months",
-      "$858M institutional inflows last week, $700M+ into BTC products",
-      "BTC well above $80K support; $63K -> $82K rally = +30% in weeks",
-      "Fear & Greed rapidly recovered from 26 (Extreme Fear) to 38-46 (Neutral)",
-      "Three technical signals pointing to $85K (EMA, short-gamma squeeze at $82K)",
-      "Bitcoin dominance 58.6% -- capital stays in BTC, not rotating out"
+      "Institutional momentum led by BlackRock, Fidelity, Goldman Sachs ETF application pending",
+      "BTC held $80K support; medium-term uptrend intact ($63K -> $82K since April)",
+      "Fear & Greed recovered from 26 (Extreme Fear) to 47 (Neutral) -- rapid sentiment healing",
+      "Three technical signals (EMA, short-gamma, pattern) pointing to $85K target",
+      "CLARITY Act vote May 14: 75% Polymarket odds of passage -- major regulatory clarity",
+      "Trump administration supportive of BTC strategic reserve accumulation"
     ],
     "bearish_signals": [
-      "BTC whipsawed: $82,400 -> $81,000 reversal on CME open Monday May 11",
-      "Iran tensions: Strait of Hormuz effectively closed, Brent crude >$104, USD rising",
-      "April CPI May 12 12:30 UTC -- above-2% print could trigger hawkish USD repricing",
-      "BTC double-top resistance ~$82K -- two rejections at this level",
-      "Market cap $2.81T still below Jan 2026 peak of $3.01T",
-      "OI pinned $130B 4 days (no fresh leverage -- stalled momentum)",
-      "Iran counterproposal rejected: 'completely unacceptable' per Trump admin"
+      "April CPI today 12:30 UTC: expected +3.7% YoY, +0.6% MoM -- inflation re-accelerating",
+      "Iran-US tensions ongoing: Strait of Hormuz risk, Brent crude >$104, USD strength",
+      "BTC double-top resistance at ~$82K -- two rejections, stalling momentum",
+      "Total market cap $2.81T still below Jan 2026 peak of $3.01T",
+      "March CPI was +0.9% MoM (largest since June 2022) -- trend of hot prints",
+      "Fed held rates at 3.50-3.75% (3rd consecutive hold) -- no easing in sight"
     ],
-    "macro_backdrop": "No FOMC in next 24h. Last FOMC Apr 28-29 2026: held 3.50-3.75%, inflation still above 2% target. Next FOMC June 16-17 2026. April CPI May 12 12:30 UTC = primary macro catalyst for next 24h. Iran-US tensions ongoing: Strait of Hormuz closure driving oil +24%, USD strength. No new BTC ETF SEC decisions expected in next 24h. Goldman Sachs Bitcoin Premium Income ETF SEC application pending (not imminent).",
+    "macro_backdrop": "No FOMC meeting in next 24h. Last FOMC Apr 28-29 2026: held 3.50-3.75%. Next FOMC June 16-17 2026. April CPI at 12:30 UTC today is primary macro catalyst. Kevin Warsh replaces Powell as Fed Chair May 15 -- market uncertain on policy continuity. CLARITY Act Senate Banking Committee markup vote on May 14 -- comprehensive crypto market structure regulation. Goldman Sachs seeking SEC approval for new Bitcoin ETF (pending, no imminent decision).",
     "sources": [
-      "coindesk.com -- Bitcoin whipsaws on CME open as Iran tensions pressure crypto, May 11 2026",
-      "coindesk.com -- Bitcoin funds capture $700M as institutions place their bets, May 11 2026",
-      "theblock.co -- Crypto at the crossroads: Iran tensions and whale selling cloud outlook, May 11 2026",
-      "yahoo.finance -- Bitcoin strongest opening in months May 11 2026 ($82,164 open)",
-      "mexc.com -- Crypto market update May 9 2026: Bitcoin holds range as sentiment lags ETF flows",
-      "fortune.com -- BTC price $81,224 May 11 2026",
-      "bls.gov -- CPI April 2026 release scheduled May 12 2026 08:30 ET (12:30 UTC)",
-      "spotedcrypto.com -- Crypto market May 2026 institutional flows; total market cap $2.81T",
-      "tradingkey.com -- US-Iran conflict crypto BTC price Fed CPI tone for pullback risk, May 11 2026"
+      "fortune.com -- BTC price $81,224 May 11, $81,745 May 12 2026",
+      "yahoo.finance -- Bitcoin strongest opening in months May 11 2026",
+      "coindesk.com -- Three signals pointing to $85K, May 7 2026",
+      "cryptotimes.io -- SUI soars, Bitcoin holds $81K, CLARITY Act vote set May 14",
+      "mexc.com -- Crypto market update May 9-10 2026, liquidity repositioned",
+      "kiplinger.com -- April CPI report preview, +3.7% YoY expected, May 12 2026",
+      "ccn.com -- Senate CLARITY Act vote May 14, Bitcoin/ETH/XRP impact",
+      "coindesk.com -- Crypto industry cheers Senate CLARITY Act markup date, May 9 2026",
+      "spotedcrypto.com -- Crypto market May 2026 institutional flows, total market cap $2.81T"
     ]
   }
 }
