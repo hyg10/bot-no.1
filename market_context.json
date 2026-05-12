@@ -1,13 +1,14 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "btc_price_usd": 80860,
+  "btc_price_usd": 81000,
   "key_events_next_24h": [
     {
-      "name": "US April CPI Release (BLS)",
+      "name": "US April CPI Released (actual: +0.6% MoM, +3.8% YoY)",
       "time": "2026-05-12 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "neutral",
+      "note": "Cooling from +0.9% prior - mildly bullish for risk, but still above 2% target"
     },
     {
       "name": "US April PPI Release",
@@ -16,51 +17,51 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "Senate CLARITY Act markup vote",
+      "name": "Senate CLARITY Act Banking Committee Hearing",
       "time": "2026-05-14 14:00 UTC",
       "impact": "high",
       "expected_direction": "bullish"
     },
     {
-      "name": "Kevin Warsh Fed Chair effective (Powell out)",
+      "name": "Kevin Warsh replaces Powell as Fed Chair",
       "time": "2026-05-15 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "CPI 발표 임박, BTC $81K 저항 공방, ETF 유입 6주 연속",
-  "updated": "2026-05-12 12:05:38 UTC",
-  "valid_until": "2026-05-12 16:05:38 UTC",
+  "notes": "BTC $81K 200일MA 저항, CPI 냉각 중립, F&G 47",
+  "updated": "2026-05-12 13:30:00 UTC",
+  "valid_until": "2026-05-12 17:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$80,860 on May 12 (blockchainreporter.net). Session high $82,000 rejected again; key resistance $82,228. Support $80,000 defended every time this month. Fear & Greed Index 47 (Neutral), up 9pts from 38 -- largest single-day sentiment swing in weeks. Six consecutive weeks of net inflows into spot BTC ETFs.",
-    "regime_rationale": "NEUTRAL (0.45 confidence): BTC range-bound $80K-$82K. US April CPI release at 12:30 UTC today is the primary near-term catalyst (HOT = USD strength, bearish BTC; COOL = rate-cut hopes, bullish). Mixed technicals. Structural ETF demand bullish but macro uncertainty dominates short-term. Confidence below 0.5 -- bot will not apply filter.",
+    "btc_price_note": "BTC ~$81,000 on May 12 2026. Session high ~$82,000 rejected again at 200-day MA ($82,228). Support at $80,000 held. Fear & Greed Index 47 (Neutral), recovered from 38 yesterday (+9pts, largest single-day swing in weeks). Recovery ongoing from April $74,900 low.",
+    "regime_rationale": "NEUTRAL (0.45 confidence): BTC range-bound $80K-$82K. April CPI +0.6% MoM (cooling from +0.9%) and +3.8% YoY -- inflation cooling is mildly bullish but still elevated. Multiple 200-day MA rejections at $82,228 cap upside. Mixed technicals. Confidence at 0.45 -- below 0.5 threshold, bot will NOT apply directional filter.",
     "bullish_signals": [
+      "CPI cooling: +0.6% MoM vs +0.9% prior -- easing inflation pressure",
       "6 consecutive weeks of spot BTC ETF net inflows -- longest streak in 9 months",
-      "Morgan Stanley BTC ETF drew $194M early inflows",
-      "CME launched first regulated BTC volatility derivatives",
-      "BTC held $80K support; medium-term uptrend intact from $74,900 April low",
+      "BTC held $80K support; medium-term recovery from $74,900 April low intact",
       "Fear & Greed recovered from 26 (Extreme Fear) to 47 (Neutral)",
-      "CLARITY Act House passage 294-134; Senate vote May 14 -- regulatory clarity ahead",
-      "Kevin Warsh (rate-cut-friendly) replacing Powell as Fed Chair May 15",
+      "CLARITY Act passed House 294-134; Senate Banking hearing May 14",
+      "Kevin Warsh (rate-cut-leaning) replacing Powell as Fed Chair May 15",
       "SEC + CFTC jointly classified BTC, ETH, SOL, XRP as digital commodities (Mar 2026)"
     ],
     "bearish_signals": [
-      "April CPI at 12:30 UTC today -- inflation re-acceleration risk",
-      "BTC double-top at ~$82K -- multiple rejections, no daily close above $82,228 since Oct 2025",
-      "Fear & Greed still below 50 -- retail participation lagging institutional",
-      "Fed held rates at 3.50-3.75% for 3rd consecutive meeting -- no near-term easing",
-      "CLARITY Act still needs Senate passage -- not guaranteed",
-      "Total crypto market cap $2.81T vs $3.01T early Jan 2026 -- still in recovery"
+      "BTC multiple rejections at $82,228 (200-day MA) -- no daily close above since Oct 2025",
+      "CPI still +3.8% YoY -- Fed unlikely to cut rates near-term",
+      "Fed held rates at 3.50-3.75% for 3rd consecutive meeting",
+      "Fear & Greed still below 50 -- retail sentiment lagging institutional",
+      "Total crypto market cap $2.81T vs $3.01T early Jan 2026 -- still in recovery",
+      "PPI release tomorrow adds uncertainty",
+      "Fed Chair transition historically creates short-term risk-asset volatility"
     ],
-    "macro_backdrop": "No FOMC meeting in next 24h. Last FOMC Apr 28-29: held 3.50-3.75%. Next FOMC June 16-17. April CPI at 12:30 UTC TODAY is primary catalyst. April PPI Wednesday. Kevin Warsh replaces Powell as Fed Chair May 15. CLARITY Act Senate Banking Committee vote May 14.",
+    "macro_backdrop": "April CPI released today at 12:30 UTC: +0.6% MoM (cooling from +0.9%), +3.8% YoY. PPI tomorrow May 13. CLARITY Act Senate Banking hearing May 14. Kevin Warsh takes over as Fed Chair May 15. No FOMC meeting until June 16-17. No BTC ETF SEC decisions imminent.",
     "sources": [
-      "blockchainreporter.net -- BTC $80,860 May 12 2026",
-      "yahoo.finance -- Bitcoin strongest opening in months May 11",
-      "coinmarketcap.com -- Fear & Greed 47 (Neutral), BTC $81,090",
-      "cryptotimes.io -- BTC holds $81K, CLARITY Act vote May 14",
-      "coindesk.com -- Three signals pointing to $85K, May 7 2026",
-      "mexc.com -- Crypto market update May 10-11 2026",
-      "ccn.com -- Senate CLARITY Act vote May 14 impact"
+      "blockchainreporter.net -- BTC $80,860 analysis May 12 2026",
+      "fortune.com -- BTC price $80,860.97 at 9:15am ET May 12 2026",
+      "coingabbar.com -- Crypto market May 12, BTC at $81K",
+      "coinmarketcap.com -- Fear & Greed 47 (Neutral)",
+      "mexc.com -- Crypto market update May 9-10 2026",
+      "bls.gov -- CPI April 2026 release schedule",
+      "coindesk.com -- BTC market analysis May 2026"
     ]
   }
 }
