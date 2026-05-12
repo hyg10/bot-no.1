@@ -1,15 +1,8 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "btc_price_usd": 81000,
+  "btc_price_usd": 81060,
   "key_events_next_24h": [
-    {
-      "name": "US April CPI Released (actual: +0.6% MoM, +3.8% YoY)",
-      "time": "2026-05-12 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral",
-      "note": "Cooling from +0.9% prior - mildly bullish for risk, but still above 2% target"
-    },
     {
       "name": "US April PPI Release",
       "time": "2026-05-13 12:30 UTC",
@@ -29,39 +22,40 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $81K 200일MA 저항, CPI 냉각 중립, F&G 47",
-  "updated": "2026-05-12 13:30:00 UTC",
-  "valid_until": "2026-05-12 17:30:00 UTC",
+  "notes": "BTC $81K 200일MA 저항, CPI 냉각 확인, F&G 47 중립",
+  "updated": "2026-05-12 20:02:45 UTC",
+  "valid_until": "2026-05-13 00:02:45 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$81,000 on May 12 2026. Session high ~$82,000 rejected again at 200-day MA ($82,228). Support at $80,000 held. Fear & Greed Index 47 (Neutral), recovered from 38 yesterday (+9pts, largest single-day swing in weeks). Recovery ongoing from April $74,900 low.",
-    "regime_rationale": "NEUTRAL (0.45 confidence): BTC range-bound $80K-$82K. April CPI +0.6% MoM (cooling from +0.9%) and +3.8% YoY -- inflation cooling is mildly bullish but still elevated. Multiple 200-day MA rejections at $82,228 cap upside. Mixed technicals. Confidence at 0.45 -- below 0.5 threshold, bot will NOT apply directional filter.",
+    "btc_price_note": "BTC ~$81,060 at 20:02 UTC May 12 2026. Session dipped to $80,300, recovered to $82,000 before rejection at 200-day MA (~$82,228). Support at $80K holding. Fear & Greed Index 47 (Neutral), up 9pts from yesterday's 38 -- largest single-day recovery in weeks.",
+    "regime_rationale": "NEUTRAL (0.45 confidence): BTC range-bound $80K-$82K after multiple 200-day MA rejections. April CPI +0.6% MoM (cooling from +0.9%) and +3.8% YoY -- inflation easing is mildly bullish but still elevated. Confidence at 0.45 -- below 0.5 threshold, bot will NOT apply directional filter this cycle.",
     "bullish_signals": [
-      "CPI cooling: +0.6% MoM vs +0.9% prior -- easing inflation pressure",
+      "April CPI released: +0.6% MoM vs +0.9% prior -- inflation cooling, easing rate-hike fears",
       "6 consecutive weeks of spot BTC ETF net inflows -- longest streak in 9 months",
-      "BTC held $80K support; medium-term recovery from $74,900 April low intact",
-      "Fear & Greed recovered from 26 (Extreme Fear) to 47 (Neutral)",
+      "Morgan Stanley Bitcoin ETF drew $194M early inflows",
+      "Strategy bought 535 BTC today; institutional accumulation ongoing",
+      "BTC held $80K support; recovery from April $74,900 low intact",
+      "Fear & Greed recovered from 38 to 47 -- largest single-day swing in weeks",
       "CLARITY Act passed House 294-134; Senate Banking hearing May 14",
-      "Kevin Warsh (rate-cut-leaning) replacing Powell as Fed Chair May 15",
-      "SEC + CFTC jointly classified BTC, ETH, SOL, XRP as digital commodities (Mar 2026)"
+      "Kevin Warsh (rate-cut-leaning) replaces Powell as Fed Chair May 15"
     ],
     "bearish_signals": [
-      "BTC multiple rejections at $82,228 (200-day MA) -- no daily close above since Oct 2025",
+      "BTC multiple rejections at $82,228 (200-day MA) -- no sustained breakout",
       "CPI still +3.8% YoY -- Fed unlikely to cut rates near-term",
-      "Fed held rates at 3.50-3.75% for 3rd consecutive meeting",
-      "Fear & Greed still below 50 -- retail sentiment lagging institutional",
-      "Total crypto market cap $2.81T vs $3.01T early Jan 2026 -- still in recovery",
-      "PPI release tomorrow adds uncertainty",
+      "Fed held rates at 3.50-3.75% for 3rd consecutive meeting (May 6-7)",
+      "Fear & Greed still below 50 -- retail sentiment lagging institutional flows",
+      "Rising wedge formation on chart; analysts flag possible pullback to $70K",
+      "PPI release tomorrow (May 13) adds near-term uncertainty",
       "Fed Chair transition historically creates short-term risk-asset volatility"
     ],
-    "macro_backdrop": "April CPI released today at 12:30 UTC: +0.6% MoM (cooling from +0.9%), +3.8% YoY. PPI tomorrow May 13. CLARITY Act Senate Banking hearing May 14. Kevin Warsh takes over as Fed Chair May 15. No FOMC meeting until June 16-17. No BTC ETF SEC decisions imminent.",
+    "macro_backdrop": "April CPI confirmed today at 12:30 UTC: +0.6% MoM (cooling), +3.8% YoY. PPI tomorrow May 13 12:30 UTC. CLARITY Act Senate Banking hearing May 14. Kevin Warsh takes over as Fed Chair May 15. No FOMC meeting until June 16-17. Circle raised $222M. CME launched first regulated crypto volatility derivatives.",
     "sources": [
-      "blockchainreporter.net -- BTC $80,860 analysis May 12 2026",
-      "fortune.com -- BTC price $80,860.97 at 9:15am ET May 12 2026",
-      "coingabbar.com -- Crypto market May 12, BTC at $81K",
+      "fortune.com -- BTC $80,860.97 at 9:15am ET May 12 2026",
+      "blockchainreporter.net -- BTC $80,860 after failing $82,000 again",
+      "coingabbar.com -- Crypto market May 12, BTC at $81K, ETH -2%",
       "coinmarketcap.com -- Fear & Greed 47 (Neutral)",
-      "mexc.com -- Crypto market update May 9-10 2026",
-      "bls.gov -- CPI April 2026 release schedule",
-      "coindesk.com -- BTC market analysis May 2026"
+      "mexc.com -- Crypto market update May 12 2026",
+      "cryptotimes.io -- Strategy buys 535 BTC, Circle raises $222M, CLARITY Act",
+      "coindesk.com -- Three signals pointing to possible BTC move to $85K"
     ]
   }
 }
