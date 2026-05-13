@@ -1,6 +1,6 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
+  "confidence": 0.45,
   "btc_price_usd": 80500,
   "key_events_next_24h": [
     {
@@ -10,51 +10,48 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "Senate CLARITY Act Banking Committee Markup Session",
-      "time": "2026-05-14 14:30 UTC",
-      "impact": "high",
+      "name": "Trump-Xi China Trade Summit (ongoing)",
+      "time": "2026-05-13 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Fed Chair Succession - Powell Term Ends, Warsh Takes Over",
+      "name": "US Senate Banking Committee - Digital Asset Market Clarity Act Hearing",
+      "time": "2026-05-14 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Jerome Powell Fed Chair Term Ends / Warsh Succession",
       "time": "2026-05-15 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "CPI 과열, PPI 곧 발표, CLARITY법 투표 임박, 방향 불확실",
-  "updated": "2026-05-13 12:23:55 UTC",
-  "valid_until": "2026-05-13 16:23:55 UTC",
+  "notes": "CPI 상승 후 하락, PPI 발표 대기, 중미 무역회담 진행 중",
+  "updated": "2026-05-13 14:30:00 UTC",
+  "valid_until": "2026-05-13 18:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$80,500 at 12:23 UTC May 13 2026. Hot April CPI landed May 12 12:30 UTC (3.8% YoY) -- market sold off but BTC held $80K support. Multiple rejections at $82,000 (200-day MA). Fear & Greed Index 47 (Neutral), recovering from prior lows.",
-    "regime_rationale": "NEUTRAL (0.55 confidence): BTC range-bound $80K-$82K. April CPI beat expectations (3.8% YoY, hot). PPI due in ~7 minutes at 12:30 UTC -- second inflation data point. Confidence at 0.55 -- bot WILL apply directional filter. Equal bullish/bearish pressure: ETF inflows vs macro headwinds.",
+    "btc_price_note": "BTC ~$80,300-$80,800 on May 13 2026. Down ~1.5% from Tuesday open. Multiple rejections at $82,000 resistance. 24h range: $79,880-$81,263. Fear & Greed Index ~46 (Neutral).",
+    "regime_rationale": "NEUTRAL (0.45 confidence): BTC range-bound $80K-$82K. Hot April CPI released May 12 boosted energy costs (Iran war). PPI due May 13. Equal bullish/bearish pressure -- confidence below 0.5 so bot will NOT apply directional filter.",
     "bullish_signals": [
-      "BTC held $80K support after hot CPI shock -- strong demand zone",
-      "6 consecutive weeks of spot BTC ETF net inflows -- longest streak in 9 months",
-      "Strategy bought 535 BTC May 5-11; institutional accumulation ongoing",
-      "Fear & Greed recovered from 26 (Extreme Fear) to 47 (Neutral) in one week",
-      "CLARITY Act passed House 294-134; Polymarket 62-75% Senate passage probability",
-      "Kevin Warsh (rate-cut-leaning) takes over as Fed Chair May 15",
-      "Negative funding rates suggest over-hedged shorts -- potential squeeze"
+      "BTC held $80K support after hot CPI -- strong demand floor",
+      "6 consecutive weeks of spot BTC ETF net inflows (longest streak in 9 months)",
+      "Morgan Stanley Bitcoin ETF: $194M strong early inflows",
+      "Fear & Greed recovered from 26 (Extreme Fear) to 46 (Neutral) in one week",
+      "CLARITY Act Senate Banking hearing May 14 -- regulatory clarity tailwind",
+      "Kevin Warsh (rate-cut-leaning) replaces Powell as Fed Chair May 15",
+      "Trump-China summit: possible trade improvement = risk-on tailwind"
     ],
     "bearish_signals": [
-      "Hot April CPI 3.8% YoY released May 12 -- pushes rate-cut expectations further out",
-      "BTC multiple rejections at $82,000 (200-day MA) -- no sustained breakout",
-      "PPI release May 13 12:30 UTC imminent -- if hot, amplifies CPI bearish signal",
+      "Hot April CPI released May 12 -- Iran war driving energy costs up",
+      "BTC down 1.5% from Tuesday open, multiple rejections at $82K",
+      "PPI release May 13 -- if hot, amplifies CPI bearish signal",
       "Fed held rates at 3.50-3.75% for 3rd consecutive meeting",
-      "Fear & Greed still below 50 -- retail sentiment lagging institutional flows",
-      "Fed Chair transition historically creates short-term risk-asset volatility",
-      "Consumer sentiment at record lows; macro uncertainty elevated"
+      "Fear & Greed still below 50 -- retail sentiment fragile",
+      "Fed Chair transition historically creates short-term volatility",
+      "Consumer sentiment weak; macro uncertainty elevated"
     ],
-    "macro_backdrop": "Hot April CPI (3.8% YoY) landed May 12. April PPI due NOW (12:30 UTC May 13). CLARITY Act Senate Banking markup May 14 (~62-75% Polymarket probability). Kevin Warsh replaces Powell as Fed Chair May 15. No FOMC meeting until June 16-17. Senate Banking Committee: 13R-11D, all 13 Republican votes needed.",
-    "sources": [
-      "fortune.com -- BTC $80,860.97 May 12 2026",
-      "blockchainreporter.net -- BTC at $80,860 May 12 2026",
-      "bls.gov -- CPI April 2026: +0.6% MoM, +3.8% YoY",
-      "bls.gov -- PPI April 2026 scheduled 12:30 UTC May 13",
-      "ccn.com -- Senate CLARITY Act markup vote May 14 10:30 AM ET",
-      "coinmarketcap.com -- Fear & Greed 47 (Neutral)",
-      "disruptionbanking.com -- CLARITY Act markup impact analysis May 12"
-    ]
+    "macro_backdrop": "Hot April CPI landed May 12. April PPI due May 13 12:30 UTC. CLARITY Act Senate hearing May 14. Powell term ends May 15, Warsh takes over. Next FOMC: June 16-17. No rate cut expected without significantly softer inflation data."
   }
 }
