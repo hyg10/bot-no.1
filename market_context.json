@@ -1,14 +1,8 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 80000,
+  "confidence": 0.4,
+  "btc_price_usd": 79700,
   "key_events_next_24h": [
-    {
-      "name": "US April PPI Released - HOT (6% YoY, +1.4% MoM vs 0.5% expected)",
-      "time": "2026-05-13 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
     {
       "name": "CLARITY Act Senate Banking Committee Markup Vote",
       "time": "2026-05-14 14:30 UTC",
@@ -16,35 +10,40 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "Jerome Powell Fed Chair Term Ends / Warsh Succession",
+      "name": "Fed Chair Kevin Warsh Senate Confirmation Vote (expected)",
+      "time": "2026-05-14 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Jerome Powell Fed Chair Term Ends",
       "time": "2026-05-15 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "PPI 6% 급등 인플레 우려, 내일 CLARITY법안 투표 주목",
-  "updated": "2026-05-13 14:00:00 UTC",
-  "valid_until": "2026-05-13 18:00:00 UTC",
+  "notes": "BTC $80K 박스권, CLARITY법 투표 오늘 - 결과따라 급변",
+  "updated": "2026-05-14 07:00:00 UTC",
+  "valid_until": "2026-05-14 11:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$79,500-$80,800 on May 13 2026. Down ~1.5-1.6% in 24h. Briefly dipped below $80K after hot PPI print, recovered. Multiple rejections at $82K resistance. Fear & Greed Index 42 (Fear territory, down from 49 Neutral yesterday).",
-    "regime_rationale": "NEUTRAL (0.40 confidence): Hot April PPI (6% YoY, 1.4% MoM - nearly triple expectations) released today, pushed BTC below $80K momentarily. Spot ETF outflows -$233M Tuesday. Against this: CLARITY Act markup vote May 14 is a major regulatory catalyst. Competing forces keep regime neutral. Confidence below 0.5 so bot will NOT apply directional filter.",
+    "btc_price_note": "BTC ~$79,400-$80,800 on May 14 2026. Consolidating after hot PPI (May 13) briefly pushed below $80K. Multiple rejections at $82K resistance. Fear & Greed Index ~47 (Neutral). Up ~0.1% in 24h.",
+    "regime_rationale": "NEUTRAL (0.40 confidence): CLARITY Act markup vote at 14:30 UTC today is the decisive event - all 13 Republican votes needed (Sen. Kennedy still uncommitted). Pass = major bullish catalyst ($15B ETF inflow projection by Citi); fail = bearish regulatory disappointment. Hot PPI from May 13 mostly priced in - BTC held $80K support. Competing forces (sticky inflation vs. regulatory clarity) maintain neutral regime. Confidence below 0.5 so bot will NOT apply directional filter.",
     "bullish_signals": [
-      "CLARITY Act Senate Banking Committee markup vote May 14 at 10:30 AM ET - codifies BTC/ETH as digital commodities",
-      "BTC recovered above $80K support after hot PPI dip - strong demand floor",
-      "Charles Schwab launched spot BTC/ETH trading - major institutional adoption",
-      "ETF cumulative inflows remain ~$59.13B despite recent daily outflows",
-      "Some analysts view hot PPI as inflation-hedge narrative for BTC (long-term bullish)",
-      "Kevin Warsh (rate-cut-leaning) replaces Powell as Fed Chair May 15"
+      "CLARITY Act Senate Banking markup vote today 14:30 UTC - codifies BTC/ETH as digital commodities, Citi targets $143K if passed",
+      "5 consecutive weeks of net-positive US spot BTC ETF inflows (~$1B inflows in early May 2026)",
+      "BTC held $80K support after hot PPI May 13 print - strong demand floor",
+      "Charles Schwab launched spot BTC/ETH trading for retail clients - major institutional adoption",
+      "Bitcoin dominance stable at 58.6% - market structure constructive",
+      "Kevin Warsh (rate-cut-leaning) replacing Powell as Fed Chair May 15"
     ],
     "bearish_signals": [
-      "April PPI +6% YoY / +1.4% MoM - well above all forecasts, worst since 2022",
-      "April CPI +3.8% YoY on May 12 - beat expectations 3.7%, USD strengthened",
-      "Spot BTC ETF outflows -$233M on Tuesday - institutional caution",
-      "Spot ETH ETF outflows -$131M Tuesday, -$17M Monday - two consecutive outflow days",
-      "Fear & Greed Index dropped from 49 (Neutral) to 42 (Fear) in one day",
-      "Marathon Digital sold $1.5B BTC to cut debt - large OTC selling pressure",
-      "Hot inflation delays Fed rate cuts - reduces risk appetite"
+      "April PPI +6% YoY / +1.4% MoM released May 13 - well above forecasts, sticky inflation",
+      "April CPI +3.8% YoY released May 12 - beat expectations, USD strengthened",
+      "Marathon Digital sold $1.5B BTC - large OTC selling pressure",
+      "BTC rejected at $82K resistance multiple times - strong overhead supply",
+      "Hot inflation data delays Fed rate cuts - reduces risk appetite broadly",
+      "CLARITY Act failure risk: Democrats + some Republicans oppose (banking lobby pressure)"
     ],
-    "macro_backdrop": "Hot April PPI landed May 13 12:30 UTC (6% YoY vs 5.2% expected). Hot April CPI landed May 12 (3.8% YoY). CLARITY Act Senate Banking markup vote May 14 14:30 UTC - committee clearance vote, all 13 Republican votes needed (Sen. Kennedy uncommitted). Powell term ends ~May 15, Warsh succession. Next FOMC: June 16-17. No rate cut expected without significantly softer inflation data."
+    "macro_backdrop": "Hot April PPI (+6% YoY, +1.4% MoM vs 0.5% expected) released May 13. Hot April CPI (+3.8% YoY) released May 12. Both inflation data points already in the market. CLARITY Act Senate Banking Committee markup vote is the pivotal event today at 10:30 AM ET (14:30 UTC). If cleared, bill advances to full Senate floor. Failure before May 21 Memorial Day recess could push crypto regulation window to 2030+. Next FOMC: June 16-17. No rate cut expected without significantly softer inflation data."
   }
 }
