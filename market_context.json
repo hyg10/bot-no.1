@@ -28,28 +28,30 @@
       "expected_direction": "bearish"
     }
   ],
-  "notes": "PPI 쇼크·ETF 순유출로 $80K 이탈, CLARITY법안 투표 대기",
-  "updated": "2026-05-14 12:50:00 UTC",
-  "valid_until": "2026-05-14 16:50:00 UTC",
+  "notes": "PPI 쇼크·신규실업청구 211K 증가, $80K 돌파 실패. 혼조세.",
+  "updated": "2026-05-14 13:30:00 UTC",
+  "valid_until": "2026-05-14 17:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$79,574 on May 14 2026 08:45 ET. Down ~1.5% from prior open. Broke below $80K key support after hot April PPI (+6% YoY, +1.4% MoM vs 0.5% expected) on May 13. Fear & Greed Index 46 (Neutral, up from 26 Extreme Fear a week prior).",
-    "regime_rationale": "NEUTRAL (0.45 confidence): Strongly competing forces. Hot PPI data and $635M single-day ETF outflow (largest since late-January) are near-term bearish. BUT CLARITY Act vote at 14:30 UTC is a pivotal catalyst (passage=bullish), and 6-week run of ETF inflows shows structural demand. Technical indicators lean bearish (21 bearish vs 11 bullish signals) but RSI at 54 is neutral. Bot WILL apply filter at confidence >= 0.5; this 0.45 is BELOW threshold so filter inactive.",
+    "btc_price_note": "BTC ~$79,574 on May 14 2026 08:45 ET. Down ~1.5% from prior open. Broke below $80K key support after hot April PPI (+6% YoY, +1.4% MoM vs 0.5% expected) on May 13. Fear & Greed Index 34-46 (Neutral-to-Fear zone).",
+    "regime_rationale": "NEUTRAL (0.45 confidence): Strongly competing forces. Hot PPI + CPI and $635M single-day ETF outflow are near-term bearish. Retail Sales April beat on headline but driven by gasoline; ex-gas only +0.3% (weak consumer). Jobless claims rose to 211K (above 205K expected), signaling labor softening. BUT CLARITY Act vote at 14:30 UTC is pivotal catalyst, Charles Schwab launched spot crypto retail trading, and 6 weeks of structural ETF inflows show demand. Confidence 0.45 is BELOW 0.50 threshold so bot filter is INACTIVE.",
     "bullish_signals": [
       "6 consecutive weeks of net-positive US spot BTC ETF inflows through prior week",
       "Charles Schwab launched spot BTC/ETH retail trading May 13 - broadens access",
       "CLARITY Act Senate Banking markup vote today 14:30 UTC - codifies BTC/ETH as digital commodities",
       "Kevin Warsh (rate-cut-leaning) replacing Powell as Fed Chair May 15 - mild dovish tailwind",
       "Goldman Sachs + Morgan Stanley filed for Bitcoin ETFs - continued institutional adoption",
+      "Rising jobless claims (211K vs 205K expected) may eventually force Fed dovishness",
       "BTC dominance stable at 58.6%"
     ],
     "bearish_signals": [
       "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - sticky inflation delays Fed rate cuts",
       "April CPI +3.8% YoY elevated - both inflation readings beat expectations this week",
       "$635M single-day spot ETF outflow on May 14 - largest since late January",
-      "BTC below $80K key support, testing 200-day moving average from below",
-      "Technical indicators: 21 bearish vs 11 bullish signals",
+      "BTC below $80K key support",
+      "Retail Sales April ex-gas only +0.3% (weak consumer demand signal)",
+      "Jobless claims 211K above 205K expected - labor market softening",
       "UMich consumer sentiment (May 15) expected weak given inflation environment"
     ],
-    "macro_backdrop": "No FOMC meeting in next 24h (next meeting: June 16-17). April PPI and CPI both released this week and largely priced in. CLARITY Act Senate Banking Committee vote at 14:30 UTC today is the pivotal event. Powell term ends May 15; Warsh transition dovish signal. Trump-Xi trade talks in Beijing ongoing - deal could be risk-on catalyst. UMich sentiment May 15 is next macro data point."
+    "macro_backdrop": "No FOMC meeting in next 24h (next meeting: June 16-17). April PPI and CPI both released this week - hot prints largely priced in. Today's data: Retail Sales mixed (headline beat driven by gasoline), jobless claims 211K (above expectations). CLARITY Act Senate Banking vote at 14:30 UTC today is key event. Powell term ends May 15; Warsh transition is mild dovish signal. Trump-Xi trade talks in Beijing ongoing - deal could be risk-on catalyst. UMich sentiment May 15 is next scheduled data point."
   }
 }
