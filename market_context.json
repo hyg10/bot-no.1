@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.42,
-  "btc_price_usd": 81212,
+  "confidence": 0.40,
+  "btc_price_usd": 81293,
   "key_events_next_24h": [
     {
       "name": "Fed Chair Transition: Powell term ends May 15, Warsh Senate confirmation vote pending this week",
@@ -22,19 +22,19 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "연준 의장 교체·PPI 충격 후 반등, 기관 ETF 유입 지속",
-  "updated": "2026-05-15 00:13:26 UTC",
-  "valid_until": "2026-05-15 04:13:26 UTC",
+  "notes": "PPI 충격 후 반등, ETF 유입 지속·연준 의장 교체 불확실",
+  "updated": "2026-05-15 06:15:00 UTC",
+  "valid_until": "2026-05-15 10:15:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$81,212 on May 15 2026. Up +2.51% in 24h, recovering from PPI-driven dip below $80K on May 13. Fear & Greed Index at 47 (Neutral), up from 38 yesterday and from 26 (Extreme Fear) last week.",
-    "regime_rationale": "NEUTRAL (0.42 confidence): BTC bouncing back above $81K after PPI shock. Institutional ETF inflows are 6-week consistent (structural buying). Schwab Crypto launch broadens retail access. However, April PPI (+6% YoY) and CPI (+3.8%) remain elevated - rate cuts delayed. Fed Chair transition today (Powell out, Warsh pending) adds uncertainty. Confidence 0.42 is BELOW 0.50 threshold so bot filter is INACTIVE.",
+    "btc_price_note": "BTC ~$81,293 on May 15 2026. Up +2.60% in 24h, recovering from PPI-driven dip below $80K on May 13. Fear & Greed Index at 47 (Neutral), up from 38 yesterday and from 26 (Extreme Fear) last week.",
+    "regime_rationale": "NEUTRAL (0.40 confidence): BTC bouncing back above $81K after PPI shock. Institutional ETF inflows are 6-week consistent (structural buying). Schwab Crypto launch broadens retail access. However, April PPI (+6% YoY) and CPI (+3.8%) remain elevated - rate cuts delayed. Fed Chair transition today (Powell out, Warsh pending) adds uncertainty. Confidence 0.40 is BELOW 0.50 threshold so bot filter is INACTIVE.",
     "bullish_signals": [
-      "BTC up +2.51% today recovering above $81K after PPI shock",
-      "6 consecutive weeks of net-positive US spot BTC ETF inflows - structural institutional buying",
+      "BTC up +2.60% today recovering above $81K after PPI shock",
+      "6 consecutive weeks of net-positive US spot BTC ETF inflows ($2.44B in April) - structural institutional buying",
       "Charles Schwab launched spot BTC/ETH retail trading May 13 - broadens access",
       "Kevin Warsh (rate-cut-leaning) replacing Powell as Fed Chair today - mild dovish tailwind",
       "Fear & Greed Index recovering: 26 (Extreme Fear) last week -> 38 -> 47 (Neutral) today",
-      "Goldman Sachs + Morgan Stanley BTC ETF filings pending - continued institutional adoption",
+      "BTC price prediction targets $100K+ on ETF inflows and whale accumulation",
       "BTC dominance stable at 58.6%"
     ],
     "bearish_signals": [
