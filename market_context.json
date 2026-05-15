@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 80200,
+  "confidence": 0.42,
+  "btc_price_usd": 79200,
   "key_events_next_24h": [
     {
       "name": "Kevin Warsh begins as Fed Chair (crypto-friendly; personally invested in ETH L2)",
@@ -28,12 +28,12 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $80K 시가 후 하락, 규제호재 vs 인플레 경계, 관망",
-  "updated": "2026-05-15 16:13:00 UTC",
-  "valid_until": "2026-05-15 20:13:00 UTC",
+  "notes": "BTC $81K서 $79K로 하락, 규제호재 vs 인플레 경계, 관망",
+  "updated": "2026-05-15 18:50:00 UTC",
+  "valid_until": "2026-05-15 22:50:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$80,200 on May 15 2026 16:13 UTC. Opened at $81,069 but slipping through the morning session. Fear & Greed Index at 47 (Neutral), up 9 points from 38 yesterday (largest single-day recovery in weeks). 200-day MA at $82,228 remains hard resistance (5 rejections this month).",
-    "regime_rationale": "NEUTRAL (0.45 confidence): BTC opened higher on regulatory tailwinds (Clarity Act, Warsh) but is pulling back intraday. Hot CPI/PPI data this week keep inflation fears elevated; funding rates turning cautious. Confidence below 0.50 - bot filter INACTIVE this cycle.",
+    "btc_price_note": "BTC ~$79,200 on May 15 2026 18:50 UTC. Opened at ~$81,069 but slipped through session to $79,198 (CoinDesk 14:44 EDT). Intraday loss ~2.3% from open. Fear & Greed Index at 47 (Neutral), up 9 points from 38 yesterday (largest single-day recovery in weeks). 200-day MA at $82,228 remains hard resistance (5 rejections this month).",
+    "regime_rationale": "NEUTRAL (0.42 confidence): BTC opened on regulatory tailwinds (Clarity Act, Warsh) but has continued declining intraday to $79,200, worsening from prior reading of $80,200. Bearish intraday momentum overrides bullish macro narrative short-term. Confidence below 0.50 - bot filter INACTIVE this cycle.",
     "bullish_signals": [
       "Digital Asset Market Clarity Act passed Senate Banking Committee 15-9 bipartisan - advancing to full Senate floor",
       "Kevin Warsh (crypto-friendly, invested in ETH L2) officially replacing Powell as Fed Chair today",
@@ -43,12 +43,12 @@
       "Fear & Greed at 47 (Neutral) - recovering, up from 38 (largest single-day jump in weeks)"
     ],
     "bearish_signals": [
-      "BTC opened at $81,069 but slipping through Friday morning - intraday reversal signal",
+      "BTC dropped from $81,069 open to $79,198 intraday (-2.3%) - sustained selling pressure throughout Friday session",
       "200-day MA at $82,228 has rejected 5 consecutive attempts this month - strong technical resistance",
       "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - sticky inflation, rate cuts pushed to 2027",
       "April CPI +3.8% YoY - both inflation readings beat expectations earlier this week",
       "Fed holding at 3.5-3.75%; no rate cuts expected through 2026",
-      "Weekend thin liquidity amplifies downside moves"
+      "Weekend thin liquidity amplifies downside moves; entering low-volume Friday evening window"
     ],
     "macro_backdrop": "No FOMC meeting in next 24h (next: June 16-17). Hot PPI and CPI already absorbed this week. Warsh era begins today - bullish structural signal for crypto. No new BTC ETF SEC decisions pending. Next major data: May CPI June 10, May PPI June 11. Regulatory momentum accelerating - Clarity Act on path to full Senate vote."
   }
