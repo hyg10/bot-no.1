@@ -1,31 +1,25 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
-  "btc_price_usd": 81212,
+  "confidence": 0.45,
+  "btc_price_usd": 80200,
   "key_events_next_24h": [
     {
-      "name": "Fed Chair Transition: Warsh replaces Powell (effective today)",
-      "time": "2026-05-15 14:00 UTC",
+      "name": "Kevin Warsh begins as Fed Chair (crypto-friendly; personally invested in ETH L2)",
+      "time": "2026-05-15 17:00 UTC",
       "impact": "high",
       "expected_direction": "bullish"
     },
     {
-      "name": "Digital Asset Market Clarity Act - Senate Banking Committee passed 15-9 (advancing to full Senate)",
-      "time": "2026-05-15 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "University of Michigan Consumer Sentiment (Preliminary) - May reading",
-      "time": "2026-05-15 14:00 UTC",
+      "name": "Digital Asset Market Clarity Act - advancing to full Senate floor vote (bipartisan 15-9 committee pass May 14)",
+      "time": "2026-05-16 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "bullish"
     },
     {
-      "name": "BTC 200-day MA resistance at $82,228 (5 consecutive rejections this month)",
-      "time": "2026-05-15 12:07 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "Weekend low-liquidity period (US equity market close, thin order books Friday evening)",
+      "time": "2026-05-15 20:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     },
     {
       "name": "Bitcoin spot ETF daily flow report (5-6 week net-inflow streak ongoing)",
@@ -34,30 +28,28 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "연준 의장 교체(Warsh) 호재, $82,228 200일선 저항 5회 거부 주의",
-  "updated": "2026-05-15 12:07:37 UTC",
-  "valid_until": "2026-05-15 16:07:37 UTC",
+  "notes": "BTC $80K 시가 후 하락, 규제호재 vs 인플레 경계, 관망",
+  "updated": "2026-05-15 16:13:00 UTC",
+  "valid_until": "2026-05-15 20:13:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$81,212 on May 15 2026 12:07 UTC. Up +1.9% in 24h, recovering strongly after PPI-driven dip below $80K on May 13. Fear & Greed Index at 47 (Neutral), recovering from recent lows of 38 (largest single-day recovery in weeks). 200-day MA at $82,228 acting as key resistance with 5 rejections.",
-    "regime_rationale": "NEUTRAL (0.55 confidence): BTC is recovering well (+1.9% today) supported by regulatory tailwinds (Digital Asset Market Clarity Act, Warsh transition). However the 200-day MA at $82,228 has held as hard resistance 5 times this month. Confidence 0.55 is ABOVE 0.50 threshold so bot filter is ACTIVE.",
+    "btc_price_note": "BTC ~$80,200 on May 15 2026 16:13 UTC. Opened at $81,069 but slipping through the morning session. Fear & Greed Index at 47 (Neutral), up 9 points from 38 yesterday (largest single-day recovery in weeks). 200-day MA at $82,228 remains hard resistance (5 rejections this month).",
+    "regime_rationale": "NEUTRAL (0.45 confidence): BTC opened higher on regulatory tailwinds (Clarity Act, Warsh) but is pulling back intraday. Hot CPI/PPI data this week keep inflation fears elevated; funding rates turning cautious. Confidence below 0.50 - bot filter INACTIVE this cycle.",
     "bullish_signals": [
-      "BTC up +1.9% today to $81,212 - recovering from PPI shock below $80K",
       "Digital Asset Market Clarity Act passed Senate Banking Committee 15-9 bipartisan - advancing to full Senate floor",
-      "Kevin Warsh (crypto-friendly, invested in ETH L2) replacing Powell as Fed Chair today",
+      "Kevin Warsh (crypto-friendly, invested in ETH L2) officially replacing Powell as Fed Chair today",
       "5-6 consecutive weeks of net-positive US spot BTC ETF inflows - sustained institutional demand",
-      "Dartmouth endowment allocated $14.5M to spot BTC/ETH ETFs",
-      "Goldman Sachs filed for Bitcoin Premium Income ETF - institutional pipeline growing",
-      "Fear & Greed at 47 (Neutral) - largest single-day recovery in weeks (was 38 yesterday)",
-      "Altcoins flashing bullish rotation signals (XRP, DOGE +5%)"
+      "Dartmouth endowment allocated $14.5M to spot BTC/ETH ETFs on May 14",
+      "JPMorgan named BTC winner vs ETH/altcoins on May 14",
+      "Fear & Greed at 47 (Neutral) - recovering, up from 38 (largest single-day jump in weeks)"
     ],
     "bearish_signals": [
+      "BTC opened at $81,069 but slipping through Friday morning - intraday reversal signal",
       "200-day MA at $82,228 has rejected 5 consecutive attempts this month - strong technical resistance",
       "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - sticky inflation, rate cuts pushed to 2027",
-      "April CPI +3.8% YoY - both inflation readings beat expectations this week",
-      "Negative funding rates still visible - many traders remain cautious/short",
-      "UMich consumer sentiment expected weak given inflation environment",
-      "Fed holding at 3.5-3.75%; ~98% probability of hold at June meeting"
+      "April CPI +3.8% YoY - both inflation readings beat expectations earlier this week",
+      "Fed holding at 3.5-3.75%; no rate cuts expected through 2026",
+      "Weekend thin liquidity amplifies downside moves"
     ],
-    "macro_backdrop": "No FOMC meeting in next 24h (next: June 16-17). Hot PPI and CPI earlier this week. Today (May 15): Warsh confirmation as Fed Chair + UMich sentiment at 14:00 UTC. No new BTC ETF SEC decisions pending today. Next major data: May CPI June 10, May PPI June 11. Regulatory momentum accelerating - Clarity Act moving to full Senate vote (timeline TBD)."
+    "macro_backdrop": "No FOMC meeting in next 24h (next: June 16-17). Hot PPI and CPI already absorbed this week. Warsh era begins today - bullish structural signal for crypto. No new BTC ETF SEC decisions pending. Next major data: May CPI June 10, May PPI June 11. Regulatory momentum accelerating - Clarity Act on path to full Senate vote."
   }
 }
