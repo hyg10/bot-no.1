@@ -1,57 +1,50 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 79574,
+  "confidence": 0.42,
+  "btc_price_usd": 81212,
   "key_events_next_24h": [
     {
-      "name": "CLARITY Act Senate Banking Committee Markup Vote",
-      "time": "2026-05-14 14:30 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Trump-Xi Beijing Trade Talks (ongoing)",
-      "time": "2026-05-14 12:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Jerome Powell Fed Chair Term Ends / Warsh Transition",
-      "time": "2026-05-15 00:00 UTC",
+      "name": "Fed Chair Transition: Powell term ends May 15, Warsh Senate confirmation vote pending this week",
+      "time": "2026-05-15 12:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "University of Michigan Consumer Sentiment (Preliminary)",
+      "name": "University of Michigan Consumer Sentiment (Preliminary) - May reading",
       "time": "2026-05-15 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "Bitcoin spot ETF daily flow report (6-week net-inflow streak ongoing)",
+      "time": "2026-05-15 20:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "PPI 쇼크·신규실업청구 211K 증가, $80K 돌파 실패. 혼조세.",
-  "updated": "2026-05-14 13:30:00 UTC",
-  "valid_until": "2026-05-14 17:30:00 UTC",
+  "notes": "연준 의장 교체·PPI 충격 후 반등, 기관 ETF 유입 지속",
+  "updated": "2026-05-15 00:13:26 UTC",
+  "valid_until": "2026-05-15 04:13:26 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$79,574 on May 14 2026 08:45 ET. Down ~1.5% from prior open. Broke below $80K key support after hot April PPI (+6% YoY, +1.4% MoM vs 0.5% expected) on May 13. Fear & Greed Index 34-46 (Neutral-to-Fear zone).",
-    "regime_rationale": "NEUTRAL (0.45 confidence): Strongly competing forces. Hot PPI + CPI and $635M single-day ETF outflow are near-term bearish. Retail Sales April beat on headline but driven by gasoline; ex-gas only +0.3% (weak consumer). Jobless claims rose to 211K (above 205K expected), signaling labor softening. BUT CLARITY Act vote at 14:30 UTC is pivotal catalyst, Charles Schwab launched spot crypto retail trading, and 6 weeks of structural ETF inflows show demand. Confidence 0.45 is BELOW 0.50 threshold so bot filter is INACTIVE.",
+    "btc_price_note": "BTC ~$81,212 on May 15 2026. Up +2.51% in 24h, recovering from PPI-driven dip below $80K on May 13. Fear & Greed Index at 47 (Neutral), up from 38 yesterday and from 26 (Extreme Fear) last week.",
+    "regime_rationale": "NEUTRAL (0.42 confidence): BTC bouncing back above $81K after PPI shock. Institutional ETF inflows are 6-week consistent (structural buying). Schwab Crypto launch broadens retail access. However, April PPI (+6% YoY) and CPI (+3.8%) remain elevated - rate cuts delayed. Fed Chair transition today (Powell out, Warsh pending) adds uncertainty. Confidence 0.42 is BELOW 0.50 threshold so bot filter is INACTIVE.",
     "bullish_signals": [
-      "6 consecutive weeks of net-positive US spot BTC ETF inflows through prior week",
+      "BTC up +2.51% today recovering above $81K after PPI shock",
+      "6 consecutive weeks of net-positive US spot BTC ETF inflows - structural institutional buying",
       "Charles Schwab launched spot BTC/ETH retail trading May 13 - broadens access",
-      "CLARITY Act Senate Banking markup vote today 14:30 UTC - codifies BTC/ETH as digital commodities",
-      "Kevin Warsh (rate-cut-leaning) replacing Powell as Fed Chair May 15 - mild dovish tailwind",
-      "Goldman Sachs + Morgan Stanley filed for Bitcoin ETFs - continued institutional adoption",
-      "Rising jobless claims (211K vs 205K expected) may eventually force Fed dovishness",
+      "Kevin Warsh (rate-cut-leaning) replacing Powell as Fed Chair today - mild dovish tailwind",
+      "Fear & Greed Index recovering: 26 (Extreme Fear) last week -> 38 -> 47 (Neutral) today",
+      "Goldman Sachs + Morgan Stanley BTC ETF filings pending - continued institutional adoption",
       "BTC dominance stable at 58.6%"
     ],
     "bearish_signals": [
       "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - sticky inflation delays Fed rate cuts",
-      "April CPI +3.8% YoY elevated - both inflation readings beat expectations this week",
-      "$635M single-day spot ETF outflow on May 14 - largest since late January",
-      "BTC below $80K key support",
-      "Retail Sales April ex-gas only +0.3% (weak consumer demand signal)",
-      "Jobless claims 211K above 205K expected - labor market softening",
-      "UMich consumer sentiment (May 15) expected weak given inflation environment"
+      "April CPI +3.8% YoY - both inflation readings beat expectations this week",
+      "Fed holding rates at 3.5-3.75% range; ~98% chance of hold at June meeting",
+      "MARA sold $1.5B BTC on May 13 to reduce debt - miner supply overhang",
+      "UMich consumer sentiment May 15 expected weak given inflation environment",
+      "Global crypto market cap at $2.81T vs $3.01T in early Jan 2026 - still well off highs"
     ],
-    "macro_backdrop": "No FOMC meeting in next 24h (next meeting: June 16-17). April PPI and CPI both released this week - hot prints largely priced in. Today's data: Retail Sales mixed (headline beat driven by gasoline), jobless claims 211K (above expectations). CLARITY Act Senate Banking vote at 14:30 UTC today is key event. Powell term ends May 15; Warsh transition is mild dovish signal. Trump-Xi trade talks in Beijing ongoing - deal could be risk-on catalyst. UMich sentiment May 15 is next scheduled data point."
+    "macro_backdrop": "No FOMC meeting in next 24h (next meeting: June 16-17). April PPI and CPI both released this week - hot prints. Today: UMich sentiment at 14:00 UTC. Powell Fed Chair term officially ends May 15; Warsh Senate confirmation vote expected this week - creates policy uncertainty. No new BTC ETF SEC decisions pending. Next major data: May CPI on June 10, May PPI on June 11."
   }
 }
