@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 79049,
+  "confidence": 0.60,
+  "btc_price_usd": 78247,
   "key_events_next_24h": [
     {
       "name": "US Treasury Bond Yield Surge (ongoing - inflation / rate-hike risk repricing)",
@@ -10,50 +10,44 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "Fed Chair Warsh Senate Confirmation Vote (pending)",
-      "time": "2026-05-16 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
       "name": "Digital Asset Market Clarity Act - full Senate floor vote watch (passed committee 15-9)",
-      "time": "2026-05-16 ongoing",
+      "time": "2026-05-17 ongoing",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
       "name": "Weekend - No FOMC, no CPI/PPI releases (next FOMC: June 16-17, next CPI: June 10)",
-      "time": "2026-05-16 00:00 UTC",
+      "time": "2026-05-17 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $79K 이하, PPI 급등·채권금리 상승 지속. 주말 변동성 주의",
-  "updated": "2026-05-16 20:00:00 UTC",
-  "valid_until": "2026-05-17 00:00:00 UTC",
+  "notes": "BTC $78K대, PPI·채권금리 충격 지속. 주말 약세 횡보 예상",
+  "updated": "2026-05-16 20:30:00 UTC",
+  "valid_until": "2026-05-17 00:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$79,049 on May 16 2026 (20:00 UTC refresh). Consolidating below $80K after falling from $82K high on May 14 (Clarity Act news). Down ~2.98% in 24h. Fear & Greed Index at 34 (Fear). Weekend liquidity typically lower - consolidation/drift expected. Range across exchanges: $78,133-$79,076.",
-    "regime_rationale": "BEARISH (0.55 confidence): Hot April PPI (+6% YoY / +1.4% MoM vs 0.5% expected) and CPI (+3.8% YoY) triggered bond yield spike and broad risk-off. BTC rejected at $82K resistance and lost $80K support. Fear & Greed Index in fear zone. No near-term macro catalysts to reverse trend on weekend. Bot filter ACTIVE at confidence >= 0.50: SHORT bias signals treated with higher weight, LONG signals require stronger consensus.",
+    "btc_price_note": "BTC ~$78,247 as of May 16 2026 (20:30 UTC refresh). Down from $82,000 high on May 14 (Clarity Act news). Down ~3.3% in 24h. Fear & Greed Index in Fear zone. Weekend low liquidity - consolidation with downward drift expected. Range across exchanges: $78,041-$79,049.",
+    "regime_rationale": "BEARISH (0.60 confidence): Hot April PPI (+6% YoY / +1.4% MoM vs 0.5% expected) and CPI (+3.8% YoY) triggered bond yield spike and broad risk-off. BTC rejected at $82K resistance, lost $80K support, now drifting lower. Fear & Greed Index in Fear zone. No near-term macro catalysts to reverse trend over the weekend. Bot filter ACTIVE at confidence >= 0.50: SHORT bias signals weighted higher, LONG signals require stronger consensus (score >= 3.0 recommended).",
     "bullish_signals": [
       "Digital Asset Market Clarity Act passed Senate Banking Committee 15-9 bipartisan - regulatory clarity",
-      "Kevin Warsh (crypto-friendly) takes over as Fed Chair from Powell",
-      "Dartmouth endowment allocated $14.5M to spot BTC/ETH ETFs on May 14",
-      "JPMorgan named BTC winner vs ETH/altcoins - stronger institutional metrics",
       "Goldman Sachs seeking SEC approval for new BTC Premium Income ETF",
+      "Morgan Stanley filed with SEC for spot bitcoin ETF",
       "Fed held rates at 3.5-3.75% for 3rd consecutive meeting (no hike yet)",
       "BTC risen from ~$63K to $80K+ in past 3 months - macro uptrend intact",
-      "Funding rates neutral - reduced short pressure"
+      "CryptoQuant bull-bear cycle indicator turned green for first time since March 2023",
+      "Funding rates neutral - reduced short squeeze risk",
+      "Institutional adoption continuing (Dartmouth endowment, JPMorgan, Goldman)"
     ],
     "bearish_signals": [
-      "BTC down ~3% in 24h, rejected at $82K, now below $80K psychological support",
+      "BTC down ~3.3% in 24h, rejected at $82K, now at $78.2K - below $80K psychological support",
       "Sharp US Treasury bond yield surge triggering broad risk-off (crypto, equities, gold all down)",
       "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - hottest reading, rate cut pushed to 2027",
       "April CPI +3.8% YoY - above expectations, sticky inflation persists",
-      "Traders pricing in possible Fed rate hike; CME FedWatch near-100% hold at June meeting",
-      "$82K resistance held firm across multiple attempts this month",
-      "Fear & Greed Index at 34 (Fear zone) - market sentiment remains cautious",
-      "Weekend low liquidity increases downside volatility risk"
+      "Traders pricing in possible Fed rate hike; $82K resistance held firm multiple times this month",
+      "Fear & Greed Index in Fear zone - market sentiment remains cautious",
+      "Weekend low liquidity increases downside volatility risk",
+      "6% PPI surge confirmed Friday selloff - macro headwind persists into next week"
     ],
-    "macro_backdrop": "Weekend May 16-17: No FOMC or data releases. April CPI (+3.8% YoY) and PPI (+6% YoY) already released May 12-13 - primary bearish driver still in play via bond yield pressure. Next major events: May CPI June 10, FOMC June 16-17. Warsh era begins - crypto-friendly long-term but near-term policy uncertainty. Fed rate unchanged at 3.5-3.75%. Clarity Act advancing in Senate - structural bullish for crypto regulation. Watch $78,600 support and $80,000 resistance. Weekend consolidation likely with downward drift bias."
+    "macro_backdrop": "Weekend May 16-17: No FOMC or data releases. April CPI (+3.8% YoY) and PPI (+6% YoY) released May 12-13 - primary bearish driver still in play via bond yield pressure. Next major events: May CPI June 10, FOMC June 16-17. Clarity Act advancing in Senate - structural bullish for crypto regulation long-term. Watch $78,000 support and $80,000 resistance. Weekend consolidation likely with downward drift bias. Recovery possible only on surprise positive catalyst or short-squeeze above $80K."
   }
 }
