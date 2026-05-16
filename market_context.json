@@ -1,55 +1,57 @@
 {
-  "regime": "neutral",
-  "confidence": 0.42,
+  "regime": "bearish",
+  "confidence": 0.55,
   "btc_price_usd": 79200,
   "key_events_next_24h": [
     {
-      "name": "Kevin Warsh begins as Fed Chair (crypto-friendly; personally invested in ETH L2)",
-      "time": "2026-05-15 17:00 UTC",
+      "name": "US Treasury Bond Yield Surge (inflation / potential rate-hike risk)",
+      "time": "2026-05-16 ongoing",
       "impact": "high",
-      "expected_direction": "bullish"
+      "expected_direction": "bearish"
     },
     {
-      "name": "Digital Asset Market Clarity Act - advancing to full Senate floor vote (bipartisan 15-9 committee pass May 14)",
-      "time": "2026-05-16 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Weekend low-liquidity period (US equity market close, thin order books Friday evening)",
-      "time": "2026-05-15 20:30 UTC",
+      "name": "Fed Chair Warsh era begins (crypto-friendly long-term, near-term uncertainty)",
+      "time": "2026-05-15 17:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Bitcoin spot ETF daily flow report (5-6 week net-inflow streak ongoing)",
-      "time": "2026-05-15 20:00 UTC",
+      "name": "Digital Asset Market Clarity Act advancing to full Senate floor vote",
+      "time": "2026-05-16 ongoing",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Goldman Sachs spot BTC ETF SEC application (no specific deadline, monitoring)",
+      "time": "2026-05-16 ongoing",
       "impact": "low",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $81K서 $79K로 하락, 규제호재 vs 인플레 경계, 관망",
-  "updated": "2026-05-15 18:50:00 UTC",
-  "valid_until": "2026-05-15 22:50:00 UTC",
+  "notes": "채권금리 급등·인플레 우려로 BTC $79K 하락, 단기 하방압력",
+  "updated": "2026-05-16 08:00:00 UTC",
+  "valid_until": "2026-05-16 12:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$79,200 on May 15 2026 18:50 UTC. Opened at ~$81,069 but slipped through session to $79,198 (CoinDesk 14:44 EDT). Intraday loss ~2.3% from open. Fear & Greed Index at 47 (Neutral), up 9 points from 38 yesterday (largest single-day recovery in weeks). 200-day MA at $82,228 remains hard resistance (5 rejections this month).",
-    "regime_rationale": "NEUTRAL (0.42 confidence): BTC opened on regulatory tailwinds (Clarity Act, Warsh) but has continued declining intraday to $79,200, worsening from prior reading of $80,200. Bearish intraday momentum overrides bullish macro narrative short-term. Confidence below 0.50 - bot filter INACTIVE this cycle.",
+    "btc_price_note": "BTC ~$79,200 on May 16 2026. Down 2.77% in 24h. Ranges $79,076–$79,414 across exchanges. Fell from $82K high (May 14, Clarity Act news) as bond yield surge and inflation fears triggered broad risk-off across crypto, equities, and gold.",
+    "regime_rationale": "BEARISH (0.55 confidence): Sustained downside from $82K peak, bond yields rising, traders pricing in possible Fed rate hike amid resurgent inflation. Bull-bear cycle indicator turned green (CryptoQuant) but $1.2B BTC sold at local top May 5 and $82K resistance firm (5 rejections). Short-term momentum is bearish. Confidence >= 0.50 - bot filter ACTIVE.",
     "bullish_signals": [
-      "Digital Asset Market Clarity Act passed Senate Banking Committee 15-9 bipartisan - advancing to full Senate floor",
-      "Kevin Warsh (crypto-friendly, invested in ETH L2) officially replacing Powell as Fed Chair today",
-      "5-6 consecutive weeks of net-positive US spot BTC ETF inflows - sustained institutional demand",
+      "CryptoQuant bull-bear cycle indicator turned green for first time since March 2023",
+      "Digital Asset Market Clarity Act passed Senate Banking Committee 15-9 bipartisan",
+      "Kevin Warsh (crypto-friendly, invested in ETH L2) officially takes over as Fed Chair",
       "Dartmouth endowment allocated $14.5M to spot BTC/ETH ETFs on May 14",
       "JPMorgan named BTC winner vs ETH/altcoins on May 14",
-      "Fear & Greed at 47 (Neutral) - recovering, up from 38 (largest single-day jump in weeks)"
+      "Goldman Sachs seeking SEC approval for new BTC ETF"
     ],
     "bearish_signals": [
-      "BTC dropped from $81,069 open to $79,198 intraday (-2.3%) - sustained selling pressure throughout Friday session",
-      "200-day MA at $82,228 has rejected 5 consecutive attempts this month - strong technical resistance",
-      "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - sticky inflation, rate cuts pushed to 2027",
-      "April CPI +3.8% YoY - both inflation readings beat expectations earlier this week",
-      "Fed holding at 3.5-3.75%; no rate cuts expected through 2026",
-      "Weekend thin liquidity amplifies downside moves; entering low-volume Friday evening window"
+      "BTC down 2.77% in 24h, fell from $82K to $79K range",
+      "Sharp US Treasury bond yield surge triggering broad risk-off (Nasdaq -1.7%, S&P -1.2%)",
+      "Traders increasingly betting Fed may need to raise rates again amid resurgent inflation",
+      "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - sticky inflation pushes rate cuts to 2027",
+      "April CPI +3.8% YoY - both inflation readings beat expectations this week",
+      "$1.2B BTC sold in single session May 5 with 17.7% realized profit margin - local top signal",
+      "$82K resistance held firm across 5 attempts this month (200-day MA area)",
+      "Institutional attention partially rotating from crypto to AI infrastructure (Cerebras $5.5B IPO)"
     ],
-    "macro_backdrop": "No FOMC meeting in next 24h (next: June 16-17). Hot PPI and CPI already absorbed this week. Warsh era begins today - bullish structural signal for crypto. No new BTC ETF SEC decisions pending. Next major data: May CPI June 10, May PPI June 11. Regulatory momentum accelerating - Clarity Act on path to full Senate vote."
+    "macro_backdrop": "No FOMC meeting in next 24h (next: June 16-17). No CPI/PPI release (next: May CPI June 10, May PPI June 11). Hot inflation data already absorbed but bond market reaction continuing to pressure risk assets. Warsh era begins - crypto-friendly long-term but near-term policy uncertainty. Clarity Act on path to full Senate vote - structural bullish for crypto regulation."
   }
 }
