@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
   "confidence": 0.55,
-  "btc_price_usd": 79200,
+  "btc_price_usd": 79050,
   "key_events_next_24h": [
     {
       "name": "US Treasury Bond Yield Surge (ongoing - inflation / rate-hike risk repricing)",
@@ -29,10 +29,10 @@
     }
   ],
   "notes": "채권금리 급등·인플레 우려로 BTC $79K 하락, 단기 하방압력",
-  "updated": "2026-05-16 09:10:00 UTC",
-  "valid_until": "2026-05-16 13:10:00 UTC",
+  "updated": "2026-05-16 13:10:00 UTC",
+  "valid_until": "2026-05-16 17:10:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$79,200 on May 16 2026. Down 2.47% in 24h. Range $78,600-$80,533 across exchanges (Coinbase $79,064, OKX $79,186, TradingView $79,240). Fell from $82K high (May 14, Clarity Act news) as bond yield surge and inflation fears triggered broad risk-off across crypto, equities, and gold.",
+    "btc_price_note": "BTC ~$79,050 on May 16 2026 (13:10 UTC refresh). Stable below $80K, consolidating after intraday low of $78,600 on May 15. Range $78,600-$80,533 across exchanges. Fell from $82K high (May 14, Clarity Act news) as bond yield surge and inflation fears triggered broad risk-off across crypto, equities, and gold. Fear & Greed index down 13 points week-over-week.",
     "regime_rationale": "BEARISH (0.55 confidence): Sustained downside from $82K peak, bond yields rising, traders pricing in possible Fed rate hike amid resurgent inflation (April CPI +3.8% YoY, April PPI +6% YoY). Bull-bear cycle indicator turned green (CryptoQuant) but $1.2B BTC sold at local top May 5 at 17.7% realized profit margin - historically marks local tops. $82K resistance firm (5 rejections). Confidence >= 0.50 - bot filter ACTIVE.",
     "bullish_signals": [
       "Digital Asset Market Clarity Act passed Senate Banking Committee 15-9 bipartisan",
