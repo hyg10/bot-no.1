@@ -4,54 +4,57 @@
   "btc_price_usd": 79200,
   "key_events_next_24h": [
     {
-      "name": "US Treasury Bond Yield Surge (inflation / potential rate-hike risk)",
+      "name": "US Treasury Bond Yield Surge (ongoing - inflation / rate-hike risk repricing)",
       "time": "2026-05-16 ongoing",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Fed Chair Warsh era begins (crypto-friendly long-term, near-term uncertainty)",
-      "time": "2026-05-15 17:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Digital Asset Market Clarity Act advancing to full Senate floor vote",
+      "name": "Digital Asset Market Clarity Act - full Senate floor vote watch (passed committee 15-9)",
       "time": "2026-05-16 ongoing",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Goldman Sachs spot BTC ETF SEC application (no specific deadline, monitoring)",
-      "time": "2026-05-16 ongoing",
+      "name": "Goldman Sachs BTC Premium Income ETF - SEC application pending (no confirmed deadline)",
+      "time": "2026-05-17 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Weekend - No FOMC, no CPI/PPI releases (next FOMC: June 16-17, next CPI: June 10)",
+      "time": "2026-05-16 00:00 UTC",
       "impact": "low",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
   "notes": "채권금리 급등·인플레 우려로 BTC $79K 하락, 단기 하방압력",
-  "updated": "2026-05-16 08:00:00 UTC",
-  "valid_until": "2026-05-16 12:00:00 UTC",
+  "updated": "2026-05-16 09:10:00 UTC",
+  "valid_until": "2026-05-16 13:10:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$79,200 on May 16 2026. Down 2.77% in 24h. Ranges $79,076–$79,414 across exchanges. Fell from $82K high (May 14, Clarity Act news) as bond yield surge and inflation fears triggered broad risk-off across crypto, equities, and gold.",
-    "regime_rationale": "BEARISH (0.55 confidence): Sustained downside from $82K peak, bond yields rising, traders pricing in possible Fed rate hike amid resurgent inflation. Bull-bear cycle indicator turned green (CryptoQuant) but $1.2B BTC sold at local top May 5 and $82K resistance firm (5 rejections). Short-term momentum is bearish. Confidence >= 0.50 - bot filter ACTIVE.",
+    "btc_price_note": "BTC ~$79,200 on May 16 2026. Down 2.47% in 24h. Range $78,600-$80,533 across exchanges (Coinbase $79,064, OKX $79,186, TradingView $79,240). Fell from $82K high (May 14, Clarity Act news) as bond yield surge and inflation fears triggered broad risk-off across crypto, equities, and gold.",
+    "regime_rationale": "BEARISH (0.55 confidence): Sustained downside from $82K peak, bond yields rising, traders pricing in possible Fed rate hike amid resurgent inflation (April CPI +3.8% YoY, April PPI +6% YoY). Bull-bear cycle indicator turned green (CryptoQuant) but $1.2B BTC sold at local top May 5 at 17.7% realized profit margin - historically marks local tops. $82K resistance firm (5 rejections). Confidence >= 0.50 - bot filter ACTIVE.",
     "bullish_signals": [
-      "CryptoQuant bull-bear cycle indicator turned green for first time since March 2023",
       "Digital Asset Market Clarity Act passed Senate Banking Committee 15-9 bipartisan",
-      "Kevin Warsh (crypto-friendly, invested in ETH L2) officially takes over as Fed Chair",
+      "CryptoQuant bull-bear cycle indicator turned green first time since March 2023",
+      "Kevin Warsh (crypto-friendly) officially takes over as Fed Chair from Powell",
       "Dartmouth endowment allocated $14.5M to spot BTC/ETH ETFs on May 14",
-      "JPMorgan named BTC winner vs ETH/altcoins on May 14",
-      "Goldman Sachs seeking SEC approval for new BTC ETF"
+      "JPMorgan named BTC winner vs ETH/altcoins - stronger institutional metrics",
+      "Goldman Sachs seeking SEC approval for new BTC Premium Income ETF",
+      "Moody's top credit rating awarded to Fidelity/BlackRock tokenized money market funds",
+      "Fed held rates at 3.5-3.75% for 3rd consecutive meeting (no hike yet)"
     ],
     "bearish_signals": [
-      "BTC down 2.77% in 24h, fell from $82K to $79K range",
-      "Sharp US Treasury bond yield surge triggering broad risk-off (Nasdaq -1.7%, S&P -1.2%)",
-      "Traders increasingly betting Fed may need to raise rates again amid resurgent inflation",
-      "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - sticky inflation pushes rate cuts to 2027",
-      "April CPI +3.8% YoY - both inflation readings beat expectations this week",
+      "BTC down 2.47% in 24h, fell from $82K peak to $78,600 intraday low on May 15",
+      "Sharp US Treasury bond yield surge triggering broad risk-off (crypto, equities, gold all down)",
+      "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - hottest reading, pushes rate cuts to 2027",
+      "April CPI +3.8% YoY - above expectations, sticky inflation",
+      "Traders increasingly pricing in possible Fed rate hike despite hold at 3.5-3.75%",
       "$1.2B BTC sold in single session May 5 with 17.7% realized profit margin - local top signal",
-      "$82K resistance held firm across 5 attempts this month (200-day MA area)",
-      "Institutional attention partially rotating from crypto to AI infrastructure (Cerebras $5.5B IPO)"
+      "$82K resistance held firm across 5 attempts this month",
+      "BTC -1.2% below 20-period EMA on 12h chart, negative EMA slope",
+      "$1.29B USDT withdrawn from CEXes on May 8 - large actors repositioning"
     ],
-    "macro_backdrop": "No FOMC meeting in next 24h (next: June 16-17). No CPI/PPI release (next: May CPI June 10, May PPI June 11). Hot inflation data already absorbed but bond market reaction continuing to pressure risk assets. Warsh era begins - crypto-friendly long-term but near-term policy uncertainty. Clarity Act on path to full Senate vote - structural bullish for crypto regulation."
+    "macro_backdrop": "No FOMC meeting in next 24h (weekend; next: June 16-17 with SEP). No CPI/PPI release (next: May CPI June 10, May PPI June 11). Hot April inflation data (CPI +3.8%, PPI +6%) already absorbed but bond market reaction continuing to pressure risk assets. Warsh era begins - crypto-friendly long-term but near-term policy uncertainty. Fed rate unchanged at 3.5-3.75%, 3rd consecutive hold. Clarity Act on path to full Senate vote - structural bullish for crypto regulation longer term."
   }
 }
