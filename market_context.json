@@ -1,57 +1,56 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
-  "btc_price_usd": 78150,
+  "confidence": 0.65,
+  "current_price_usd": 78150,
   "key_events_next_24h": [
     {
-      "name": "US Treasury Bond Yield Surge (ongoing - inflation / rate-hike risk repricing)",
-      "time": "2026-05-17 ongoing",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Digital Asset Market Clarity Act - full Senate floor vote watch (passed committee 15-9, 100+ amendments)",
-      "time": "2026-05-18 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US Bond Market Open Monday (Elevated Yield Watch)",
+      "name": "US Bond Market Open Monday - Elevated yield watch (10yr surge driving risk-off)",
       "time": "2026-05-18 13:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
+      "name": "CLARITY Act Senate floor vote watch (passed committee 15-9, 100+ amendments pending)",
+      "time": "2026-05-18 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
       "name": "Weekend - No FOMC, no CPI/PPI releases (next FOMC: June 16-17, next CPI: June 10)",
-      "time": "2026-05-17 00:04 UTC",
+      "time": "2026-05-17 04:09 UTC",
       "impact": "low",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Goldman Sachs / Morgan Stanley BTC ETF SEC review window (ongoing)",
+      "time": "2026-05-18 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $78K대, PPI·채권금리 충격 지속. 주말 약세 횡보 예상",
-  "updated": "2026-05-17 00:04:00 UTC",
-  "valid_until": "2026-05-17 04:04:00 UTC",
+  "notes": "채권금리 급등·인플레 우려로 BTC $78K 하락, 공포지수 31",
+  "updated": "2026-05-17 04:09:24 UTC",
+  "valid_until": "2026-05-17 08:09:24 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$78,150 as of May 17 2026 (00:04 UTC refresh). Down from $82,000 high on May 14. Down ~1.1% in 24h, ~4.7% from weekly high. Fear & Greed Index at 48 (Neutral, recovering from Fear). Range across exchanges: $78,041-$78,257.",
-    "regime_rationale": "BEARISH (0.60 confidence): Hot April PPI (+6% YoY / +1.4% MoM vs 0.5% expected) and CPI (+3.8% YoY) triggered bond yield spike and broad risk-off. BTC rejected at $82K resistance, lost $80K support, consolidating at $78K. Weekend low liquidity increases downside drift risk. No near-term macro catalysts to reverse trend. Bot filter ACTIVE at confidence >= 0.50: SHORT bias signals weighted higher, LONG signals require stronger consensus (score >= 3.0 recommended).",
+    "btc_price_note": "BTC ~$78,150 as of May 17 2026 (04:09 UTC refresh). Down from $82,000 high on May 14. Down ~0.93% in 24h, ~4.7% from weekly high. Fear & Greed Index at 31 (Fear) - deteriorated from 48 (Neutral) in prior reading. Range across exchanges: $78,026-$78,257.",
+    "regime_rationale": "BEARISH (0.65 confidence): Hot April PPI (+6% YoY / +1.4% MoM vs 0.5% expected) and CPI (+3.8% YoY) triggered bond yield spike and broad risk-off. BTC rejected at $82K resistance, lost $80K support, consolidating at $78K. Fear & Greed now at 31 (Fear), deteriorated from prior reading of 48. Weekend low liquidity increases downside drift risk. No near-term macro catalysts to reverse trend. Bot filter ACTIVE at confidence >= 0.50: SHORT bias signals weighted higher, LONG signals require stronger consensus.",
     "bullish_signals": [
-      "Digital Asset Market Clarity Act passed Senate Banking Committee 15-9 bipartisan - regulatory clarity",
+      "CLARITY Act passed Senate Banking Committee 15-9 bipartisan - regulatory clarity",
       "Goldman Sachs seeking SEC approval for new BTC Premium Income ETF",
       "Morgan Stanley filed with SEC for spot bitcoin ETF",
       "Fed held rates at 3.5-3.75% for 3rd consecutive meeting (no hike yet)",
       "BTC risen from ~$63K to $80K+ in past 3 months - macro uptrend intact",
-      "CryptoQuant bull-bear cycle indicator turned green for first time since March 2023",
-      "Fear & Greed at 48 (Neutral) - recovering from lower Fear readings",
-      "Funding rates neutral - reduced short squeeze risk",
-      "Institutional adoption continuing (Goldman Sachs, Morgan Stanley ETF filings)"
+      "Institutional ETF inflows continuing for 6th consecutive week",
+      "Funding rates neutral - reduced short squeeze risk"
     ],
     "bearish_signals": [
       "BTC down ~4.7% from $82K weekly high, rejected at $80K support-turned-resistance",
       "Sharp US Treasury bond yield surge triggering broad risk-off (crypto, equities, gold all down)",
       "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - hottest reading, rate cut pushed to 2027",
       "April CPI +3.8% YoY - above expectations, sticky inflation persists",
-      "Traders pricing in possible Fed rate hike; $82K resistance held firm multiple times this month",
-      "CLARITY Act faces 100+ amendments from Senator Warren - regulatory uncertainty near-term",
+      "Fear & Greed Index at 31 (Fear) - deteriorated from 48 in prior session",
+      "Strategy (MSTR) confirmed may sell BTC to repay debt - sell pressure risk",
+      "CLARITY Act faces 100+ amendments - near-term regulatory uncertainty",
       "Weekend low liquidity increases downside volatility risk",
       "Crypto stocks (COIN, MSTR, miners) down 5-10% on Friday - sentiment contagion"
     ],
