@@ -1,23 +1,23 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
-  "current_price_usd": 78200,
+  "confidence": 0.55,
+  "btc_price_usd": 78050,
   "key_events_next_24h": [
     {
-      "name": "US Bond Market Open Monday - Elevated yield watch (10yr surge driving risk-off)",
+      "name": "US Bond Market Open Monday - Elevated yield watch (10yr surge, risk-off)",
       "time": "2026-05-18 13:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "CLARITY Act Senate floor vote watch (passed committee 15-9, 100+ amendments pending)",
+      "name": "CLARITY Act Senate floor vote watch (passed committee 15-9)",
       "time": "2026-05-18 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Weekend - No FOMC, no CPI/PPI releases (next FOMC: June 16-17, next CPI: June 10)",
-      "time": "2026-05-17 12:00 UTC",
+      "name": "Weekend - No FOMC, no CPI/PPI releases (next FOMC: June 16-17)",
+      "time": "2026-05-17 18:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
@@ -28,33 +28,31 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "채권금리 급등·인플레 우려로 BTC $78K 하락, 공포심리",
-  "updated": "2026-05-17 12:05:47 UTC",
-  "valid_until": "2026-05-17 16:05:47 UTC",
+  "notes": "인플레이션·금리 상승으로 BTC $78k대 약세. ETF 유출 지속",
+  "updated": "2026-05-17 16:30:00 UTC",
+  "valid_until": "2026-05-17 20:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$78,200 as of May 17 2026 (12:05 UTC refresh). Down from $82,000 high on May 14-15. Down ~0.49% in 24h, ~4.6% from weekly high. Range across exchanges: $78,038-$78,391 (OKX/Coinbase/Gemini/TradingView).",
-    "regime_rationale": "BEARISH (0.60 confidence): Hot April PPI (+6% YoY / +1.4% MoM vs 0.5% expected) and CPI (+3.8% YoY) triggered bond yield spike and broad risk-off. BTC rejected at $82K resistance, lost $80K support, consolidating at $78K. BTC ETFs lost ~14,000 BTC this week, ending a six-week inflow streak. Weekend low liquidity increases downside drift risk. Confidence 0.60 - above bot filter threshold (>=0.50): SHORT bias signals weighted higher, LONG signals require stronger consensus.",
+    "btc_price_note": "BTC ~$78,050 as of May 17 2026 (16:30 UTC refresh). Down from $82,000 high on May 14-15. Down ~0.1% in 24h, ~3.5% over 7 days. Range across exchanges: $78,027-$78,400 (OKX/Coinbase/Gemini/CoinMarketCap).",
+    "regime_rationale": "BEARISH (0.55 confidence): Hot April PPI (+6% YoY) and CPI (+3.8% YoY) triggered bond yield spike and broad risk-off. BTC rejected at $82K resistance, lost $80K support, consolidating at $78K. BTC ETFs lost ~14,000 BTC this week, ending a six-week inflow streak. Weekend low liquidity increases downside drift risk. Confidence slightly lower than prior update (0.55 vs 0.60) as price stabilised around $78K without further breakdown - remains above bot filter threshold (>=0.50): SHORT bias signals weighted higher.",
     "bullish_signals": [
       "CLARITY Act passed Senate Banking Committee 15-9 bipartisan - regulatory clarity",
       "Goldman Sachs seeking SEC approval for new BTC Premium Income ETF",
       "Morgan Stanley filed with SEC for spot bitcoin ETF",
       "Fed held rates at 3.5-3.75% for 3rd consecutive meeting (no hike yet)",
-      "BTC risen from ~$63K to $80K+ in past 3 months - macro uptrend intact",
+      "BTC risen from ~$60K (Feb lows) to $80K+ - macro uptrend intact",
       "CryptoQuant bull-bear cycle indicator turned green (first time since March 2023)",
-      "Moody's top credit rating awarded to tokenized MMFs (BlackRock/Fidelity) - institutional validation",
-      "Technical RSI ~52-59 (neutral) - not oversold, room to recover"
+      "Moody's top credit rating awarded to tokenized MMFs (BlackRock/Fidelity)",
+      "Price stabilising at $78K - no further breakdown after 3 days"
     ],
     "bearish_signals": [
-      "BTC down ~4.6% from $82K weekly high, rejected at $80K support-turned-resistance",
+      "BTC down ~3.5% over 7 days, rejected at $80K support-turned-resistance",
       "Sharp US Treasury bond yield surge triggering broad risk-off (crypto, equities, gold all down)",
-      "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - hottest reading, rate cut pushed to 2027",
+      "April PPI +6% YoY - hottest reading, rate cut expectations pushed to 2027",
       "April CPI +3.8% YoY - above expectations, sticky inflation persists",
       "US Spot BTC ETFs lost ~14,000 BTC this week, ending 6-week inflow streak",
-      "Strategy (MSTR) confirmed may sell BTC to repay debt - sell pressure risk",
-      "Crypto stocks (COIN, MSTR, miners) down 5-10% on Friday - sentiment contagion",
-      "Weekend low liquidity increases downside volatility risk",
-      "Fear & Greed Index deteriorated - markets pricing in renewed rate hike risk"
+      "Fear & Greed Index deteriorated - markets pricing in renewed rate hike risk",
+      "Weekend low liquidity increases downside volatility risk"
     ],
-    "macro_backdrop": "Sunday May 17: No FOMC or data releases. April CPI (+3.8% YoY) and PPI (+6% YoY) released May 12-13 - primary bearish driver still active via bond yield pressure. Next major events: US Bond Market open Monday May 18 (key yield watch), CLARITY Act Senate floor vote (timing uncertain), May CPI June 10, FOMC June 16-17. BTC $78K is key support; break below risks $75K test. Recovery requires either yield relief or regulatory/ETF positive catalyst. Fed rate at 3.5-3.75%, held for 3rd consecutive meeting."
+    "macro_backdrop": "Sunday May 17: No FOMC or data releases. April CPI (+3.8% YoY) and PPI (+6% YoY) released May 12-13 - primary bearish driver still active via bond yield pressure. Next major events: US Bond Market open Monday May 18 (key yield watch), CLARITY Act Senate floor vote (timing uncertain), May CPI June 10, FOMC June 16-17. BTC $78K is key support; break below risks $75-77K test. Recovery requires either yield relief or regulatory/ETF positive catalyst. Fed rate at 3.5-3.75%, held for 3rd consecutive meeting."
   }
 }
