@@ -17,7 +17,7 @@
     },
     {
       "name": "Weekend - No FOMC, no CPI/PPI releases (next FOMC: June 16-17, next CPI: June 10)",
-      "time": "2026-05-17 09:00 UTC",
+      "time": "2026-05-17 12:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
@@ -28,35 +28,33 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "채권금리 급등·인플레 우려로 BTC $78K 하락, 공포지수 31",
-  "updated": "2026-05-17 09:00:00 UTC",
-  "valid_until": "2026-05-17 13:00:00 UTC",
+  "notes": "채권금리 급등·인플레 우려로 BTC $78K 하락, 공포심리",
+  "updated": "2026-05-17 12:05:47 UTC",
+  "valid_until": "2026-05-17 16:05:47 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$78,200 as of May 17 2026 (09:00 UTC refresh). Down from $82,000 high on May 14. Down ~1.34% in 24h, ~4.6% from weekly high. Fear & Greed Index at 31 (Fear). Range across exchanges: $78,095-$78,257 (OKX/Coinbase/Bybit/TradingView).",
-    "regime_rationale": "BEARISH (0.60 confidence): Hot April PPI (+6% YoY / +1.4% MoM vs 0.5% expected) and CPI (+3.8% YoY) triggered bond yield spike and broad risk-off. BTC rejected at $82K resistance, lost $80K support, consolidating at $78K over the weekend. Fear & Greed at 31 (Fear). Weekend low liquidity increases downside drift risk. Confidence lowered slightly from 0.65 due to some bullish medium-term signals (ETF inflows, bull-bear cycle indicator turned green). Bot filter ACTIVE at confidence >= 0.50: SHORT bias signals weighted higher, LONG signals require stronger consensus.",
+    "btc_price_note": "BTC ~$78,200 as of May 17 2026 (12:05 UTC refresh). Down from $82,000 high on May 14-15. Down ~0.49% in 24h, ~4.6% from weekly high. Range across exchanges: $78,038-$78,391 (OKX/Coinbase/Gemini/TradingView).",
+    "regime_rationale": "BEARISH (0.60 confidence): Hot April PPI (+6% YoY / +1.4% MoM vs 0.5% expected) and CPI (+3.8% YoY) triggered bond yield spike and broad risk-off. BTC rejected at $82K resistance, lost $80K support, consolidating at $78K. BTC ETFs lost ~14,000 BTC this week, ending a six-week inflow streak. Weekend low liquidity increases downside drift risk. Confidence 0.60 - above bot filter threshold (>=0.50): SHORT bias signals weighted higher, LONG signals require stronger consensus.",
     "bullish_signals": [
       "CLARITY Act passed Senate Banking Committee 15-9 bipartisan - regulatory clarity",
       "Goldman Sachs seeking SEC approval for new BTC Premium Income ETF",
       "Morgan Stanley filed with SEC for spot bitcoin ETF",
       "Fed held rates at 3.5-3.75% for 3rd consecutive meeting (no hike yet)",
       "BTC risen from ~$63K to $80K+ in past 3 months - macro uptrend intact",
-      "Institutional ETF inflows continuing for 6th consecutive week",
       "CryptoQuant bull-bear cycle indicator turned green (first time since March 2023)",
-      "Funding rates neutral - reduced short squeeze risk",
-      "Moody's top credit rating awarded to tokenized MMFs (BlackRock/Fidelity) - institutional validation"
+      "Moody's top credit rating awarded to tokenized MMFs (BlackRock/Fidelity) - institutional validation",
+      "Technical RSI ~52-59 (neutral) - not oversold, room to recover"
     ],
     "bearish_signals": [
       "BTC down ~4.6% from $82K weekly high, rejected at $80K support-turned-resistance",
       "Sharp US Treasury bond yield surge triggering broad risk-off (crypto, equities, gold all down)",
       "April PPI +6% YoY / +1.4% MoM (vs 0.5% expected) - hottest reading, rate cut pushed to 2027",
       "April CPI +3.8% YoY - above expectations, sticky inflation persists",
-      "Fear & Greed Index at 31 (Fear) - deteriorated from 48 in prior session",
+      "US Spot BTC ETFs lost ~14,000 BTC this week, ending 6-week inflow streak",
       "Strategy (MSTR) confirmed may sell BTC to repay debt - sell pressure risk",
-      "CLARITY Act faces 100+ amendments - near-term regulatory uncertainty",
-      "Weekend low liquidity increases downside volatility risk",
       "Crypto stocks (COIN, MSTR, miners) down 5-10% on Friday - sentiment contagion",
-      "AI infrastructure (Cerebras $5.5B IPO) competing for same risk-on capital as crypto"
+      "Weekend low liquidity increases downside volatility risk",
+      "Fear & Greed Index deteriorated - markets pricing in renewed rate hike risk"
     ],
-    "macro_backdrop": "Sunday May 17: No FOMC or data releases. April CPI (+3.8% YoY) and PPI (+6% YoY) released May 12-13 - primary bearish driver still in play via bond yield pressure. Next major events: US Bond Market open Monday May 18 (key yield watch), CLARITY Act Senate floor vote (timing uncertain), May CPI June 10, FOMC June 16-17. BTC $78K is key support; break below risks $75K test. Recovery requires either yield relief or regulatory/ETF positive catalyst. April FOMC split 8-4 vote (most divided since Oct 1992) signals internal Fed uncertainty."
+    "macro_backdrop": "Sunday May 17: No FOMC or data releases. April CPI (+3.8% YoY) and PPI (+6% YoY) released May 12-13 - primary bearish driver still active via bond yield pressure. Next major events: US Bond Market open Monday May 18 (key yield watch), CLARITY Act Senate floor vote (timing uncertain), May CPI June 10, FOMC June 16-17. BTC $78K is key support; break below risks $75K test. Recovery requires either yield relief or regulatory/ETF positive catalyst. Fed rate at 3.5-3.75%, held for 3rd consecutive meeting."
   }
 }
