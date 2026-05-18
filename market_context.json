@@ -1,10 +1,10 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 76869,
+  "confidence": 0.55,
+  "btc_price_usd": 77150,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Geopolitical Tension (drone strikes, ceasefire uncertainty)",
+      "name": "US-Iran Geopolitical Tension (ongoing, ceasefire uncertain)",
       "time": "2026-05-18 ongoing",
       "impact": "medium",
       "expected_direction": "bearish"
@@ -22,29 +22,29 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $76.8K 하락, 지정학·금리 우려 지속, 기관 매수 지지",
-  "updated": "2026-05-18 16:04:00 UTC",
-  "valid_until": "2026-05-18 20:04:00 UTC",
+  "notes": "BTC 77K대, 공포지수 28, 이란 긴장·고래 매도 하락 압력",
+  "updated": "2026-05-18 20:08:22 UTC",
+  "valid_until": "2026-05-19 00:08:22 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,803-$77,347 as of May 18 2026 (16:04 UTC). Down ~0.9% on the day opening. BTC below $80K resistance for multiple days. Rate hike fears and whale profit-taking driving decline.",
-    "regime_rationale": "BEARISH (0.65 confidence): BTC struggling below $80K with multiple bearish macro drivers. Hot inflation data triggered bond yield surge and broad risk-off. US-Iran drone strikes adding geopolitical risk premium. Rate hike fears resurfacing. Fear & Greed Index at 34-38 (Fear zone). Institutional support (6 consecutive weeks ETF inflows, Strategy 24,869 BTC purchase) prevents deeper collapse but insufficient to reverse trend.",
+    "btc_price_note": "BTC ~$77,150 as of May 18 2026 (20:08 UTC). Down ~1-2% on 24h, down ~6% on 7d. BTC below $80K resistance for multiple days.",
+    "regime_rationale": "BEARISH (0.55 confidence): BTC struggling below $80K with multiple bearish macro drivers. Fear & Greed Index at 28 (Fear). US-Iran tensions adding geopolitical risk premium. Rate hike fears resurfacing. Confidence lowered to 0.55 vs prior 0.65 because institutional support (ETF inflows, Strategy accumulation) partially offsets downside. No major macro catalysts in next 24h.",
     "bullish_signals": [
       "Fed held rates at 3.5-3.75% (no hike yet, though fears rising)",
-      "US Spot BTC ETFs: 6 consecutive weeks of net inflows (longest streak in 9 months)",
-      "Strategy (MicroStrategy) acquired 24,869 BTC for $2B - continued institutional accumulation",
+      "US Spot BTC ETFs: multi-week net inflows streak - continued institutional accumulation",
+      "Strategy (MicroStrategy) continued BTC accumulation",
       "Goldman Sachs seeking SEC approval for Bitcoin Premium Income ETF",
-      "CryptoQuant bull-bear cycle indicator turned green (first time since March 2023)",
-      "BTC price prediction models target $86,500 by end of May 2026"
+      "CryptoQuant bull-bear cycle indicator turned green (first time since March 2023, May 12)",
+      "Altcoin season index rising to 45/100 - rotation potential"
     ],
     "bearish_signals": [
-      "BTC at ~$76,869 - well below $80K critical resistance",
-      "Fear & Greed Index at 34-38 (Fear zone)",
-      "US-Iran geopolitical tensions escalating (drone strikes over weekend)",
+      "BTC at ~$77,150 - well below $80K critical resistance",
+      "Fear & Greed Index at 28 (Fear zone - lower than prior reading of 34-38)",
+      "US-Iran geopolitical tensions ongoing (ceasefire uncertain)",
       "Rate hike fears returning - bond yields surging on inflation concerns",
-      "Whale profit-taking and long position liquidations",
+      "Whale profit-taking and long position liquidations below $77K",
       "Fed Chair transition: Warsh (hawkish) replacing Powell - policy uncertainty",
-      "Rising bond yields driving broad risk-off across crypto, equities, gold"
+      "Bitcoin Depot (major US ATM operator) filed Chapter 11 bankruptcy"
     ],
-    "macro_backdrop": "No FOMC meeting in next 24h (next FOMC Jun 16-17). No major CPI/PPI release (next CPI Jun 10, PPI Jun 11). Fed held at 3.50-3.75% on Apr 29. Primary driver remains rate hike fears from hot inflation data and surging bond yields. Kevin Warsh confirmed as new Fed Chair (replacing Powell May 15) adds policy uncertainty - Warsh is known as a hawk. US-Iran ceasefire breaking down adds geopolitical risk. BTC needs yield relief or major institutional catalyst to recover $80K."
+    "macro_backdrop": "No FOMC meeting in next 24h (next FOMC Jun 16-17). No major CPI/PPI release (next CPI Jun 10, PPI Jun 11). Fed held at 3.50-3.75% on Apr 29. Kevin Warsh confirmed as new Fed Chair (replacing Powell May 15) adds policy uncertainty - Warsh is known as a hawk. US-Iran ceasefire breaking down adds geopolitical risk. BTC needs yield relief or major institutional catalyst to recover $80K."
   }
 }
