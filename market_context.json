@@ -35,10 +35,10 @@
     }
   ],
   "notes": "BTC $76,869 급락, 금리인상 우려·ETF 유출로 약세 지속",
-  "updated": "2026-05-18 04:11:32 UTC",
-  "valid_until": "2026-05-18 08:11:32 UTC",
+  "updated": "2026-05-18 09:00:00 UTC",
+  "valid_until": "2026-05-18 13:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,869 as of May 18 2026 (04:11 UTC). Down from $79K range on May 16-17. $527M in global liquidations triggered. Week-over-week: -4.65%.",
+    "btc_price_note": "BTC ~$76,869 as of May 18 2026 (09:00 UTC). Down from $79K range on May 16-17. $527M in global liquidations triggered. Week-over-week: -4.65%.",
     "regime_rationale": "BEARISH (0.65 confidence): BTC has broken below $78K support and is now at $76,869. Hot CPI/PPI data triggered bond yield surge and broad risk-off. BTC ETFs lost ~14,000 BTC this week, ending a six-week inflow streak. Whale profit-taking added downside pressure. US bond market open Monday (13:30 UTC) is primary near-term risk event.",
     "bullish_signals": [
       "Fed held rates at 3.5-3.75% (no hike yet, though hike fears rising)",
