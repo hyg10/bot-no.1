@@ -1,58 +1,62 @@
 {
   "regime": "bearish",
-  "confidence": 0.5,
+  "confidence": 0.65,
   "btc_price_usd": 78200,
   "key_events_next_24h": [
     {
-      "name": "US Bond Market Open Monday - Elevated yield watch (10yr surge, risk-off)",
+      "name": "US Bond Market Open (Monday) - 10yr yield watch, risk-off pressure",
       "time": "2026-05-18 13:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "CLARITY Act Senate floor vote watch (passed committee 15-9)",
-      "time": "2026-05-18 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Weekend - No FOMC, no CPI/PPI releases (next FOMC: June 16-17)",
-      "time": "2026-05-17 22:00 UTC",
+      "name": "US Business Leaders Survey (NY Fed)",
+      "time": "2026-05-18 13:30 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs / Morgan Stanley BTC ETF SEC review window (ongoing)",
+      "name": "SCE Household Spending Survey",
+      "time": "2026-05-18 16:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US New Residential Construction",
+      "time": "2026-05-19 13:30 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Goldman Sachs / Morgan Stanley BTC ETF SEC review (ongoing)",
       "time": "2026-05-18 00:00 UTC",
-      "impact": "low",
+      "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $78K 박스권, 인플레·금리 부담. ETF 주간 순유출. 월요일 채권시장 주시",
-  "updated": "2026-05-17 20:09:09 UTC",
-  "valid_until": "2026-05-18 00:09:09 UTC",
+  "notes": "BTC $78K대 하락, 물가 우려·ETF 유출·채권금리 급등 하방압력",
+  "updated": "2026-05-18 00:08:24 UTC",
+  "valid_until": "2026-05-18 04:08:24 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$78,200 as of May 17 2026 (20:09 UTC refresh). Down from $82,000 high on May 14-15. Up ~0.4% in 24h (stabilising), down ~3.5% over 7 days. Range across exchanges: $78,010-$78,371 (Coinbase/CoinMarketCap/CoinGecko).",
-    "regime_rationale": "BEARISH (0.50 confidence, down from 0.55): Hot April PPI (+6% YoY) and CPI (+3.8% YoY) triggered bond yield spike and broad risk-off. BTC rejected at $82K resistance, lost $80K support, consolidating at $78K. BTC ETFs lost ~14,000 BTC this week, ending a six-week inflow streak. Confidence trimmed to 0.50 (just at bot filter threshold) as price stabilised (+0.4% in 24h) and bull-bear cycle indicator turned green. Regime remains bearish but conviction slightly reduced. Bot SHORT bias remains active but with reduced weighting.",
+    "btc_price_note": "BTC ~$78,200 as of May 18 2026 (00:08 UTC). Down from $82,000 high on May 12-14. Down ~1% in 24h (TradingView: $78,321, range $78,010-$78,371 across exchanges). Week-over-week: -3.5%.",
+    "regime_rationale": "BEARISH (0.65 confidence): BTC rejected at $82K, lost $80K support, now consolidating at $78K. Hot April CPI (+3.8% YoY) and PPI (+6% YoY) triggered bond yield surge and broad risk-off. BTC ETFs lost ~14,000 BTC this week, ending a six-week inflow streak. US bond market open Monday is primary near-term risk event - continued yield pressure = further downside. Confidence raised to 0.65 vs prior 0.50 as price failed to recover $80K after 3 days of attempted consolidation.",
     "bullish_signals": [
-      "CLARITY Act passed Senate Banking Committee 15-9 bipartisan - regulatory clarity",
-      "Goldman Sachs seeking SEC approval for new BTC Premium Income ETF",
-      "Morgan Stanley filed with SEC for spot bitcoin ETF",
+      "CLARITY Act passed Senate Banking Committee 15-9 bipartisan - regulatory clarity positive",
+      "Goldman Sachs + Morgan Stanley seeking SEC approval for new BTC ETFs",
       "Fed held rates at 3.5-3.75% for 3rd consecutive meeting (no hike yet)",
-      "BTC risen from ~$60K (Feb lows) to $80K+ - macro uptrend intact",
       "CryptoQuant bull-bear cycle indicator turned green (first time since March 2023)",
       "Moody's top credit rating awarded to tokenized MMFs (BlackRock/Fidelity)",
-      "Price stabilising at $78K - up 0.4% in 24h, no further breakdown after 3 days"
+      "BTC macro uptrend intact: up ~$23,660 YoY"
     ],
     "bearish_signals": [
-      "BTC down ~3.5% over 7 days, rejected at $80K support-turned-resistance",
-      "Sharp US Treasury bond yield surge triggering broad risk-off (crypto, equities, gold all down)",
+      "BTC down ~3.5% week-over-week, rejected at $80K resistance (former support)",
+      "Sharp US 10yr Treasury yield surge driving broad risk-off (crypto + equities + gold down)",
       "April PPI +6% YoY - hottest reading, rate cut expectations pushed to 2027",
-      "April CPI +3.8% YoY - above expectations, sticky inflation persists",
+      "April CPI +3.8% YoY - above expectations, sticky inflation",
       "US Spot BTC ETFs lost ~14,000 BTC this week, ending 6-week inflow streak",
-      "Fear & Greed Index deteriorated - markets pricing in renewed rate hike risk",
-      "Weekend/Sunday low liquidity increases downside volatility risk"
+      "Fear & Greed Index fell 13 points in one week - deteriorating sentiment",
+      "COIN/MSTR/miners tumbled 5-10% on May 15 - correlated sell-off"
     ],
-    "macro_backdrop": "Sunday May 17 (evening UTC): No FOMC or data releases. April CPI (+3.8% YoY) and PPI (+6% YoY) released May 12-13 - primary bearish driver still active via bond yield pressure. Next major events: US Bond Market open Monday May 18 (key yield watch), CLARITY Act Senate floor vote (timing uncertain), May CPI ~June 10, FOMC June 16-17. BTC $78K is key support; break below risks $75-77K test. Recovery requires either yield relief or regulatory/ETF positive catalyst. Fed rate at 3.5-3.75%, held for 3rd consecutive meeting."
+    "macro_backdrop": "Monday May 18 (early UTC): April CPI (+3.8% YoY) and PPI (+6% YoY) released May 12-13 remain primary bearish driver via bond yield pressure. US bond market open today is key watch point - renewed yield spike would push BTC below $78K toward $76-77K. No FOMC meeting until June 16-17. CLARITY Act Senate floor vote timing uncertain but regulatory tailwind. BTC $78K is key support; recovery needs yield relief or strong ETF/regulatory catalyst."
   }
 }
