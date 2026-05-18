@@ -1,22 +1,16 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 76869,
+  "btc_price_usd": 77500,
   "key_events_next_24h": [
     {
-      "name": "US Bond Market Open (Monday) - 10yr yield watch, risk-off pressure",
+      "name": "US Bond Market - 10yr yield watch, rate hike fears (ongoing)",
       "time": "2026-05-18 13:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US Business Leaders Survey (NY Fed)",
-      "time": "2026-05-18 13:30 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "SCE Household Spending Survey",
+      "name": "SCE Household Spending Survey (NY Fed)",
       "time": "2026-05-18 16:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
@@ -34,27 +28,27 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $76,869 급락, 금리인상 우려·ETF 유출로 약세 지속",
-  "updated": "2026-05-18 09:00:00 UTC",
-  "valid_until": "2026-05-18 13:00:00 UTC",
+  "notes": "BTC $77.5K 약세, 연준 금리인상 우려·$527M 청산 지속",
+  "updated": "2026-05-18 12:30:00 UTC",
+  "valid_until": "2026-05-18 16:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,869 as of May 18 2026 (09:00 UTC). Down from $79K range on May 16-17. $527M in global liquidations triggered. Week-over-week: -4.65%.",
-    "regime_rationale": "BEARISH (0.65 confidence): BTC has broken below $78K support and is now at $76,869. Hot CPI/PPI data triggered bond yield surge and broad risk-off. BTC ETFs lost ~14,000 BTC this week, ending a six-week inflow streak. Whale profit-taking added downside pressure. US bond market open Monday (13:30 UTC) is primary near-term risk event.",
+    "btc_price_note": "BTC ~$76,849-$78,350 as of May 18 2026 (12:30 UTC). Down ~1.86% on the day. BTC below $80K resistance for multiple days. $527M in global liquidations triggered this week.",
+    "regime_rationale": "BEARISH (0.65 confidence): BTC struggling below $80K with multiple bearish macro drivers. Hot April PPI data triggered bond yield surge and broad risk-off. BTC ETF inflow streak ended. Whale profit-taking adding downside pressure. No major macro catalyst in next 24h to reverse trend.",
     "bullish_signals": [
-      "Fed held rates at 3.5-3.75% (no hike yet, though hike fears rising)",
+      "Fed held rates at 3.5-3.75% (no hike yet, though fears rising)",
       "CryptoQuant bull-bear cycle indicator turned green (first time since March 2023)",
       "Goldman Sachs seeking SEC approval for Bitcoin Premium Income ETF",
       "Funding rates flipped from negative to neutral - easing short pressure",
-      "BTC macro uptrend intact YoY"
+      "CLARITY Act passed - positive long-term crypto regulatory environment"
     ],
     "bearish_signals": [
-      "BTC at $76,869 - down 4.65% week-over-week, below $80K support",
-      "$527M global liquidations in a single volatile window",
-      "US Spot BTC ETFs lost ~14,000 BTC this week, ending 6-week inflow streak",
+      "BTC at ~$76,869-$78,350 - below $80K critical support",
+      "$527M global liquidations in recent volatile window",
+      "US Spot BTC ETFs saw outflows, ending multi-week inflow streak",
       "Rate hike fears returning - markets bet Fed may need to raise again",
       "Rising bond yields driving broad risk-off across crypto, equities, gold",
-      "Fear & Greed Index at 48 (Neutral) - deteriorated from prior levels"
+      "Bitcoin Depot (BTM operator) filed Chapter 11 bankruptcy"
     ],
-    "macro_backdrop": "No major scheduled macro events in next 24h (next CPI Jun 10, PPI Jun 11, next FOMC Jun 16-17). Primary driver remains rate hike fears from hot April inflation data. US bond market open Monday 13:30 UTC is key watch point. BTC needs yield relief or strong ETF catalyst to recover $80K."
+    "macro_backdrop": "No major scheduled macro events in next 24h (next CPI Jun 10, PPI Jun 11, next FOMC Jun 16-17). Fed held at 3.50-3.75% on Apr 29. Primary driver remains rate hike fears from hot April inflation data. Bond market open Monday 13:30 UTC is key watch point. BTC needs yield relief or strong ETF catalyst to recover $80K."
   }
 }
