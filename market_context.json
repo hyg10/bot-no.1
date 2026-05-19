@@ -3,46 +3,52 @@
   "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US-Iran geopolitical tension (ongoing military action risk)",
-      "time": "2026-05-19 04:03 UTC",
+      "name": "US-Iran geopolitical tension (escalating — drone strikes, Hormuz)",
+      "time": "2026-05-19 08:10 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US New Residential Construction / NAR Pending Home Sales",
-      "time": "2026-05-19 12:30 UTC",
+      "name": "US Pending Home Sales Data",
+      "time": "2026-05-19 14:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting Minutes Release (Powell final era, hawkish lean expected)",
+      "name": "US Major Economic Data Batch (98 releases)",
+      "time": "2026-05-20 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Meeting Minutes Release (hawkish lean expected)",
       "time": "2026-05-20 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $76K대 약세, 공포지수 28, 국채금리 상승·인플레 압박",
-  "updated": "2026-05-19 04:03:12 UTC",
-  "valid_until": "2026-05-19 08:03:12 UTC",
+  "notes": "이란긴장·채권금리상승 BTC $77K 하락, FOMC 의사록 대기",
+  "updated": "2026-05-19 08:10:00 UTC",
+  "valid_until": "2026-05-19 12:10:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,500-77,000 (May 19, 04:03 UTC). Down ~5.6% on 7-day basis. Down from $80K to $76K in 4 days. Fear & Greed Index: 28 (Fear zone).",
-    "regime_rationale": "BEARISH (0.65 confidence): Price action clearly weak — BTC lost $80K support and has continued lower. Fear & Greed at 28 signals market in fear. Rising US bond yields + 3.3% CPI + US-Iran tensions all creating headwinds. FOMC minutes tomorrow expected hawkish (Powell era). ETF inflows ($700M) and CryptoQuant bull-bear indicator turning green provide some floor but not enough to reverse trend. Confidence >=0.5 so bot macro filter WILL activate for new entries.",
+    "btc_price_note": "BTC ~$76,500-77,100 (May 19 08:10 UTC). Down ~1% in 24h. $657M in long liquidations on May 18. BTC lost $80K support; now testing $77K.",
+    "regime_rationale": "BEARISH (0.65 confidence): Price action weak — BTC fell from $82K+ to ~$77K over the past week. Fear & Greed recovering but still fragile. Rising US bond yields + CPI pressures + US-Iran geopolitical risk all weighing on risk assets. FOMC minutes on May 20 expected hawkish. Confidence >=0.5 so bot macro filter WILL activate for new entries.",
     "bullish_signals": [
-      "Spot BTC ETF inflows ~$700M (structural institutional demand)",
       "CryptoQuant bull-bear cycle indicator turned green (first time since March 2023)",
+      "Spot BTC ETF products actively filing 10-Q (structural institutional demand intact)",
       "BTC still above 200-day EMA — long-term trend intact",
       "Monthly return still +2.63% — deep correction not confirmed",
-      "Goldman Sachs Bitcoin Premium Income ETF SEC review ongoing"
+      "Negative funding rates suggest crowded short positioning (potential short squeeze)"
     ],
     "bearish_signals": [
-      "BTC fell $80K -> $76.5K (-4.4%), below critical $80K support",
-      "Fear & Greed Index: 28 (Fear) — down 13pts in one week",
-      "7-day return: -5.6%; Yahoo Finance: 'prices down and moving lower'",
-      "$657M in leveraged long liquidations on May 18",
-      "US bond yields surging — risk assets under pressure",
-      "CPI 3.3% (hot) + Iran tensions — macro headwinds dominate",
-      "FOMC minutes May 20 likely hawkish — Kevin Warsh replacing Powell"
+      "BTC ~$77K, down from $82-83K peak — lost $80K critical support",
+      "$657M in leveraged long liquidations on May 18 (forced selling)",
+      "US-Iran tensions escalating (drone strikes, Hormuz insurance platform)",
+      "Bitcoin Depot (major US ATM operator) filed for bankruptcy May 18",
+      "US bond yields surging — inflation worries suppress risk assets",
+      "S&P 500 and Nasdaq posting consecutive losses — risk-off environment",
+      "FOMC minutes May 20 expected hawkish (rate hold at 3.50-3.75% for 3rd time)"
     ],
-    "macro_backdrop": "No rate decision in next 24h. Primary risk events: FOMC minutes May 20 18:00 UTC (HIGH — hawkish expectation as Powell era closes with rate hold at 3.50-3.75%). Housing data May 19 12:30 UTC (LOW). US-Iran geopolitical risk ongoing. Bond yield surge is the dominant macro force suppressing risk assets including BTC."
+    "macro_backdrop": "No FOMC rate decision in next 24h. Primary risk events: FOMC minutes May 20 18:00 UTC (HIGH — 3rd consecutive hold, hawkish tone expected). 98 US economic data releases on May 20 12:30 UTC (HIGH). US-Iran escalation ongoing. Bond yield surge is the dominant macro force suppressing risk assets including BTC."
   }
 }
