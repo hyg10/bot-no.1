@@ -1,12 +1,12 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 77150,
+  "regime": "neutral",
+  "confidence": 0.42,
+  "btc_price_usd": 77300,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Geopolitical Tension (ongoing, ceasefire uncertain)",
-      "time": "2026-05-18 ongoing",
-      "impact": "medium",
+      "name": "US-Iran geopolitical tension (Trump military action warning, ongoing)",
+      "time": "2026-05-19 00:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
@@ -17,34 +17,39 @@
     },
     {
       "name": "Goldman Sachs Bitcoin Premium Income ETF - SEC review (ongoing)",
-      "time": "2026-05-18 00:00 UTC",
+      "time": "2026-05-19 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Spot BTC ETF inflows (~$700M, 10x daily mining supply absorption)",
+      "time": "2026-05-19 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC 77K대, 공포지수 28, 이란 긴장·고래 매도 하락 압력",
-  "updated": "2026-05-18 20:08:22 UTC",
-  "valid_until": "2026-05-19 00:08:22 UTC",
+  "notes": "BTC $77K대, 지정학 리스크 하락 vs ETF 유입 강세. 혼재 신호 중립",
+  "updated": "2026-05-19 00:09:34 UTC",
+  "valid_until": "2026-05-19 04:09:34 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,150 as of May 18 2026 (20:08 UTC). Down ~1-2% on 24h, down ~6% on 7d. BTC below $80K resistance for multiple days.",
-    "regime_rationale": "BEARISH (0.55 confidence): BTC struggling below $80K with multiple bearish macro drivers. Fear & Greed Index at 28 (Fear). US-Iran tensions adding geopolitical risk premium. Rate hike fears resurfacing. Confidence lowered to 0.55 vs prior 0.65 because institutional support (ETF inflows, Strategy accumulation) partially offsets downside. No major macro catalysts in next 24h.",
+    "btc_price_note": "BTC ~$77,300 as of May 19 2026 (00:09 UTC). Down ~3.7% from $80,120 on May 15. Price range today: $76,875-$77,319.",
+    "regime_rationale": "NEUTRAL (0.42 confidence): Conflicting signals prevent a clear directional call. Short-term price action is bearish (down from $80K to $77K in 4 days, $657M liquidations). But institutional demand is powerfully bullish (ETF absorbing 10x daily BTC supply, MicroStrategy $2B purchase, CryptoQuant bull-bear indicator green for first time since 2023). Confidence <0.5 so bot macro filter will NOT activate — bot trades on its own signals.",
     "bullish_signals": [
-      "Fed held rates at 3.5-3.75% (no hike yet, though fears rising)",
-      "US Spot BTC ETFs: multi-week net inflows streak - continued institutional accumulation",
-      "Strategy (MicroStrategy) continued BTC accumulation",
+      "Spot BTC ETFs absorbing ~4,500-5,000 BTC/day vs 450 BTC mined (10:1 demand ratio)",
+      "MicroStrategy bought $2B BTC last week (24,869 BTC, total 843,738)",
+      "CryptoQuant bull-bear cycle indicator turned green (first time since March 2023)",
+      "BTC above 20/50/100/200 EMA — RSI ~59 (not overbought)",
       "Goldman Sachs seeking SEC approval for Bitcoin Premium Income ETF",
-      "CryptoQuant bull-bear cycle indicator turned green (first time since March 2023, May 12)",
-      "Altcoin season index rising to 45/100 - rotation potential"
+      "May monthly return still +2.63% — consolidation, not reversal"
     ],
     "bearish_signals": [
-      "BTC at ~$77,150 - well below $80K critical resistance",
-      "Fear & Greed Index at 28 (Fear zone - lower than prior reading of 34-38)",
-      "US-Iran geopolitical tensions ongoing (ceasefire uncertain)",
-      "Rate hike fears returning - bond yields surging on inflation concerns",
-      "Whale profit-taking and long position liquidations below $77K",
-      "Fed Chair transition: Warsh (hawkish) replacing Powell - policy uncertainty",
-      "Bitcoin Depot (major US ATM operator) filed Chapter 11 bankruptcy"
+      "BTC fell $80K -> $77K in 4 days (-3.7%), $657M liquidations on May 18",
+      "Trump warned of military action against Iran — geopolitical risk premium",
+      "Rising US bond yields + inflation concerns rattling risk assets",
+      "Kevin Warsh replacing Powell as Fed Chair (hawkish policy risk)",
+      "Bitcoin Depot (major US BTC ATM operator) filed Chapter 11 bankruptcy",
+      "Funding rates negative — traders defensively positioned"
     ],
-    "macro_backdrop": "No FOMC meeting in next 24h (next FOMC Jun 16-17). No major CPI/PPI release (next CPI Jun 10, PPI Jun 11). Fed held at 3.50-3.75% on Apr 29. Kevin Warsh confirmed as new Fed Chair (replacing Powell May 15) adds policy uncertainty - Warsh is known as a hawk. US-Iran ceasefire breaking down adds geopolitical risk. BTC needs yield relief or major institutional catalyst to recover $80K."
+    "macro_backdrop": "No FOMC meeting in next 24h (next FOMC Jun 16-17). April CPI already released May 12. No major PPI/NFP in next 24h. Fed held at 3.50-3.75% (Apr 29, third consecutive hold). Kevin Warsh confirmed as new Fed Chair adds hawkish uncertainty. Primary market driver today is geopolitical (US-Iran) and bond yield pressure, partially offset by structural BTC demand from ETFs."
   }
 }
