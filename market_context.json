@@ -1,13 +1,8 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
+  "confidence": 0.65,
+  "btc_price_usd": 76800,
   "key_events_next_24h": [
-    {
-      "name": "Iran-US Geopolitical Risk (Ongoing – Trump military threat)",
-      "time": "2026-05-20 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
     {
       "name": "FOMC April Meeting Minutes Release",
       "time": "2026-05-20 18:00 UTC",
@@ -15,7 +10,13 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "US Economic Data Batch (various BLS releases)",
+      "name": "Iran Geopolitical Risk (US military threat, Brent crude $126)",
+      "time": "2026-05-20 04:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US Economic Data Batch (BLS releases)",
       "time": "2026-05-20 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
@@ -33,30 +34,30 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "채권금리 상승·지정학 리스크로 BTC 하락 압력 지속",
-  "updated": "2026-05-20 00:02:27 UTC",
-  "valid_until": "2026-05-20 04:02:27 UTC",
+  "notes": "BTC $77K 이탈, 지정학·인플레 우려 지속, FOMC 의사록 대기",
+  "updated": "2026-05-20 04:11:36 UTC",
+  "valid_until": "2026-05-20 08:11:36 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,800-77,000 (May 20 00:02 UTC). Down ~6.18% WoW. $80K support lost. $657M long liquidations on May 18 (89% longs). Bitcoin Depot Chapter 11 filed May 18.",
-    "regime_rationale": "BEARISH (0.62 confidence): BTC fell from $82K+ to ~$77K. US-Iran tensions (Trump military threat) triggered risk-off flight. Hot inflation + surging bond yields suppressing crypto. FOMC minutes May 20 18:00 UTC expected hawkish (3rd consecutive hold). Confidence >=0.5 so bot macro filter WILL activate.",
+    "btc_price_note": "BTC ~$76,679-76,984 (May 20 04:11 UTC). Down from $80K+ peak. $657M long liquidations on May 18 (89% longs). Bitcoin Depot Chapter 11 filed May 18. 23 bearish vs 10 bullish technical signals.",
+    "regime_rationale": "BEARISH (0.65 confidence): BTC fell from $82K+ to ~$77K. US-Iran tensions triggered risk-off. Hot CPI (3.8% vs 3.7% forecast) + surging bond yields suppressing crypto. FOMC minutes today 18:00 UTC expected hawkish (3rd consecutive hold). Fear & Greed index down 13pts this week. Confidence >=0.5 so bot macro filter WILL activate.",
     "bullish_signals": [
-      "CLARITY Crypto Act progressing through Senate (regulatory clarity long-term bullish)",
-      "BlackRock continued accumulation via Coinbase Prime",
       "Spot BTC ETF total holdings still $107B+ (structural institutional demand)",
+      "BlackRock continued accumulation via Coinbase Prime",
       "Funding rates flipped negative – potential short squeeze setup",
-      "Fear & Greed recovering (38 -> 47 in recent days)",
-      "BTC still above 200-day EMA – deep bear market not confirmed"
+      "BTC still above 200-day EMA – deep bear market not confirmed",
+      "Bitcoin halving (April 2026) long-term supply shock bullish",
+      "CLARITY Crypto Act progressing through Senate (regulatory clarity)"
     ],
     "bearish_signals": [
       "BTC ~$77K, down from $82-83K peak – $80K critical support lost",
       "$657M leveraged long liquidations May 18 (cascade forced selling, 89% longs)",
       "Bitcoin Depot (major US ATM operator) Chapter 11 bankruptcy May 18",
       "US-Iran escalation risk (Trump warned military action against Iran)",
-      "Rising bond yields + inflation worries – risk-off across equities and crypto",
+      "Rising bond yields + CPI 3.8% YoY (beat 3.7% forecast) – risk-off",
       "FOMC minutes May 20 18:00 UTC: 3rd consecutive hold, hawkish tone expected",
-      "Weekly BTC down 6.18% – sustained downtrend",
-      "BTC -39% from ATH $126,080"
+      "23 bearish vs 10 bullish technical analysis indicators",
+      "Fear & Greed Index down 13 points this week"
     ],
-    "macro_backdrop": "No FOMC rate decision in next 24h (next meeting June 16-17, rate held at 3.5-3.75%). Primary risk event: FOMC April minutes May 20 18:00 UTC (HIGH – hawkish expected). Iran tensions dominant near-term force. Fed Chair transition uncertainty (Powell term ended May 15). BlackRock accumulation provides support floor but insufficient to reverse trend. No BTC ETF approval decisions imminent."
+    "macro_backdrop": "Fed held rates at 3.5-3.75% (3rd consecutive hold). Market pricing 59.5% probability of no rate cuts in 2026. Primary risk event: FOMC April minutes May 20 18:00 UTC (HIGH – hawkish expected). Iran tensions dominant near-term force. No BTC ETF approval decisions imminent."
   }
 }
