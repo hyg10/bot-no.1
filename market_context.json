@@ -4,48 +4,54 @@
   "btc_price_usd": 77071,
   "key_events_next_24h": [
     {
-      "name": "FOMC April Meeting Minutes (market digesting hawkish tone)",
+      "name": "FOMC April Meeting Minutes (hawkish 8-4 dissent, being digested)",
       "time": "2026-05-20 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "Iran Conflict Developments (ceasefire signals, high volatility risk)",
-      "time": "2026-05-20 00:00 UTC",
+      "name": "Iran Conflict / Ceasefire Update (president expects quick end)",
+      "time": "2026-05-20 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     },
     {
       "name": "Bitcoin Spot ETF Daily Flow Print",
       "time": "2026-05-20 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
+    },
+    {
+      "name": "Strategic Bitcoin Reserve Architecture Announcement (pre-Jul 22 deadline)",
+      "time": "2026-05-21 16:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "공포탐욕 28 하락, 이란리스크 지속, BTC $77K 횡보 혼조세",
-  "updated": "2026-05-20 17:00:00 UTC",
-  "valid_until": "2026-05-20 21:00:00 UTC",
+  "notes": "공포탐욕 28 하락, 이란·연준 불확실, BTC $77K 혼조세",
+  "updated": "2026-05-20 14:45:00 UTC",
+  "valid_until": "2026-05-20 18:45:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,071 (May 20, ~13:45 UTC). Opened at $76,757 (-0.3% vs Tuesday open), recovered to $77,428 by 7 AM ET. Up ~+0.23% in 24h. 24h range: $76,684–$77,433 across exchanges. Sharp drop below $77K on May 18 forced mass liquidations ($657M longs, 89% flushed); some overhang cleared.",
-    "regime_rationale": "NEUTRAL (0.40 confidence): Fear & Greed Index 28 (Fear) on May 20 — deteriorated from prior days, indicating cautious sentiment despite price recovery. BTC opened lower again today (3rd consecutive day) but is recovering intraday. Iran ceasefire signals from US president provide potential upside catalyst, but risk of escalation keeps confidence suppressed. FOMC minutes (hawkish tone, 8-4 dissent) being digested. ETF inflows and institutional accumulation are structural bullish tailwinds, but short-term sentiment is in Fear territory. Confidence lowered to 0.40 (below 0.50 threshold) — bot macro filter will NOT activate; bot trades freely on technical signals.",
+    "btc_price_note": "BTC ~$77,071 (May 20, ~14:45 UTC). Opened at $76,757 (-0.3% vs Tuesday open), recovered to $77,428 by 7 AM ET. 3rd consecutive day opening lower but recovering intraday. $77K remains key short-term pivot.",
+    "regime_rationale": "NEUTRAL (0.40 confidence): Fear & Greed Index 28 (Fear) on May 20. BTC opened lower 3 days running but recovering intraday. Iran ceasefire signals provide upside potential; FOMC hawkish minutes and new Fed Chair Warsh add uncertainty. Trump Media withdrew BTC ETF plans (minor bearish). Strategic Bitcoin Reserve architecture expected soon — structural bullish. Confidence 0.40 < 0.50 threshold — bot macro filter INACTIVE; trades on technical signals only.",
     "bullish_signals": [
-      "BTC $77,071 — recovering from $76,684 lows, intraday upside momentum",
-      "ETF inflows: spot BTC ETF total holdings $107B+ (structural institutional demand)",
-      "Strategy holding 818,869 BTC (institutional accumulation continues)",
+      "BTC $77,071 recovering from $76,684 lows, intraday upside momentum",
+      "ETF inflows: spot BTC ETF structural institutional demand intact",
+      "Strategy holding 818,869 BTC — corporate accumulation continues",
       "Iran ceasefire optimism: US president expects war to end 'very quickly'",
-      "Digital Asset Clarity Act moving through Senate final review",
-      "Iran 'Hormuz Safe' BTC insurance platform — novel institutional crypto adoption",
-      "Price target: $80,500 by end of May (+4.5% from current)"
+      "Strategic Bitcoin Reserve architecture announcement imminent (pre-Jul 22)",
+      "BTC node v31.0rc4 — major upgrade (cluster mempool, privacy broadcast, faster sync)",
+      "Digital Asset Clarity Act moving through Senate final review"
     ],
     "bearish_signals": [
       "Fear & Greed Index: 28 (Fear) — 3rd consecutive day opening lower",
-      "BTC failed to hold $80K; pulled back on Iran missile strike reports",
-      "$657M leveraged long liquidations May 18 (89% longs) — sentiment damage",
-      "Bitcoin Depot Chapter 11 bankruptcy May 18 — sector stress signal",
-      "FOMC minutes: 8-4 dissent vote, elevated uncertainty, hawkish tone",
+      "BTC below $80K; failed breakout; pulled back on Iran missile strike headlines",
+      "FOMC minutes: 8-4 dissent, elevated uncertainty, hawkish tone",
       "New Fed Chair Kevin Warsh (since May 15) — policy direction uncertain",
-      "BTC sensitive to geopolitical headlines — high intraday volatility risk"
+      "Trump Media withdrew BTC ETF SEC filings — competitive ETF landscape cited",
+      "Bitcoin Depot Chapter 11 bankruptcy (May 18) — sector stress signal",
+      "BTC highly sensitive to geopolitical headlines — high intraday volatility"
     ],
-    "macro_backdrop": "Fed held at 3.5-3.75% (3rd consecutive hold). FOMC April minutes released May 20 ~18:00 UTC (8-4 dissent, hawkish). Kevin Warsh is new Fed Chair since May 15; first FOMC meeting June 16-17. Next major catalysts: April PCE/GDP May 28, May NFP June 5. No pending BTC ETF SEC decisions. Iran conflict (since Feb 28) caused BTC drop to $64K; partial recovery to $77K ongoing. Ceasefire rhetoric from US Senate is near-term wildcard."
+    "macro_backdrop": "Fed held at 3.5-3.75% (3rd hold). FOMC April minutes released May 20 ~18:00 UTC (hawkish, 8-4 dissent). Kevin Warsh is new Fed Chair since May 15; first FOMC June 16-17. US CPI 3.8% (May 12). Unemployment 4.3% (May 8). Next major: PCE/GDP May 28, NFP June 5. Iran conflict ongoing since Feb 28 — ceasefire rhetoric is near-term wildcard."
   }
 }
