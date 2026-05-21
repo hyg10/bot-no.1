@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
-  "btc_price_usd": 77800,
+  "confidence": 0.55,
+  "btc_price_usd": 77350,
   "key_events_next_24h": [
     {
       "name": "US Treasury yields remain elevated: 10yr 4.67%, 30yr 5.14% (risk-asset headwind)",
@@ -34,38 +34,43 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "Daily ETF flow report — post $1B+ outflow week (Trump Media ETF withdrawal confirmed)",
+      "name": "Daily ETF flow report — post $1B+ outflow week (watch for reversal)",
       "time": "2026-05-21 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "US Economic Data Releases (~68 events scheduled today)",
+      "time": "2026-05-21 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC 5일 연속 하락 후 소폭 반등, ETF 유출 지속·하락기조",
-  "updated": "2026-05-21 08:06:34 UTC",
-  "valid_until": "2026-05-21 12:06:34 UTC",
+  "notes": "BTC $77K대 횡보, Fear지수 27, ETF유출 지속·연준매파 하방압력",
+  "updated": "2026-05-21 12:00:00 UTC",
+  "valid_until": "2026-05-21 16:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,800 (May 21, ~08:06 UTC). Up +0.72% in last 24h (minor bounce from 5-day decline from $80K+). CoinMarketCap: $77,369; Coinbase: $77,768; OKX: $77,854. Key resistance: $78,182 then $79,331 then $80,000. Five consecutive losing days prior to today's small bounce.",
-    "regime_rationale": "BEARISH (0.60 confidence): Fear & Greed recovering but still cautious with negative funding rates. Five consecutive down days from $80K+ to ~$76K before today's bounce. ETF outflows over $1B in past week (first major macro shock in 7 weeks). 10-year Treasury yield 4.67%, 30-year 5.14% — compressing risk-asset multiples. CPI 3.8%, PPI 6% (elevated, hawkish bias). Trump Media withdrew BTC ETF application (negative catalyst). Crypto market cap -5.57% over past week. Slight recovery today (+0.72%) and dovish Warsh as new Fed Chair moderate bearish conviction slightly.",
+    "btc_price_note": "BTC ~$77,350 (May 21, ~12:00 UTC). Up +0.9% from yesterday's open but slipped to ~$77,276 by 07:17 ET (~11:17 UTC). Coinbase: $77,768, OKX: $77,854, Yahoo: $77,135. Key resistance: $78,182 then $79,331 then $80,000. Five consecutive losing days prior to today's small bounce. Fear & Greed Index: 27 (Fear).",
+    "regime_rationale": "BEARISH (0.55 confidence): Technical signals 39% bearish vs 30% bullish (23-signal composite). Fear & Greed at 27. ETF outflows over $1B in past week. 10-year Treasury yield 4.67%, 30-year 5.14% — compressing risk multiples. CPI 3.8%, PPI 6% (elevated). Fed held at 3.5-3.75%; FOMC minutes (Apr 28-29 released ~May 20) confirmed hawkish tone. Confidence lowered slightly from earlier to 0.55 as daily price recovered +0.9% and BTC holds above key EMAs.",
     "bullish_signals": [
-      "BTC up +0.72% in last 24h — minor bounce, price stabilizing after 5-day drop",
+      "BTC up +0.9% on the day — price stabilizing after 5-day drop",
       "Technical structure still above key EMAs (20/50/100/200)",
       "RSI ~59: moderate momentum, room before overbought",
       "Kevin Warsh (dovish Fed Chair) pushing for faster rate cuts",
       "Strategic Bitcoin Reserve architecture announcement imminent (pre-Jul 22 deadline)",
       "Goldman Sachs and Morgan Stanley filing for spot Bitcoin ETFs (institutional demand)",
-      "Bitcoin v31.0rc4 network upgrade (cluster mempool, privacy broadcast, cache improvements)",
       "Strategy (MicroStrategy) holding 818,869 BTC — corporate accumulation intact"
     ],
     "bearish_signals": [
       "Five consecutive down days: $80K+ -> ~$76K before today's partial recovery",
-      "BTC spot ETF net outflows: ~$1B+ in past week alone, ~$1.6B cumulative over 10 trading days",
+      "BTC spot ETF net outflows: ~$1B+ in past week, ~$1.6B cumulative over 10 trading days",
       "10-year Treasury yield 4.67%, 30-year 5.14% — multi-month highs compressing risk assets",
       "CPI 3.8%, PPI 6% (elevated) — inflation sticky, hawkish macro backdrop",
+      "FOMC Apr minutes confirmed more hawkish tone than markets expected",
       "Iran-US conflict unresolved + rising oil prices — geopolitical risk headwind",
-      "Trump Media pulled BTC ETF application — reduced institutional hype signal",
-      "Crypto market cap -5.57% over past week",
-      "Fear & Greed Index still cautious with negative funding rates"
+      "Fear & Greed Index at 27 (Fear zone)",
+      "Crypto market cap -5.57% over past week"
     ],
-    "macro_backdrop": "Fed held at 3.5-3.75% under new Chair Warsh (since May 15). Next FOMC: June 16-18 (Warsh's first meeting — dovish surprise possible). US CPI 3.8% (May 12), PPI 6%. Unemployment 4.3% (May 8). No scheduled CPI/FOMC releases in next 24h. Next major macro events: PCE/GDP May 28, NFP June 5. Quantum security concerns: 4.12M BTC in quantum-exposed addresses (Glassnode)."
+    "macro_backdrop": "Fed held at 3.5-3.75% under new Chair Warsh (since May 15). Next FOMC: June 16-18 (Warsh's first meeting — dovish surprise possible). US CPI 3.8% (May 12), PPI 6%. Unemployment 4.3% (May 8). FOMC Apr 28-29 minutes released ~May 20 showed more hawkish tone than expected. No CPI/FOMC releases in next 24h. Next major macro events: PCE/GDP May 28, NFP June 5."
   }
 }
