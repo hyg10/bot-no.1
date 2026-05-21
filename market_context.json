@@ -1,76 +1,57 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 77350,
+  "regime": "neutral",
+  "confidence": 0.4,
+  "btc_price_usd": 77850,
   "key_events_next_24h": [
     {
-      "name": "US Treasury yields remain elevated: 10yr 4.67%, 30yr 5.14% (risk-asset headwind)",
-      "time": "2026-05-21 00:00 UTC",
+      "name": "PCE Price Index Release (US) — key inflation gauge for Fed",
+      "time": "2026-05-22 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "BTC spot ETF net outflows ~$1.6B cumulative over 10 trading days (ongoing)",
-      "time": "2026-05-21 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Iran-US conflict uncertainty + rising oil prices (macro headwind)",
-      "time": "2026-05-21 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Strategic Bitcoin Reserve architecture announcement (Trump admin, pre-Jul 22 deadline)",
-      "time": "2026-05-21 16:00 UTC",
+      "name": "CLARITY Act Crypto Regulation Committee Deadline",
+      "time": "2026-05-21 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Kevin Warsh (dovish Fed Chair) — potential positive signal for risk assets",
-      "time": "2026-05-21 TBD UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Daily ETF flow report — post $1B+ outflow week (watch for reversal)",
+      "name": "Daily BTC Spot ETF Flow Report (watch for outflow reversal)",
       "time": "2026-05-21 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "US Economic Data Releases (~68 events scheduled today)",
-      "time": "2026-05-21 12:30 UTC",
+      "name": "Strategic Bitcoin Reserve Architecture Announcement (Trump admin)",
+      "time": "2026-05-21 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $77K대 횡보, Fear지수 27, ETF유출 지속·연준매파 하방압력",
-  "updated": "2026-05-21 12:00:00 UTC",
-  "valid_until": "2026-05-21 16:00:00 UTC",
+  "notes": "BTC $77,800 반등 시도중. PCE 발표 앞두고 관망세. 혼조 신호.",
+  "updated": "2026-05-21 13:30:00 UTC",
+  "valid_until": "2026-05-21 17:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,350 (May 21, ~12:00 UTC). Up +0.9% from yesterday's open but slipped to ~$77,276 by 07:17 ET (~11:17 UTC). Coinbase: $77,768, OKX: $77,854, Yahoo: $77,135. Key resistance: $78,182 then $79,331 then $80,000. Five consecutive losing days prior to today's small bounce. Fear & Greed Index: 27 (Fear).",
-    "regime_rationale": "BEARISH (0.55 confidence): Technical signals 39% bearish vs 30% bullish (23-signal composite). Fear & Greed at 27. ETF outflows over $1B in past week. 10-year Treasury yield 4.67%, 30-year 5.14% — compressing risk multiples. CPI 3.8%, PPI 6% (elevated). Fed held at 3.5-3.75%; FOMC minutes (Apr 28-29 released ~May 20) confirmed hawkish tone. Confidence lowered slightly from earlier to 0.55 as daily price recovered +0.9% and BTC holds above key EMAs.",
+    "btc_price_note": "BTC ~$77,850 (May 21, ~13:30 UTC). Up +0.72% in 24h. Recovering from $76,000 floor which held twice — first multi-day bounce in 3 weeks. Sell volume declining on recovery (constructive). Down 2.51% on the week. Sources: Coinbase $77,768, OKX $77,855, BlockchainReporter $77,852. Fear & Greed Index recovering from recent lows but still cautious. Negative funding rates indicate residual caution.",
+    "regime_rationale": "NEUTRAL (0.4 confidence): Conflicting signals prevent clear directional bias. Bullish: $76K floor held twice, declining sell volume on bounce, CLARITY Act deadline, Strategic Reserve announcement imminent, crypto market +0.65% on Iran war ceasefire signals. Bearish: Still down 2.51% on week, market cap -5.57% week-over-week, Trump Media withdrew BTC ETF plans (May 20), ETF outflows ongoing (~$1.6B over 10 days), PCE data on Friday creates uncertainty. Downgraded from bearish (0.55) as price stabilizes above $76K.",
     "bullish_signals": [
-      "BTC up +0.9% on the day — price stabilizing after 5-day drop",
-      "Technical structure still above key EMAs (20/50/100/200)",
-      "RSI ~59: moderate momentum, room before overbought",
-      "Kevin Warsh (dovish Fed Chair) pushing for faster rate cuts",
-      "Strategic Bitcoin Reserve architecture announcement imminent (pre-Jul 22 deadline)",
-      "Goldman Sachs and Morgan Stanley filing for spot Bitcoin ETFs (institutional demand)",
-      "Strategy (MicroStrategy) holding 818,869 BTC — corporate accumulation intact"
+      "$76,000 floor held twice — structural support confirmed",
+      "Recovery from $76K to $77,850 on declining sell volume (forced selling clearing)",
+      "Crypto market cap +0.65% today — relief bounce on Iran war ceasefire pledge",
+      "CLARITY Act committee deadline May 21 — potential crypto regulatory clarity",
+      "Strategic Bitcoin Reserve architecture announcement pending before Jul 22 deadline",
+      "BTC up +0.72% in 24h — first sustained bounce in 3 weeks",
+      "Negative funding rates = short squeeze potential if momentum continues"
     ],
     "bearish_signals": [
-      "Five consecutive down days: $80K+ -> ~$76K before today's partial recovery",
-      "BTC spot ETF net outflows: ~$1B+ in past week, ~$1.6B cumulative over 10 trading days",
-      "10-year Treasury yield 4.67%, 30-year 5.14% — multi-month highs compressing risk assets",
-      "CPI 3.8%, PPI 6% (elevated) — inflation sticky, hawkish macro backdrop",
-      "FOMC Apr minutes confirmed more hawkish tone than markets expected",
-      "Iran-US conflict unresolved + rising oil prices — geopolitical risk headwind",
-      "Fear & Greed Index at 27 (Fear zone)",
-      "Crypto market cap -5.57% over past week"
+      "BTC down 2.51% on the week — net negative weekly performance",
+      "Crypto market cap down 5.57% over past 7 days",
+      "Trump Media scrapped Bitcoin ETF plans (May 20) — institutional retreat signal",
+      "BTC spot ETF net outflows ~$1.6B cumulative over 10 trading days",
+      "PCE data Friday (May 22) — if hot, risk-off reaction likely",
+      "Negative funding rates also reflect broad bearish positioning",
+      "Price ~$32,400 below year-ago levels — longer-term trend still down"
     ],
-    "macro_backdrop": "Fed held at 3.5-3.75% under new Chair Warsh (since May 15). Next FOMC: June 16-18 (Warsh's first meeting — dovish surprise possible). US CPI 3.8% (May 12), PPI 6%. Unemployment 4.3% (May 8). FOMC Apr 28-29 minutes released ~May 20 showed more hawkish tone than expected. No CPI/FOMC releases in next 24h. Next major macro events: PCE/GDP May 28, NFP June 5."
+    "macro_backdrop": "Fed held at 3.5-3.75% under Chair Warsh. Next FOMC: June 16-18. No CPI/FOMC in next 24h. PCE on May 22 (Friday) is the immediate macro risk — article describes it as the event 'that decides whether this is stabilization or a pause before the next leg lower.' CLARITY Act (crypto regulation) has a May 21 committee deadline — could be a positive catalyst. Iran-US tension slightly reduced on Trump ceasefire pledge."
   }
 }
