@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.5,
-  "btc_price_usd": 77700,
+  "confidence": 0.60,
+  "btc_price_usd": 77800,
   "key_events_next_24h": [
     {
       "name": "US Treasury yields remain elevated: 10yr 4.67%, 30yr 5.14% (risk-asset headwind)",
@@ -10,7 +10,7 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "BTC spot ETF cumulative net outflows ~$1.6B over past 10 trading days (ongoing)",
+      "name": "BTC spot ETF net outflows ~$1.6B cumulative over 10 trading days (ongoing)",
       "time": "2026-05-21 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
@@ -28,38 +28,44 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "Kevin Warsh (dovish) as new Fed Chair — potential positive signal for risk assets",
+      "name": "Kevin Warsh (dovish Fed Chair) — potential positive signal for risk assets",
       "time": "2026-05-21 TBD UTC",
       "impact": "medium",
       "expected_direction": "bullish"
+    },
+    {
+      "name": "Daily ETF flow report — post $1B+ outflow week (Trump Media ETF withdrawal confirmed)",
+      "time": "2026-05-21 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "공포지수 27·ETF 유출 지속·$77,700 소폭 반등, 하락기조 유지",
-  "updated": "2026-05-21 04:10:33 UTC",
-  "valid_until": "2026-05-21 08:10:33 UTC",
+  "notes": "BTC 5일 연속 하락 후 소폭 반등, ETF 유출 지속·하락기조",
+  "updated": "2026-05-21 08:06:34 UTC",
+  "valid_until": "2026-05-21 12:06:34 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,700 (May 21, ~04:10 UTC). Up +0.72% in last 24h (minor bounce from $77,400). Above key EMAs (20/50/100/200). RSI ~59 — moderate momentum, not overbought. Key resistance: $78,182 then $79,331. Failed to reclaim $80K.",
-    "regime_rationale": "BEARISH (0.50 confidence): Fear & Greed Index 27 (Fear). Price down ~$5,000 from $82K peak. ETF spot outflows ~$1.6B cumulative over 10 trading days persist. 10-year Treasury yield 4.67%, 30-year 5.14% — compressing risk-asset multiples. CPI 3.8%, PPI 6% (elevated, hawkish bias). Trump Media withdrew BTC ETF application (negative catalyst). Slight price recovery (+0.72%) and dovish Warsh as new Fed Chair reduce bearish confidence from 0.62 to 0.50. Confidence at threshold — bot macro filter ACTIVE at 0.50.",
+    "btc_price_note": "BTC ~$77,800 (May 21, ~08:06 UTC). Up +0.72% in last 24h (minor bounce from 5-day decline from $80K+). CoinMarketCap: $77,369; Coinbase: $77,768; OKX: $77,854. Key resistance: $78,182 then $79,331 then $80,000. Five consecutive losing days prior to today's small bounce.",
+    "regime_rationale": "BEARISH (0.60 confidence): Fear & Greed recovering but still cautious with negative funding rates. Five consecutive down days from $80K+ to ~$76K before today's bounce. ETF outflows over $1B in past week (first major macro shock in 7 weeks). 10-year Treasury yield 4.67%, 30-year 5.14% — compressing risk-asset multiples. CPI 3.8%, PPI 6% (elevated, hawkish bias). Trump Media withdrew BTC ETF application (negative catalyst). Crypto market cap -5.57% over past week. Slight recovery today (+0.72%) and dovish Warsh as new Fed Chair moderate bearish conviction slightly.",
     "bullish_signals": [
-      "BTC up +0.72% in last 24h — minor bounce, price stabilizing",
-      "Above all key EMAs (20/50/100/200) — technical structure intact",
-      "RSI ~59: growing momentum, room to run before overbought",
-      "Kevin Warsh (dovish Fed Chair) pushing for faster rate cuts — positive for risk assets",
+      "BTC up +0.72% in last 24h — minor bounce, price stabilizing after 5-day drop",
+      "Technical structure still above key EMAs (20/50/100/200)",
+      "RSI ~59: moderate momentum, room before overbought",
+      "Kevin Warsh (dovish Fed Chair) pushing for faster rate cuts",
       "Strategic Bitcoin Reserve architecture announcement imminent (pre-Jul 22 deadline)",
-      "SEC Chair Atkins speaking at Bitcoin 2026 — crypto-friendly regulatory signal expected",
-      "Strategy (MicroStrategy) holding 818,869 BTC — corporate accumulation intact",
-      "Thailand SEC launching spot BTC/ETH ETFs Q3 2026 — expanding global demand"
+      "Goldman Sachs and Morgan Stanley filing for spot Bitcoin ETFs (institutional demand)",
+      "Bitcoin v31.0rc4 network upgrade (cluster mempool, privacy broadcast, cache improvements)",
+      "Strategy (MicroStrategy) holding 818,869 BTC — corporate accumulation intact"
     ],
     "bearish_signals": [
-      "Fear & Greed Index: 27 (Fear) — sustained fear regime",
-      "BTC -$5,000 from $82K peak; failed multiple times to reclaim $80K",
-      "BTC spot ETF net outflows: ~$1.6B cumulative over 10 trading days",
-      "10-year Treasury yield 4.67%, 30-year 5.14% — risk-asset compression",
+      "Five consecutive down days: $80K+ -> ~$76K before today's partial recovery",
+      "BTC spot ETF net outflows: ~$1B+ in past week alone, ~$1.6B cumulative over 10 trading days",
+      "10-year Treasury yield 4.67%, 30-year 5.14% — multi-month highs compressing risk assets",
       "CPI 3.8%, PPI 6% (elevated) — inflation sticky, hawkish macro backdrop",
       "Iran-US conflict unresolved + rising oil prices — geopolitical risk headwind",
       "Trump Media pulled BTC ETF application — reduced institutional hype signal",
-      "Technical: 39% bearish vs 35% bullish market sentiment"
+      "Crypto market cap -5.57% over past week",
+      "Fear & Greed Index still cautious with negative funding rates"
     ],
-    "macro_backdrop": "Fed held at 3.5-3.75% under new Chair Warsh (since May 15). Next FOMC: June 16-18 (Warsh's first — dovish surprise possible). US CPI 3.8% (May 12), PPI 6%. Unemployment 4.3% (May 8). Treasury yields at multi-month highs (10yr 4.67%, 30yr 5.14%). No scheduled CPI/FOMC releases in next 24h. Next major: PCE/GDP May 28, NFP June 5."
+    "macro_backdrop": "Fed held at 3.5-3.75% under new Chair Warsh (since May 15). Next FOMC: June 16-18 (Warsh's first meeting — dovish surprise possible). US CPI 3.8% (May 12), PPI 6%. Unemployment 4.3% (May 8). No scheduled CPI/FOMC releases in next 24h. Next major macro events: PCE/GDP May 28, NFP June 5. Quantum security concerns: 4.12M BTC in quantum-exposed addresses (Glassnode)."
   }
 }
