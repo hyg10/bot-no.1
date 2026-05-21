@@ -1,57 +1,44 @@
 {
-  "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 77850,
+  "regime": "bearish",
+  "confidence": 0.55,
+  "btc_price_usd": 77750,
   "key_events_next_24h": [
     {
-      "name": "PCE Price Index Release (US) — key inflation gauge for Fed",
+      "name": "US PCE Price Index Release (April 2026)",
       "time": "2026-05-22 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "CLARITY Act Crypto Regulation Committee Deadline",
-      "time": "2026-05-21 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Daily BTC Spot ETF Flow Report (watch for outflow reversal)",
-      "time": "2026-05-21 20:00 UTC",
+      "name": "BTC Spot ETF Daily Flow Report",
+      "time": "2026-05-22 02:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "Strategic Bitcoin Reserve Architecture Announcement (Trump admin)",
-      "time": "2026-05-21 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $77,800 반등 시도중. PCE 발표 앞두고 관망세. 혼조 신호.",
-  "updated": "2026-05-21 13:30:00 UTC",
-  "valid_until": "2026-05-21 17:30:00 UTC",
+  "notes": "BTC $77K 공포지수29, 주간-2.5%, PCE 앞 약세 우위",
+  "updated": "2026-05-21 20:06:28 UTC",
+  "valid_until": "2026-05-22 00:06:28 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,850 (May 21, ~13:30 UTC). Up +0.72% in 24h. Recovering from $76,000 floor which held twice — first multi-day bounce in 3 weeks. Sell volume declining on recovery (constructive). Down 2.51% on the week. Sources: Coinbase $77,768, OKX $77,855, BlockchainReporter $77,852. Fear & Greed Index recovering from recent lows but still cautious. Negative funding rates indicate residual caution.",
-    "regime_rationale": "NEUTRAL (0.4 confidence): Conflicting signals prevent clear directional bias. Bullish: $76K floor held twice, declining sell volume on bounce, CLARITY Act deadline, Strategic Reserve announcement imminent, crypto market +0.65% on Iran war ceasefire signals. Bearish: Still down 2.51% on week, market cap -5.57% week-over-week, Trump Media withdrew BTC ETF plans (May 20), ETF outflows ongoing (~$1.6B over 10 days), PCE data on Friday creates uncertainty. Downgraded from bearish (0.55) as price stabilizes above $76K.",
+    "btc_price_note": "BTC ~$77,750 (May 21, 20:06 UTC). Bouncing off $76,000 floor (held twice). Down 2.51% on the week. Fear & Greed Index: 29 (Fear). 18 bearish vs 12 bullish technical indicators. RSI ~47.5 (neutral zone). Market cap $2.57T, down 5.57% over 7 days.",
+    "regime_rationale": "BEARISH (0.55): Dominant signals lean bearish. Week-on-week negative (-2.51%), fear index in Fear territory (29), technical indicators favor downside (18 vs 12), ETF outflows ~$1.6B over 10 days, Trump Media scrapped BTC ETF plans (May 20). Partially offset by: $76K support holding, short liquidation relief bounce, CLARITY Act positive for longer-term sentiment. PCE Friday is immediate risk — hot print = further downside. Confidence 0.55 reflects measurable bearish bias with ongoing bounce creating uncertainty.",
     "bullish_signals": [
       "$76,000 floor held twice — structural support confirmed",
-      "Recovery from $76K to $77,850 on declining sell volume (forced selling clearing)",
-      "Crypto market cap +0.65% today — relief bounce on Iran war ceasefire pledge",
-      "CLARITY Act committee deadline May 21 — potential crypto regulatory clarity",
-      "Strategic Bitcoin Reserve architecture announcement pending before Jul 22 deadline",
-      "BTC up +0.72% in 24h — first sustained bounce in 3 weeks",
-      "Negative funding rates = short squeeze potential if momentum continues"
+      "Short-covering rally: $77,951 high on Iran ceasefire pledge",
+      "CLARITY Act improved long-term regulatory outlook",
+      "Strategic Bitcoin Reserve announcement expected before Jul 22",
+      "May monthly gain +2.63% (consolidation, not exhaustion)"
     ],
     "bearish_signals": [
-      "BTC down 2.51% on the week — net negative weekly performance",
-      "Crypto market cap down 5.57% over past 7 days",
-      "Trump Media scrapped Bitcoin ETF plans (May 20) — institutional retreat signal",
-      "BTC spot ETF net outflows ~$1.6B cumulative over 10 trading days",
-      "PCE data Friday (May 22) — if hot, risk-off reaction likely",
-      "Negative funding rates also reflect broad bearish positioning",
-      "Price ~$32,400 below year-ago levels — longer-term trend still down"
+      "BTC down 2.51% on the week",
+      "Crypto market cap down 5.57% over 7 days",
+      "Fear & Greed Index at 29 (Fear zone)",
+      "18 bearish vs 12 bullish technical indicators",
+      "BTC spot ETF net outflows ~$1.6B cumulative over 10 days",
+      "Trump Media withdrew BTC ETF filing (May 20) — institutional retreat",
+      "PCE Friday (May 22) — hot inflation = risk-off for crypto",
+      "Price ~$32K below year-ago levels ($109K peak) — macro downtrend intact"
     ],
-    "macro_backdrop": "Fed held at 3.5-3.75% under Chair Warsh. Next FOMC: June 16-18. No CPI/FOMC in next 24h. PCE on May 22 (Friday) is the immediate macro risk — article describes it as the event 'that decides whether this is stabilization or a pause before the next leg lower.' CLARITY Act (crypto regulation) has a May 21 committee deadline — could be a positive catalyst. Iran-US tension slightly reduced on Trump ceasefire pledge."
+    "macro_backdrop": "Fed held at 3.50-3.75% at April 29 meeting. Next FOMC: June 16-18 (no FOMC in next 24h). PCE (April 2026) releases May 22 ~12:30 UTC — primary near-term catalyst. Hot print likely bearish for BTC. CLARITY Act positive regulatory signal. No BTC ETF SEC decisions imminent. US-Iran tensions partially eased on ceasefire pledge."
   }
 }
