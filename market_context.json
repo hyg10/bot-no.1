@@ -1,7 +1,7 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 77750,
+  "regime": "neutral",
+  "confidence": 0.45,
+  "btc_price_usd": 77300,
   "key_events_next_24h": [
     {
       "name": "US PCE Price Index Release (April 2026)",
@@ -11,34 +11,41 @@
     },
     {
       "name": "BTC Spot ETF Daily Flow Report",
-      "time": "2026-05-22 02:00 UTC",
+      "time": "2026-05-22 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "SEC Novel Crypto ETF Review (ongoing delay)",
+      "time": "2026-05-22 ongoing",
+      "impact": "low",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $77K 공포지수29, 주간-2.5%, PCE 앞 약세 우위",
-  "updated": "2026-05-21 20:06:28 UTC",
-  "valid_until": "2026-05-22 00:06:28 UTC",
+  "notes": "공포지수27, BTC $77K 하락세, 76K 지지확인, PCE 12:30 발표 주목",
+  "updated": "2026-05-22 00:07:55 UTC",
+  "valid_until": "2026-05-22 04:07:55 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,750 (May 21, 20:06 UTC). Bouncing off $76,000 floor (held twice). Down 2.51% on the week. Fear & Greed Index: 29 (Fear). 18 bearish vs 12 bullish technical indicators. RSI ~47.5 (neutral zone). Market cap $2.57T, down 5.57% over 7 days.",
-    "regime_rationale": "BEARISH (0.55): Dominant signals lean bearish. Week-on-week negative (-2.51%), fear index in Fear territory (29), technical indicators favor downside (18 vs 12), ETF outflows ~$1.6B over 10 days, Trump Media scrapped BTC ETF plans (May 20). Partially offset by: $76K support holding, short liquidation relief bounce, CLARITY Act positive for longer-term sentiment. PCE Friday is immediate risk — hot print = further downside. Confidence 0.55 reflects measurable bearish bias with ongoing bounce creating uncertainty.",
+    "btc_price_note": "BTC ~$77,300 (May 22, 00:07 UTC). Bouncing off $76,000 floor (held twice). Down 2.51% on the week, -1.05% in 24h. Fear & Greed Index: 27 (Fear). 9 sell vs 6 buy technical indicators (short-term bearish). RSI ~59 (growing momentum, not overbought). Market cap ~$1.54T. Daily volume $28.29B.",
+    "regime_rationale": "NEUTRAL (0.45): Mixed signals keep regime undecided. Bearish: Fear & Greed at 27 (Fear zone), weekly -2.51%, technical 9-sell vs 6-buy bias, ETF outflows $104.1M on May 20, SEC delaying novel crypto ETFs, Trump Media withdrew BTC ETF application, hot inflation (CPI 3.8%). Bullish offset: $76K floor held twice (structural support), first multi-day bounce in 3 weeks, RSI 59 growing, CLARITY Act positive for regulatory outlook, Strategic Bitcoin Reserve architecture imminent. PCE at 12:30 UTC today is the key catalyst — hot print = risk-off, in-line/soft = relief rally. Confidence 0.45 is below 0.5 threshold; bot will not apply hard directional filter.",
     "bullish_signals": [
       "$76,000 floor held twice — structural support confirmed",
-      "Short-covering rally: $77,951 high on Iran ceasefire pledge",
+      "First multi-day bounce in 3 weeks (recovery attempt)",
+      "RSI ~59 — growing momentum, not overbought",
       "CLARITY Act improved long-term regulatory outlook",
-      "Strategic Bitcoin Reserve announcement expected before Jul 22",
-      "May monthly gain +2.63% (consolidation, not exhaustion)"
+      "Strategic Bitcoin Reserve architecture announcement expected soon",
+      "No FOMC meeting in next 24h — no rate shock risk"
     ],
     "bearish_signals": [
-      "BTC down 2.51% on the week",
-      "Crypto market cap down 5.57% over 7 days",
-      "Fear & Greed Index at 29 (Fear zone)",
-      "18 bearish vs 12 bullish technical indicators",
-      "BTC spot ETF net outflows ~$1.6B cumulative over 10 days",
-      "Trump Media withdrew BTC ETF filing (May 20) — institutional retreat",
-      "PCE Friday (May 22) — hot inflation = risk-off for crypto",
-      "Price ~$32K below year-ago levels ($109K peak) — macro downtrend intact"
+      "Fear & Greed Index at 27 (Fear zone, slightly worse than yesterday)",
+      "BTC down 2.51% on the week, -1.05% in 24h",
+      "Technical indicators: 9 sell vs 6 buy (short-term bearish)",
+      "Crypto ETF outflows $104.1M on May 20 2026",
+      "SEC delaying novel crypto ETF launches (May 21)",
+      "Trump Media withdrew BTC ETF filing — institutional retreat",
+      "US CPI 3.8% (May 12) — persistent inflation pressures risk assets",
+      "PCE release today 12:30 UTC — hot print = risk-off for crypto"
     ],
-    "macro_backdrop": "Fed held at 3.50-3.75% at April 29 meeting. Next FOMC: June 16-18 (no FOMC in next 24h). PCE (April 2026) releases May 22 ~12:30 UTC — primary near-term catalyst. Hot print likely bearish for BTC. CLARITY Act positive regulatory signal. No BTC ETF SEC decisions imminent. US-Iran tensions partially eased on ceasefire pledge."
+    "macro_backdrop": "Fed held at 3.50-3.75% at April 29 meeting (3rd consecutive hold, 8-4 vote). Next FOMC: June 16-18 (no FOMC in next 24h). PCE (April 2026) releases May 22 ~12:30 UTC — primary near-term catalyst. Hot print likely bearish for BTC. CLARITY Act (regulatory clarity bill) recently passed — positive long-term signal. No BTC ETF SEC decisions imminent. US-Iran tensions partially eased. Strategic Bitcoin Reserve: architecture announcement expected before July 22, 2026 deadline."
   }
 }
