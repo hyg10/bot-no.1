@@ -1,56 +1,59 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 77400,
+  "confidence": 0.60,
+  "btc_price_usd": 77447,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Geopolitical Tensions (ongoing)",
-      "time": "2026-05-22 12:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC Spot ETF Daily Flow Report (4th consecutive outflow day expected)",
+      "name": "BTC Spot ETF Daily Flow Report (sustained outflows expected)",
       "time": "2026-05-22 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "Strategic Bitcoin Reserve Architecture Announcement (Trump admin, pending)",
-      "time": "2026-05-22 18:00 UTC",
+      "name": "US-Iran Geopolitical Tensions (ongoing, energy-driven CPI risk)",
+      "time": "2026-05-22 12:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Strategic Bitcoin Reserve Architecture Announcement (Trump admin, pending within weeks)",
+      "time": "2026-05-23 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "April PCE + Q1 GDP (beyond 24h window but looming risk-off risk)",
+      "name": "April PCE + Q1 GDP Revision (looming risk-off catalyst)",
       "time": "2026-05-28 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "비트코인 $77K, 공포지수29, ETF유출4일, 매도압력 우세",
-  "updated": "2026-05-22 12:13:27 UTC",
-  "valid_until": "2026-05-22 16:13:27 UTC",
+  "notes": "BTC $77K, 공포지수34, 마크쿠반매도·ETF유출 지속",
+  "updated": "2026-05-22 13:30:00 UTC",
+  "valid_until": "2026-05-22 17:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,350-$77,482 (May 22 12:13 UTC). Down ~0.3-0.74% on the day. Fear & Greed Index at 29 (Fear). ETF outflows extended to 4th consecutive day. $584M long liquidation weighed on positioning.",
-    "regime_rationale": "BEARISH (0.65): Multiple converging negative signals. Fear & Greed at 29 (Fear territory). Spot ETF outflows for 4 consecutive days. $584M long liquidations earlier this week. US-Iran tensions driving risk-off. Hot CPI data weighing. Trump Media withdrew BTC ETF applications (negative signal). BTC unable to hold $78K resistance. Confidence 0.65 exceeds 0.5 threshold — bot will apply bearish directional filter.",
+    "btc_price_note": "BTC ~$77,447 (May 22 13:15 UTC, +$185 from yesterday). Fear & Greed Index 34 (Fear, improved from 29). Funding rates flipped negative -> neutral (easing short pressure). Crypto market cap $2.57T, -5.57% over past week. BTC weekly recovery from $76,300 low.",
+    "regime_rationale": "BEARISH (0.60): Macro headwinds dominate. Fear & Greed at 34 (still Fear territory). Hot April CPI 3.8% YoY keeps Fed at 3.5-3.75% (higher-for-longer). ETF outflows ongoing. US-Iran tensions driving risk-off. Confidence slightly reduced from 0.65 as funding rates normalized (negative -> neutral) and BTC stabilizing above $76,300. Confidence 0.60 exceeds 0.5 threshold -- bot will apply bearish directional filter.",
     "bullish_signals": [
-      "$76,000 structural support confirmed (May 18 low)",
-      "Relief rebound from short liquidations triggered by Trump Iran war pledge",
-      "Strategic Bitcoin Reserve architecture pending before July 22 deadline",
-      "Crypto market +0.65% rebound from short covering",
-      "BTC ETF AUM remains >$100B (long-term structural demand)"
+      "$76,300 structural support confirmed this week",
+      "Funding rates flipped from negative to neutral (short pressure easing)",
+      "Fear & Greed improved from 29 to 34 (stabilizing)",
+      "BTC +$185 from yesterday (slight recovery momentum)",
+      "Strategic Bitcoin Reserve architecture imminent (bullish long-term)",
+      "Moody's top rating for Fidelity/BlackRock tokenized funds (institutional validation)",
+      "CME Crypto Index Futures launching June 8 (new institutional access)",
+      "BTC ETF AUM remains >$100B (structural demand intact)"
     ],
     "bearish_signals": [
-      "Fear & Greed Index: 29 (Fear) — most negative reading in weeks",
-      "ETF outflows: 4 consecutive days (net selling by institutional investors)",
-      "$584M long liquidations this week — leveraged longs cleared",
-      "US-Iran tensions driving risk-off sentiment across all assets",
-      "Hot inflation data (CPI) keeping Fed on hold — no rate cut catalyst",
-      "Trump Media withdrew BTC + BTC/ETH ETF applications from SEC",
-      "BTC failed to reclaim $78K resistance — momentum is down",
-      "BTC -38.6% from ATH $126,080 — structurally in downtrend"
+      "Fear & Greed Index: 34 (Fear) -- sustained negative sentiment",
+      "Hot April CPI 3.8% YoY -- Fed on hold, no rate cut catalyst",
+      "ETF outflows: consecutive days of institutional net selling",
+      "Mark Cuban sold 80% of BTC holdings (high-profile capitulation signal)",
+      "US-Iran tensions driving broad risk-off across assets",
+      "BTC -38.6% from ATH $126,080 -- structurally in downtrend",
+      "Crypto market cap -5.57% week-over-week",
+      "$469B BTC quantum risk exposure report (Glassnode) adding FUD"
     ],
-    "macro_backdrop": "No FOMC in next 24h. FOMC met May 20 (held at 3.5-3.75%, 8-4 dissent — most divided since Oct 1992). Next FOMC: June 16-17. Next major data: PCE + Q1 GDP on May 28 (hot print = risk-off catalyst), NFP on June 5. No BTC ETF SEC decisions scheduled in next 24h. Light macro calendar for May 22 — market consolidating under bearish pressure."
+    "macro_backdrop": "No FOMC in next 24h. Last FOMC May 20 held at 3.5-3.75% with 8-4 dissent (most divided since Oct 1992). Next FOMC June 16-17. Next major data: PCE + Q1 GDP May 28 (hot print = risk-off), NFP June 5, CPI June 10. No BTC ETF SEC decisions scheduled next 24h. iShares Bitcoin Premium Income ETF S-1/A under ongoing SEC review. Light macro calendar May 22-23 -- market consolidating with bearish undertone."
   }
 }
