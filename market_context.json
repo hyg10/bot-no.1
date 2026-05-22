@@ -1,14 +1,8 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 77540,
+  "confidence": 0.4,
+  "btc_price_usd": 77300,
   "key_events_next_24h": [
-    {
-      "name": "Iran geopolitical risk monitoring (ongoing)",
-      "time": "2026-05-22 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
     {
       "name": "BTC Spot ETF Daily Flow Report",
       "time": "2026-05-22 20:00 UTC",
@@ -16,40 +10,36 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "PCE Price Index release (April 2026) — NOT today",
+      "name": "April PCE + Q1 GDP (upcoming, beyond 24h window)",
       "time": "2026-05-28 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $77.5K 반등 중, $76K 지지 확인. 혼조세, 주요 지표 없음",
-  "updated": "2026-05-22 04:05:58 UTC",
-  "valid_until": "2026-05-22 08:05:58 UTC",
+  "notes": "BTC 7.7만달러 횡보, 규제기대vs인플레 부담 중립",
+  "updated": "2026-05-22 08:05:33 UTC",
+  "valid_until": "2026-05-22 12:05:33 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,540 (May 22, 04:05 UTC). Bounced off $76,000 floor (held twice — May 18 Iran flush + retest). First multi-day bounce in 3 weeks. Up ~0.15-0.80% on the day. Funding rates flipped from negative to neutral. Market cap ~$1.55T. Crypto market total cap $2.57T, down 5.57% on the week with 69% correlation to Gold.",
-    "regime_rationale": "NEUTRAL (0.40): Mixed signals keep regime undecided. Bullish: $76K support confirmed twice, first multi-day bounce, funding rates neutralized (short covering), ETF total AUM >$100B, SpaceX holds 18,712 BTC profitably, Strategic Bitcoin Reserve architecture incoming (before July 22 deadline). Bearish: Still down 2.51% on the week, Iran geopolitical overhang, CPI 3.8% (persistent inflation keeps Fed on hold at 3.5-3.75%), PCE release May 28 is a looming catalyst, Trump Media withdrew ETF application, Fear & Greed recovering but fragile. Confidence 0.40 is below 0.5 threshold — bot will NOT apply hard directional filter this cycle.",
+    "btc_price_note": "BTC ~$77,000-$77,700 range (May 22 08:05 UTC). Down ~0.38% on the day. Previously hit ATH of $126,080; now -38.6% from peak. $76K support held twice (May 18 Iran-driven flush + retest). Funding rates flipped negative-to-neutral.",
+    "regime_rationale": "NEUTRAL (0.40): Mixed signals dominate. Bullish: $76K floor held twice, Digital Asset Market Clarity Act cleared Senate Banking Committee with bipartisan vote, ETF AUM >$100B, Strategic Bitcoin Reserve architecture pending (July 22 deadline). Bearish: -38.6% from ATH, May 18 saw $563M in liquidations, CPI +3.8% YoY (persistent inflation), Fed held at 3.5-3.75% with growing dissent (8-4 vote), PCE/GDP on May 28 is looming risk-off catalyst. Confidence 0.40 is below 0.5 threshold — bot will NOT apply hard directional filter this cycle.",
     "bullish_signals": [
-      "$76,000 floor held twice — strong structural support confirmed",
-      "First multi-day bounce in 3 weeks (May 18 Iran flush recovery)",
-      "Funding rates flipped from negative to neutral (short squeeze underway)",
-      "BTC ETF AUM >$100B (BlackRock IBIT + Fidelity FBTC dominant)",
-      "ETF net inflows $532M first week of May",
-      "SpaceX holds 18,712 BTC at 100%+ gain — institutional conviction",
+      "$76,000 structural support confirmed twice",
+      "Digital Asset Market Clarity Act cleared Senate Banking Committee (bipartisan)",
+      "Funding rates flipped negative-to-neutral (short covering)",
+      "BTC ETF AUM >$100B, net inflows $532M first week of May",
       "Strategic Bitcoin Reserve architecture announcement expected before July 22",
-      "No major macro catalyst today — gives price room to stabilize",
-      "Crypto market correlation with gold (69%) — inflation-hedge demand",
-      "Goldman Sachs filed new BTC Premium Income ETF in April — institutional expansion"
+      "New Fed chair Warsh (confirmed May 13) — crypto-friendly signals possible",
+      "Regulatory clarity as medium-term tailwind"
     ],
     "bearish_signals": [
-      "BTC still down 2.51% on the week, crypto market -5.57% weekly",
-      "Iran geopolitical risk persists despite partial easing",
-      "US CPI 3.8% YoY (April) — persistent inflation, Fed on hold",
-      "Fed held at 3.50-3.75% with growing dissent (8-4 vote in April)",
-      "PCE release May 28 looming — hot print = risk-off",
-      "Fear & Greed Index still recovering from recent lows (fragile)",
-      "Trump Media withdrew BTC ETF filing — one less institutional entrant",
-      "$78,000 resistance not yet broken — recovery thesis unconfirmed"
+      "BTC -38.6% from ATH $126,080; fragile recovery",
+      "$563M liquidations on May 18 — leveraged longs wiped",
+      "US CPI +3.8% YoY (April) — persistent inflation keeps Fed on hold",
+      "Fed held at 3.50-3.75% with 8-4 dissent (most divided since 1992)",
+      "PCE + GDP release May 28 — hot print = risk-off catalyst",
+      "Fear & Greed Index recovering from lows but still fragile",
+      "$78,000 overhead resistance not yet broken"
     ],
-    "macro_backdrop": "Fed held at 3.50-3.75% at April 29 meeting (3rd consecutive hold, unusual 8-4 dissent vote — most divided since 1992). Next FOMC: June 16-18 (no FOMC in next 24h). PCE (April 2026) releases May 28 — primary near-term macro catalyst (NOT today). CPI May release: June 10. No BTC ETF SEC decisions imminent. Powell successor Kevin Warsh confirmation process ongoing. Trump pledged quick end to Iran war — partially easing geopolitical fear. Strategic Bitcoin Reserve: architecture announcement before July 22, 2026 regulatory deadline (medium-term bullish). No major data releases scheduled for May 22."
+    "macro_backdrop": "No FOMC in next 24h. April FOMC minutes released May 20 (digested). Fed held at 3.5-3.75% for third consecutive meeting. Next FOMC: June 16-17 (Kevin Warsh's first as chair, confirmed May 13 in 54-45 Senate vote). Next major data: PCE + Q1 GDP on May 28, NFP on June 5. No BTC ETF SEC decisions scheduled in next 24h. Light macro calendar for May 22 — gives market room to consolidate."
   }
 }
