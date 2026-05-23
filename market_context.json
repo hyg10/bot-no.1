@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 75506,
+  "confidence": 0.60,
+  "btc_price_usd": 75600,
   "key_events_next_24h": [
     {
       "name": "BTC Spot ETF Daily Flow Report",
@@ -10,7 +10,7 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "Fed Officials Speeches (hawkish tone, rate hike odds 44%+)",
+      "name": "Fed Officials Speeches (hawkish, rate hike odds 44%+)",
       "time": "2026-05-24 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
@@ -22,31 +22,31 @@
       "expected_direction": "bearish"
     }
   ],
-  "notes": "SEC 혁신면제 지연·청산$170M·공포지수28, BTC $75.5K",
-  "updated": "2026-05-23 23:10:00 UTC",
-  "valid_until": "2026-05-24 03:10:00 UTC",
+  "notes": "BTC $75K 보합, 공포지수28·청산$170M·CPI 3.8% 매파 압박",
+  "updated": "2026-05-23 20:05:31 UTC",
+  "valid_until": "2026-05-24 00:05:31 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$75,506 (May 23 2026). 24h change: -2.78%. 7-day: -5.57%. Crypto market cap $2.57T (-5.57% weekly). Fear & Greed Index: 28 (Fear). RSI 7-day: 27.99 (oversold). Long liquidations: $170.36M in 24h. Key support: $74,958; next Fibonacci support ~$72K. Resistance: $77,800.",
-    "regime_rationale": "BEARISH (0.65): SEC delayed innovation exemption for tokenized stocks triggered ~$33.8B BTC market value sell-off + $170M liquidation cascade. Hot April CPI (3.8% YoY) sustains hawkish Fed posture; rate hike odds now 44%+. December hike probability >50% per CME FedWatch. RSI 27.99 is oversold (potential bounce to $77.8K-$79K range) but does not change bearish regime. Confidence 0.65 -- bot applies bearish directional filter.",
+    "btc_price_note": "BTC ~$75,600 (May 23 2026, range $74,812-$76,788 across exchanges). 24h change: -2.22% to -2.78%. 7-day: -5.57%. Crypto market cap $2.57T (-5.57% weekly). Fear & Greed Index: 28 (Fear). RSI 7-day: ~28 (oversold). Long liquidations: $170M+ in 24h. BTC -1.2% below 20-period EMA (12h). Key support: $74,958; Fibonacci ~$72K. Resistance: $77,800-$80,000.",
+    "regime_rationale": "BEARISH (0.60): SEC delayed innovation exemption for tokenized crypto stocks -> regulatory headwind + sell-off. Hot April CPI 3.8% YoY sustains hawkish Fed posture; rate hike odds now 44%+; Dec hike >50%, Jan 2027 58%. $170M long liquidation cascade. BTC failed to break $80K multiple weeks. Fear & Greed 28 signals fear-driven positioning. RSI oversold may cause short-term bounce to $77K-$79K but does not change bearish regime. No FOMC until June 16-17; light macro next 24h.",
     "bullish_signals": [
-      "SpaceX disclosed $1.29B BTC holdings in IPO filing (May 22) -- strong institutional credibility signal",
-      "Strategic Bitcoin Reserve Bill pushed by lawmakers (May 21) -- long-term demand catalyst",
-      "RSI 7-day 27.99: oversold, potential short-term bounce to $77.8K-$79K",
-      "Funding rates flipped from negative to neutral -- short pressure easing",
-      "~70.4 million Americans (30%) own crypto -- structural adoption",
+      "SpaceX disclosed $1.29B BTC holdings in IPO filing (May 22) -- institutional credibility",
+      "Strategic Bitcoin Reserve Bill pushed by US lawmakers (May 21) -- long-term demand catalyst",
+      "RSI 7-day ~28: oversold, potential short-term bounce $77.8K-$79K",
+      "Funding rates near neutral -- short pressure easing",
+      "~30% of Americans own crypto -- structural adoption",
       "$74,958 swing low holding as near-term support"
     ],
     "bearish_signals": [
-      "BTC -2.78% 24h, -5.57% 7-day; market cap -5.57% weekly",
-      "SEC delayed innovation exemption for crypto tokenized stocks -- regulatory headwind",
-      "$33.8B BTC market value erased by sell-off",
-      "$170.36M long liquidations in 24h -- amplified downward pressure",
-      "Hot April CPI 3.8% YoY + PPI +6.0% YoY -- no rate cut catalyst",
-      "Fed rate hike odds 44%+; Dec hike probability >50%; Jan hike 58%",
+      "BTC -2.22% to -2.78% 24h, -5.57% 7-day; market cap -5.57% weekly",
+      "SEC delayed crypto innovation exemption -- regulatory headwind",
+      "$170M+ long liquidations in 24h -- amplified downward pressure",
+      "Hot April CPI 3.8% YoY + no rate cut catalyst",
+      "Fed rate hike odds 44%+; Dec 2026 hike probability >50%",
       "Failure to break $80K for multiple weeks -- resistance confirmed",
-      "Fear & Greed Index 28 (Fear) -- cautious investor positioning",
+      "Fear & Greed Index 28 (Fear) -- cautious positioning",
+      "BTC -1.2% below 20-period EMA on 12h chart",
       "Next support if $74,958 breaks: ~$72K Fibonacci level"
     ],
-    "macro_backdrop": "No FOMC in next 24h (next meeting June 16-17, first under chair Kevin Warsh). Fed holding at 3.50-3.75%. No CPI/PPI today. April CPI 3.8% YoY (hot, released May 12) and PPI +6.0% YoY rule out near-term cuts. Rate hike probability rising: Dec 2026 >50%, Jan 2027 58%. Next major data: PCE + Q1 GDP revision May 28, NFP June 5, May CPI June 10. Light macro calendar next 24h -- market trading on existing SEC delay + inflation fears."
+    "macro_backdrop": "No FOMC in next 24h (next meeting June 16-17 under chair Kevin Warsh). Fed holding at 3.50-3.75%. April CPI 3.8% YoY (hot, released May 12) and PPI +6.0% YoY rule out near-term cuts. Rate hike probability rising. Light macro calendar May 23-24. Next major data: PCE + Q1 GDP revision May 28, NFP June 5, May CPI June 10."
   }
 }
