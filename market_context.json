@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
-  "btc_price_usd": 76500,
+  "confidence": 0.55,
+  "btc_price_usd": 75500,
   "key_events_next_24h": [
     {
       "name": "BTC Spot ETF Daily Flow Report",
@@ -16,43 +16,37 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "U.S.-Iran geopolitical tensions ongoing",
-      "time": "2026-05-23 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "April PCE + Q1 GDP Revision (next key macro risk)",
+      "name": "April PCE + Q1 GDP Revision (next key macro risk, May 28)",
       "time": "2026-05-28 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC 76K 횡보, ETF유출·인플레 압박으로 약세 지속",
-  "updated": "2026-05-23 14:30:00 UTC",
-  "valid_until": "2026-05-23 18:30:00 UTC",
+  "notes": "BTC 75K 하락세, 주간-4%, 마크큐반 매도, Fed 의장교체 관망",
+  "updated": "2026-05-23 18:50:00 UTC",
+  "valid_until": "2026-05-23 22:50:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$75,909-$77,447 range (May 23). 24h range: $75,680-$77,787 across exchanges. Volume $60.68B. Consolidating below $80K for multiple weeks. Fear & Greed recovering from lows but still fragile.",
-    "regime_rationale": "BEARISH (0.60): BTC stalling below $80K with sustained selling pressure. ETF outflows ongoing. Hot inflation (CPI 3.8% YoY, PPI 6.0% YoY) keeps Fed at 3.5-3.75% with no rate cut catalyst -- futures markets pricing out 2026 cuts entirely. Mark Cuban sold 80% of BTC (capitulation signal). U.S.-Iran geopolitical tensions. Crypto market cap -5.57% week-over-week. Negative funding rates signal broad caution. Confidence 0.60 -- bot applies bearish directional filter.",
+    "btc_price_note": "BTC ~$74,709-$76,800 range (May 23). 24h change: -3.30%. 7-day: -4.10%. Volume $32.4B. Consolidating below $80K for multiple weeks. Fear & Greed recovering from lows but still fragile.",
+    "regime_rationale": "BEARISH (0.55): BTC declining -3.30% in 24h and -4.10% over 7 days. Consolidating below $80K with sustained selling pressure. Hot inflation (CPI 3.8% YoY May 12) keeps Fed cautious. Mark Cuban sold 80% BTC (whale capitulation signal). Crypto market cap -5.57% weekly. Negative funding rates signal broad caution. Confidence 0.55 -- bot applies bearish directional filter. Slightly lower confidence than prior period due to bullish offsets (SBR, institutional adoption).",
     "bullish_signals": [
-      "$75,500 structural support level holding",
-      "Fear & Greed recovering from recent lows",
+      "$74,700 structural support level holding",
       "U.S. Strategic Bitcoin Reserve architecture imminent (bullish long-term)",
       "CME Nasdaq Crypto Index Futures launching June 8 (new institutional access)",
-      "Spot ETF AUM remains structurally intact despite outflows",
-      "Funding rates slightly negative -- no extreme short squeeze risk"
+      "Moody's top credit rating for tokenized money market funds (first formal endorsement of on-chain assets)",
+      "~70.4 million Americans (30%) now own crypto -- adoption growing",
+      "Spot ETF AUM remains structurally intact despite outflows"
     ],
     "bearish_signals": [
-      "BTC consolidating below $80K for multiple weeks",
-      "Mark Cuban sold 80% of BTC -- prominent capitulation signal",
-      "Crypto market cap -5.57% week-over-week",
-      "Hot April CPI 3.8% YoY, PPI 6.0% YoY -- no rate cut catalyst",
+      "BTC -3.30% 24h, -4.10% 7-day",
+      "BTC stalling below $80K for multiple weeks",
+      "Mark Cuban sold 80% of BTC -- prominent capitulation/macro-hedge failure signal",
+      "Crypto market cap -5.57% week-over-week; total market $2.57T",
+      "Hot April CPI 3.8% YoY -- no rate cut catalyst",
+      "Fed Chair transition (Powell term expired May 15) creates policy uncertainty",
       "ETF outflows ongoing (risk-off rotation)",
-      "U.S.-Iran geopolitical tensions pressuring risk assets",
-      "AI infrastructure competing for institutional risk-on capital",
-      "Fed 8-4 vote (April) -- unusual dissent signals policy uncertainty",
-      "Futures markets pricing out 2026 rate cuts; December hike probability >50%"
+      "Quantum computing risk: 30% BTC supply (~$469B) flagged as vulnerable (Glassnode)",
+      "Funding rates negative -- broad market caution"
     ],
-    "macro_backdrop": "No FOMC in next 24h. Last FOMC April 30 held rates at 3.5-3.75% (8-4 vote, highest dissent since 1992). Next FOMC June 16-17. No CPI/PPI release today. Next major data: PCE + Q1 GDP revision May 28 (hot print expected = risk-off for BTC), NFP June 5, May CPI June 10. No BTC ETF SEC binary decisions scheduled next 24h. Light macro calendar May 23 -- market drifting bearish below $80K with elevated fear."
+    "macro_backdrop": "No FOMC in next 24h. Fed Chair transition underway (Powell term expired May 15). Fed holding at ~3.5-3.75%. Next FOMC June 16-17. No CPI/PPI release today. Next major data: PCE + Q1 GDP revision May 28, NFP June 5, May CPI June 10. No BTC ETF SEC binary decisions scheduled next 24h. Light macro calendar May 23 -- market drifting bearish below $80K. New Fed Chair expected to seek 1-2 rate cuts to bring rates toward 3.0-3.25% range later in 2026."
   }
 }
