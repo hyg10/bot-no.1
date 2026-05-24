@@ -1,52 +1,49 @@
 {
-  "regime": "bearish",
-  "confidence": 0.60,
-  "btc_price_usd": 75600,
+  "regime": "neutral",
+  "confidence": 0.45,
+  "btc_price_usd": 76500,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report",
-      "time": "2026-05-23 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Fed Officials Speeches (hawkish, rate hike odds 44%+)",
+      "name": "Fed Officials Speeches (rate hike odds ~44%+, hawkish tone expected)",
       "time": "2026-05-24 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "April PCE + Q1 GDP Revision (next major macro risk)",
-      "time": "2026-05-28 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "US Strategic Bitcoin Reserve Bill (Congress, ongoing)",
+      "time": "2026-05-24 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "BTC Spot ETF Daily Flow Report",
+      "time": "2026-05-24 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $75K 보합, 공포지수28·청산$170M·CPI 3.8% 매파 압박",
-  "updated": "2026-05-23 20:05:31 UTC",
-  "valid_until": "2026-05-24 00:05:31 UTC",
+  "notes": "BTC $76.5K 소폭 반등, 주간 -5.6%로 방향성 불투명",
+  "updated": "2026-05-24 00:06:58 UTC",
+  "valid_until": "2026-05-24 04:06:58 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$75,600 (May 23 2026, range $74,812-$76,788 across exchanges). 24h change: -2.22% to -2.78%. 7-day: -5.57%. Crypto market cap $2.57T (-5.57% weekly). Fear & Greed Index: 28 (Fear). RSI 7-day: ~28 (oversold). Long liquidations: $170M+ in 24h. BTC -1.2% below 20-period EMA (12h). Key support: $74,958; Fibonacci ~$72K. Resistance: $77,800-$80,000.",
-    "regime_rationale": "BEARISH (0.60): SEC delayed innovation exemption for tokenized crypto stocks -> regulatory headwind + sell-off. Hot April CPI 3.8% YoY sustains hawkish Fed posture; rate hike odds now 44%+; Dec hike >50%, Jan 2027 58%. $170M long liquidation cascade. BTC failed to break $80K multiple weeks. Fear & Greed 28 signals fear-driven positioning. RSI oversold may cause short-term bounce to $77K-$79K but does not change bearish regime. No FOMC until June 16-17; light macro next 24h.",
+    "btc_price_note": "BTC ~$76,500 (May 24 2026, range $75,700-$76,800 across exchanges). 24h change: +1.14%. 7-day: -5.57%. Crypto market cap $1.53T (+1.14% 24h). Fear & Greed recovering from 28 (Fear) but still cautious. Funding rates flipped negative-to-neutral. Key resistance: $80,000. Key support: $74,958.",
+    "regime_rationale": "NEUTRAL (0.45): BTC recovered +1.14% today after weekly decline of -5.57%, reflecting genuine ambiguity. Bearish trend intact (below $80K, weekly sell-off) but near-term stabilization signals (funding rate neutral, daily recovery, institutional news). No FOMC/CPI/PPI in next 24h (light macro). Confidence <0.50 intentional: bot should not apply regime filter when signals are this mixed.",
     "bullish_signals": [
+      "BTC +1.14% today, recovering from $75,600 lows",
       "SpaceX disclosed $1.29B BTC holdings in IPO filing (May 22) -- institutional credibility",
       "Strategic Bitcoin Reserve Bill pushed by US lawmakers (May 21) -- long-term demand catalyst",
-      "RSI 7-day ~28: oversold, potential short-term bounce $77.8K-$79K",
-      "Funding rates near neutral -- short pressure easing",
-      "~30% of Americans own crypto -- structural adoption",
+      "Funding rates flipped from negative to neutral -- short pressure easing",
+      "Moody's top rating for Fidelity/BlackRock tokenized money market funds -- institutional on-chain validation",
       "$74,958 swing low holding as near-term support"
     ],
     "bearish_signals": [
-      "BTC -2.22% to -2.78% 24h, -5.57% 7-day; market cap -5.57% weekly",
-      "SEC delayed crypto innovation exemption -- regulatory headwind",
-      "$170M+ long liquidations in 24h -- amplified downward pressure",
-      "Hot April CPI 3.8% YoY + no rate cut catalyst",
+      "BTC -5.57% weekly; crypto market cap -5.57% weekly",
+      "CPI 3.8% YoY (April, released May 12) -- hawkish Fed, no rate cuts in sight",
       "Fed rate hike odds 44%+; Dec 2026 hike probability >50%",
       "Failure to break $80K for multiple weeks -- resistance confirmed",
-      "Fear & Greed Index 28 (Fear) -- cautious positioning",
-      "BTC -1.2% below 20-period EMA on 12h chart",
-      "Next support if $74,958 breaks: ~$72K Fibonacci level"
+      "Fear & Greed Index still in Fear territory (recovering from 28)",
+      "SEC delayed crypto innovation exemption -- regulatory headwind"
     ],
-    "macro_backdrop": "No FOMC in next 24h (next meeting June 16-17 under chair Kevin Warsh). Fed holding at 3.50-3.75%. April CPI 3.8% YoY (hot, released May 12) and PPI +6.0% YoY rule out near-term cuts. Rate hike probability rising. Light macro calendar May 23-24. Next major data: PCE + Q1 GDP revision May 28, NFP June 5, May CPI June 10."
+    "macro_backdrop": "No FOMC in next 24h (next meeting June 16-17 under chair Kevin Warsh). Fed holding at 3.50-3.75%. April CPI 3.8% YoY sustains hawkish posture. Light macro May 24. Next major data: PCE + Q1 GDP revision May 28, NFP June 5, May CPI June 10."
   }
 }
