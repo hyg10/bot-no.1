@@ -1,18 +1,12 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 76500,
+  "confidence": 0.45,
+  "btc_price_usd": 77100,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Peace Deal Developments (geopolitical risk easing)",
+      "name": "US-Iran Peace Memorandum Progress (geopolitical risk easing)",
       "time": "2026-05-24 12:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Goldman Sachs Bitcoin ETF SEC Review (ongoing)",
-      "time": "2026-05-24 18:00 UTC",
-      "impact": "low",
       "expected_direction": "bullish"
     },
     {
@@ -20,28 +14,34 @@
       "time": "2026-05-24 20:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Strategic Bitcoin Reserve Bill (US Congress, ongoing)",
+      "time": "2026-05-24 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $76.5K 회복; 이란협상 긍정, F&G 중립, 주간 -5.6%",
-  "updated": "2026-05-24 08:07:53 UTC",
-  "valid_until": "2026-05-24 12:07:53 UTC",
+  "notes": "BTC $77K 박스권 횡보, 지정학 완화+24h +3.3%. 주요 이벤트 없음.",
+  "updated": "2026-05-24 09:30:00 UTC",
+  "valid_until": "2026-05-24 13:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,500 (May 24 2026). 24h range: $74,344-$77,084. 24h change: +1.14%. 7-day: -5.57%. Crypto market cap $1.53T. Fear & Greed index neutral, fell 13pts from last week.",
-    "regime_rationale": "NEUTRAL (0.40): BTC recovered +1.14% today after weekly decline of -5.57%. Iran peace deal reduced geopolitical risk (May 23), institutional news positive (SpaceX $1.29B, Goldman ETF). But weekly trend bearish, Fear & Greed falling, resistance at $80K intact. No FOMC/CPI in next 24h. Confidence <0.50 = bot will not apply regime filter.",
+    "btc_price_note": "BTC ~$77,100 (May 24 2026). 24h change: +3.30% (CoinGecko). 7-day: ~-5%. Crypto market cap $1.55T. Fear & Greed index neutral, recovering from lows (-13pts last week).",
+    "regime_rationale": "NEUTRAL (0.45): BTC recovering +3.30% today after weekly decline. Iran peace deal reduced geopolitical risk (May 23), SpaceX $1.29B BTC disclosure, Strategic Reserve Bill pushed by lawmakers. No FOMC/CPI in next 24h (next FOMC June 16-17, CPI June 10). $80K resistance remains key. Confidence <0.50 = bot will not apply regime filter.",
     "bullish_signals": [
-      "BTC +1.14% today, recovering from $74,344 lows",
+      "BTC +3.30% today per CoinGecko -- recovering from recent lows",
       "Trump-Iran peace memo largely negotiated (May 23) -- geopolitical risk reduced",
-      "SpaceX disclosed $1.29B BTC holdings -- institutional credibility",
-      "Goldman Sachs filed Bitcoin ETF with SEC (April 15) -- institutional demand",
-      "Strategic Bitcoin Reserve Bill pushed by US lawmakers -- long-term demand catalyst",
-      "Funding rates shifted from negative to neutral -- short pressure easing"
+      "SpaceX disclosed $1.29B BTC holdings in IPO filing (May 22) -- institutional credibility",
+      "US lawmakers pushed Strategic Bitcoin Reserve Bill (May 21) -- long-term demand catalyst",
+      "Bitcoin ETFs (Bitwise, VanEck, iShares, CoinShares) actively filing 10-Qs -- market healthy",
+      "Funding rates recovering toward neutral -- short pressure easing"
     ],
     "bearish_signals": [
-      "BTC -5.57% weekly; crypto market cap down 5.57% weekly",
+      "BTC ~-5% weekly; consolidating $76K-$78K range for weeks",
       "Failure to break $80K for multiple weeks -- resistance confirmed",
-      "Fear & Greed Index fell 13 points to neutral territory",
-      "SEC delayed crypto innovation exemption indefinitely -- regulatory headwind",
-      "Fed holding at 3.50-3.75% with no imminent cut signal"
+      "Fear & Greed Index fell 13 points from prior week, still fragile",
+      "Fed holding at 3.50-3.75% with no imminent cut signal",
+      "Total market cap -0.9% over 24h earlier in the session -- mixed momentum"
     ],
     "macro_backdrop": "No FOMC in next 24h (next meeting June 16-17). Fed holding at 3.50-3.75%. Light macro calendar May 24-25. Next major data: PCE + Q1 GDP revision May 28, NFP June 5, May CPI June 10."
   }
