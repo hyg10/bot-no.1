@@ -1,24 +1,18 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "btc_price_usd": 76500,
   "key_events_next_24h": [
     {
-      "name": "Fed Officials Speeches (hawkish bias, rate hike odds ~44%+)",
-      "time": "2026-05-24 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Trump-Iran peace memo developments (geopolitical risk easing)",
-      "time": "2026-05-24 10:00 UTC",
+      "name": "US-Iran Peace Deal Developments (geopolitical risk easing)",
+      "time": "2026-05-24 12:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "US Strategic Bitcoin Reserve Bill (Congress, ongoing)",
+      "name": "Goldman Sachs Bitcoin ETF SEC Review (ongoing)",
       "time": "2026-05-24 18:00 UTC",
-      "impact": "medium",
+      "impact": "low",
       "expected_direction": "bullish"
     },
     {
@@ -28,28 +22,27 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $76.5K 보합세, 지정학완화+기관매수 vs $80K저항·주간-5.6%",
-  "updated": "2026-05-24 04:02:43 UTC",
-  "valid_until": "2026-05-24 08:02:43 UTC",
+  "notes": "BTC $76.5K 회복; 이란협상 긍정, F&G 중립, 주간 -5.6%",
+  "updated": "2026-05-24 08:07:53 UTC",
+  "valid_until": "2026-05-24 12:07:53 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,500 (May 24 2026). 24h range: $74,344-$77,084. 24h change: +1.14%. 7-day: -5.57%. Crypto market cap $1.53T. Fear & Greed recovering from lows. Funding rates flipped from negative to neutral. Key resistance: $80,000. Key support: $74,344.",
-    "regime_rationale": "NEUTRAL (0.45): BTC recovered +1.14% today after weekly decline of -5.57%, reflecting genuine ambiguity. Bearish trend intact (below $80K, weekly sell-off) but near-term stabilization signals (funding rate neutral, daily recovery, institutional news). No FOMC/CPI/PPI in next 24h (light macro). Confidence <0.50 intentional: bot should not apply regime filter when signals are this mixed.",
+    "btc_price_note": "BTC ~$76,500 (May 24 2026). 24h range: $74,344-$77,084. 24h change: +1.14%. 7-day: -5.57%. Crypto market cap $1.53T. Fear & Greed index neutral, fell 13pts from last week.",
+    "regime_rationale": "NEUTRAL (0.40): BTC recovered +1.14% today after weekly decline of -5.57%. Iran peace deal reduced geopolitical risk (May 23), institutional news positive (SpaceX $1.29B, Goldman ETF). But weekly trend bearish, Fear & Greed falling, resistance at $80K intact. No FOMC/CPI in next 24h. Confidence <0.50 = bot will not apply regime filter.",
     "bullish_signals": [
       "BTC +1.14% today, recovering from $74,344 lows",
-      "SpaceX disclosed $1.29B BTC holdings in IPO filing (May 22) -- institutional credibility",
-      "Strategic Bitcoin Reserve Bill pushed by US lawmakers (May 21) -- long-term demand catalyst",
       "Trump-Iran peace memo largely negotiated (May 23) -- geopolitical risk reduced",
-      "Funding rates flipped from negative to neutral -- short pressure easing",
-      "Altcoin season index rising to 45/100 -- risk-on rotation signal"
+      "SpaceX disclosed $1.29B BTC holdings -- institutional credibility",
+      "Goldman Sachs filed Bitcoin ETF with SEC (April 15) -- institutional demand",
+      "Strategic Bitcoin Reserve Bill pushed by US lawmakers -- long-term demand catalyst",
+      "Funding rates shifted from negative to neutral -- short pressure easing"
     ],
     "bearish_signals": [
-      "BTC -5.57% weekly; crypto market cap -5.57% weekly",
-      "CPI 3.8% YoY (April, released May 12) -- hawkish Fed, no rate cuts in sight",
-      "Fed rate hike odds 44%+; hawkish tone from officials",
+      "BTC -5.57% weekly; crypto market cap down 5.57% weekly",
       "Failure to break $80K for multiple weeks -- resistance confirmed",
-      "Fear & Greed Index still recovering from Fear territory",
-      "SEC delayed crypto innovation exemption indefinitely -- regulatory headwind"
+      "Fear & Greed Index fell 13 points to neutral territory",
+      "SEC delayed crypto innovation exemption indefinitely -- regulatory headwind",
+      "Fed holding at 3.50-3.75% with no imminent cut signal"
     ],
-    "macro_backdrop": "No FOMC in next 24h (next meeting June 16-17). Fed holding at 3.50-3.75%. April CPI 3.8% YoY sustains hawkish posture. Light macro May 24. Next major data: PCE + Q1 GDP revision May 28, NFP June 5, May CPI June 10."
+    "macro_backdrop": "No FOMC in next 24h (next meeting June 16-17). Fed holding at 3.50-3.75%. Light macro calendar May 24-25. Next major data: PCE + Q1 GDP revision May 28, NFP June 5, May CPI June 10."
   }
 }
