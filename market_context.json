@@ -1,48 +1,49 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "btc_price_usd": 77100,
+  "btc_price_usd": 76857,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Peace Memorandum Progress (geopolitical risk easing)",
-      "time": "2026-05-24 12:00 UTC",
+      "name": "Iran-US peace deal follow-up headlines (geopolitical risk easing)",
+      "time": "2026-05-24 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
+    },
+    {
+      "name": "Fed Chair Warsh (hawkish) - possible statements/interviews",
+      "time": "2026-05-24 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     },
     {
       "name": "BTC Spot ETF Daily Flow Report",
-      "time": "2026-05-24 20:00 UTC",
-      "impact": "medium",
+      "time": "2026-05-25 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "Strategic Bitcoin Reserve Bill (US Congress, ongoing)",
-      "time": "2026-05-24 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $77K 박스권 횡보, 지정학 완화+24h +3.3%. 주요 이벤트 없음.",
-  "updated": "2026-05-24 09:30:00 UTC",
-  "valid_until": "2026-05-24 13:30:00 UTC",
+  "notes": "이란 평화협상 반등, 주간 약세 속 중립 국면 유지",
+  "updated": "2026-05-24 16:04:27 UTC",
+  "valid_until": "2026-05-24 20:04:27 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,100 (May 24 2026). 24h change: +3.30% (CoinGecko). 7-day: ~-5%. Crypto market cap $1.55T. Fear & Greed index neutral, recovering from lows (-13pts last week).",
-    "regime_rationale": "NEUTRAL (0.45): BTC recovering +3.30% today after weekly decline. Iran peace deal reduced geopolitical risk (May 23), SpaceX $1.29B BTC disclosure, Strategic Reserve Bill pushed by lawmakers. No FOMC/CPI in next 24h (next FOMC June 16-17, CPI June 10). $80K resistance remains key. Confidence <0.50 = bot will not apply regime filter.",
+    "btc_price_note": "BTC ~$76,857 (May 24 2026, 16:04 UTC). 24h change: ~+2.1% (range $76,485-$76,912 across exchanges). 7-day: ~-5.57%. Crypto market cap $2.57T.",
+    "regime_rationale": "NEUTRAL (0.45): BTC recovering ~+2.1% on May 24 after weekly decline. Iran peace deal (May 23) provided relief bounce from below $75K. No FOMC/CPI in next 24h. Hawkish Fed Chair Warsh (took office May 22) introduces bearish macro bias. $80K resistance unbroken for weeks. Confidence <0.50 = bot will not apply regime filter.",
     "bullish_signals": [
-      "BTC +3.30% today per CoinGecko -- recovering from recent lows",
+      "BTC +2.1% today, bouncing from below $75K lows on May 23",
       "Trump-Iran peace memo largely negotiated (May 23) -- geopolitical risk reduced",
-      "SpaceX disclosed $1.29B BTC holdings in IPO filing (May 22) -- institutional credibility",
+      "SpaceX disclosed $1.29B BTC holdings in IPO filing -- institutional credibility",
       "US lawmakers pushed Strategic Bitcoin Reserve Bill (May 21) -- long-term demand catalyst",
-      "Bitcoin ETFs (Bitwise, VanEck, iShares, CoinShares) actively filing 10-Qs -- market healthy",
-      "Funding rates recovering toward neutral -- short pressure easing"
+      "Funding rates flipped from negative to neutral -- sustained short pressure easing",
+      "Three technical signals pointing to potential $85K target per CoinDesk analysis"
     ],
     "bearish_signals": [
-      "BTC ~-5% weekly; consolidating $76K-$78K range for weeks",
+      "BTC ~-5.57% weekly; weekly downtrend not reversed",
       "Failure to break $80K for multiple weeks -- resistance confirmed",
-      "Fear & Greed Index fell 13 points from prior week, still fragile",
-      "Fed holding at 3.50-3.75% with no imminent cut signal",
-      "Total market cap -0.9% over 24h earlier in the session -- mixed momentum"
+      "Fear & Greed Index fell 13 points from prior week to ~34 (fear territory)",
+      "New Fed Chair Warsh hawkish -- April CPI 3.8% YoY, PPI 6% YoY, rate hike pivot expected at June 17 FOMC",
+      "SEC delayed crypto innovation exemption -- regulatory uncertainty",
+      "Total market cap -0.9% over prior 24h session"
     ],
-    "macro_backdrop": "No FOMC in next 24h (next meeting June 16-17). Fed holding at 3.50-3.75%. Light macro calendar May 24-25. Next major data: PCE + Q1 GDP revision May 28, NFP June 5, May CPI June 10."
+    "macro_backdrop": "No FOMC in next 24h (next meeting June 16-17). Kevin Warsh took over as Fed Chair May 22, hawkish shift signaled. April CPI 3.8% YoY (hot), April NFP +115K (strong). Light macro calendar May 24-25. Next major data: PCE + Q1 GDP revision May 28, NFP June 5, May CPI June 10."
   }
 }
