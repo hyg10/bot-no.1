@@ -1,10 +1,16 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
-  "btc_price_usd": 77300,
+  "confidence": 0.45,
+  "btc_price_usd": 77400,
   "key_events_next_24h": [
     {
-      "name": "US markets reopen after Memorial Day (May 25 holiday) — volume pickup expected",
+      "name": "US Memorial Day — Traditional markets closed, thin crypto liquidity",
+      "time": "2026-05-25 13:30:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US markets reopen after Memorial Day — volume pickup expected",
       "time": "2026-05-26 13:30:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
@@ -16,41 +22,35 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "US Strategic Bitcoin Reserve Bill — Congress announcement watch (ongoing)",
-      "time": "2026-05-26 00:00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Nasdaq BTC Index Options (QBTC) SEC Conditional Approval — market digestion",
+      "name": "Nasdaq BTC Index Options (QBTC) — SEC-approved May 22, market digestion ongoing",
       "time": "2026-05-26 08:00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $77K 박스권, 나스닥 옵션 승인·SpaceX 보유 공시 긍정적",
-  "updated": "2026-05-25 14:00:00 UTC",
-  "valid_until": "2026-05-25 18:00:00 UTC",
+  "notes": "BTC $77,400 주간-2.7%, 나스닥옵션·SpaceX보유 긍정, 박스권 중립",
+  "updated": "2026-05-25 13:45:00 UTC",
+  "valid_until": "2026-05-25 17:45:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,277-$77,507 across exchanges (May 25 2026, 14:00 UTC). 24h change: ~+1.17%. 24h range: $75,000-$77,634. 7-day: ~-5.57%. Recovering from dip below $75K earlier this week.",
-    "regime_rationale": "NEUTRAL (0.55): Conflicting signals. Bearish: weekly -5.57%, BTC held below $78K-$80K resistance, Memorial Day thin liquidity (US closed May 25). Bullish: SpaceX $1.29B BTC disclosure, US Strategic Reserve Bill advancing, Nasdaq QBTC options SEC-approved, Trump-Iran peace deal reducing geopolitical risk (May 23 bounce), +1.17% today, 3-month uptrend intact ($63K→$77K). No major macro catalysts (no FOMC, no CPI/PPI) in next 24h.",
+    "btc_price_note": "BTC ~$77,200-$77,634 across exchanges (May 25 2026, 13:45 UTC). 24h change: ~+1.17%. Dipped to $74,344 over weekend, now recovering. Weekly: -2.7%. Total crypto market cap $2.57T, down 5.57% weekly.",
+    "regime_rationale": "NEUTRAL (0.45): Conflicting signals. BTC recovering from weekend dip below $75K. Positive: SpaceX $1.29B BTC disclosure, Nasdaq QBTC options SEC-approved May 22, Trump-Iran peace memo reducing geopolitical risk, today +1.17% intraday. Bearish: weekly -2.7%, failed to hold above $78K, Memorial Day thin liquidity, Fed on hold at 3.50-3.75% until June 16-17 at earliest. No major macro catalysts in next 24h.",
     "bullish_signals": [
       "SpaceX disclosed $1.29B BTC holdings in IPO filing — major institutional credibility",
-      "US Strategic Bitcoin Reserve Bill — Congress advancing",
-      "Nasdaq BTC Index Options (QBTC) received SEC conditional approval (May 25)",
+      "Nasdaq BTC Index Options (QBTC) SEC approval May 22 — Wall Street integration signal",
+      "Goldman Sachs and Morgan Stanley both filed for new Bitcoin ETF products in 2026",
       "Trump-Iran peace memo 'largely negotiated' (May 23) — geopolitical risk reduced",
-      "BTC +1.17% in 24h — positive intraday momentum",
-      "BTC up ~$14K from $63K to ~$77K over past 3 months — macro uptrend intact",
-      "Broader crypto market consolidating (+2.63% May) rather than declining — accumulation phase",
-      "Moody's top credit rating for Fidelity/BlackRock tokenized money market funds — institutional validation"
+      "BTC +1.17% intraday — recovering from weekend lows",
+      "Bitcoin Fear & Greed Index recovering from recent lows",
+      "Funding rates flipped from negative to neutral — easing short pressure"
     ],
     "bearish_signals": [
-      "BTC -5.57% weekly — short-term downtrend pressure",
-      "Failure to break $78K-$80K resistance for multiple weeks — confirmed ceiling",
+      "BTC -2.7% weekly — short-term downtrend pressure",
+      "BTC dipped below $75K over the weekend — key support breach and recovery still fragile",
+      "Failure to hold $78K+ resistance for multiple weeks",
       "US Memorial Day (May 25): holiday-reduced liquidity, elevated volatility risk",
-      "Fed held 3.50-3.75% (April 29 FOMC); no rate cut catalyst until June 16-17",
-      "Dollar strength and tighter liquidity conditions persist"
+      "Fed held 3.50-3.75% at April 29 FOMC; no rate cut catalyst until June 16-17 at earliest",
+      "Total crypto market cap down 5.57% weekly"
     ],
-    "macro_backdrop": "No FOMC in next 24h (last: April 29, held 3.50-3.75%; next: June 16-17). No CPI/PPI releases (May CPI: June 10; May PPI: June 11). No NFP (next: June 5). Conference Board Consumer Confidence releases May 26 14:00 UTC. US markets closed May 25 (Memorial Day), reopen fully May 26 — expect volume pickup and possible directional move."
+    "macro_backdrop": "No FOMC in next 24h (last: April 29, held 3.50-3.75%; next: June 16-17). No CPI/PPI releases (May CPI: ~June 10; May PPI: ~June 11). No NFP (next: June 5). Conference Board Consumer Confidence releases May 26 14:00 UTC — moderate market mover. US markets closed May 25 (Memorial Day), reopen fully May 26 — expect volume pickup and possible directional move."
   }
 }
