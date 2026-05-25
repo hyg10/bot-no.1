@@ -1,50 +1,50 @@
 {
-  "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 76700,
+  "regime": "bearish",
+  "confidence": 0.55,
+  "btc_price_usd": 77000,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report",
-      "time": "2026-05-25 14:00 UTC",
+      "name": "US Memorial Day - NYSE/NASDAQ Closed (Low Crypto Liquidity)",
+      "time": "2026-05-25 13:30:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "SEC Crypto Innovation Exemption (indefinitely delayed - monitoring)",
-      "time": "2026-05-25 18:00 UTC",
-      "impact": "low",
       "expected_direction": "bearish"
     },
     {
-      "name": "No FOMC scheduled (Fed held 3.50-3.75% in Mar 2026; next Jun/Jul)",
-      "time": "N/A",
-      "impact": "low",
+      "name": "Conference Board Consumer Confidence (May) - US markets reopen",
+      "time": "2026-05-26 14:00:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "US Strategic Bitcoin Reserve Bill Announcement (within weeks - ongoing)",
+      "time": "2026-05-26 00:00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "지정학적 긴장 완화 후 BTC $76K대 횡보, 방향성 불명확",
-  "updated": "2026-05-25 00:10:00 UTC",
-  "valid_until": "2026-05-25 04:10:00 UTC",
+  "notes": "공포지수 25(공포), ETF 12.6억달러 순유출, 기술지표 매도우세",
+  "updated": "2026-05-25 04:05:22 UTC",
+  "valid_until": "2026-05-25 08:05:22 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,135-$77,014 across exchanges (May 25 2026, 00:10 UTC). 24h change: flat to -1%. 7-day: ~-5.57%. Crypto market cap $2.57T.",
-    "regime_rationale": "NEUTRAL (0.40): BTC rebounded from $75K low (May 23) to ~$76.7K but remains stuck below $80K. RSI ~45-46 (neutral zone). Fear & Greed recovering from lows but fragile. Iran peace deal (May 23) eased geopolitical pressure. No major macro catalysts in next 24h. Confidence <0.50 = bot will not apply regime filter.",
+    "btc_price_note": "BTC ~$76,135-$77,043 across exchanges (May 25 2026, 04:05 UTC). 24h change: ~+0.39%. 7-day: ~-5.57%. Crypto market cap $2.57T. Perpetual market shows $80,914 on some feeds (likely stale/different timeframe).",
+    "regime_rationale": "BEARISH (0.55): Fear & Greed Index at 25 (Fear). Technical indicators: 9 sell vs 4 buy. RSI 46.35 (neutral but trending down). BTC ETF outflows $1.26B last week - worst since January. BlackRock IBIT holds $61.1B but net outflows continue. Crypto market -5.57% weekly. BTC stuck below $78,152 resistance for multiple weeks. Memorial Day US holiday today further reduces institutional liquidity. Confidence = 0.55 -> bot regime filter ACTIVE: SHORT favored, LONG entries filtered.",
     "bullish_signals": [
-      "BTC rebounded sharply from $75K after Trump/Iran peace deal (May 23)",
       "SpaceX disclosed $1.29B BTC holdings in IPO filing -- major institutional credibility",
-      "US Strategic Bitcoin Reserve Bill pushed by lawmakers -- long-term demand catalyst",
-      "BTC ETF $700M institutional inflows recorded in May 2026",
-      "Goldman Sachs + Morgan Stanley filed for Bitcoin ETFs -- major TradFi adoption signal",
-      "SEC accelerated crypto ETP listing process -- regulatory tailwind"
+      "US Strategic Bitcoin Reserve Bill - Congress pushing hard, announcement 'within weeks'",
+      "Goldman Sachs filed Bitcoin Premium Income ETF with SEC (April 2026)",
+      "SEC approved accelerated crypto ETP listing process (75-day vs 240-day) -- regulatory tailwind",
+      "BTC up ~$14K from $63K to ~$77K over past 3 months -- macro uptrend intact",
+      "May 2026 modest +2.63% gain -- consolidation not exhaustion signal"
     ],
     "bearish_signals": [
-      "BTC -5.57% weekly -- weekly downtrend not yet reversed",
-      "Fear & Greed Index recovering but still below neutral",
-      "RSI ~45-46: neutral but trending downward",
-      "Failure to break $80K for multiple weeks -- resistance confirmed",
-      "Fed held rates at 3.5-3.75% with hawkish members (7 of 12 projected zero 2026 cuts)",
-      "SEC innovation exemption indefinitely delayed -- regulatory headwind for altcoins",
-      "Institutional capital partially rotating to AI infrastructure from crypto"
+      "Fear & Greed Index: 25 (Fear) -- market participants in risk-off mode",
+      "BTC ETF net outflows $1.26B last week -- institutional selling pressure",
+      "Technical indicators: 9 sell vs 4 buy on multiple oscillators",
+      "BTC -5.57% weekly -- short-term downtrend active",
+      "Failure to break $78,152-$80K resistance for weeks -- confirmed ceiling",
+      "US Memorial Day (May 25): low volume session, susceptible to sharp moves",
+      "Fed held rates 3.50-3.75% (April 29 FOMC); 7 of 12 members projected zero 2026 cuts"
     ],
-    "macro_backdrop": "No FOMC in next 24h (last decision March, held at 3.5-3.75%). Fed Chair transition ongoing (Powell term expired May 15). New chair may seek 1-2 cuts toward 3-3.25% range. Last CPI May 12: 3.8% inflation. Unemployment 4.3% (May 8). Next major data: PCE + Q1 GDP revision ~May 28, NFP June 5, May CPI June 10, FOMC June 16-17."
+    "macro_backdrop": "No FOMC in next 24h (last: April 29, held 3.50-3.75%). No CPI/PPI (May CPI: June 10; May PPI: June 11). No employment data (May jobs: May 8 already released). Next FOMC: June 2026. Memorial Day US holiday today (May 25) -- 41 events scheduled for May 26 as markets reopen. Fed Chair transition ongoing. Next major macro: PCE + Q1 GDP revision ~May 28, NFP June 5."
   }
 }
