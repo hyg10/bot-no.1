@@ -1,50 +1,50 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 77000,
+  "confidence": 0.50,
+  "btc_price_usd": 77014,
   "key_events_next_24h": [
     {
-      "name": "US Memorial Day - NYSE/NASDAQ Closed (Low Crypto Liquidity)",
-      "time": "2026-05-25 13:30:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Conference Board Consumer Confidence (May) - US markets reopen",
+      "name": "Conference Board Consumer Confidence (May) - US markets reopen after Memorial Day",
       "time": "2026-05-26 14:00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "US Strategic Bitcoin Reserve Bill Announcement (within weeks - ongoing)",
+      "name": "US Strategic Bitcoin Reserve Bill - Congress announcement watch (ongoing)",
       "time": "2026-05-26 00:00:00 UTC",
       "impact": "high",
       "expected_direction": "bullish"
+    },
+    {
+      "name": "SpaceX IPO BTC Holdings ($1.29B) - market digestion continues",
+      "time": "2026-05-26 08:00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "공포지수 25(공포), ETF 12.6억달러 순유출, 기술지표 매도우세",
-  "updated": "2026-05-25 04:05:22 UTC",
-  "valid_until": "2026-05-25 08:05:22 UTC",
+  "notes": "공포지수 25, ETF 순유출 지속, $80K 저항선 미돌파, 단기 횡보",
+  "updated": "2026-05-25 08:05:00 UTC",
+  "valid_until": "2026-05-25 12:05:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,135-$77,043 across exchanges (May 25 2026, 04:05 UTC). 24h change: ~+0.39%. 7-day: ~-5.57%. Crypto market cap $2.57T. Perpetual market shows $80,914 on some feeds (likely stale/different timeframe).",
-    "regime_rationale": "BEARISH (0.55): Fear & Greed Index at 25 (Fear). Technical indicators: 9 sell vs 4 buy. RSI 46.35 (neutral but trending down). BTC ETF outflows $1.26B last week - worst since January. BlackRock IBIT holds $61.1B but net outflows continue. Crypto market -5.57% weekly. BTC stuck below $78,152 resistance for multiple weeks. Memorial Day US holiday today further reduces institutional liquidity. Confidence = 0.55 -> bot regime filter ACTIVE: SHORT favored, LONG entries filtered.",
+    "btc_price_note": "BTC ~$76,135-$77,315 across exchanges (May 25 2026, 08:05 UTC). 24h change: ~+0.38%. 24h range: $76,053-$77,216. 7-day: ~-5.57%. Fear & Greed Index: 25 (Fear).",
+    "regime_rationale": "BEARISH (0.50): Fear & Greed Index 25 (Fear). BTC ETF net outflows $1.26B last week. Technical indicators: 9 sell vs 4 buy. RSI ~46 (neutral, trending down). BTC stuck below $78K-$80K resistance. Weekly -5.57% confirms short-term downtrend. Memorial Day US holiday liquidity gap (May 25) easing as markets reopen May 26. Slight downgrade from 0.55 due to +0.38% 24h uptick and Iran peace deal geopolitical risk reduction. Confidence at 0.50 threshold — bot regime filter ACTIVE.",
     "bullish_signals": [
-      "SpaceX disclosed $1.29B BTC holdings in IPO filing -- major institutional credibility",
-      "US Strategic Bitcoin Reserve Bill - Congress pushing hard, announcement 'within weeks'",
-      "Goldman Sachs filed Bitcoin Premium Income ETF with SEC (April 2026)",
-      "SEC approved accelerated crypto ETP listing process (75-day vs 240-day) -- regulatory tailwind",
-      "BTC up ~$14K from $63K to ~$77K over past 3 months -- macro uptrend intact",
-      "May 2026 modest +2.63% gain -- consolidation not exhaustion signal"
+      "US-Iran peace deal largely negotiated (announced May 23) — geopolitical risk reduced",
+      "SpaceX disclosed $1.29B BTC holdings in IPO filing (May 22) — major institutional credibility",
+      "US Strategic Bitcoin Reserve Bill — Congress pushing, announcement expected within weeks",
+      "BTC +0.38% in 24h — marginal positive momentum",
+      "Moody's top credit rating for tokenized Fidelity/BlackRock funds — regulatory tailwind",
+      "BTC up ~$14K from $63K to ~$77K over past 3 months — macro uptrend intact"
     ],
     "bearish_signals": [
-      "Fear & Greed Index: 25 (Fear) -- market participants in risk-off mode",
-      "BTC ETF net outflows $1.26B last week -- institutional selling pressure",
-      "Technical indicators: 9 sell vs 4 buy on multiple oscillators",
-      "BTC -5.57% weekly -- short-term downtrend active",
-      "Failure to break $78,152-$80K resistance for weeks -- confirmed ceiling",
-      "US Memorial Day (May 25): low volume session, susceptible to sharp moves",
-      "Fed held rates 3.50-3.75% (April 29 FOMC); 7 of 12 members projected zero 2026 cuts"
+      "Fear & Greed Index: 25 (Fear) — market in risk-off mode",
+      "BTC ETF net outflows $1.26B last week — sustained institutional selling",
+      "Technical indicators: 9 sell vs 4 buy on oscillators",
+      "BTC -5.57% weekly — short-term downtrend active",
+      "Failure to break $78K-$80K resistance for multiple weeks — confirmed ceiling",
+      "US Memorial Day (May 25): holiday-reduced liquidity, volatile price action risk",
+      "Fed held 3.50-3.75% (April 29 FOMC); 7/12 members projected zero 2026 cuts — no rate cut catalyst"
     ],
-    "macro_backdrop": "No FOMC in next 24h (last: April 29, held 3.50-3.75%). No CPI/PPI (May CPI: June 10; May PPI: June 11). No employment data (May jobs: May 8 already released). Next FOMC: June 2026. Memorial Day US holiday today (May 25) -- 41 events scheduled for May 26 as markets reopen. Fed Chair transition ongoing. Next major macro: PCE + Q1 GDP revision ~May 28, NFP June 5."
+    "macro_backdrop": "No FOMC in next 24h (last: April 29, held 3.50-3.75%). No CPI/PPI releases (May CPI: June 10; May PPI: June 11). No NFP (next: June 5). Conference Board Consumer Confidence May 26. PCE + Q1 GDP revision ~May 28. Next FOMC: June 2026. US markets reopen fully May 26 after Memorial Day — expect volume pickup."
   }
 }
