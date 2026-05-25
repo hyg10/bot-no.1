@@ -1,52 +1,50 @@
 {
   "regime": "neutral",
   "confidence": 0.40,
-  "btc_price_usd": 76857,
+  "btc_price_usd": 76700,
   "key_events_next_24h": [
     {
-      "name": "Trump/Iran Peace Deal - ongoing market digestion (announced May 23)",
-      "time": "2026-05-24 12:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "SEC Bitcoin ETF 85-item NYSE Arca rule review - comment period open",
-      "time": "2026-05-24 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
       "name": "BTC Spot ETF Daily Flow Report",
-      "time": "2026-05-25 00:00 UTC",
+      "time": "2026-05-25 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "SEC Crypto Innovation Exemption (indefinitely delayed - monitoring)",
+      "time": "2026-05-25 18:00 UTC",
+      "impact": "low",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "No FOMC scheduled (Fed held 3.50-3.75% in Mar 2026; next Jun/Jul)",
+      "time": "N/A",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $77K 횡보. 공포지수 25, 기관 매수세. 단기 중립",
-  "updated": "2026-05-24 09:30:00 UTC",
-  "valid_until": "2026-05-24 13:30:00 UTC",
+  "notes": "지정학적 긴장 완화 후 BTC $76K대 횡보, 방향성 불명확",
+  "updated": "2026-05-25 00:10:00 UTC",
+  "valid_until": "2026-05-25 04:10:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,857-$77,014 (May 24 2026, 09:30 UTC). 24h change: ~+2.6-2.76%. 7-day: ~-5.57%. Crypto market cap $2.57T.",
-    "regime_rationale": "NEUTRAL (0.40): BTC recovering +2.6% on May 24 after weekly decline. Fear & Greed Index at 25 (fear). Short-term technical: bearish. Positive institutional news counterbalances caution. No FOMC/CPI in next 24h. Confidence <0.50 = bot will not apply regime filter.",
+    "btc_price_note": "BTC ~$76,135-$77,014 across exchanges (May 25 2026, 00:10 UTC). 24h change: flat to -1%. 7-day: ~-5.57%. Crypto market cap $2.57T.",
+    "regime_rationale": "NEUTRAL (0.40): BTC rebounded from $75K low (May 23) to ~$76.7K but remains stuck below $80K. RSI ~45-46 (neutral zone). Fear & Greed recovering from lows but fragile. Iran peace deal (May 23) eased geopolitical pressure. No major macro catalysts in next 24h. Confidence <0.50 = bot will not apply regime filter.",
     "bullish_signals": [
-      "BTC +2.6% today (24h), bouncing from weekly lows",
-      "SpaceX disclosed $1.29B BTC holdings in IPO filing (May 22) -- major institutional credibility",
-      "US Strategic Bitcoin Reserve Bill pushed by lawmakers (May 21) -- long-term demand catalyst",
-      "Trump-Iran peace deal (May 23) reduced geopolitical risk, provided relief bounce",
+      "BTC rebounded sharply from $75K after Trump/Iran peace deal (May 23)",
+      "SpaceX disclosed $1.29B BTC holdings in IPO filing -- major institutional credibility",
+      "US Strategic Bitcoin Reserve Bill pushed by lawmakers -- long-term demand catalyst",
+      "BTC ETF $700M institutional inflows recorded in May 2026",
       "Goldman Sachs + Morgan Stanley filed for Bitcoin ETFs -- major TradFi adoption signal",
-      "Funding rates flipped from negative to neutral -- sustained short pressure easing",
-      "SEC accelerated crypto ETP listing process (75-day vs 240-day) -- regulatory tailwind",
-      "Price targets from analysts: $80K-$85K by end of May"
+      "SEC accelerated crypto ETP listing process -- regulatory tailwind"
     ],
     "bearish_signals": [
-      "BTC -5.57% weekly -- weekly downtrend not reversed",
-      "Fear & Greed Index at 25 (Fear) -- down 13pts from prior week",
-      "Short-term technical indicators: bearish consensus (23 indicators)",
+      "BTC -5.57% weekly -- weekly downtrend not yet reversed",
+      "Fear & Greed Index recovering but still below neutral",
+      "RSI ~45-46: neutral but trending downward",
       "Failure to break $80K for multiple weeks -- resistance confirmed",
-      "Fed held rates at 3.5-3.75% (hawkish tilt from Warsh)",
-      "Oil prices rising, inflation picking up from energy shock",
-      "Total market cap -5.57% over past week"
+      "Fed held rates at 3.5-3.75% with hawkish members (7 of 12 projected zero 2026 cuts)",
+      "SEC innovation exemption indefinitely delayed -- regulatory headwind for altcoins",
+      "Institutional capital partially rotating to AI infrastructure from crypto"
     ],
-    "macro_backdrop": "No FOMC in next 24h (last decision April, held at 3.5-3.75%, 8-4 vote -- unusual dissent). Markets expect no rate changes in 2026. Middle East geopolitical risk easing on Trump/Iran deal. Next major data: PCE + Q1 GDP revision May 28, NFP June 5, May CPI June 10, FOMC June 16-17. SEC ETF decision deadline June 17."
+    "macro_backdrop": "No FOMC in next 24h (last decision March, held at 3.5-3.75%). Fed Chair transition ongoing (Powell term expired May 15). New chair may seek 1-2 cuts toward 3-3.25% range. Last CPI May 12: 3.8% inflation. Unemployment 4.3% (May 8). Next major data: PCE + Q1 GDP revision ~May 28, NFP June 5, May CPI June 10, FOMC June 16-17."
   }
 }
