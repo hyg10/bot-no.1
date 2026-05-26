@@ -1,14 +1,8 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 77400,
+  "confidence": 0.50,
+  "btc_price_usd": 77000,
   "key_events_next_24h": [
-    {
-      "name": "US markets reopen after Memorial Day — volume pickup expected",
-      "time": "2026-05-26 13:30:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
     {
       "name": "Conference Board Consumer Confidence (May) release",
       "time": "2026-05-26 14:00:00 UTC",
@@ -22,35 +16,34 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "Geopolitical watch: US-Iran peace memo ongoing (Trump May 23)",
+      "name": "Geopolitical watch: US-Iran peace memo (Trump May 23) — ongoing easing",
       "time": "2026-05-26 12:00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $77,400 주간-2.7%, 미장재개 거래량증가 기대, $80k 저항 유효 중립",
-  "updated": "2026-05-26 00:03:14 UTC",
-  "valid_until": "2026-05-26 04:03:14 UTC",
+  "notes": "BTC $77K 회복, F&G 46 중립, 나스닥 BTC옵션 승인, 24h 이벤트 경미",
+  "updated": "2026-05-26 04:06:59 UTC",
+  "valid_until": "2026-05-26 08:06:59 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$77,277-$77,600 (May 26 2026, 00:03 UTC). 24h change: ~+0.94%. Dipped to $74,344 over weekend, now recovering. Weekly: -2.7%. $917M futures liquidations in 24h window around weekend dip.",
-    "regime_rationale": "NEUTRAL (0.45): Mixed signals. BTC recovering from weekend dip below $75K. Positive: SpaceX $1.29B BTC IPO disclosure, Nasdaq QBTC options SEC-approved May 22, Trump-Iran peace memo reducing geopolitical risk, intraday +0.94%. Bearish: weekly -2.7%, failed to hold $78K, $917M liquidations still fresh. US markets reopen May 26 after Memorial Day — volume pickup expected but direction uncertain. No major macro catalysts in next 24h except Consumer Confidence.",
+    "btc_price_note": "BTC ~$76,681–$77,507 (May 26 2026, 04:07 UTC). Recovered from weekend low $74,344. Monthly: +17.3%. Fear & Greed Index: 46 (Neutral), up from 26 (Extreme Fear) one week ago.",
+    "regime_rationale": "NEUTRAL (0.50): Recovery narrative is in play but price still ~6% below May 6 peak of $82,400. F&G at 46 confirms neutral zone. Positive: SpaceX $1.29B BTC IPO disclosure, Nasdaq QBTC options SEC-approved, Trump-Iran peace memo reducing geopolitical risk, 5 consecutive weeks of positive spot BTC ETF inflows ($977M+), institutional whale count at 2026 peak (1,282 entities). Bearish: below $78K resistance, failed to reclaim highs. No major macro catalysts in next 24h except Consumer Confidence (moderate mover).",
     "bullish_signals": [
-      "SpaceX disclosed $1.29B BTC holdings in IPO filing — major institutional credibility",
-      "Nasdaq BTC Index Options (QBTC) SEC approval May 22 — Wall Street integration signal",
+      "SpaceX disclosed $1.29B BTC holdings in IPO filing",
+      "Nasdaq BTC Index Options (QBTC) SEC approval May 22",
       "Trump-Iran peace memo 'largely negotiated' (May 23) — geopolitical risk reduced",
-      "BTC +0.94% intraday — recovering from weekend lows",
-      "Bitcoin Fear & Greed Index recovering from recent lows",
-      "Funding rates neutral from negative — easing short pressure",
-      "Digital asset inflows $857.9M in one week (CoinShares)"
+      "5 consecutive weeks net-positive spot BTC ETF inflows totaling $977M+",
+      "Fear & Greed Index: 46 (Neutral), recovered sharply from 26 (Extreme Fear)",
+      "Funding rates neutral/slightly positive — shorts covered, downward pressure easing",
+      "Bitcoin treasury codification bill in US Congress",
+      "1,282 entities holding 1,000+ BTC — at 2026 yearly peak"
     ],
     "bearish_signals": [
-      "BTC -2.7% weekly — short-term downtrend pressure",
+      "BTC ~6% below May 6 peak of $82,400 — recovery incomplete",
       "BTC dipped below $75K over the weekend — support breach, recovery still fragile",
-      "Failure to hold $78K+ resistance for multiple weeks",
-      "$917M in futures liquidations over 24h — elevated volatility risk",
-      "Fed held 3.50-3.75% at April 29 FOMC; no rate cut catalyst until June 16-17 at earliest",
-      "SEC delayed tokenized stock innovation exemption indefinitely — regulatory uncertainty"
+      "Failed to hold $78K+ resistance",
+      "Fed held 3.50-3.75% at April 29 FOMC; no rate cut catalyst until June 16-17"
     ],
-    "macro_backdrop": "No FOMC in next 24h (last: April 29, held 3.50-3.75%; next: June 16-17). No CPI/PPI releases (May CPI: ~June 10; May PPI: ~June 11). No NFP (next: June 5). Conference Board Consumer Confidence releases May 26 14:00 UTC — moderate market mover. US markets reopen fully May 26 after Memorial Day — expect volume pickup."
+    "macro_backdrop": "No FOMC in next 24h (last: April 29, held 3.50-3.75%; next: June 16-17). No CPI/PPI releases (May CPI: ~June 10; May PPI: ~June 11). No NFP (next: June 5). Conference Board Consumer Confidence releases May 26 14:00 UTC — moderate market mover. Macro environment broadly supportive with no near-term hawkish catalysts."
   }
 }
