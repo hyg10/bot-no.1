@@ -1,49 +1,48 @@
 {
   "regime": "neutral",
-  "confidence": 0.50,
-  "btc_price_usd": 77000,
+  "confidence": 0.45,
+  "btc_price_usd": 76680,
   "key_events_next_24h": [
     {
-      "name": "Conference Board Consumer Confidence (May) release",
+      "name": "Conference Board Consumer Confidence (May) — already released",
       "time": "2026-05-26 14:00:00 UTC",
-      "impact": "medium",
+      "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "Nasdaq BTC Index Options (QBTC) — SEC-approved May 22, market digestion ongoing",
+      "name": "Nasdaq BTC Index Options (QBTC) — SEC-conditionally approved May 25",
       "time": "2026-05-26 08:00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Geopolitical watch: US-Iran peace memo (Trump May 23) — ongoing easing",
+      "name": "Strategic Bitcoin Reserve Bill — US Congress ongoing",
       "time": "2026-05-26 12:00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $77K 회복, F&G 46 중립, 나스닥 BTC옵션 승인, 24h 이벤트 경미",
-  "updated": "2026-05-26 04:06:59 UTC",
-  "valid_until": "2026-05-26 08:06:59 UTC",
+  "notes": "BTC $76.7K 횡보, 기관 매수 강화, 24h 매크로 이벤트 없음",
+  "updated": "2026-05-26 08:08:04 UTC",
+  "valid_until": "2026-05-26 12:08:04 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,681–$77,507 (May 26 2026, 04:07 UTC). Recovered from weekend low $74,344. Monthly: +17.3%. Fear & Greed Index: 46 (Neutral), up from 26 (Extreme Fear) one week ago.",
-    "regime_rationale": "NEUTRAL (0.50): Recovery narrative is in play but price still ~6% below May 6 peak of $82,400. F&G at 46 confirms neutral zone. Positive: SpaceX $1.29B BTC IPO disclosure, Nasdaq QBTC options SEC-approved, Trump-Iran peace memo reducing geopolitical risk, 5 consecutive weeks of positive spot BTC ETF inflows ($977M+), institutional whale count at 2026 peak (1,282 entities). Bearish: below $78K resistance, failed to reclaim highs. No major macro catalysts in next 24h except Consumer Confidence (moderate mover).",
+    "btc_price_note": "BTC ~$76,628-$76,683 (May 26 2026, 08:08 UTC). 24h range: $76,575-$77,703. Market cap $1.54T, -0.38% in 24h. Whale count (1000+ BTC entities) at 2026 peak (1,282). Retail sentiment most bearish of 2026.",
+    "regime_rationale": "NEUTRAL (0.45): Price flat/slightly down today, consolidating below $80K. Positive: institutional adoption (SpaceX $1.29B BTC, Nasdaq QBTC options SEC approval), whale accumulation at yearly high, Strategic Bitcoin Reserve Bill in Congress. Bearish: -0.38% today, failed to hold above $77.5K, below key $80K resistance, Fed holding at 3.5-3.75% with no cut until June at earliest. No major macro catalysts in next 24h.",
     "bullish_signals": [
-      "SpaceX disclosed $1.29B BTC holdings in IPO filing",
-      "Nasdaq BTC Index Options (QBTC) SEC approval May 22",
-      "Trump-Iran peace memo 'largely negotiated' (May 23) — geopolitical risk reduced",
-      "5 consecutive weeks net-positive spot BTC ETF inflows totaling $977M+",
-      "Fear & Greed Index: 46 (Neutral), recovered sharply from 26 (Extreme Fear)",
-      "Funding rates neutral/slightly positive — shorts covered, downward pressure easing",
-      "Bitcoin treasury codification bill in US Congress",
-      "1,282 entities holding 1,000+ BTC — at 2026 yearly peak"
+      "SpaceX disclosed $1.29B BTC holdings in IPO filing (May 22)",
+      "Nasdaq BTC Index Options (QBTC) SEC conditional approval (May 25)",
+      "Strategic Bitcoin Reserve Bill advancing in US Congress",
+      "Whale accumulation: 1,282 entities holding 1000+ BTC — 2026 yearly peak",
+      "Funding rates neutral — sustained short pressure easing",
+      "BTC rose from $63K to $80K+ over past 3 months — medium-term uptrend intact"
     ],
     "bearish_signals": [
-      "BTC ~6% below May 6 peak of $82,400 — recovery incomplete",
-      "BTC dipped below $75K over the weekend — support breach, recovery still fragile",
-      "Failed to hold $78K+ resistance",
-      "Fed held 3.50-3.75% at April 29 FOMC; no rate cut catalyst until June 16-17"
+      "BTC -0.38% in 24h, trading flat around $76,680",
+      "Failed to hold $77.5K+ — below $80K resistance",
+      "Retail demand at most bearish level of 2026",
+      "Fed held 3.50-3.75% at April 29 FOMC; CPI at 3.8% YoY limits rate-cut narrative",
+      "No near-term macro catalyst to break out of consolidation range"
     ],
-    "macro_backdrop": "No FOMC in next 24h (last: April 29, held 3.50-3.75%; next: June 16-17). No CPI/PPI releases (May CPI: ~June 10; May PPI: ~June 11). No NFP (next: June 5). Conference Board Consumer Confidence releases May 26 14:00 UTC — moderate market mover. Macro environment broadly supportive with no near-term hawkish catalysts."
+    "macro_backdrop": "No FOMC in next 24h (last: April 29, held 3.50-3.75%; next: June 16-17, 97.7% probability of hold). No CPI release (May CPI: June 10; May PPI: June 11). No NFP (next: June 5). Macro environment broadly sideways — no major event in next 24h to significantly move BTC."
   }
 }
