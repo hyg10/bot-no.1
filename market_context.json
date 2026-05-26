@@ -1,56 +1,49 @@
 {
-  "regime": "neutral",
-  "confidence": 0.38,
-  "btc_price_usd": 76610,
+  "regime": "bearish",
+  "confidence": 0.60,
+  "btc_price_usd": 76754,
   "key_events_next_24h": [
     {
-      "name": "No FOMC meeting (next: June 16-17, 2026)",
-      "time": "2026-06-17 18:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "US-Israel Airstrike Geopolitical Uncertainty (ongoing)",
+      "time": "2026-05-26 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     },
     {
-      "name": "Strait of Hormuz situation — crude oil / inflation risk easing",
-      "time": "2026-05-26 12:00 UTC",
+      "name": "Strait of Hormuz de-escalation watch (crude -5%)",
+      "time": "2026-05-26 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Goldman Sachs BTC Premium Income ETF — SEC review ongoing",
-      "time": "2026-05-26 20:00 UTC",
-      "impact": "low",
+      "name": "April PCE & GDP Data Release (2 days out)",
+      "time": "2026-05-28 12:30 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "Strategic Bitcoin Reserve Bill — US Congress ongoing",
-      "time": "2026-05-26 16:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "고래 매집 강세나 ETF유출·약수요로 혼조세, 주요매크로없음",
-  "updated": "2026-05-26 09:30:00 UTC",
-  "valid_until": "2026-05-26 13:30:00 UTC",
+  "notes": "기술지표 20약세·ETF 6일$12.6억유출. 고래매집·유가↓ 방어중",
+  "updated": "2026-05-26 14:00:00 UTC",
+  "valid_until": "2026-05-26 18:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,610 (May 26 2026, 09:30 UTC). 24h range: $76,575–$77,703. Weekly: opened $77,200, peaked $78,300 (May 20-21), dropped to $74,500 (May 22-23), recovering. Market cap $1.54T, -0.38% 24h.",
-    "regime_rationale": "NEUTRAL (0.38): Price recovering from weekly low $74,500 but still below weekly open $77,200. Conflicting signals: whale accumulation at 2026 peak vs weakest 30-day demand (-147K BTC) of 2026. ETF outflows $1.26B over 6 sessions are a headwind. 30Y Treasury at 5.198% limits risk appetite. Brent crude -5% on Hormuz reopening news partially offsets macro pressure. No major events in next 24h.",
+    "btc_price_note": "BTC ~$76,754 (May 26 2026, ~13:30 UTC). Weekly: opened $77,200, peaked $78,300 (May 20-21), dropped to $74,500 (May 22-23, 2-month low), recovering. Market cap ~$1.54T. 11% YTD decline from Oct 2025 peak $126,198.",
+    "regime_rationale": "BEARISH (0.60): Technical analysis 20 bearish vs 9 bullish signals; RSI 47.19 (near-neutral). ETF outflows $1.26B over 6 consecutive sessions erased most 2026 net inflows. 30-day apparent demand -147,000 BTC (weakest of 2026). Geopolitical pressure from US-Israel airstrikes. 30Y Treasury at 5.198% caps risk appetite. Partially offset by whale accumulation at 2026 peak and crude -5% on Hormuz news.",
     "bullish_signals": [
-      "Whale accumulation: 1,282 entities holding 1000+ BTC — yearly peak (May 22)",
+      "Whale accumulation: 1,282 entities holding 1000+ BTC — 2026 peak (May 22)",
       "Whale vs Retail Delta divergence strongest since November 2024",
       "Brent crude -5% on potential Strait of Hormuz reopening — eases inflation narrative",
-      "Strategic Bitcoin Reserve Bill advancing in US Congress",
-      "Goldman Sachs + Morgan Stanley filing BTC ETF products — institutional demand growing",
-      "Funding rates at neutral — sustained short pressure easing",
-      "Price bounced strongly from $74,500 support"
+      "Price held above $74,500 support and bounced; prices holding despite geopolitical news",
+      "RSI at 47.19 — not yet oversold, room for mean reversion"
     ],
     "bearish_signals": [
-      "30-day apparent demand: -147,000 BTC — weakest reading of 2026",
-      "BTC ETF net outflows: $1.26B over 6 consecutive sessions",
+      "Technical indicators: 20 bearish signals vs 9 bullish (CoinCodex, May 26)",
+      "30-day apparent demand: -147,000 BTC — weakest reading of 2026 (CryptoQuant)",
+      "BTC ETF net outflows: $1.26B over 6 consecutive sessions — cumulative 2026 inflows at risk",
       "30-year Treasury yield at 5.198% — macro headwind for risk assets",
-      "Price still below weekly open $77,200 and far below $80K resistance",
-      "Market cap -0.38% in 24h",
-      "Retail sentiment at most bearish level of 2026"
+      "US-Israel airstrikes — geopolitical risk premium weighing on risk assets",
+      "Price ~11% below October 2025 ATH context ($126,198)",
+      "Price below weekly open $77,200 and $80K resistance"
     ],
-    "macro_backdrop": "No FOMC in next 24h (held 3.50–3.75% at April 29 meeting; next June 16-17 with ~97% hold probability). No CPI release (May CPI due ~June 10; PPI ~June 11). No NFP (next ~June 5). Geopolitical: potential Strait of Hormuz de-escalation is mildly bullish for risk assets via lower oil/inflation. No scheduled macro catalysts in next 24h."
+    "macro_backdrop": "No FOMC in next 24h (rate held 3.50-3.75% at April 29 meeting; next June 16-17). No CPI release (April CPI was +3.8% YoY released May 12; May CPI due June 10). April PCE/GDP due May 28 (2 days out, not in window). No NFP until ~June 5. No pending BTC ETF SEC deadline in next 24h."
   }
 }
