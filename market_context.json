@@ -1,14 +1,8 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
-  "btc_price_usd": 75800,
+  "confidence": 0.68,
+  "btc_price_usd": 75740,
   "key_events_next_24h": [
-    {
-      "name": "ECB Press Conference",
-      "time": "2026-05-27 12:45 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
     {
       "name": "US Core PCE Price Index (April)",
       "time": "2026-05-28 12:30 UTC",
@@ -17,41 +11,39 @@
     },
     {
       "name": "US GDP Q1 2026 Second Estimate",
-      "time": "2026-05-29 12:30 UTC",
+      "time": "2026-05-28 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "US Initial Jobless Claims",
-      "time": "2026-05-29 12:30 UTC",
+      "name": "Fed Speakers (multiple)",
+      "time": "2026-05-27 18:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "공포지수30, 회복 실패, ECB 곧·PCE 내일 고위험",
-  "updated": "2026-05-27 12:09:11 UTC",
-  "valid_until": "2026-05-27 16:09:11 UTC",
+  "notes": "BTC $75.7K 불트랩 확인, ETF 6일 순유출, PCE 내일 고위험",
+  "updated": "2026-05-27 13:30:00 UTC",
+  "valid_until": "2026-05-27 17:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$75,800 (May 27 2026). Weekly: opened $77,230, peaked $78,200, dropped to $74,300 (May 23), bounced to $77,500 (May 25-26), now unravelling again.",
-    "regime_rationale": "BEARISH (0.60): Failed recovery from $74,300 low. Bounced to $77,500 but reversed again. Fear & Greed index at 30 (Fear). Weekly timeframe bearish with falling 50-MA acting as resistance. Capital flight to AI stocks and precious metals noted. Recovery above confidence threshold (0.60 >= 0.50) — filter ACTIVE: bot prefers SHORT setups.",
+    "btc_price_note": "BTC ~$75,740 (May 27 2026, -2.06% 24h). Weekly: opened $77,230, peaked $78,200, collapsed to $74,300 (May 23), bounced to $77,500 (May 25-26) — now confirmed bull trap. Multiple analysts concur on failed recovery pattern.",
+    "regime_rationale": "BEARISH (0.68): Bull trap confirmed at $77,500. ETF outflows $1.26B over 6 consecutive days. Polymarket gives 65-71% probability BTC drops below $55K before Dec 31. Price -2.06% in 24h. PCE inflation data tomorrow adds downside risk. Confidence 0.68 >= 0.50 — filter ACTIVE: bot favors SHORT setups.",
     "bullish_signals": [
-      "Whale accumulation: 1,282 entities holding 1,000+ BTC — matching 2026 peak",
-      "Whale vs Retail Delta divergence strongest since November 2024",
-      "Nasdaq Bitcoin index options (QBTC) conditional SEC approval",
-      "Goldman Sachs filing for new Bitcoin ETF",
-      "ETF inflows gradually returning after 6-session outflow streak",
-      "Brent crude softer — modest inflation relief"
+      "Whale accumulation at yearly high: 1,282 entities holding 1,000+ BTC (matches May 3 peak)",
+      "Goldman Sachs filing for new Bitcoin ETF (longer-term bullish)",
+      "Crypto adoption at 30% of US adults (70.4M) — steady institutional demand",
+      "Fear & Greed recovering from recent lows (not yet extreme fear)"
     ],
     "bearish_signals": [
-      "Fear & Greed Index at 30 (Fear zone)",
-      "Failed recovery: bounced to $77,500 then collapsed again",
-      "BTC dropped to 13th largest asset — capital fleeing to AI and metals",
-      "30Y Treasury yield elevated (~5.2%) — sustained macro headwind",
-      "Price below 200-day MA ($82,228) — macro ceiling untouched for 7+ weeks",
-      "UK banking-style sanctions on crypto exchanges (Russian network crackdown)",
-      "Fed 8-4 split vote signals policy uncertainty; Warsh nomination adds uncertainty",
-      "Middle East tensions driving energy/inflation risk"
+      "Bull trap confirmed: bounced to $77,500 then reversed sharply",
+      "ETF net outflows $1.26B over 6 consecutive sessions (May late)",
+      "Polymarket: 65-71% probability BTC < $55K before Dec 31 2026",
+      "BTC -2.06% in 24h, -11% YTD",
+      "ETF May inflows reversed the March-April buying pattern",
+      "PCE inflation data tomorrow could signal delayed Fed rate cuts",
+      "30Y Treasury yield elevated — sustained macro headwind",
+      "Price below 200-day MA — macro ceiling unbroken"
     ],
-    "macro_backdrop": "No FOMC in next 24h (next: June 16-17). ECB press conference at 12:45 UTC TODAY (imminent). US Core PCE + Q1 GDP + Jobless Claims due May 28-29 12:30 UTC. Fed held rates at 3.5-3.75% for 3rd consecutive meeting. Kevin Warsh nominated as Fed Chair successor. No pending BTC ETF SEC deadline in next 24h."
+    "macro_backdrop": "No FOMC in next 24h (next: June 16-17). US Core PCE + Q1 GDP 2nd estimate due May 28 12:30 UTC — Fed's preferred inflation gauge; high upside surprise = bearish for risk assets. Fed held rates at 3.5-3.75%. No pending BTC ETF SEC deadline in next 24h. Goldman Sachs Bitcoin ETF filing in progress (not imminent decision)."
   }
 }
