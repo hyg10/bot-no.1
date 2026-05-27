@@ -1,14 +1,8 @@
 {
   "regime": "neutral",
   "confidence": 0.40,
-  "btc_price_usd": 76610,
+  "btc_price_usd": 76500,
   "key_events_next_24h": [
-    {
-      "name": "US-Israel Airstrike Geopolitical Uncertainty (ongoing)",
-      "time": "2026-05-26 16:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
     {
       "name": "ECB Press Conference",
       "time": "2026-05-27 12:45 UTC",
@@ -22,29 +16,28 @@
       "expected_direction": "bearish"
     }
   ],
-  "notes": "74.5K 저점 반등 중, ETF유출 지속. PCE·GDP 앞두고 관망세",
-  "updated": "2026-05-26 16:30:00 UTC",
-  "valid_until": "2026-05-26 20:30:00 UTC",
+  "notes": "BTC $76.5K 회복 중, ECB·PCE 대기, 고래 매집, ETF유출 진정세",
+  "updated": "2026-05-27 00:08:00 UTC",
+  "valid_until": "2026-05-27 04:08:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$76,610 (May 26 2026). Weekly: opened $77,200, peaked $78,300 (May 20-21), dropped to $74,500 (May 22-23, 2-month low), recovering through weekend. Fear & Greed recovering but fragile.",
-    "regime_rationale": "NEUTRAL (0.40): Recovering from $74,500 2-month low with whale accumulation at 2026 peak. However, ETF outflows ($1.26B/6 sessions), 20 bearish vs 9 bullish technical indicators, and 30Y Treasury at 5.198% cap conviction. Funding rates improved from negative to neutral. Below confidence threshold of 0.50 — filter inactive, bot trades freely.",
+    "btc_price_note": "BTC ~$76,500 (May 27 2026). Weekly: opened $77,200, peaked $78,300 (May 20-21), dropped to $74,500 (May 22-23, 2-month low), recovering. YTD -11% from Oct 2025 peak of $126,198. 24h change: +0.49%.",
+    "regime_rationale": "NEUTRAL (0.40): Recovering from $74,500 2-month low with whale accumulation at 2026 peak levels. ETF outflow streak (~$1.26B/6 sessions) is a key headwind but appears to be stabilizing. 30Y Treasury at 5.198%, ECB today, PCE/GDP in ~36h. Funding rates negative but easing. Below 0.50 confidence threshold — filter inactive, bot trades freely.",
     "bullish_signals": [
-      "Whale accumulation: 1,282 entities holding 1000+ BTC — 2026 peak (May 22)",
-      "Whale vs Retail Delta divergence strongest since November 2024 (smart money buying)",
+      "Whale accumulation: 1,282 entities holding 1,000+ BTC — matching 2026 peak (May 22)",
+      "Whale vs Retail Delta divergence strongest since November 2024 (smart money buying while retail capitulates)",
       "Price held $74,500 support and bounced; recovering ~2.8% from weekly low",
       "Brent crude -5% on potential Strait of Hormuz reopening — eases inflation narrative",
-      "Funding rates flipped from negative to neutral — short pressure easing",
-      "Bitcoin above key cost basis levels (per CoinMarketCap analysis)"
+      "Funding rates gradually easing from deeply negative territory",
+      "Bitcoin above key cost basis levels; prediction models target +1% to ~$77,540 by EOD"
     ],
     "bearish_signals": [
-      "Technical indicators: 20 bearish signals vs 9 bullish (CoinCodex, May 26)",
-      "BTC ETF net outflows: $1.26B over 6 consecutive sessions",
-      "30-year Treasury yield at 5.198% — macro headwind for risk assets",
-      "US-Israel airstrikes — active geopolitical risk premium",
-      "11% YTD decline from October 2025 context peak ($126,198)",
+      "BTC ETF net outflows: ~$1.26B over 6 consecutive sessions — nearly erased all 2026 net inflows",
+      "30-year Treasury yield at 5.198% — sustained macro headwind for risk assets",
+      "11% YTD decline from October 2025 peak ($126,198) reflects structural pressure",
       "Price below weekly open $77,200 and key $80K resistance",
-      "April Core PCE + GDP in ~46h — pre-release uncertainty"
+      "US Core PCE + Q1 GDP release in ~36h — pre-event uncertainty caps upside",
+      "Institutional rotation from crypto to AI infrastructure (Cerebras IPO, semis rally) competing for risk-on capital"
     ],
-    "macro_backdrop": "No FOMC in next 24h (rate held 3.50-3.75% since April 29 meeting; next June 16-17). No CPI release (May CPI due June 10). April Core PCE + Preliminary Q1 GDP + Jobless Claims due May 28 08:30 ET (12:30 UTC). ECB press conference May 27. No pending BTC ETF SEC deadline."
+    "macro_backdrop": "No FOMC in next 24h (rate held 3.50-3.75%; next June 16-17 — new Chair Kevin Warsh's first meeting). No CPI release (May CPI due June 10). ECB press conference at 12:45 UTC today. US Core PCE + Preliminary Q1 GDP + Jobless Claims due May 28 12:30 UTC (~36h away). No pending BTC ETF SEC deadline. April CPI was 3.8% YoY; PPI 6% YoY — inflation remains sticky."
   }
 }
