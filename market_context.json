@@ -1,6 +1,6 @@
 {
   "regime": "bearish",
-  "confidence": 0.68,
+  "confidence": 0.72,
   "btc_price_usd": 75740,
   "key_events_next_24h": [
     {
@@ -16,6 +16,12 @@
       "expected_direction": "neutral"
     },
     {
+      "name": "BTC ETF Outflow Continuation (6-day streak, ~$1.26B total)",
+      "time": "2026-05-27 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
       "name": "Fed Speakers (multiple)",
       "time": "2026-05-27 18:00 UTC",
       "impact": "medium",
@@ -23,27 +29,27 @@
     }
   ],
   "notes": "BTC $75.7K 불트랩 확인, ETF 6일 순유출, PCE 내일 고위험",
-  "updated": "2026-05-27 13:30:00 UTC",
-  "valid_until": "2026-05-27 17:30:00 UTC",
+  "updated": "2026-05-27 11:40:00 UTC",
+  "valid_until": "2026-05-27 15:40:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$75,740 (May 27 2026, -2.06% 24h). Weekly: opened $77,230, peaked $78,200, collapsed to $74,300 (May 23), bounced to $77,500 (May 25-26) — now confirmed bull trap. Multiple analysts concur on failed recovery pattern.",
-    "regime_rationale": "BEARISH (0.68): Bull trap confirmed at $77,500. ETF outflows $1.26B over 6 consecutive days. Polymarket gives 65-71% probability BTC drops below $55K before Dec 31. Price -2.06% in 24h. PCE inflation data tomorrow adds downside risk. Confidence 0.68 >= 0.50 — filter ACTIVE: bot favors SHORT setups.",
+    "btc_price_note": "BTC ~$75,740 (May 27 2026, -2.06% 24h, 24h range $75,220-$77,881). Weekly: opened $77,230, peaked $78,200, collapsed to $74,300 (May 23), bounced to $77,500 (May 25-26) — now confirmed bull trap. Multiple analysts concur on failed recovery pattern.",
+    "regime_rationale": "BEARISH (0.72): Bull trap confirmed at $77,500. ETF outflows $1.26B over 6 consecutive days. Polymarket gives 65-71% probability BTC drops below $55K before Dec 31 2026. Price -2.06% in 24h. BTC slipped to 13th largest global asset ($1.5T mktcap). PCE inflation data tomorrow adds downside risk. Confidence 0.72 >= 0.50 — filter ACTIVE: bot favors SHORT setups.",
     "bullish_signals": [
-      "Whale accumulation at yearly high: 1,282 entities holding 1,000+ BTC (matches May 3 peak)",
+      "Whale accumulation at yearly high: 1,282 entities holding 1,000+ BTC",
       "Goldman Sachs filing for new Bitcoin ETF (longer-term bullish)",
       "Crypto adoption at 30% of US adults (70.4M) — steady institutional demand",
       "Fear & Greed recovering from recent lows (not yet extreme fear)"
     ],
     "bearish_signals": [
-      "Bull trap confirmed: bounced to $77,500 then reversed sharply",
-      "ETF net outflows $1.26B over 6 consecutive sessions (May late)",
+      "Bull trap confirmed: bounced to $77,500 then reversed sharply to $75,740",
+      "ETF net outflows $1.26B over 6 consecutive sessions in late May",
       "Polymarket: 65-71% probability BTC < $55K before Dec 31 2026",
-      "BTC -2.06% in 24h, -11% YTD",
-      "ETF May inflows reversed the March-April buying pattern",
+      "BTC -2.06% in 24h, -11% YTD, -30% over past 12 months",
+      "BTC slipped to 13th largest global asset (was top-10)",
       "PCE inflation data tomorrow could signal delayed Fed rate cuts",
-      "30Y Treasury yield elevated — sustained macro headwind",
-      "Price below 200-day MA — macro ceiling unbroken"
+      "New Fed Chair Kevin Warsh (post May 15) brings policy uncertainty",
+      "US-Iran conflict and rising oil prices pressuring all risk assets"
     ],
-    "macro_backdrop": "No FOMC in next 24h (next: June 16-17). US Core PCE + Q1 GDP 2nd estimate due May 28 12:30 UTC — Fed's preferred inflation gauge; high upside surprise = bearish for risk assets. Fed held rates at 3.5-3.75%. No pending BTC ETF SEC deadline in next 24h. Goldman Sachs Bitcoin ETF filing in progress (not imminent decision)."
+    "macro_backdrop": "No FOMC in next 24h (next: June 16-17). Fed held rates at 3.5-3.75% (3rd consecutive hold). US Core PCE + Q1 GDP 2nd estimate due May 28 12:30 UTC — Fed's preferred inflation gauge; upside surprise = bearish for risk assets. New Chair Kevin Warsh replaced Powell (~May 15). No pending BTC ETF SEC deadline in next 24h."
   }
 }
