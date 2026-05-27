@@ -1,6 +1,6 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
+  "confidence": 0.40,
   "btc_price_usd": 76500,
   "key_events_next_24h": [
     {
@@ -10,15 +10,27 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "US Core PCE + Q1 GDP (Preliminary) + Jobless Claims",
+      "name": "US Core PCE Price Index (April)",
       "time": "2026-05-28 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "US GDP Q1 2026 Second Estimate",
+      "time": "2026-05-29 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US Initial Jobless Claims",
+      "time": "2026-05-29 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "고래 매집 증가, ETF 유출 지속. 74500 지지 후 회복 중. 200일MA 저항",
-  "updated": "2026-05-27 07:00:00 UTC",
-  "valid_until": "2026-05-27 11:00:00 UTC",
+  "notes": "고래 매집·ETF 유출 혼재, PCE 발표 앞두고 관망세",
+  "updated": "2026-05-27 08:08:11 UTC",
+  "valid_until": "2026-05-27 12:08:11 UTC",
   "analysis": {
     "btc_price_note": "BTC ~$76,500 (May 27 2026). Weekly: opened $77,200, peaked $78,300 (May 20-21), dropped to $74,500 (May 22-23, 2-month low), recovering +2.7%. 24h change: +0.49%.",
     "regime_rationale": "NEUTRAL (0.40): Recovering from $74,500 2-month low with whale accumulation at 2026 peak levels. ETF outflow streak (~$1.26B/6 sessions) is a key headwind. 30Y Treasury at 5.198%, ECB today, PCE/GDP in ~36h. Funding rates negative. Below 0.50 confidence threshold — filter inactive, bot trades freely. Nasdaq Bitcoin index options received SEC approval May 22 (bullish long-term signal). Goldman Sachs filing for new BTC ETF.",
