@@ -1,10 +1,10 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 75600,
+  "btc_price_usd": 75139,
   "key_events_next_24h": [
     {
-      "name": "US Core PCE Price Index (April) - already released today at 12:30 UTC",
+      "name": "US Core PCE Price Index (April) - released today at 12:30 UTC",
       "time": "2026-05-28 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
@@ -22,36 +22,34 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "SpaceX Nasdaq IPO announcement (holds 18,712 BTC on balance sheet)",
-      "time": "2026-06-12 00:00 UTC",
+      "name": "US-Iran Geopolitical Risk (Ongoing - rising oil, risk-off pressure)",
+      "time": "2026-05-28 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "ETF 7일 순유출 $1.9B, 공포지수 25, 기술적 약세. 고래 매집만 긍정신호",
-  "updated": "2026-05-28 08:00:00 UTC",
-  "valid_until": "2026-05-28 12:00:00 UTC",
+  "notes": "ETF 유출+지정학 리스크, 불트랩 확인. $75K 약세 지속",
+  "updated": "2026-05-28 13:30:00 UTC",
+  "valid_until": "2026-05-28 17:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$75,600 (May 28 2026, -1% 24h, 24h range $74,092-$77,778). Weekly: opened $77,230, peaked $78,200, collapsed to $74,300 (May 23), bounced to $77,500 (May 25-26 — confirmed bull trap). Now stabilizing near $75,500-$75,740.",
-    "regime_rationale": "BEARISH (0.65): Bull trap confirmed at $77,500. ETF outflows $1.9B over 7 consecutive sessions. Polymarket 65-71% probability BTC below $55K by Dec 2026. Fear & Greed at 25 (Fear). 48% of 23 technical signals bearish, 200-day MA falling since Apr 28. Confidence 0.65 >= 0.50 — filter ACTIVE: bot favors SHORT setups.",
+    "btc_price_note": "BTC ~$75,139 (May 28 2026, -1% 24h from $75,976; -3% 7d from $77,623). Weekly: opened $77,230, peaked $78,200, collapsed to $74,300 (May 23), bounced to $77,500 (May 25-26 — bull trap confirmed). Now trending lower near $75,100-75,600.",
+    "regime_rationale": "BEARISH (0.65): Bull trap confirmed at $77,500. ETF outflows ongoing. Polymarket 65-71% probability BTC below $55K by Dec 2026. Fear & Greed in Fear territory. 200-day MA falling since Apr 28. Confidence 0.65 >= 0.50 — filter ACTIVE: bot favors SHORT setups.",
     "bullish_signals": [
-      "Whale accumulation at yearly high: 1,282 entities holding 1,000+ BTC (matched May 3 peak)",
-      "SpaceX IPO filing reveals 18,712 BTC on balance sheet (~$1.42B) — large institutional holder",
+      "Whale accumulation at yearly high: 1,282 entities holding 1,000+ BTC",
       "Goldman Sachs filing for new Bitcoin ETF (longer-term bullish signal)",
-      "Fear & Greed recovering from deeper lows; 26 -> 46 swing last week shows volatility"
+      "SpaceX IPO filing reveals 18,712 BTC on balance sheet (~$1.42B) — institutional holding",
+      "Institutional infrastructure expanding (Fidelity/BlackRock tokenized funds rated by Moodys)"
     ],
     "bearish_signals": [
-      "Bull trap confirmed: bounced to $77,500 then reversed to $75,600 area",
-      "ETF net outflows $1.9B over 7 consecutive sessions (weakest demand of 2026)",
-      "30-day apparent demand at -147,000 BTC — worst reading of 2026",
+      "Bull trap confirmed: bounced to $77,500 then reversed to $75,139 area",
+      "BTC ETF net outflows — weakest demand of 2026",
       "Polymarket: 65-71% probability BTC < $55K before Dec 31 2026",
-      "Fear & Greed Index: 25 (Fear territory)",
-      "Technical: 48% bearish signals, 13% bullish out of 23 indicators",
+      "Fear & Greed Index: Fear territory",
       "200-day MA falling since April 28 — long-term weakness",
       "50-day MA above price = overhead resistance",
-      "US inflation at 3.8% in April 2026 (highest since Sep 2023) — Fed hawkish anchor for June",
+      "US-Iran conflict unresolved, rising oil prices pressure risk assets",
       "New Fed Chair Warsh: hawkish posture, rate hold at 3.50-3.75% (3rd consecutive hold)"
     ],
-    "macro_backdrop": "Core PCE released May 28 12:30 UTC (high-impact, bearish risk). No FOMC in next 24h (next: June 16-17, first under new Chair Warsh). Fed held rates at 3.50-3.75%. No pending BTC ETF SEC deadline in next 24h. Goldman Sachs and Morgan Stanley Bitcoin ETF applications in SEC pipeline — positive long-term catalyst."
+    "macro_backdrop": "Core PCE released May 28 12:30 UTC (high-impact, bearish risk for inflation data). No FOMC in next 24h (next: June 16-17, first under new Chair Warsh). Fed held rates at 3.50-3.75%. No pending BTC ETF SEC deadline in next 24h. Goldman Sachs Bitcoin ETF application in SEC pipeline — positive long-term catalyst only."
   }
 }
