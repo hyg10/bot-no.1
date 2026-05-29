@@ -1,10 +1,10 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 73460,
+  "confidence": 0.62,
+  "btc_price_usd": 73105,
   "key_events_next_24h": [
     {
-      "name": "Spot BTC ETF Daily Flow Report (10th consecutive outflow session expected)",
+      "name": "Spot BTC ETF Daily Flow Report (9-day outflow streak, $2.8B total)",
       "time": "2026-05-29 21:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
@@ -22,28 +22,28 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수 22(극도공포)·ETF 9연속 유출·불트랩 확인·약세",
-  "updated": "2026-05-29 12:07:04 UTC",
-  "valid_until": "2026-05-29 16:07:04 UTC",
+  "notes": "ETF 9일 연속 순유출·$73K 하락·공포지수 약세 지속",
+  "updated": "2026-05-29 13:30:00 UTC",
+  "valid_until": "2026-05-29 17:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$73,460 on May 29 2026. May 28 range: $72,800-$74,333. Fear & Greed Index: 22 (Extreme Fear). 9 consecutive ETF outflow sessions as of May 28 (-$228.88M, IBIT -$177.94M).",
-    "regime_rationale": "BEARISH (0.65): Extreme Fear (22). 9 consecutive ETF outflow sessions. Failed bounce at $77,500 confirmed as bull trap. BTC down from ATH $126,198 (Oct 2025). Fed at 3.50-3.75% with hawkish risk. No positive catalysts in next 24h. Confidence 0.65 >= 0.50 — filter ACTIVE: bot favors SHORT setups only.",
+    "btc_price_note": "BTC ~$73,105 at 9:15 AM ET on May 29 2026 (down $354 from May 28). Fear & Greed Index: falling sharply (down 13 pts from 47 last week). 9 consecutive ETF outflow sessions totaling $2.8B — longest streak since spot ETFs launched Jan 2024.",
+    "regime_rationale": "BEARISH (0.62): Record 9-day ETF outflow streak ($2.8B total). BTC declining — down $354 from yesterday, ~$32,500 below 1-year-ago levels. Sentiment cautious/fear. BTC underperforming AI/semiconductor stocks as capital rotates away. Retail accumulation at $72K support could limit downside but insufficient to flip regime. Confidence 0.62 >= 0.50 — filter ACTIVE: bot favors SHORT setups only.",
     "bullish_signals": [
-      "Whale accumulation: 1,000+ BTC wallet count near yearly peak",
+      "Retail bid accumulation dominant at $72K support level",
       "RSI approaching oversold — technical bounce possible toward $75-77K",
       "CLARITY Act advancing in Senate — long-term regulatory positive",
       "Historical support zone $72,000-$75,000 holding",
-      "Algorithmic models target $80,500 by end of May"
+      "iShares Bitcoin Premium Income ETF new product activity suggests institutional interest"
     ],
     "bearish_signals": [
-      "Fear & Greed Index 22 (Extreme Fear) — deepest pessimism in weeks",
-      "ETF outflows: 9 consecutive sessions, $228.88M on May 28 alone",
-      "Bull trap confirmed: $77,500 bounce failed, failed to hold $76,500",
-      "BTC down 11%+ YTD from Oct 2025 ATH of $126,198 — macro downtrend intact",
+      "ETF outflows: record 9 consecutive sessions, $2.8B total withdrawn",
+      "BTC down $354 from May 28; ~$32,500 below 1-year-ago price",
+      "Fear & Greed Index fell 13 points from 47 — sentiment deteriorating",
+      "BTC underperforming AI/semiconductor stocks — capital rotation away",
       "US-Iran Strait of Hormuz tensions driving risk-off across all assets",
-      "Fed hawkish posture under new Chair Kevin Warsh — rate hike risk",
-      "Negative funding rates — traders defensive"
+      "Fed hawkish posture (rates at 3.50-3.75%, CPI at 3.8% YoY) — no cuts near-term",
+      "Negative funding rates — traders remain defensive"
     ],
-    "macro_backdrop": "No FOMC/CPI/PPI in next 24h. Next FOMC: June 16-17 (Kevin Warsh's first meeting as Chair; 97.5% probability of hold at 3.50-3.75%). May CPI scheduled June 10. May Employment Report June 5. US-Iran geopolitical risk is dominant near-term macro factor."
+    "macro_backdrop": "No FOMC/CPI/PPI in next 24h. Next FOMC: June 16-17 (97.5% probability of hold at 3.50-3.75%). May CPI scheduled June 10. May Employment Report June 5. April CPI was 3.8% YoY — highest since May 2023, driven by energy prices. US-Iran geopolitical risk is dominant near-term macro factor."
   }
 }
