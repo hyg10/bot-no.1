@@ -1,49 +1,54 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
-  "btc_price_usd": 73105,
+  "confidence": 0.65,
+  "btc_price_usd": 73100,
   "key_events_next_24h": [
     {
-      "name": "Spot BTC ETF Daily Flow Report (9-day outflow streak, $2.8B total)",
-      "time": "2026-05-29 21:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "US-Iran 60-day truce extension signature (on president's desk)",
+      "time": "2026-05-29 22:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     },
     {
-      "name": "US-Iran Geopolitical Risk (Strait of Hormuz tensions ongoing)",
-      "time": "2026-05-29 00:00 UTC",
+      "name": "BTC Spot ETF daily flow report (continued outflow streak)",
+      "time": "2026-05-29 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "No FOMC/CPI/PPI in next 24h (next FOMC: June 16-17)",
-      "time": "2026-06-17 18:00 UTC",
+      "name": "Weekend low-liquidity period begins",
+      "time": "2026-05-30 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "No FOMC/CPI/PPI in next 24h (next: May CPI June 10, FOMC June 16-17)",
+      "time": "2026-06-10 12:30 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 9일 연속 순유출·$73K 하락·공포지수 약세 지속",
-  "updated": "2026-05-29 13:30:00 UTC",
-  "valid_until": "2026-05-29 17:30:00 UTC",
+  "notes": "BTC $73K대, 월간 -5.5%, ETF $223M 당일 순유출, 이란 휴전 서명 대기",
+  "updated": "2026-05-29 20:07:00 UTC",
+  "valid_until": "2026-05-30 00:07:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$73,105 at 9:15 AM ET on May 29 2026 (down $354 from May 28). Fear & Greed Index: falling sharply (down 13 pts from 47 last week). 9 consecutive ETF outflow sessions totaling $2.8B — longest streak since spot ETFs launched Jan 2024.",
-    "regime_rationale": "BEARISH (0.62): Record 9-day ETF outflow streak ($2.8B total). BTC declining — down $354 from yesterday, ~$32,500 below 1-year-ago levels. Sentiment cautious/fear. BTC underperforming AI/semiconductor stocks as capital rotates away. Retail accumulation at $72K support could limit downside but insufficient to flip regime. Confidence 0.62 >= 0.50 — filter ACTIVE: bot favors SHORT setups only.",
+    "btc_price_note": "BTC ~$73,100 as of 20:07 UTC May 29 2026. Down ~1.1% from Thursday open ($73,525). Down ~5.5% over past week. May started at ~$77,000 — on track to close month negative, ending a 2-month winning streak. ETF outflows: $223M today per Phemex.",
+    "regime_rationale": "BEARISH (0.65): BTC in clear weekly downtrend (-5.5%), closing May with ~5% loss from $77K start. ETF outflows persist ($223M today). Fear & Greed declining. Capital rotating toward AI/semiconductor. Upside wildcard: US-Iran 60-day truce awaiting presidential signature could spur risk-on bounce toward $75-77K. Confidence 0.65 >= 0.50 — filter ACTIVE.",
     "bullish_signals": [
-      "Retail bid accumulation dominant at $72K support level",
-      "RSI approaching oversold — technical bounce possible toward $75-77K",
-      "CLARITY Act advancing in Senate — long-term regulatory positive",
-      "Historical support zone $72,000-$75,000 holding",
-      "iShares Bitcoin Premium Income ETF new product activity suggests institutional interest"
+      "US-Iran 60-day truce extension awaiting signature — potential risk-on catalyst",
+      "RSI approaching oversold — technical bounce toward $75-77K possible",
+      "SoFi launched stablecoin (SoFiUSD) on-chain — mainstream adoption signal",
+      "$72K-$73K support zone holding; retail accumulation detected",
+      "CLARITY Act advancing in Senate — long-term regulatory positive"
     ],
     "bearish_signals": [
-      "ETF outflows: record 9 consecutive sessions, $2.8B total withdrawn",
-      "BTC down $354 from May 28; ~$32,500 below 1-year-ago price",
-      "Fear & Greed Index fell 13 points from 47 — sentiment deteriorating",
-      "BTC underperforming AI/semiconductor stocks — capital rotation away",
-      "US-Iran Strait of Hormuz tensions driving risk-off across all assets",
-      "Fed hawkish posture (rates at 3.50-3.75%, CPI at 3.8% YoY) — no cuts near-term",
-      "Negative funding rates — traders remain defensive"
+      "BTC ETF outflow: $223M today; extended outflow streak",
+      "BTC down 5.5% week-over-week; May closes -5% from $77K start",
+      "Two-month winning streak ending — momentum reversal signal",
+      "Capital rotation from crypto to AI/semiconductor continues",
+      "Fear & Greed Index declining; funding rates cautious",
+      "Fed holding at 3.50-3.75% (next FOMC June 16-17) — no near-term catalyst for rate cuts"
     ],
-    "macro_backdrop": "No FOMC/CPI/PPI in next 24h. Next FOMC: June 16-17 (97.5% probability of hold at 3.50-3.75%). May CPI scheduled June 10. May Employment Report June 5. April CPI was 3.8% YoY — highest since May 2023, driven by energy prices. US-Iran geopolitical risk is dominant near-term macro factor."
+    "macro_backdrop": "No major macro events in next 24h. Next catalysts: May Employment Report June 5, May CPI June 10 (8:30 ET), FOMC June 16-17 (Kevin Warsh chairs first SEP meeting). US-Iran geopolitical situation is dominant near-term factor — truce signature could briefly flip sentiment bullish."
   }
 }
