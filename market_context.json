@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
-  "btc_price_usd": 73000,
+  "confidence": 0.65,
+  "btc_price_usd": 73500,
   "key_events_next_24h": [
     {
       "name": "BTC+ETH Options Expiry (~$6.25B notional, Deribit) — max pain $75K",
@@ -10,46 +10,45 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran Military Escalation (US struck Iranian sites, Iran retaliated — ceasefire odds 8%)",
-      "time": "2026-05-28 ongoing",
+      "name": "US-Iran Military Tensions Ongoing (Strait of Hormuz strikes, ceasefire odds ~8%)",
+      "time": "2026-05-29 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
       "name": "Spot BTC ETF Daily Flow Report (7th consecutive outflow session expected)",
-      "time": "2026-05-28 21:00 UTC",
+      "time": "2026-05-29 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "White House BTC Reserve Operational/Legal Details Announcement",
-      "time": "2026-05-28 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "FOMC June Meeting Watch (next meeting June 16-17, Warsh first chair)",
+      "time": "2026-06-16 18:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "미-이란 충돌·ETF 이탈로 BTC 6주 신저점, 하방 압력 지속",
-  "updated": "2026-05-28 14:00:00 UTC",
-  "valid_until": "2026-05-28 18:00:00 UTC",
+  "notes": "미-이란 충돌·ETF 유출 지속, 옵션 만기 압력으로 BTC 약세",
+  "updated": "2026-05-29 00:07:49 UTC",
+  "valid_until": "2026-05-29 04:07:49 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$72,714-$73,460 on May 28, 2026 (down ~2% from Wed open at $74,332). 24h vol $18.77B. Fear & Greed Index ~38-47 (recovering from Fear toward Neutral). RSI ~34.82 (near oversold). Technical: key support at $72,650.",
-    "regime_rationale": "BEARISH (0.70): US military struck Iranian drones and sites near Strait of Hormuz — risk-off across crypto. Iran retaliated, Polymarket ceasefire odds fell to 8% from 70% peak. ETF outflows 6+ consecutive sessions totaling ~$1.26B. May 29 options expiry max pain $75K pulls price down. Confidence 0.70 >= 0.50 — filter ACTIVE: bot favors SHORT setups only.",
+    "btc_price_note": "BTC ~$73,500 on May 29, 2026 00:07 UTC (down ~2% from May 28 open at $74,332). Range May 28: $72,714-$75,139 across exchanges. 24h vol $18.77B. Fear & Greed Index ~38-47 (recovering from Fear toward Neutral). Technical: key support at $72,650; resistance at $75K (options max pain).",
+    "regime_rationale": "BEARISH (0.65): US military struck Iranian drones near Strait of Hormuz — ongoing risk-off. ETF outflows now 6+ consecutive sessions ($1.26B total). May 29 options expiry max pain at $75K gravitates price down. BTC failed to hold $76,500 — bull trap confirmed by analysts. Confidence 0.65 >= 0.50 — filter ACTIVE: bot favors SHORT setups only.",
     "bullish_signals": [
-      "RSI near oversold (~34.82) — technical bounce possible",
-      "Fear & Greed recovering: 38 -> 47 (largest single-day jump in weeks)",
-      "Whale wallets (1,000+ BTC) accumulated to year peak levels — smart money buying",
-      "CLARITY Act advancing in Senate — long-term regulatory clarity",
-      "White House BTC Reserve details could trigger short-term bounce"
+      "Whale wallets (1,000+ BTC) at yearly peak accumulation — smart money buying",
+      "RSI near oversold — technical bounce possible toward $75K options pin",
+      "Fear & Greed Index recovering: largest single-day jump in recent weeks",
+      "CLARITY Act advancing in Senate — long-term regulatory positive",
+      "Morgan Stanley filed for spot BTC ETF — institutional demand signal"
     ],
     "bearish_signals": [
-      "US struck Iranian sites — geopolitical risk-off, crypto sold to 6-week low",
-      "Iran retaliated, ceasefire probability 8% on Polymarket (down from 70%)",
-      "BTC ETF outflows: 6 consecutive sessions, ~$1.26B total — institutional distribution",
-      "Strategy (MSTR) paused BTC purchases, focusing on debt reduction",
-      "Options max pain at $75K — gravitational pull favors downside into May 29 expiry",
-      "30-year Treasury yield elevated at ~5.2% — high rates suppress risk assets",
-      "BTC at 6-week low as of May 28 — momentum firmly bearish"
+      "US-Iran military strikes ongoing — geopolitical risk-off, BTC at multi-week low",
+      "ETF outflows: 6 consecutive sessions, ~$1.26B total — institutional distribution",
+      "May 29 08:00 UTC options expiry: $6.25B notional, max pain $75K — downward pin pressure",
+      "BTC failed to reclaim $76,500 after bounce to $77,500 — bull trap confirmed",
+      "30-year Treasury yield elevated at ~5.2% — high rates pressure risk assets",
+      "Negative funding rates — majority of traders positioning short/defensive"
     ],
-    "macro_backdrop": "No FOMC/CPI/PPI in next 24h. Next FOMC: June 16-17 (rates held at 4.25-4.50% for 5 consecutive meetings). CPI for May 2026 releases June 10. PPI releases June 11. Inflation elevated by Iran-related oil disruption. $6.25B BTC+ETH options expire May 29 08:00 UTC — largest volatility event in next 24h."
+    "macro_backdrop": "No FOMC/CPI/PPI in next 24h. Next FOMC: June 16-17 (Kevin Warsh first meeting as Chair; rates held at 4.25-4.50% for 5 consecutive meetings). CPI for May 2026: June 10. April CPI was 3.8% YoY, PPI 6% — elevated inflation reduces rate cut probability. $6.25B BTC+ETH options expire May 29 08:00 UTC — primary volatility event in next 8 hours."
   }
 }
