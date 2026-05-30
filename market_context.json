@@ -1,54 +1,55 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 73100,
+  "confidence": 0.62,
+  "btc_price_usd": 73900,
   "key_events_next_24h": [
     {
-      "name": "US-Iran 60-day truce extension signature (on president's desk)",
-      "time": "2026-05-29 22:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "BTC Spot ETF daily flow report (continued outflow streak)",
-      "time": "2026-05-29 21:00 UTC",
+      "name": "US Month-End Close (May 30) - portfolio rebalancing risk",
+      "time": "2026-05-30 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "Weekend low-liquidity period begins",
-      "time": "2026-05-30 00:00 UTC",
-      "impact": "low",
+      "name": "US-Iran Peace Deal Final Determination (Trump Situation Room)",
+      "time": "2026-05-30 14:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "No FOMC/CPI/PPI in next 24h (next: May CPI June 10, FOMC June 16-17)",
+      "name": "BTC Spot ETF Daily Flow Report (6th+ consecutive outflow session)",
+      "time": "2026-05-30 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "No FOMC/CPI/PPI in next 24h (next: CPI June 10, FOMC June 16-17)",
       "time": "2026-06-10 12:30 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $73K대, 월간 -5.5%, ETF $223M 당일 순유출, 이란 휴전 서명 대기",
-  "updated": "2026-05-29 20:07:00 UTC",
-  "valid_until": "2026-05-30 00:07:00 UTC",
+  "notes": "BTC $74K, 5월 -4.5%, ETF 유출 6일 연속, 공포탐욕 47 중립, 단기 약세",
+  "updated": "2026-05-30 00:07:21 UTC",
+  "valid_until": "2026-05-30 04:07:21 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$73,100 as of 20:07 UTC May 29 2026. Down ~1.1% from Thursday open ($73,525). Down ~5.5% over past week. May started at ~$77,000 — on track to close month negative, ending a 2-month winning streak. ETF outflows: $223M today per Phemex.",
-    "regime_rationale": "BEARISH (0.65): BTC in clear weekly downtrend (-5.5%), closing May with ~5% loss from $77K start. ETF outflows persist ($223M today). Fear & Greed declining. Capital rotating toward AI/semiconductor. Upside wildcard: US-Iran 60-day truce awaiting presidential signature could spur risk-on bounce toward $75-77K. Confidence 0.65 >= 0.50 — filter ACTIVE.",
+    "btc_price_note": "BTC ~$73,900 as of 00:07 UTC May 30 2026. Down ~4.5% for the month, May started at ~$77,000. Peak $78,300 on May 20-21, then hard selloff to $74,500 floor, current range $73,000-74,500. Fear & Greed Index 47 (Neutral), recovered +9 pts from yesterday's 38.",
+    "regime_rationale": "BEARISH (0.62): BTC in clear weekly downtrend from $78,300 peak. ETF outflows running $1.26B over 6 consecutive sessions with $223M on May 29. 30Y Treasury yield at 5.198% pressuring risk assets. Month-end rebalancing today adds pressure. Confidence 0.62 >= 0.50 - filter ACTIVE. Slight downgrade from prior 0.65 as Fear & Greed bounced +9 pts and Iran truce could be risk-on wildcard.",
     "bullish_signals": [
-      "US-Iran 60-day truce extension awaiting signature — potential risk-on catalyst",
-      "RSI approaching oversold — technical bounce toward $75-77K possible",
-      "SoFi launched stablecoin (SoFiUSD) on-chain — mainstream adoption signal",
-      "$72K-$73K support zone holding; retail accumulation detected",
-      "CLARITY Act advancing in Senate — long-term regulatory positive"
+      "Fear & Greed recovered +9 pts to 47 (Neutral) - largest single-day jump in weeks",
+      "US-Iran truce: Trump in Situation Room for final determination, naval blockade to be lifted",
+      "Whale wallets (1000+ BTC) at 1,282 - matching year peak, quiet accumulation",
+      "CFTC approved first domestically regulated BTC perp futures (Kalshi) - structural positive",
+      "CLARITY Act advancing in Senate - long-term regulatory tailwind",
+      "RSI approaching oversold - technical bounce toward $75-77K possible"
     ],
     "bearish_signals": [
-      "BTC ETF outflow: $223M today; extended outflow streak",
-      "BTC down 5.5% week-over-week; May closes -5% from $77K start",
-      "Two-month winning streak ending — momentum reversal signal",
-      "Capital rotation from crypto to AI/semiconductor continues",
-      "Fear & Greed Index declining; funding rates cautious",
-      "Fed holding at 3.50-3.75% (next FOMC June 16-17) — no near-term catalyst for rate cuts"
+      "BTC ETF outflows: $1.26B over 6 consecutive sessions; $223M on May 29 alone",
+      "BTC down ~4.5% month-to-date; two-month winning streak ending",
+      "30Y Treasury yield at 5.198% - elevated risk-free rate suppresses risk assets",
+      "Hard selloff May 22-23 from $78,300 to $74,500 - bearish momentum intact",
+      "Geopolitical tensions (Iran) still unresolved - headline risk",
+      "Fed on hold at current rates (next FOMC June 16-17) - no near-term cut catalyst"
     ],
-    "macro_backdrop": "No major macro events in next 24h. Next catalysts: May Employment Report June 5, May CPI June 10 (8:30 ET), FOMC June 16-17 (Kevin Warsh chairs first SEP meeting). US-Iran geopolitical situation is dominant near-term factor — truce signature could briefly flip sentiment bullish."
+    "macro_backdrop": "No major macro data releases in next 24h. Month-end rebalancing (May 30) adds selling pressure. US-Iran truce finalization is dominant near-term wildcard - could briefly push BTC to $75-77K range if confirmed. Next key macro catalysts: US Employment Report June 5, CPI June 10 (8:30 ET), FOMC June 16-17."
   }
 }
