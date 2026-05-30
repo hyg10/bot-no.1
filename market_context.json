@@ -1,25 +1,25 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
-  "btc_price_usd": 73830.7,
+  "confidence": 0.60,
+  "btc_price_usd": 73889.8,
   "key_events_next_24h": [
     {
       "name": "BTC Spot ETF Daily Flow Report (9th+ consecutive outflow session expected)",
-      "time": "2026-05-30 20:00 UTC",
+      "time": "2026-05-31 20:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US Month-End Portfolio Rebalancing (May close)",
+      "name": "Weekend low-volume session - thin order books, elevated volatility risk",
       "time": "2026-05-30 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "Truth Social Bitcoin ETF SEC Decision (postponed, ongoing uncertainty)",
-      "time": "2026-05-30 18:00 UTC",
+      "name": "CFTC BTC perpetual futures (Kalshi) - recently approved, regulatory tailwind ongoing",
+      "time": "2026-05-29 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     },
     {
       "name": "No FOMC/CPI in next 24h (next FOMC June 16-17)",
@@ -28,30 +28,28 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "9연속 ETF 순유출·공포지수 25·5월 BTC -4.5% 하락",
-  "updated": "2026-05-30 16:07:00 UTC",
-  "valid_until": "2026-05-30 20:07:00 UTC",
+  "notes": "9연속 ETF 순유출·공포지수 22·5월 BTC -4.5% 하락세",
+  "updated": "2026-05-30 20:07:00 UTC",
+  "valid_until": "2026-05-31 00:07:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC $73,830.7 (24h range $73,088.9-$74,243.4) as of 16:07 UTC May 30 2026 (live Crypto.com perp). Down ~4.5% month-to-date from ~$77,000 at start of May. Q1 PCE inflation 4.5% annualized (released May 28) - stagflation signal weighing on risk assets.",
-    "regime_rationale": "BEARISH (0.70): BTC in confirmed weekly downtrend off ~$78,300 peak. ETF outflows record 9-day streak totalling $2B+ - worst run since spot ETFs launched Jan 2024. BlackRock IBIT shed $177.94M on May 28 alone. Fear & Greed at 25 (Extreme Fear). Hot PCE (4.5% annualized Q1) keeps Fed on hold at 3.5-3.75%. Month-end rebalancing adds selling pressure. Confidence 0.70 >= 0.50 - bot filter ACTIVE.",
+    "btc_price_note": "BTC $73,889.8 (24h range $73,118.3-$74,061.0) as of 20:07 UTC May 30 2026 (live Crypto.com perp). Down ~4.5% month-to-date from ~$77,000 at start of May.",
+    "regime_rationale": "BEARISH (0.60): BTC in confirmed monthly downtrend off ~$78,300 peak. ETF outflows on 9-day streak - BlackRock IBIT shed $177.94M on May 28 alone. Fear & Greed at 22 (Extreme Fear). CFTC approved Kalshi BTC perp futures (bullish structural) and Trump Iran truce post reduced morning losses, capping confidence to 0.60 vs previous 0.70. Bot filter ACTIVE (confidence >= 0.50).",
     "bullish_signals": [
-      "US-Iran truce / Strait of Hormuz naval blockade lifted - risk-on geopolitical shift",
-      "BTC bounced ~$1,000 off lows on Trump social media post",
+      "US-Iran truce / geopolitical risk-off easing (Trump social media post)",
       "CFTC approved first US-regulated BTC perpetual futures (Kalshi) - structural positive",
-      "Nasdaq gained SEC approval for Bitcoin index options (May 22) - institutional access expansion",
-      "CLARITY Act advancing in Senate - long-term crypto regulatory tailwind",
-      "Fear & Greed recovering from extreme fear floor (25)"
+      "Nasdaq gained SEC approval for Bitcoin index options - institutional access expansion",
+      "CLARITY Act advancing in Senate - long-term regulatory tailwind",
+      "Today's 24h change: +0.51% - mild intraday recovery from lows",
+      "Fear & Greed at 22 - extreme fear can signal near contrarian bounce"
     ],
     "bearish_signals": [
-      "BTC Spot ETF outflows: record 9-day streak, $2B+ withdrawn (worst since Jan 2024 launch)",
-      "BlackRock IBIT alone shed $177.94M on May 28",
+      "BTC Spot ETF outflows: 9-day streak, $228.88M on May 28 (BlackRock IBIT -$177.94M)",
       "BTC down ~4.5% month-to-date; two-month winning streak ending",
-      "Q1 PCE inflation 4.5% annualized - hot inflation keeps Fed on hold, caps risk appetite",
-      "Hard selloff from $78,300 peak to $73,000-$74,000 - bearish momentum intact",
-      "Fear & Greed at 25 (Extreme Fear)",
-      "China two-year brokerage shutdown adds structural selling pressure",
-      "$1.47B weekly ETP outflows across broader crypto market"
+      "Fear & Greed at 22 (Extreme Fear) - deeply pessimistic market",
+      "Hard selloff from $78,300 peak to $73,000-$74,000 range - bearish momentum",
+      "Weekend session: lower liquidity, thin order books",
+      "$1.47B+ weekly ETP outflows across broader crypto market"
     ],
-    "macro_backdrop": "No major macro data releases in next 24h. PCE and Q1 GDP second estimate already released May 28 (PCE 4.5% annualized - hot). Month-end rebalancing (May 30 close) is key near-term risk. Next key macro: Employment Report June 5, CPI June 10 (8:30 ET), FOMC June 16-17. Stagflation risk (high inflation + slowing growth) is the dominant macro theme."
+    "macro_backdrop": "No major macro data releases in next 24h (weekend). PCE already released May 28. Next key macro: Employment Report June 5, CPI June 10 (8:30 ET), FOMC June 16-17. Stagflation risk (high inflation + slowing growth) is dominant macro theme keeping Fed on hold at 3.5-3.75%."
   }
 }
