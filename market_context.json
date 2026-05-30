@@ -1,13 +1,13 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 74037,
+  "confidence": 0.70,
+  "btc_price_usd": 73500,
   "key_events_next_24h": [
     {
-      "name": "US-Iran 60-day truce extension signing (Trump desk, pending)",
-      "time": "2026-05-30 12:00 UTC",
+      "name": "BTC Options Expiry $6.25B (May 30)",
+      "time": "2026-05-30 08:00 UTC",
       "impact": "high",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     },
     {
       "name": "US Month-End Portfolio Rebalancing (May close)",
@@ -16,7 +16,7 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "BTC Spot ETF Daily Flow Report (6th+ consecutive outflow session expected)",
+      "name": "BTC Spot ETF Daily Flow Report (9th+ consecutive outflow session expected)",
       "time": "2026-05-30 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
@@ -28,29 +28,31 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $74K, ETF 15억 유출 6일, 극도공포→중립, 월말 약세",
-  "updated": "2026-05-30 04:07:25 UTC",
-  "valid_until": "2026-05-30 08:07:25 UTC",
+  "notes": "극공포→회복중, ETF 9일 유출 $28억, 옵션만기 변동성 주의",
+  "updated": "2026-05-30 08:30:00 UTC",
+  "valid_until": "2026-05-30 12:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$74,037 as of 04:07 UTC May 30 2026 (OKX). Range $73,000-$74,500 over past 48h. Down ~4.5% in May from ~$77,000 start. Peak $78,300 mid-May, hard selloff to $74,500 floor. Fear & Greed recovered from 25 (Extreme Fear, May 27) back toward mid-40s Neutral range by May 30.",
-    "regime_rationale": "BEARISH (0.65): BTC in confirmed weekly downtrend off $78,300 peak. ETF outflows $1.26B over 6 consecutive sessions ($1.47B weekly, worst of 2026). 30Y Treasury yield at 5.198% suppresses risk appetite. Month-end rebalancing adds selling pressure today. Confidence 0.65 >= 0.50 - bot filter ACTIVE. Iran truce is bullish wildcard but structural outflow pressure dominates.",
+    "btc_price_note": "BTC ~$73,500 (range $73,000-$74,037 across exchanges) as of 08:30 UTC May 30 2026. Down ~4.5% month-to-date from ~$77,000 start of May. Peak $78,300 mid-May, hard selloff to $73,000-74,000 floor. Prediction markets assign 77% probability to BTC staying in $72,000-$74,000 range on May 30.",
+    "regime_rationale": "BEARISH (0.70): BTC in confirmed weekly downtrend off $78,300 peak. ETF outflows record 9-day streak totalling $2.8B - worst run since spot ETFs launched Jan 2024. Fear & Greed bottomed at 25 (Extreme Fear) May 27, slight recovery underway. $6.25B options expiry today creates short-term volatility. Month-end rebalancing adds selling pressure. 30Y Treasury yield at 5.198% caps risk appetite. Confidence 0.70 >= 0.50 - bot filter ACTIVE.",
     "bullish_signals": [
-      "US-Iran 60-day truce extension on Trump's desk - risk-on catalyst if signed",
-      "BTC bounced $1,000 off lows on Trump social media post",
+      "US-Iran 60-day truce extension signed - risk-on geopolitical backdrop",
+      "BTC bounced ~$1,000 off lows on Trump social media post",
       "CFTC approved first US-regulated BTC perpetual futures (Kalshi) - structural positive",
       "Nasdaq gained SEC approval for Bitcoin index options (May 22) - institutional access",
-      "Whale wallets (1000+ BTC) accumulating quietly near lows",
-      "CLARITY Act advancing in Senate - long-term regulatory tailwind"
+      "Whale wallets (1000+ BTC) quietly accumulating near lows",
+      "CLARITY Act advancing in Senate - long-term regulatory tailwind",
+      "Fear & Greed recovering from extreme fear floor (25)"
     ],
     "bearish_signals": [
-      "BTC Spot ETF outflows: $1.47B weekly, worst of 2026; 6+ consecutive days",
+      "BTC Spot ETF outflows: record 9-day streak, $2.8B withdrawn (worst since Jan 2024 launch)",
       "BTC down ~4.5% month-to-date; two-month winning streak ending",
-      "30Y Treasury yield at 5.198% - elevated risk-free rate cap on risk assets",
-      "Hard selloff May 22-23 from $78,300 to $74,500 - bearish momentum intact",
-      "Fear & Greed bottomed at 25 (Extreme Fear) on May 27; fragile recovery",
-      "Fed on hold at 3.5-3.75% (next FOMC June 16-17) - no near-term cut catalyst",
-      "China two-year brokerage shutdown adds structural selling pressure"
+      "30Y Treasury yield at 5.198% - elevated risk-free rate suppresses risk assets",
+      "Hard selloff May 22-23 from $78,300 to $73,000-$74,000 - bearish momentum intact",
+      "Fear & Greed bottomed at 25 (Extreme Fear) on May 27 - fragile recovery",
+      "Fed on hold at 3.5-3.75% (next FOMC June 16-17) - no near-term rate cut catalyst",
+      "China two-year brokerage shutdown adds structural selling pressure",
+      "$6.25B options expiry today (May 30) creates short-term volatility risk"
     ],
-    "macro_backdrop": "No major macro data releases in next 24h. Month-end rebalancing (May 30) is dominant near-term pressure. US-Iran truce finalization is wildcard - brief push toward $75-77K possible if confirmed but ETF outflow trend likely reasserts. Next key macro: Employment Report June 5, CPI June 10 (8:30 ET), FOMC June 16-17."
+    "macro_backdrop": "No major macro data releases in next 24h. Key pressure points: $6.25B BTC options expiry at 08:00 UTC, month-end rebalancing (May 30). US-Iran truce finalization is partial bullish wildcard but ETF outflow trend likely reasserts. Next key macro: Employment Report June 5, CPI June 10 (8:30 ET), FOMC June 16-17."
   }
 }
