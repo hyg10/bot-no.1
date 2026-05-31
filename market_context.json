@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.52,
-  "btc_price_usd": 73858,
+  "confidence": 0.60,
+  "btc_price_usd": 74033,
   "key_events_next_24h": [
     {
       "name": "BTC Spot ETF Daily Flow Report (10th+ consecutive outflow session expected)",
@@ -34,16 +34,19 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "ETF 9연속 순유출·공포지수25·$73K 지지선 유지 중",
-  "updated": "2026-05-31 08:10:00 UTC",
-  "valid_until": "2026-05-31 12:10:00 UTC",
+  "notes": "ETF 9연속 순유출·공포지수25·$74K 소폭 반등",
+  "updated": "2026-05-31 10:00:00 UTC",
+  "valid_until": "2026-05-31 14:00:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC $73,858 (Crypto.com perp, 08:06 UTC). 24h range: $73,415-$74,178 (+0.56%). Support at $73K holding; slight intraday recovery but overall monthly trend down ~4.5% from ~$77K start of May.",
-    "regime_rationale": "BEARISH (0.52): Overall bearish structure intact. Fear & Greed at 25 (Extreme Fear). ETF outflows in 9th consecutive session (-$228.88M on May 28, BlackRock IBIT -$177.94M). Weekly ETP outflows $1.47B worst of 2026. BTC down 41% from Oct 2025 ATH of $126,198. Confidence moderated to 0.52 (from 0.65) as today's +0.56% recovery and $73K support hold suggest some near-term stabilisation. Still below bot filter threshold action zone.",
+    "btc_price_note": "BTC $74,033 (OKX, 10:00 UTC). 24h change: +0.08%. Range: $73,415-$74,178. Support at $73K holding; slight recovery from May 28-29 lows ($73,105). Monthly trend down ~4% from ~$77K start of May.",
+    "regime_rationale": "BEARISH (0.60): Bearish structure continues. Fear & Greed at 25 (Extreme Fear). ETF outflows entering 10th consecutive session (-$228.88M on May 28, BlackRock IBIT -$177.94M). Weekly ETP outflows $1.47B worst of 2026. Confidence raised to 0.60 vs prior 0.52 — trend consistency strengthens bearish read despite minor +0.08% intraday bounce and US-Iran truce extension.",
     "bullish_signals": [
-      "Today +0.56% intraday recovery; $73K support defended",
-      "US Strategic Bitcoin Reserve announcement expected within weeks (White House advisor Patrick Witt at Bitcoin 2026 Conference)",
+      "Today +0.08% 24h recovery; $73K support defended",
+      "US-Iran 60-day truce extension reduces geopolitical risk premium",
+      "Goldman Sachs filed SEC registration for new Bitcoin ETF — institutional demand signal",
+      "US Strategic Bitcoin Reserve announcement expected within weeks (White House)",
       "CFTC approved first US-regulated BTC perpetual futures (KalshiEX) — structural positive",
+      "Fannie Mae accepting crypto as mortgage collateral",
       "Fear & Greed at 25 (Extreme Fear) historically near contrarian bounce levels",
       "Strong limit buy orders at $70K-$72K demand zone"
     ],
@@ -52,13 +55,12 @@
       "Weekly ETP outflows: $1.47B — worst week of 2026",
       "$1.29B dark pool exit during the week",
       "Fear & Greed at 25 (Extreme Fear)",
-      "BTC down ~41% from Oct 2025 ATH $126,198; -11% YTD",
-      "FOMC June 17 hawkish risk (Kevin Warsh as new Fed Chair)",
+      "FOMC June 17 hawkish risk (Kevin Warsh as new Fed Chair, first meeting)",
       "CPI April 2026 at 3.8% YoY — stagflation pressure on risk assets",
       "China 2-year brokerage shutdown — reduced institutional crypto access",
       "Month-end rebalancing selling pressure (May 31)",
       "Capital rotating to AI equities and precious metals"
     ],
-    "macro_backdrop": "No CPI/PPI/FOMC in next 24h. Fed funds rate at 3.5-3.75%, 97.3% probability of no change at June meeting. Next key macro: ISM Mfg Jun 1, Employment Jun 5, CPI Jun 10, FOMC Jun 16-17. Stagflation risk dominant theme. No new ETF SEC decisions pending."
+    "macro_backdrop": "No CPI/PPI/FOMC in next 24h. ISM Mfg Jun 1 is nearest release. Fed funds rate at 3.5-3.75%, 65% probability of hold at June 16-17 FOMC. Next key macro: ISM Mfg Jun 1, Employment Jun 5, CPI Jun 10, FOMC Jun 16-17. Stagflation risk dominant. Goldman Sachs new BTC ETF filing positive for medium-term institutional demand."
   }
 }
