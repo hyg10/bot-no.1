@@ -1,55 +1,62 @@
 {
   "regime": "bearish",
   "confidence": 0.60,
-  "btc_price_usd": 73889.8,
+  "btc_price_usd": 73750,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report (9th+ consecutive outflow session expected)",
+      "name": "BTC Spot ETF Daily Flow Report (10th consecutive outflow session expected)",
       "time": "2026-05-31 20:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Weekend low-volume session - thin order books, elevated volatility risk",
-      "time": "2026-05-30 20:00 UTC",
+      "name": "Month-end institutional rebalancing (May 31 close)",
+      "time": "2026-05-31 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "CFTC BTC perpetual futures (Kalshi) - recently approved, regulatory tailwind ongoing",
-      "time": "2026-05-29 00:00 UTC",
+      "name": "US-Iran 60-day truce extension signing (pending presidential signature)",
+      "time": "2026-05-31 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "No FOMC/CPI in next 24h (next FOMC June 16-17)",
-      "time": "2026-06-16 18:00 UTC",
+      "name": "Goldman Sachs Bitcoin ETF SEC review (ongoing — no fixed date)",
+      "time": "2026-06-01 00:00 UTC",
       "impact": "low",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "FOMC June 16-17 hawkish pivot building — rate hike risk premium",
+      "time": "2026-06-16 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "9연속 ETF 순유출·공포지수 22·5월 BTC -4.5% 하락세",
-  "updated": "2026-05-30 20:07:00 UTC",
-  "valid_until": "2026-05-31 00:07:00 UTC",
+  "notes": "ETF 9연속 순유출·공포지수25·월말 리밸런싱 압박",
+  "updated": "2026-05-31 00:07:08 UTC",
+  "valid_until": "2026-05-31 04:07:08 UTC",
   "analysis": {
-    "btc_price_note": "BTC $73,889.8 (24h range $73,118.3-$74,061.0) as of 20:07 UTC May 30 2026 (live Crypto.com perp). Down ~4.5% month-to-date from ~$77,000 at start of May.",
-    "regime_rationale": "BEARISH (0.60): BTC in confirmed monthly downtrend off ~$78,300 peak. ETF outflows on 9-day streak - BlackRock IBIT shed $177.94M on May 28 alone. Fear & Greed at 22 (Extreme Fear). CFTC approved Kalshi BTC perp futures (bullish structural) and Trump Iran truce post reduced morning losses, capping confidence to 0.60 vs previous 0.70. Bot filter ACTIVE (confidence >= 0.50).",
+    "btc_price_note": "BTC ~$73,500-$74,000 across exchanges (Bybit $73,906, OKX $74,034, Coinbase $73,524) as of 00:07 UTC May 31 2026. Down ~4.5% month-to-date from ~$77,000 at start of May.",
+    "regime_rationale": "BEARISH (0.60): BTC in confirmed monthly downtrend. Fear & Greed dropped to 25 (Extreme Fear, down 9 pts in single day). ETF outflows on 9-day streak — BlackRock IBIT -$177.94M on May 28 alone; weekly ETP outflows $1.47B (worst of 2026). Month-end rebalancing adds selling pressure. Partial offset from US-Iran truce positive and CFTC Kalshi BTC perp approval.",
     "bullish_signals": [
-      "US-Iran truce / geopolitical risk-off easing (Trump social media post)",
-      "CFTC approved first US-regulated BTC perpetual futures (Kalshi) - structural positive",
-      "Nasdaq gained SEC approval for Bitcoin index options - institutional access expansion",
-      "CLARITY Act advancing in Senate - long-term regulatory tailwind",
-      "Today's 24h change: +0.51% - mild intraday recovery from lows",
-      "Fear & Greed at 22 - extreme fear can signal near contrarian bounce"
+      "US-Iran 60-day truce extension pending presidential signature — geopolitical risk-off easing",
+      "CFTC approved first US-regulated BTC perpetual futures (Kalshi) — structural positive",
+      "Goldman Sachs Bitcoin ETF SEC filing — institutional pipeline expanding",
+      "American Reserves Modernization Act (1M BTC govt reserve proposal) gaining attention",
+      "Extreme Fear (25) can signal near-term contrarian bounce territory"
     ],
     "bearish_signals": [
-      "BTC Spot ETF outflows: 9-day streak, $228.88M on May 28 (BlackRock IBIT -$177.94M)",
-      "BTC down ~4.5% month-to-date; two-month winning streak ending",
-      "Fear & Greed at 22 (Extreme Fear) - deeply pessimistic market",
-      "Hard selloff from $78,300 peak to $73,000-$74,000 range - bearish momentum",
-      "Weekend session: lower liquidity, thin order books",
-      "$1.47B+ weekly ETP outflows across broader crypto market"
+      "BTC Spot ETF: 9 consecutive outflow sessions, $228.88M on May 28 (BlackRock IBIT -$177.94M)",
+      "Weekly ETP outflows: $1.47B — worst week of 2026",
+      "$1.29B dark pool exit in week",
+      "Fear & Greed at 25 (Extreme Fear) — fell 9 pts in one day",
+      "BTC down ~4.5% month-to-date; selling from ~$78,300 peak to $73,500 range",
+      "FOMC June 17 hawkish pivot expected (Kevin Warsh as new Fed Chair) — rate hike risk",
+      "China 2-year brokerage shutdown — reduced institutional crypto access",
+      "Month-end rebalancing selling pressure (May 31)"
     ],
-    "macro_backdrop": "No major macro data releases in next 24h (weekend). PCE already released May 28. Next key macro: Employment Report June 5, CPI June 10 (8:30 ET), FOMC June 16-17. Stagflation risk (high inflation + slowing growth) is dominant macro theme keeping Fed on hold at 3.5-3.75%."
+    "macro_backdrop": "No CPI/PPI/FOMC in next 24h (weekend). Next key macro: Employment Report June 5, CPI June 10 (8:30 ET), FOMC June 16-17. Stagflation risk (CPI 3.8% YoY, PPI 6% YoY) dominant theme. Kevin Warsh (new Fed Chair since May 22) expected to signal hawkish hike at June 17 FOMC — negative for risk assets including BTC."
   }
 }
