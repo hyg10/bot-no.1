@@ -1,36 +1,26 @@
 {
   "regime": "bearish",
   "confidence": 0.62,
-  "btc_price_usd": 73900,
+  "btc_price_usd": 73692.79,
   "key_events_next_24h": [
     {
-      "name": "US PCE Deflator (April 2026)",
-      "time": "2026-05-31 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "ISM Manufacturing PMI (May 2026)",
-      "time": "2026-06-01 14:00 UTC",
+      "name": "ISM Manufacturing PMI (June 2026)",
+      "time": "2026-06-02 15:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "Month-End Portfolio Rebalancing",
-      "time": "2026-05-31 16:00 UTC",
-      "impact": "low",
-      "expected_direction": "bearish"
     }
   ],
-  "notes": "공포지수25·ETF10일연속유출·기술지표매도우세·단기약세",
+  "notes": "ETF 자금유출 지속, EMA 하방, 연준 매파적 스탠스로 약세 우위",
   "sources": {
-    "fear_greed_index": 25,
+    "btc_price_source": "Crypto.com live ticker 2026-06-01T00:07:11Z",
+    "etf_outflow_may_usd": "2300000000",
     "etf_outflow_streak_days": 10,
-    "etf_net_outflow_since_may15_usd": "3000000000",
-    "technical_signals": "13 sell vs 3 buy",
-    "fomc_next": "2026-06-16/17 (no change expected, 97.3% probability)",
-    "cpi_next": "2026-06-10"
+    "rsi": "~35 (approaching oversold)",
+    "ema_status": "below 20/50/100-day EMAs",
+    "fomc_next": "2026-06-16/17 (hold expected, 98.2% probability)",
+    "cpi_next": "2026-06-10",
+    "sentiment": "2.23:1 bullish-to-bearish (Santiment, contrarian caution)"
   },
-  "updated": "2026-05-31 12:00:00 UTC",
-  "valid_until": "2026-05-31 16:00:00 UTC"
+  "updated": "2026-06-01 00:15:00 UTC",
+  "valid_until": "2026-06-01 04:15:00 UTC"
 }
