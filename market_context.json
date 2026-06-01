@@ -1,26 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
-  "btc_price_usd": 73692.79,
-  "key_events_next_24h": [
-    {
-      "name": "ISM Manufacturing PMI (June 2026)",
-      "time": "2026-06-02 15:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    }
-  ],
-  "notes": "ETF 자금유출 지속, EMA 하방, 연준 매파적 스탠스로 약세 우위",
+  "confidence": 0.70,
+  "btc_price_usd": 73413,
+  "key_events_next_24h": [],
+  "notes": "ETF 5월 23억달러 순유출·기술적 하락세, 공포지수 23(극도의 공포)",
   "sources": {
-    "btc_price_source": "Crypto.com live ticker 2026-06-01T00:07:11Z",
+    "btc_price_source": "CoinGecko/CoinMarketCap 2026-06-01",
     "etf_outflow_may_usd": "2300000000",
     "etf_outflow_streak_days": 10,
     "rsi": "~35 (approaching oversold)",
     "ema_status": "below 20/50/100-day EMAs",
-    "fomc_next": "2026-06-16/17 (hold expected, 98.2% probability)",
+    "fear_greed_index": "23 (Extreme Fear)",
+    "fomc_next": "2026-06-16/17 (hold expected, 65% probability)",
     "cpi_next": "2026-06-10",
+    "employment_next": "2026-06-05",
     "sentiment": "2.23:1 bullish-to-bearish (Santiment, contrarian caution)"
   },
-  "updated": "2026-06-01 00:15:00 UTC",
-  "valid_until": "2026-06-01 04:15:00 UTC"
+  "updated": "2026-06-01 06:00:00 UTC",
+  "valid_until": "2026-06-01 10:00:00 UTC"
 }
