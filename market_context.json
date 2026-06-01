@@ -1,34 +1,34 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 73500,
+  "btc_price_usd": 72145,
   "key_events_next_24h": [
     {
-      "name": "Bitcoin Spot ETF Daily Flow Report (10-day outflow streak)",
+      "name": "Bitcoin Spot ETF Daily Flow Report (10-day outflow streak, $2.97B total)",
       "time": "2026-06-01 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran Geopolitical Tension (Ongoing Risk)",
+      "name": "No major macro releases today (FOMC: Jun 16-17, CPI: Jun 10)",
       "time": "2026-06-01 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 10일 연속 순유출 $29억, 미-이란 긴장으로 약세",
+  "notes": "ETF 10일 연속 순유출 29.7억달러, 주요 EMA 하방, RSI 35",
   "sources": {
-    "btc_price_source": "CoinGecko/Coinbase/OKX 2026-06-01 ~05:34 UTC",
-    "btc_price_range_usd": "73300-73700",
+    "btc_price_source": "CoinDesk/Yahoo Finance 2026-06-01 ~08:45 ET",
+    "btc_price_range_usd": "71400-73568",
     "etf_outflow_since_may15_usd": "2970000000",
     "etf_outflow_streak_days": 10,
-    "rsi_estimate": "approaching oversold",
-    "ema_status": "below key EMAs, failed to hold $76380",
-    "fomc_next": "2026-06-16/17 (hold expected, 98.2% probability)",
+    "rsi_estimate": "~35, approaching oversold",
+    "ema_status": "below 20, 50, 100-day EMAs",
+    "fomc_next": "2026-06-16/17 (hold expected, 97.3% probability)",
     "cpi_next_release": "2026-06-10",
-    "us_cpi_april": "3.8% YoY (elevated, energy-driven)",
+    "strategy_btc_sale": "MicroStrategy sold 32 BTC (first-ever net disposal, bearish signal)",
     "social_sentiment": "2.23:1 bullish-bearish ratio (Santiment) - contrarian bearish signal"
   },
-  "updated": "2026-06-01 06:10:00 UTC",
-  "valid_until": "2026-06-01 10:10:00 UTC"
+  "updated": "2026-06-01 14:30:00 UTC",
+  "valid_until": "2026-06-01 18:30:00 UTC"
 }
