@@ -1,16 +1,16 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "US Spot BTC ETF Daily Flow Data",
-      "time": "2026-06-02 20:00 UTC",
+      "name": "US ISM Manufacturing PMI (May)",
+      "time": "2026-06-02 14:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (June 16-17) - upcoming hawkish hold expected",
-      "time": "2026-06-16 18:00 UTC",
+      "name": "BTC Spot ETF Daily Flow Report (11th consecutive outflow risk)",
+      "time": "2026-06-02 22:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
@@ -19,9 +19,15 @@
       "time": "2026-06-05 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "US CPI May 2026",
+      "time": "2026-06-10 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC 3연속 월간 하락, ETF 기록적 유출, Fear&Greed 23 극공포",
-  "updated": "2026-06-02 06:30:00 UTC",
-  "valid_until": "2026-06-02 10:30:00 UTC"
+  "notes": "BTC $72K 이하, ETF 10연속 순유출 $29.7억, 공포지수 23",
+  "updated": "2026-06-02 08:07:17 UTC",
+  "valid_until": "2026-06-02 12:07:17 UTC"
 }
