@@ -1,27 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "Bitcoin spot ETF daily outflow data release",
-      "time": "2026-06-02 21:00 UTC",
+      "name": "US Spot BTC ETF Daily Flow Data",
+      "time": "2026-06-02 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "US equities market open (AI rally vs crypto divergence)",
-      "time": "2026-06-02 13:30 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC meeting - Kevin Warsh hawkish pivot (upcoming)",
-      "time": "2026-06-17 18:00 UTC",
+      "name": "FOMC Meeting (June 16-17) - upcoming hawkish hold expected",
+      "time": "2026-06-16 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "US Non-Farm Payrolls May 2026",
+      "time": "2026-06-05 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 10일 연속 순유출, 공포지수 23, 하락세 지속",
-  "updated": "2026-06-02 08:00:00 UTC",
-  "valid_until": "2026-06-02 12:00:00 UTC"
+  "notes": "BTC 3연속 월간 하락, ETF 기록적 유출, Fear&Greed 23 극공포",
+  "updated": "2026-06-02 06:30:00 UTC",
+  "valid_until": "2026-06-02 10:30:00 UTC"
 }
