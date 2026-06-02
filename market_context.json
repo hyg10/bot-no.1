@@ -1,6 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
+  "confidence": 0.70,
+  "btc_price_approx": 71000,
   "key_events_next_24h": [
     {
       "name": "US ISM Manufacturing PMI (May)",
@@ -18,16 +19,22 @@
       "name": "US Non-Farm Payrolls May 2026",
       "time": "2026-06-05 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
       "name": "US CPI May 2026",
       "time": "2026-06-10 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Rate Decision",
+      "time": "2026-06-17 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $72K 이하, ETF 10연속 순유출 $29.7억, 공포지수 23",
-  "updated": "2026-06-02 08:07:17 UTC",
-  "valid_until": "2026-06-02 12:07:17 UTC"
+  "notes": "ETF 10일 연속 유출 $29.7억, 공포지수 23, 하락 압력 지속",
+  "updated": "2026-06-02 09:30:00 UTC",
+  "valid_until": "2026-06-02 13:30:00 UTC"
 }
