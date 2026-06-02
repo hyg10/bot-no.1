@@ -10,6 +10,12 @@
       "expected_direction": "bearish"
     },
     {
+      "name": "US Strategic Bitcoin Reserve design unveil (expected before Jul 22 deadline, no exact date)",
+      "time": "2026-06-02 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
       "name": "US Non-Farm Payrolls May 2026",
       "time": "2026-06-05 12:30 UTC",
       "impact": "high",
@@ -22,13 +28,13 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Rate Decision",
+      "name": "FOMC Rate Decision (hold at 3.5-3.75% expected)",
       "time": "2026-06-17 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $69K 급락(-4%), 공포지수 23, ETF 10일 연속 유출 $29.7억",
-  "updated": "2026-06-02 14:00:00 UTC",
-  "valid_until": "2026-06-02 18:00:00 UTC"
+  "notes": "공포지수23, ETF 10연속유출 $29.7억, BTC 고점比 -45% 하락세",
+  "updated": "2026-06-02 14:30:00 UTC",
+  "valid_until": "2026-06-02 18:30:00 UTC"
 }
