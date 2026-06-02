@@ -1,14 +1,8 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
-  "btc_price_approx": 71000,
+  "confidence": 0.75,
+  "btc_price_approx": 69350,
   "key_events_next_24h": [
-    {
-      "name": "US ISM Manufacturing PMI (May)",
-      "time": "2026-06-02 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
     {
       "name": "BTC Spot ETF Daily Flow Report (11th consecutive outflow risk)",
       "time": "2026-06-02 22:00 UTC",
@@ -34,7 +28,7 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 10일 연속 유출 $29.7억, 공포지수 23, 하락 압력 지속",
-  "updated": "2026-06-02 09:30:00 UTC",
-  "valid_until": "2026-06-02 13:30:00 UTC"
+  "notes": "BTC $69K 급락(-4%), 공포지수 23, ETF 10일 연속 유출 $29.7억",
+  "updated": "2026-06-02 14:00:00 UTC",
+  "valid_until": "2026-06-02 18:00:00 UTC"
 }
