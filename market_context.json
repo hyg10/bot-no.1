@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
   "confidence": 0.75,
-  "btc_price_usd": 66667.0,
+  "btc_price_usd": 66965.0,
   "key_events_next_24h": [
     {
       "name": "US Equity Market Open (macro selloff ongoing, BTC/DJIA 84% correlation)",
@@ -34,33 +34,34 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Rate Decision (hold at 3.50-3.75% expected)",
+      "name": "FOMC Rate Decision (hold at 3.50-3.75% expected, 96.9% probability)",
       "time": "2026-06-17 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $6.6만 하락·공포지수 11·ETF 10일 순유출 지속",
-  "updated": "2026-06-03 11:30:00 UTC",
-  "valid_until": "2026-06-03 15:30:00 UTC",
+  "notes": "BTC $6.7만 급락·$12.3억 청산·공포지수 Fear·NFP·CPI 앞두고 매도 지속",
+  "updated": "2026-06-03 12:05:00 UTC",
+  "valid_until": "2026-06-03 16:05:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$66,667 opening June 3 2026 — lowest since March 30. Down ~6.5% from Tuesday open, ~6% in 24h. ~45% below Oct 2025 ATH of $126,200. Spot ETF outflows: 10 consecutive sessions, ~$2.97B total.",
-    "regime_rationale": "BEARISH (0.75): BTC in confirmed weekly downtrend. Fear & Greed Index at 11 (Extreme Fear). Price below 20/50/100-day EMAs. RSI ~35. ETF outflows dominant. US-Iran tensions ongoing. Strong USD + sticky inflation (CPI 3.8% YoY April) suppress risk assets. Confidence 0.75 >= 0.50 — bearish filter ACTIVE.",
+    "btc_price_note": "BTC ~$66,965 as of June 3 2026 06:53 EDT. Opened below $67,000, down ~6.5% from Tuesday open. $1.23B liquidations triggered when BTC fell below $68K on June 2. ~45% below ATH. Spot ETF outflows: 10 consecutive sessions, ~$2.97B total.",
+    "regime_rationale": "BEARISH (0.75): BTC in confirmed weekly downtrend. Fear & Greed Index in Fear zone. $1.23B liquidations on June 2 selloff. ETF outflows dominant (10-day streak). US-Iran tensions ongoing. Strategy sold 32 BTC (first sale since 2022). Mt. Gox 10,400 BTC on-chain distribution pressure. Confidence 0.75 >= 0.50 — bearish filter ACTIVE.",
     "bullish_signals": [
-      "RSI ~35 approaching oversold — short-term technical bounce possible",
+      "RSI approaching oversold — short-term technical bounce possible",
       "Key support at $65,000-66,000 range — watching for hold",
-      "Derivatives open interest stabilizing — capitulation may be near"
+      "XLM +40% on DTCC partnership shows selective altcoin strength",
+      "Meta AI base bull target $88,000-$95,000 by June 30 if washout complete"
     ],
     "bearish_signals": [
-      "BTC ~$66,667 open June 3 — down 6.5% from Tuesday, lowest since March 30",
-      "Fear & Greed Index at 11 (Extreme Fear)",
+      "BTC ~$66,965 open June 3 — down 6.5% from Tuesday, triggering $1.23B liquidations",
+      "Fear & Greed Index in Fear zone (sentiment bearish)",
       "ETF outflows: 10 consecutive sessions, ~$2.97B total",
-      "US-Iran conflict escalated: peace talks collapsed, risk-off sentiment",
+      "US-Iran geopolitical tensions — risk-off sentiment",
       "Mt. Gox ~10,400 BTC creditor repayment on-chain sell pressure",
-      "Fed holding at 3.50-3.75%, April CPI at 3.8% — no near-term cuts",
-      "Price below 20/50/100-day EMAs — all short-term MAs bearish",
-      "USD strength and institutional selling (84% BTC/DJIA correlation)"
+      "Strategy sold 32 BTC for $2.5M (first disposal since 2022) — bearish signal",
+      "Fed holding at 3.50-3.75%, core CPI near 2.8% — no near-term cuts",
+      "Multiple analysts flagging 6 separate bearish drivers simultaneously"
     ],
-    "macro_backdrop": "No major macro releases in next ~24h beyond ISM Services PMI (June 3 14:00 UTC). Next key catalysts: US May NFP June 5 (12:30 UTC), May CPI June 10 (12:30 UTC), FOMC June 16-17. Geopolitical risk and ETF outflows dominant near-term drivers."
+    "macro_backdrop": "FOMC next meeting June 16-17, 96.9% probability of hold at 3.50-3.75%. This will be first meeting under Warsh leadership. Key upcoming: NFP June 5 (12:30 UTC), CPI May June 10 (12:30 UTC), PPI May June 11 (12:30 UTC). Geopolitical risk (US-Iran) and ETF outflows are dominant near-term bearish drivers."
   }
 }
