@@ -1,23 +1,17 @@
 {
   "regime": "bearish",
   "confidence": 0.75,
-  "btc_price_usd": 67500.0,
+  "btc_price_usd": 66667.0,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Geopolitical Tensions (Ongoing — peace talks collapsed)",
-      "time": "2026-06-03 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Mt. Gox BTC Creditor Repayment (~10,400 BTC on-chain movement)",
-      "time": "2026-06-03 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US Equity Market Open (macro selloff ongoing, BTC/DJIA correlation)",
+      "name": "US Equity Market Open (macro selloff ongoing, BTC/DJIA 84% correlation)",
       "time": "2026-06-03 13:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "ISM Services PMI (May 2026)",
+      "time": "2026-06-03 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
@@ -46,28 +40,27 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $6.7만대, ETF 10일 연속 유출·중동 갈등 지속. 하락 추세 강함",
-  "updated": "2026-06-03 08:00:00 UTC",
-  "valid_until": "2026-06-03 12:00:00 UTC",
+  "notes": "BTC $6.6만 하락·공포지수 11·ETF 10일 순유출 지속",
+  "updated": "2026-06-03 11:30:00 UTC",
+  "valid_until": "2026-06-03 15:30:00 UTC",
   "analysis": {
-    "btc_price_note": "BTC ~$67,500 as of 08:00 UTC June 3 2026. Down ~6% in 24h. BTC slid below $70K, triggered $1.23B in liquidations. ~45% below Oct 2025 ATH of $126,200. Strategy sold 32 BTC (first since 2022), adding sell pressure.",
-    "regime_rationale": "BEARISH (0.75): BTC in confirmed weekly downtrend. ETF outflows: 10 consecutive sessions, ~$2.97B total. Fear & Greed Index in Fear zone. Price below key EMAs. Coinbase Premium negative. US-Iran conflict escalated (peace talks failed) — risk-off dominant. Mt. Gox ~10,400 BTC on-chain adds sell pressure. Strong USD and sticky inflation suppress risk assets. Confidence 0.75 >= 0.50 — filter ACTIVE.",
+    "btc_price_note": "BTC ~$66,667 opening June 3 2026 — lowest since March 30. Down ~6.5% from Tuesday open, ~6% in 24h. ~45% below Oct 2025 ATH of $126,200. Spot ETF outflows: 10 consecutive sessions, ~$2.97B total.",
+    "regime_rationale": "BEARISH (0.75): BTC in confirmed weekly downtrend. Fear & Greed Index at 11 (Extreme Fear). Price below 20/50/100-day EMAs. RSI ~35. ETF outflows dominant. US-Iran tensions ongoing. Strong USD + sticky inflation (CPI 3.8% YoY April) suppress risk assets. Confidence 0.75 >= 0.50 — bearish filter ACTIVE.",
     "bullish_signals": [
-      "RSI approaching oversold — technical bounce possible",
-      "Derivatives show mildly bullish positioning / open interest stabilizing",
-      "Key support at $65,000-66,000 range holding"
+      "RSI ~35 approaching oversold — short-term technical bounce possible",
+      "Key support at $65,000-66,000 range — watching for hold",
+      "Derivatives open interest stabilizing — capitulation may be near"
     ],
     "bearish_signals": [
-      "BTC ~-6% in 24h, ~45% below Oct 2025 ATH of $126,200",
+      "BTC ~$66,667 open June 3 — down 6.5% from Tuesday, lowest since March 30",
+      "Fear & Greed Index at 11 (Extreme Fear)",
       "ETF outflows: 10 consecutive sessions, ~$2.97B total",
-      "Mt. Gox ~10,400 BTC on-chain movement (creditor repayment selling pressure)",
-      "Strategy sold 32 BTC — first sale since 2022, sentiment shock",
-      "US-Iran conflict escalated: peace talks collapsed, geopolitical risk elevated",
-      "Fear & Greed Index in Fear zone, declining funding rates",
-      "Fed holding at 3.50-3.75%, sticky inflation — no near-term rate cuts",
-      "Price below 20/50/100-day EMAs",
-      "USD strength pressuring risk assets"
+      "US-Iran conflict escalated: peace talks collapsed, risk-off sentiment",
+      "Mt. Gox ~10,400 BTC creditor repayment on-chain sell pressure",
+      "Fed holding at 3.50-3.75%, April CPI at 3.8% — no near-term cuts",
+      "Price below 20/50/100-day EMAs — all short-term MAs bearish",
+      "USD strength and institutional selling (84% BTC/DJIA correlation)"
     ],
-    "macro_backdrop": "No major scheduled releases in next 24h (June 3-4). Next catalysts: US May NFP June 5 (12:30 UTC), May CPI June 10 (12:30 UTC), FOMC June 16-17. Fed virtually certain to hold rates. Geopolitical risk (US-Iran) and ETF outflows are dominant near-term bearish drivers."
+    "macro_backdrop": "No major macro releases in next ~24h beyond ISM Services PMI (June 3 14:00 UTC). Next key catalysts: US May NFP June 5 (12:30 UTC), May CPI June 10 (12:30 UTC), FOMC June 16-17. Geopolitical risk and ETF outflows dominant near-term drivers."
   }
 }
