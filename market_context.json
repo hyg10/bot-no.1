@@ -1,19 +1,19 @@
 {
   "regime": "bearish",
   "confidence": 0.75,
-  "btc_price_approx": 69350,
+  "btc_price_approx": 67500,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report (11th consecutive outflow risk)",
-      "time": "2026-06-02 22:00 UTC",
+      "name": "BTC Spot ETF Daily Flow Report (11th+ consecutive outflow streak)",
+      "time": "2026-06-03 22:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US Strategic Bitcoin Reserve design unveil (expected before Jul 22 deadline, no exact date)",
-      "time": "2026-06-02 00:00 UTC",
+      "name": "US Equity Market Open (BTC/DJIA 84% correlation, macro selloff ongoing)",
+      "time": "2026-06-03 13:30 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "bearish"
     },
     {
       "name": "US Non-Farm Payrolls May 2026",
@@ -34,7 +34,7 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수23, ETF 10연속유출 $29.7억, BTC 고점比 -45% 하락세",
-  "updated": "2026-06-02 14:30:00 UTC",
-  "valid_until": "2026-06-02 18:30:00 UTC"
+  "notes": "공포지수23, ETF 10연속유출 $100억, BTC $67K 약세 지속",
+  "updated": "2026-06-03 00:07:48 UTC",
+  "valid_until": "2026-06-03 04:07:48 UTC"
 }
