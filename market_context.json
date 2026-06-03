@@ -1,11 +1,17 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
-  "btc_price_approx": 67500,
+  "confidence": 0.70,
+  "btc_price_usd": 66380.0,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report (11th+ consecutive outflow streak)",
-      "time": "2026-06-03 22:00 UTC",
+      "name": "US-Iran Geopolitical Tensions (Ongoing — peace talks collapsed)",
+      "time": "2026-06-03 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Mt. Gox BTC Creditor Repayment ($739M on-chain movement)",
+      "time": "2026-06-03 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
@@ -16,25 +22,51 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "US Non-Farm Payrolls May 2026",
+      "name": "BTC Spot ETF Daily Flow Report (11-day outflow streak, ~$3.45B total)",
+      "time": "2026-06-03 22:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US May Non-Farm Payrolls Release",
       "time": "2026-06-05 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US CPI May 2026",
+      "name": "US May CPI Release",
       "time": "2026-06-10 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Rate Decision (hold at 3.5-3.75% expected)",
+      "name": "FOMC Rate Decision (hold at 3.50-3.75% expected, ~97% priced)",
       "time": "2026-06-17 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수23, ETF 10연속유출 $100억, BTC $67K 약세 지속",
-  "updated": "2026-06-03 00:07:48 UTC",
-  "valid_until": "2026-06-03 04:07:48 UTC"
+  "notes": "BTC $66K대, ETF 11일 연속 유출·중동 갈등 지속. 하락 추세 강함",
+  "updated": "2026-06-03 04:10:00 UTC",
+  "valid_until": "2026-06-03 08:10:00 UTC",
+  "analysis": {
+    "btc_price_note": "BTC $66,380 as of 04:07 UTC June 3 2026 (Crypto.com live ticker BTCUSD-PERP). Down 6.36% in 24h. 24h range: $65,350-$70,961. Down ~13% in a week. ~45% below ATH. $1.23B crypto liquidations triggered.",
+    "regime_rationale": "BEARISH (0.70): BTC in confirmed weekly downtrend, -6.36% today. ETF outflows: 11 straight sessions, ~$3.45B total (2026 record). Fear & Greed Index = 23 (Fear). RSI ~35 approaching oversold. Price below 20/50/100-day EMAs. Coinbase Premium deeply negative. US-Iran conflict escalated — risk-off dominant. Mt. Gox $739M BTC on-chain adds sell pressure. Confidence 0.70 >= 0.50 — filter ACTIVE.",
+    "bullish_signals": [
+      "RSI ~35 approaching oversold — technical bounce possible",
+      "Derivatives show mildly bullish positioning / open interest stabilizing",
+      "Key support at $65,350 (24h low) holding intraday"
+    ],
+    "bearish_signals": [
+      "BTC -6.36% in 24h, -13% in a week, ~45% below ATH",
+      "ETF outflows: 11 consecutive sessions, ~$3.45B total — 2026 record",
+      "Mt. Gox $739M BTC on-chain movement (creditor repayment selling pressure)",
+      "US-Iran conflict escalated: Israel ops in Lebanon, Iran suspends nuclear talks",
+      "Fear & Greed Index = 23 (Fear zone), declining funding rates",
+      "Fed holding at 3.50-3.75%, elevated CPI 3.8% YoY — no near-term rate cuts",
+      "Coinbase Premium Index deeply negative (~-100)",
+      "Price below 20/50/100-day EMAs, RSI trending down"
+    ],
+    "macro_backdrop": "No major scheduled releases in next 24h (June 3-4). Next catalysts: US May NFP June 5 (12:30 UTC), May CPI June 10 (12:30 UTC), FOMC June 16-17. Fed virtually certain to hold rates. Geopolitical risk (US-Iran) is dominant near-term driver."
+  }
 }
