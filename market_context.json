@@ -1,28 +1,30 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 63679,
+  "confidence": 0.72,
+  "btc_price_usd": 62447,
   "key_events_next_24h": [
     {
-      "name": "US Non-Farm Payrolls (NFP) May 2026",
+      "name": "US Nonfarm Payrolls (May 2026)",
       "time": "2026-06-05 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish",
+      "note": "Strong jobs data = hawkish Fed signal, bearish for risk assets"
     },
     {
-      "name": "Bitcoin Spot ETF outflows continue (record weekly outflows, institutional selling)",
-      "time": "2026-06-04 13:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "name": "BTC Spot ETF Outflows (ongoing)",
+      "time": "2026-06-04 ongoing",
+      "impact": "high",
+      "expected_direction": "bearish",
+      "note": "11-day outflow streak, $3.45B cumulative; institutional selling pressure"
     },
     {
-      "name": "No major macro releases today (next: CPI Jun 10, PPI Jun 11, FOMC Jun 16-17)",
+      "name": "No major macro releases today (CPI Jun 10, PPI Jun 11, FOMC Jun 16-17)",
       "time": "2026-06-04 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 유출·인플레 우려로 하락세, RSI 과매도 단기 반등 가능",
-  "updated": "2026-06-04 08:10:00 UTC",
-  "valid_until": "2026-06-04 12:10:00 UTC"
+  "notes": "BTC $62,447 하락세, ETF 11일 순유출 $34.5억, 공포 구간",
+  "updated": "2026-06-04 12:08:00 UTC",
+  "valid_until": "2026-06-04 16:08:00 UTC"
 }
