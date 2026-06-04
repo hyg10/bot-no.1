@@ -1,23 +1,17 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
-  "btc_price_usd": 65500,
+  "confidence": 0.65,
+  "btc_price_usd": 63679,
   "key_events_next_24h": [
     {
-      "name": "Bitcoin Spot ETF Outflows Week 4 (~$4.2B cumulative, record $3.4B single week)",
-      "time": "2026-06-04 09:30 UTC",
+      "name": "US Non-Farm Payrolls (NFP) May 2026",
+      "time": "2026-06-05 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "FOMC June 16-17 Anticipation (86% hold at 3.50-3.75%, rate cut pushed to 2027)",
-      "time": "2026-06-04 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US-Iran Geopolitical Tension (ongoing risk-off, no major escalation scheduled)",
-      "time": "2026-06-04 00:00 UTC",
+      "name": "Bitcoin Spot ETF outflows continue (record weekly outflows, institutional selling)",
+      "time": "2026-06-04 13:30 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
@@ -28,7 +22,7 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 사상 최대 유출·공포지수 Fear·금리인하 2027 지연 우려",
-  "updated": "2026-06-04 06:30:00 UTC",
-  "valid_until": "2026-06-04 10:30:00 UTC"
+  "notes": "ETF 유출·인플레 우려로 하락세, RSI 과매도 단기 반등 가능",
+  "updated": "2026-06-04 08:10:00 UTC",
+  "valid_until": "2026-06-04 12:10:00 UTC"
 }
