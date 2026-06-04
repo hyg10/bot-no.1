@@ -1,22 +1,22 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 67000,
+  "confidence": 0.68,
+  "btc_price_usd": 65500,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Geopolitical Tensions (Ongoing)",
-      "time": "2026-06-03 00:00 UTC",
-      "impact": "high",
+      "name": "BTC ETF outflow watch (10-day streak, $2.97B cumulative net outflow)",
+      "time": "2026-06-04 09:30 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "No major economic releases scheduled (next: CPI Jun 10, FOMC Jun 16-17)",
+      "name": "No major scheduled macro releases (next: CPI Jun 10, PPI Jun 11, FOMC Jun 16-17)",
       "time": "2026-06-04 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $67k, 7일 -11.6%, 공포지수 위축, 이란긴장·인플레 우려 지속",
-  "updated": "2026-06-03 11:00:00 UTC",
-  "valid_until": "2026-06-03 15:00:00 UTC"
+  "notes": "ETF 10일 연속 순유출·공포지수 Fear·BTC $65k대 하락세",
+  "updated": "2026-06-04 06:00:00 UTC",
+  "valid_until": "2026-06-04 10:00:00 UTC"
 }
