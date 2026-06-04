@@ -1,30 +1,30 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
-  "btc_price_usd": 62447,
+  "confidence": 0.75,
+  "btc_price_usd": 63650,
   "key_events_next_24h": [
     {
       "name": "US Nonfarm Payrolls (May 2026)",
       "time": "2026-06-05 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Strong jobs data = hawkish Fed signal, bearish for risk assets"
+      "note": "Strong jobs = hawkish Fed signal, bearish for risk assets"
     },
     {
-      "name": "BTC Spot ETF Outflows (ongoing)",
+      "name": "BTC Spot ETF Outflows (ongoing, day 11+)",
       "time": "2026-06-04 ongoing",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "11-day outflow streak, $3.45B cumulative; institutional selling pressure"
+      "note": "11-day streak, $3.45B cumulative; cascading $1.5B liquidations"
     },
     {
-      "name": "No major macro releases today (CPI Jun 10, PPI Jun 11, FOMC Jun 16-17)",
+      "name": "No additional major macro today (CPI Jun 10, FOMC Jun 16-17)",
       "time": "2026-06-04 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $62,447 하락세, ETF 11일 순유출 $34.5억, 공포 구간",
-  "updated": "2026-06-04 12:08:00 UTC",
-  "valid_until": "2026-06-04 16:08:00 UTC"
+  "notes": "BTC $63,650 하락세, ETF 11일 순유출, 공포구간, 약세 지속",
+  "updated": "2026-06-04 13:00:00 UTC",
+  "valid_until": "2026-06-04 17:00:00 UTC"
 }
