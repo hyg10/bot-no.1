@@ -1,28 +1,14 @@
 {
   "regime": "bearish",
   "confidence": 0.78,
-  "btc_price_usd": 62875,
+  "btc_price_usd": 60443,
   "key_events_next_24h": [
     {
-      "name": "US Non-Farm Payrolls (May 2026)",
-      "time": "2026-06-05 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Strong jobs = hawkish Fed; weak jobs = recession fear. Both risk-off for BTC in current regime"
-    },
-    {
-      "name": "ISM Services PMI (May 2026)",
-      "time": "2026-06-05 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral",
-      "note": "Watch for miss vs beat relative to prior 51.6"
-    },
-    {
-      "name": "BTC Spot ETF Daily Flow Report (13-day outflow streak)",
+      "name": "BTC Spot ETF Daily Flow Report (13-day outflow streak, -$4.4B total)",
       "time": "2026-06-05 21:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "$4.4B cumulative outflows over record 13 days; MicroStrategy first BTC sale since 2022 triggered wave"
+      "note": "Persistent institutional redemptions; structural shift in appetite rather than one-off rotation"
     },
     {
       "name": "US-Iran Geopolitical Tensions (Ongoing)",
@@ -35,9 +21,9 @@
   "upcoming_macro": [
     {"name": "CPI June 10 08:30 ET", "impact": "high"},
     {"name": "PPI June 11 08:30 ET", "impact": "medium"},
-    {"name": "FOMC June 16-17 Warsh first meeting (hold expected 3.50-3.75%)", "impact": "high"}
+    {"name": "FOMC June 16-17 (hold expected 3.50-3.75%)", "impact": "high"}
   ],
-  "notes": "BTC $62,875, ETF 13일 44억달러 순유출, 하락추세, NFP·지정학 주목",
-  "updated": "2026-06-05 09:15:00 UTC",
-  "valid_until": "2026-06-05 13:15:00 UTC"
+  "notes": "BTC $60,443 급락(-5.3%). ETF 13일 44억달러 유출. 장기홀더 매도. 강한 약세",
+  "updated": "2026-06-05 16:07:24 UTC",
+  "valid_until": "2026-06-05 20:07:24 UTC"
 }
