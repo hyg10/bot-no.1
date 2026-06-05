@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
   "confidence": 0.75,
-  "btc_price_usd": 62768,
+  "btc_price_usd": 63000,
   "key_events_next_24h": [
     {
       "name": "US Non-Farm Payrolls (May 2026)",
@@ -23,6 +23,13 @@
       "impact": "high",
       "expected_direction": "bearish",
       "note": "$3.45B cumulative outflows over 11 days; continued streak = further downside pressure"
+    },
+    {
+      "name": "US-Iran Geopolitical Tensions (Ongoing)",
+      "time": "2026-06-05 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "note": "US-Iran exchanging fire, peace talks failed; risk-off pressure on crypto"
     }
   ],
   "upcoming_macro": [
@@ -30,7 +37,7 @@
     {"name": "PPI June 11 08:30 ET", "impact": "medium"},
     {"name": "FOMC June 16-17 (hold expected at 3.50-3.75%)", "impact": "high"}
   ],
-  "notes": "ETF 11일 연속 순유출 34억달러, BTC 주간 -13% 공포구간",
-  "updated": "2026-06-05 04:10:00 UTC",
-  "valid_until": "2026-06-05 08:10:00 UTC"
+  "notes": "BTC -14% 주간, ETF 11일 34억달러 순유출, NFP 오늘 12:30",
+  "updated": "2026-06-05 08:07:33 UTC",
+  "valid_until": "2026-06-05 12:07:33 UTC"
 }
