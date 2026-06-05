@@ -1,21 +1,21 @@
 {
   "regime": "bearish",
   "confidence": 0.78,
-  "btc_price_usd": 60443,
+  "btc_price_usd": 61000,
   "key_events_next_24h": [
     {
       "name": "BTC Spot ETF Daily Flow Report (13-day outflow streak, -$4.4B total)",
-      "time": "2026-06-05 21:00 UTC",
+      "time": "2026-06-06 21:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
       "note": "Persistent institutional redemptions; structural shift in appetite rather than one-off rotation"
     },
     {
-      "name": "US-Iran Geopolitical Tensions (Ongoing)",
-      "time": "2026-06-05 00:00 UTC",
+      "name": "US-Iran / Mideast Geopolitical Tensions (Ongoing)",
+      "time": "2026-06-06 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "US-Iran exchanging fire, peace talks failed; risk-off pressure on crypto"
+      "note": "Hezbollah rejected Israel ceasefire offer; risk-off pressure on crypto"
     }
   ],
   "upcoming_macro": [
@@ -23,7 +23,7 @@
     {"name": "PPI June 11 08:30 ET", "impact": "medium"},
     {"name": "FOMC June 16-17 (hold expected 3.50-3.75%)", "impact": "high"}
   ],
-  "notes": "BTC $60,443 급락(-5.3%). ETF 13일 44억달러 유출. 장기홀더 매도. 강한 약세",
-  "updated": "2026-06-05 16:07:24 UTC",
-  "valid_until": "2026-06-05 20:07:24 UTC"
+  "notes": "BTC $61K대, ETF 13일 44억달러 유출, 장기홀더 매도 지속, 약세",
+  "updated": "2026-06-05 20:30:00 UTC",
+  "valid_until": "2026-06-06 00:30:00 UTC"
 }
