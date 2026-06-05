@@ -1,30 +1,36 @@
 {
   "regime": "bearish",
-  "confidence": 0.78,
-  "btc_price_usd": 63649,
+  "confidence": 0.80,
+  "btc_price_usd": 62500,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report (day 12+ outflow streak)",
-      "time": "2026-06-04 20:00 UTC",
+      "name": "US Non-Farm Payrolls (May 2026) - First Friday",
+      "time": "2026-06-05 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Record 12-day streak, $3.45B cumulative; cascading $1.5B liquidations this week"
+      "note": "Strong jobs = hawkish Fed concern -> risk-off; weak jobs = recession fear -> also risk-off for BTC currently"
+    },
+    {
+      "name": "BTC Spot ETF Daily Flow Report (day 13 outflow streak)",
+      "time": "2026-06-05 21:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish",
+      "note": "Record 11-day streak, $3.45B cumulative; BlackRock IBIT alone -$980M. Continued outflow = further downside"
     },
     {
       "name": "ISM Services PMI (May 2026)",
       "time": "2026-06-05 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Weak reading could reinforce risk-off; strong reading = hawkish Fed concern"
-    },
-    {
-      "name": "CPI Jun 10, FOMC Jun 16-17, NFP Jun 9 - no major macro today",
-      "time": "2026-06-04 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "note": "Weak = reinforces risk-off; strong = hawkish Fed fear. Both scenarios currently bearish for BTC"
     }
   ],
-  "notes": "BTC $63,649 주간 -13%, ETF 12일 연속 순유출, 공포구간 약세",
-  "updated": "2026-06-04 12:00:00 UTC",
-  "valid_until": "2026-06-04 16:00:00 UTC"
+  "upcoming_macro": [
+    {"name": "NFP June 9 / CPI June 10", "impact": "high"},
+    {"name": "PPI June 11", "impact": "medium"},
+    {"name": "FOMC June 16-17 (hold expected at 3.50-3.75%)", "impact": "high"}
+  ],
+  "notes": "BTC $62K대, ETF대규모유출+장기보유자매도, 강한약세",
+  "updated": "2026-06-05 08:00:00 UTC",
+  "valid_until": "2026-06-05 12:00:00 UTC"
 }
