@@ -1,36 +1,36 @@
 {
   "regime": "bearish",
-  "confidence": 0.80,
-  "btc_price_usd": 62500,
+  "confidence": 0.75,
+  "btc_price_usd": 62768,
   "key_events_next_24h": [
     {
-      "name": "US Non-Farm Payrolls (May 2026) - First Friday",
+      "name": "US Non-Farm Payrolls (May 2026)",
       "time": "2026-06-05 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Strong jobs = hawkish Fed concern -> risk-off; weak jobs = recession fear -> also risk-off for BTC currently"
-    },
-    {
-      "name": "BTC Spot ETF Daily Flow Report (day 13 outflow streak)",
-      "time": "2026-06-05 21:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Record 11-day streak, $3.45B cumulative; BlackRock IBIT alone -$980M. Continued outflow = further downside"
+      "note": "Strong jobs = hawkish Fed; weak jobs = recession fear. Both risk-off for BTC in current regime"
     },
     {
       "name": "ISM Services PMI (May 2026)",
       "time": "2026-06-05 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Weak = reinforces risk-off; strong = hawkish Fed fear. Both scenarios currently bearish for BTC"
+      "note": "Watch for miss vs beat relative to prior 51.6"
+    },
+    {
+      "name": "BTC Spot ETF Daily Flow Report (11-day outflow streak)",
+      "time": "2026-06-05 21:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish",
+      "note": "$3.45B cumulative outflows over 11 days; continued streak = further downside pressure"
     }
   ],
   "upcoming_macro": [
-    {"name": "NFP June 9 / CPI June 10", "impact": "high"},
-    {"name": "PPI June 11", "impact": "medium"},
+    {"name": "CPI June 10 08:30 ET", "impact": "high"},
+    {"name": "PPI June 11 08:30 ET", "impact": "medium"},
     {"name": "FOMC June 16-17 (hold expected at 3.50-3.75%)", "impact": "high"}
   ],
-  "notes": "BTC $62K대, ETF대규모유출+장기보유자매도, 강한약세",
-  "updated": "2026-06-05 08:00:00 UTC",
-  "valid_until": "2026-06-05 12:00:00 UTC"
+  "notes": "ETF 11일 연속 순유출 34억달러, BTC 주간 -13% 공포구간",
+  "updated": "2026-06-05 04:10:00 UTC",
+  "valid_until": "2026-06-05 08:10:00 UTC"
 }
