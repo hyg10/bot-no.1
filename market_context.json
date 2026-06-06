@@ -1,35 +1,35 @@
 {
   "regime": "bearish",
   "confidence": 0.75,
-  "btc_price_usd": 62515,
+  "btc_price_usd": 61500,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report (13-day outflow streak, -$4.4B cumulative)",
+      "name": "BTC Spot ETF Daily Flow Report (record $3.4B weekly outflow, 19/30 days negative)",
       "time": "2026-06-06 21:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "13-day record outflow streak continues; institutional redemption pressure dominates"
+      "note": "Structural institutional selling, not temporary rotation"
     },
     {
       "name": "US-Iran Geopolitical Tension (ongoing, failed peace talks)",
       "time": "2026-06-06 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "US-Iran conflict suppresses risk appetite; high correlation with DJIA (84%) amplifies impact"
+      "note": "Risk-off environment; BTC 84% correlated with DJIA"
     },
     {
-      "name": "Fed Hawkish Hold Sentiment (no meeting until June 16-17)",
+      "name": "Fed Hawkish Hold Sentiment (sticky CPI 3.8%, strong USD)",
       "time": "2026-06-06 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Sticky CPI (3.8% YoY Apr) + strong USD limit crypto upside; next decision June 16-17"
+      "note": "No FOMC until June 16-17; hold expected, limits upside"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC Filing (under review, no decision today)",
+      "name": "Goldman Sachs Bitcoin ETF SEC Filing (under review, no ruling expected today)",
       "time": "2026-06-06 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral",
-      "note": "No scheduled ruling within 24h; minor background positive for long-term"
+      "note": "Long-term positive but no near-term catalyst"
     }
   ],
   "upcoming_macro": [
@@ -39,13 +39,13 @@
   ],
   "market_signals": {
     "fear_greed_index": "Fear",
-    "etf_outflow_streak_days": 13,
-    "etf_outflow_cumulative_usd": -4400000000,
-    "btc_weekly_change_pct": -14.3,
-    "btc_from_ath_pct": -50.5,
-    "institutional_note": "MicroStrategy sold 32 BTC (first sale in years); AI stock rotation absorbing capital"
+    "etf_weekly_outflow_usd": -3400000000,
+    "btc_24h_change_pct": -3.84,
+    "btc_2week_change_pct": -16.0,
+    "prediction_market_below_60k": "~80% probability (Kalshi)",
+    "institutional_note": "MicroStrategy sold 32 BTC (first sale since 2022); preferred stock dividend obligations"
   },
-  "notes": "BTC $62K, ETF 유출 13일 연속, 공포구간, 주간 -14% 약세",
-  "updated": "2026-06-06 08:30:00 UTC",
-  "valid_until": "2026-06-06 12:30:00 UTC"
+  "notes": "BTC 61k, ETF 주간 34억달러 유출, Fear, -16% 약세 지속",
+  "updated": "2026-06-06 12:05:40 UTC",
+  "valid_until": "2026-06-06 16:05:40 UTC"
 }
