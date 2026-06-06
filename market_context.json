@@ -1,35 +1,35 @@
 {
   "regime": "bearish",
-  "confidence": 0.78,
-  "btc_price_usd": 61600,
+  "confidence": 0.75,
+  "btc_price_usd": 62515,
   "key_events_next_24h": [
     {
       "name": "BTC Spot ETF Daily Flow Report (13-day outflow streak, -$4.4B cumulative)",
       "time": "2026-06-06 21:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Persistent institutional redemptions; structural outflow bias, not a one-off rotation"
+      "note": "13-day record outflow streak continues; institutional redemption pressure dominates"
     },
     {
-      "name": "US-Iran Geopolitical Tension (ongoing, failed peace talks as of June 1)",
+      "name": "US-Iran Geopolitical Tension (ongoing, failed peace talks)",
       "time": "2026-06-06 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "US-Iran conflict continues to weigh on risk appetite and crypto markets"
+      "note": "US-Iran conflict suppresses risk appetite; high correlation with DJIA (84%) amplifies impact"
     },
     {
-      "name": "Fed Hawkish Hold Sentiment (3.50-3.75%, no meeting until June 16-17)",
+      "name": "Fed Hawkish Hold Sentiment (no meeting until June 16-17)",
       "time": "2026-06-06 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Sticky inflation (CPI 3.8% YoY Apr) + USD strength keep rate-cut hopes low"
+      "note": "Sticky CPI (3.8% YoY Apr) + strong USD limit crypto upside; next decision June 16-17"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC Filing (Pending, no decision expected today)",
+      "name": "Goldman Sachs Bitcoin ETF SEC Filing (under review, no decision today)",
       "time": "2026-06-06 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral",
-      "note": "Application under review; no scheduled decision within 24h"
+      "note": "No scheduled ruling within 24h; minor background positive for long-term"
     }
   ],
   "upcoming_macro": [
@@ -37,7 +37,15 @@
     {"name": "PPI May release June 11 08:30 ET", "impact": "medium"},
     {"name": "FOMC Meeting June 16-17 (hold expected at 3.50-3.75%)", "impact": "high"}
   ],
-  "notes": "BTC $61k대, ETF 13일 연속 유출, 공포구간, 주간 -17% 약세",
-  "updated": "2026-06-06 04:04:00 UTC",
-  "valid_until": "2026-06-06 08:04:00 UTC"
+  "market_signals": {
+    "fear_greed_index": "Fear",
+    "etf_outflow_streak_days": 13,
+    "etf_outflow_cumulative_usd": -4400000000,
+    "btc_weekly_change_pct": -14.3,
+    "btc_from_ath_pct": -50.5,
+    "institutional_note": "MicroStrategy sold 32 BTC (first sale in years); AI stock rotation absorbing capital"
+  },
+  "notes": "BTC $62K, ETF 유출 13일 연속, 공포구간, 주간 -14% 약세",
+  "updated": "2026-06-06 08:30:00 UTC",
+  "valid_until": "2026-06-06 12:30:00 UTC"
 }
