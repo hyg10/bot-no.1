@@ -1,21 +1,28 @@
 {
   "regime": "bearish",
-  "confidence": 0.78,
-  "btc_price_usd": 61000,
+  "confidence": 0.75,
+  "btc_price_usd": 62500,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report (13-day outflow streak, -$4.4B total)",
+      "name": "BTC Spot ETF Daily Flow Report (13-day outflow streak, -$4.4B cumulative)",
       "time": "2026-06-06 21:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Persistent institutional redemptions; structural shift in appetite rather than one-off rotation"
+      "note": "Persistent institutional redemptions; structural outflow bias, not a one-off rotation"
     },
     {
-      "name": "US-Iran / Mideast Geopolitical Tensions (Ongoing)",
+      "name": "Fed Rate Hold Sentiment (3.5-3.75% - no meeting today, hawkish stance ongoing)",
       "time": "2026-06-06 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Hezbollah rejected Israel ceasefire offer; risk-off pressure on crypto"
+      "note": "Sticky inflation concerns and USD strength keep rate-cut odds low; risk assets under pressure"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin Premium Income ETF - SEC Filing (Pending, no decision today)",
+      "time": "2026-06-06 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral",
+      "note": "Filing submitted; no approval decision scheduled for next 24h"
     }
   ],
   "upcoming_macro": [
@@ -23,7 +30,7 @@
     {"name": "PPI June 11 08:30 ET", "impact": "medium"},
     {"name": "FOMC June 16-17 (hold expected 3.50-3.75%)", "impact": "high"}
   ],
-  "notes": "BTC $61K대, ETF 13일 44억달러 유출, 장기홀더 매도 지속, 약세",
-  "updated": "2026-06-05 20:30:00 UTC",
-  "valid_until": "2026-06-06 00:30:00 UTC"
+  "notes": "BTC $62,500 주간 -14%, ETF 13일 연속 유출, 공포구간 약세",
+  "updated": "2026-06-06 00:30:00 UTC",
+  "valid_until": "2026-06-06 04:30:00 UTC"
 }
