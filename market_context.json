@@ -1,51 +1,52 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
-  "btc_price_usd": 61500,
+  "confidence": 0.78,
+  "btc_price_usd": 61095,
   "key_events_next_24h": [
     {
       "name": "BTC Spot ETF Daily Flow Report (record $3.4B weekly outflow, 19/30 days negative)",
       "time": "2026-06-06 21:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Structural institutional selling, not temporary rotation"
+      "note": "Structural institutional selling; not temporary rotation"
     },
     {
-      "name": "US-Iran Geopolitical Tension (ongoing, failed peace talks)",
-      "time": "2026-06-06 00:00 UTC",
+      "name": "US-Iran Geopolitical Tension (ongoing risk-off)",
+      "time": "2026-06-06 16:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Risk-off environment; BTC 84% correlated with DJIA"
+      "note": "BTC 84% correlated with DJIA; macro selloff environment"
     },
     {
-      "name": "Fed Hawkish Hold Sentiment (sticky CPI 3.8%, strong USD)",
-      "time": "2026-06-06 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "No FOMC until June 16-17; hold expected, limits upside"
-    },
-    {
-      "name": "Goldman Sachs Bitcoin ETF SEC Filing (under review, no ruling expected today)",
-      "time": "2026-06-06 00:00 UTC",
+      "name": "Weekend low-liquidity window (amplifies volatility)",
+      "time": "2026-06-07 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral",
-      "note": "Long-term positive but no near-term catalyst"
+      "note": "Lower volume Sat-Sun; gap moves possible on Monday open"
     }
   ],
   "upcoming_macro": [
-    {"name": "CPI May release June 10 08:30 ET", "impact": "high"},
-    {"name": "PPI May release June 11 08:30 ET", "impact": "medium"},
-    {"name": "FOMC Meeting June 16-17 (hold expected at 3.50-3.75%)", "impact": "high"}
+    {"name": "CPI May release", "date": "2026-06-10 12:30 UTC", "impact": "high"},
+    {"name": "PPI May release", "date": "2026-06-11 12:30 UTC", "impact": "medium"},
+    {"name": "FOMC Meeting (hold expected at 3.50-3.75%)", "date": "2026-06-16 to 2026-06-17", "impact": "high"}
   ],
   "market_signals": {
     "fear_greed_index": "Fear",
+    "technical_bearish_count": 30,
+    "technical_bullish_count": 4,
     "etf_weekly_outflow_usd": -3400000000,
     "btc_24h_change_pct": -3.84,
-    "btc_2week_change_pct": -16.0,
-    "prediction_market_below_60k": "~80% probability (Kalshi)",
-    "institutional_note": "MicroStrategy sold 32 BTC (first sale since 2022); preferred stock dividend obligations"
+    "btc_2week_change_pct": -15.4,
+    "dominant_factors": [
+      "BTC fell from $72k to $61k in ~1 week (-15%); 4-month low",
+      "Record $3.4B ETF outflows in 7 days; 19/30 days negative",
+      "MicroStrategy sold 32 BTC - first sale since 2022",
+      "CPI 3.8% YoY (highest since 2023); Fed holding, no cuts",
+      "~$1.5B leveraged long liquidations triggered",
+      "US-Iran tensions; risk-off environment"
+    ]
   },
-  "notes": "BTC 61k, ETF 주간 34억달러 유출, Fear, -16% 약세 지속",
-  "updated": "2026-06-06 12:05:40 UTC",
-  "valid_until": "2026-06-06 16:05:40 UTC"
+  "notes": "BTC 61k 4개월 최저, ETF 34억달러 유출, Fear, 베어 강세",
+  "updated": "2026-06-06 16:04:50 UTC",
+  "valid_until": "2026-06-06 20:04:50 UTC"
 }
