@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
   "confidence": 0.75,
-  "btc_price_usd": 60600,
+  "btc_price_usd": 61000,
   "key_events_next_24h": [
     {
       "name": "Weekend low-liquidity window (Sun gap risk)",
@@ -15,32 +15,33 @@
       "time": "2026-06-07 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "7-day streak of outflows totaling -$2.42B; institutional selling continues"
+      "note": "Record $3.4B weekly ETF outflow; institutional selling continues"
     }
   ],
   "upcoming_macro": [
-    {"name": "CPI May 2026 release", "date": "2026-06-10 12:30 UTC", "impact": "high"},
-    {"name": "PPI May 2026 release", "date": "2026-06-11 12:30 UTC", "impact": "medium"},
-    {"name": "FOMC Meeting (hawkish bias; sticky inflation 3.8% YoY)", "date": "2026-06-16 to 2026-06-17", "impact": "high"}
+    {"name": "CPI May 2026 release", "date": "2026-06-10 08:30 UTC", "impact": "high"},
+    {"name": "PPI May 2026 release", "date": "2026-06-11 08:30 UTC", "impact": "medium"},
+    {"name": "FOMC Rate Decision (hold expected; 3.5%-3.75%)", "date": "2026-06-16 to 2026-06-17", "impact": "high"}
   ],
   "market_signals": {
     "fear_greed_index": "Extreme Fear (12)",
-    "etf_weekly_outflow_usd": -2420000000,
-    "btc_24h_change_pct": -0.85,
+    "etf_weekly_outflow_usd": -3400000000,
+    "btc_24h_change_pct": -3.60,
     "btc_7d_change_pct": -17.0,
     "btc_drawdown_from_ath_pct": -51.8,
     "key_support_broken": 62000,
     "dominant_factors": [
-      "BTC ~$60.6K - down 51% from Oct 2025 ATH of $126,200",
-      "7-day ETF outflow streak: -$2.42B with zero positive flow days",
+      "BTC ~$61K - down 51% from Oct 2025 ATH of $126,200",
+      "Record $3.4B weekly ETF outflow - largest since ETF launch",
       "BTC broke $62K support triggering ~$1.5B in long liquidations",
-      "Sticky inflation (CPI 3.8% YoY); Fed hawkish pivot risk at Jun 16-17 FOMC",
+      "FOMC hawkish hold expected Jun 16-17; inflation uncertainty persists",
       "Michael Saylor Strategy sold 32 BTC - first BTC sale since 2022",
-      "Fear & Greed Index at 12 (Extreme Fear); historically near local bottom",
-      "Futures open interest down 5.29% over 7 days; leveraged longs exiting"
+      "Fear & Greed Index at 12 (Extreme Fear); 363 of 390 tokens in red",
+      "US-Iran tensions adding macro risk; strong USD pressuring crypto",
+      "Crypto Clarity Act passage increasingly unlikely (regulatory risk)"
     ]
   },
-  "notes": "BTC $60.6K, ETF 7일 연속 유출, 공포지수 12, 매크로 불확실",
-  "updated": "2026-06-07 03:10:00 UTC",
-  "valid_until": "2026-06-07 07:10:00 UTC"
+  "notes": "BTC $61K 급락, ETF 사상최대 유출, 매도세 지속. FOMC 6/17",
+  "updated": "2026-06-07 03:30:00 UTC",
+  "valid_until": "2026-06-07 07:30:00 UTC"
 }
