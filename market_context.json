@@ -1,46 +1,46 @@
 {
   "regime": "bearish",
   "confidence": 0.75,
-  "btc_price_usd": 60800,
+  "btc_price_usd": 60600,
   "key_events_next_24h": [
     {
-      "name": "Weekend low-liquidity window (Sat gap risk)",
+      "name": "Weekend low-liquidity window (Sun gap risk)",
       "time": "2026-06-07 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral",
-      "note": "Lower volume Sat-Sun; gap moves possible on Monday open"
+      "note": "Lower volume Sun; gap moves possible on Monday open"
     },
     {
-      "name": "BTC Spot ETF Daily Flow Report (record $3.4B weekly outflow)",
+      "name": "BTC Spot ETF Daily Flow Report",
       "time": "2026-06-07 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Institutional selling pressure ongoing; not a temporary rotation"
+      "note": "7-day streak of outflows totaling -$2.42B; institutional selling continues"
     }
   ],
   "upcoming_macro": [
     {"name": "CPI May 2026 release", "date": "2026-06-10 12:30 UTC", "impact": "high"},
     {"name": "PPI May 2026 release", "date": "2026-06-11 12:30 UTC", "impact": "medium"},
-    {"name": "FOMC Meeting (hold 98.7%, hawkish pivot signal expected)", "date": "2026-06-16 to 2026-06-17", "impact": "high"}
+    {"name": "FOMC Meeting (hawkish bias; sticky inflation 3.8% YoY)", "date": "2026-06-16 to 2026-06-17", "impact": "high"}
   ],
   "market_signals": {
-    "fear_greed_index": "Fear",
-    "etf_weekly_outflow_usd": -3400000000,
-    "btc_24h_change_pct": -3.6,
+    "fear_greed_index": "Extreme Fear (12)",
+    "etf_weekly_outflow_usd": -2420000000,
+    "btc_24h_change_pct": -0.85,
     "btc_7d_change_pct": -17.0,
     "btc_drawdown_from_ath_pct": -51.8,
     "key_support_broken": 62000,
     "dominant_factors": [
-      "BTC $60.8K - down 51% from Oct 2025 ATH of $126,200",
-      "Record $3.4B weekly ETF outflows; largest since spot ETF launch (Jan 2024)",
-      "BTC broke below $62K support triggering $1.5B in long liquidations",
-      "April CPI 3.8% YoY (highest since 2023); Fed hawkish pivot at June 16-17 FOMC",
+      "BTC ~$60.6K - down 51% from Oct 2025 ATH of $126,200",
+      "7-day ETF outflow streak: -$2.42B with zero positive flow days",
+      "BTC broke $62K support triggering ~$1.5B in long liquidations",
+      "Sticky inflation (CPI 3.8% YoY); Fed hawkish pivot risk at Jun 16-17 FOMC",
       "Michael Saylor Strategy sold 32 BTC - first BTC sale since 2022",
-      "BTC-DJIA correlation 84%; macro risk-off environment",
-      "Fear & Greed Index in Fear zone; social media sentiment bearish"
+      "Fear & Greed Index at 12 (Extreme Fear); historically near local bottom",
+      "Futures open interest down 5.29% over 7 days; leveraged longs exiting"
     ]
   },
-  "notes": "BTC $61K 붕괴, ETF 역대 최대 유출, 연준 매파 전환 우려",
-  "updated": "2026-06-07 00:06:14 UTC",
-  "valid_until": "2026-06-07 04:06:14 UTC"
+  "notes": "BTC $60.6K, ETF 7일 연속 유출, 공포지수 12, 매크로 불확실",
+  "updated": "2026-06-07 03:10:00 UTC",
+  "valid_until": "2026-06-07 07:10:00 UTC"
 }
