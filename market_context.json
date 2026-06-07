@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
   "confidence": 0.75,
-  "btc_price_usd": 61000,
+  "btc_price_usd": 61537,
   "key_events_next_24h": [
     {
       "name": "Weekend low-liquidity window (Sun gap risk)",
@@ -15,7 +15,7 @@
       "time": "2026-06-07 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Record $3.4B weekly ETF outflow; institutional selling continues"
+      "note": "$3.2B+ weekly ETF outflow; institutional selling continues"
     }
   ],
   "upcoming_macro": [
@@ -24,24 +24,22 @@
     {"name": "FOMC Rate Decision (hold expected; 3.5%-3.75%)", "date": "2026-06-16 to 2026-06-17", "impact": "high"}
   ],
   "market_signals": {
-    "fear_greed_index": "Extreme Fear (12)",
-    "etf_weekly_outflow_usd": -3400000000,
-    "btc_24h_change_pct": -3.60,
-    "btc_7d_change_pct": -17.0,
-    "btc_drawdown_from_ath_pct": -51.8,
-    "key_support_broken": 62000,
+    "fear_greed_index": "Fear (33)",
+    "etf_weekly_outflow_usd": -3200000000,
+    "btc_24h_change_pct": 1.01,
+    "btc_drawdown_from_ath_pct": -51.2,
     "dominant_factors": [
-      "BTC ~$61K - down 51% from Oct 2025 ATH of $126,200",
-      "Record $3.4B weekly ETF outflow - largest since ETF launch",
-      "BTC broke $62K support triggering ~$1.5B in long liquidations",
-      "FOMC hawkish hold expected Jun 16-17; inflation uncertainty persists",
+      "BTC ~$61.5K - down 51% from Oct 2025 ATH of $126,200",
+      "Spot ETF outflows exceeded $3.2B this week",
+      "Fear & Greed Index 33 (Fear); 317 of 390 tokens in red",
+      "XWIN Trend Index 8/100 - Strong Downtrend signal",
       "Michael Saylor Strategy sold 32 BTC - first BTC sale since 2022",
-      "Fear & Greed Index at 12 (Extreme Fear); 363 of 390 tokens in red",
-      "US-Iran tensions adding macro risk; strong USD pressuring crypto",
-      "Crypto Clarity Act passage increasingly unlikely (regulatory risk)"
+      "Capital rotating to stocks/AI/chip rally; crypto narrative fading",
+      "Geopolitical risk: Hezbollah rejected ceasefire offer, USD strong",
+      "Next FOMC June 16-17; hold at 3.5-3.75% expected (86% probability)"
     ]
   },
-  "notes": "BTC $61K 급락, ETF 사상최대 유출, 매도세 지속. FOMC 6/17",
-  "updated": "2026-06-07 03:30:00 UTC",
-  "valid_until": "2026-06-07 07:30:00 UTC"
+  "notes": "공포지수 33, ETF 32억달러 유출, 주간 하락세 지속",
+  "updated": "2026-06-07 12:00:00 UTC",
+  "valid_until": "2026-06-07 16:00:00 UTC"
 }
