@@ -1,49 +1,46 @@
 {
   "regime": "bearish",
-  "confidence": 0.78,
-  "btc_price_usd": 60585,
+  "confidence": 0.75,
+  "btc_price_usd": 60800,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report (record $3.4B weekly outflow, structural selling)",
-      "time": "2026-06-06 21:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Institutional selling; not temporary rotation"
-    },
-    {
-      "name": "Israel-Hezbollah ceasefire rejected - ongoing risk-off",
-      "time": "2026-06-06 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "BTC 84% correlated with DJIA; macro selloff environment"
-    },
-    {
-      "name": "Weekend low-liquidity window (amplifies volatility)",
+      "name": "Weekend low-liquidity window (Sat gap risk)",
       "time": "2026-06-07 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral",
       "note": "Lower volume Sat-Sun; gap moves possible on Monday open"
+    },
+    {
+      "name": "BTC Spot ETF Daily Flow Report (record $3.4B weekly outflow)",
+      "time": "2026-06-07 21:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "note": "Institutional selling pressure ongoing; not a temporary rotation"
     }
   ],
   "upcoming_macro": [
-    {"name": "CPI May release", "date": "2026-06-10 12:30 UTC", "impact": "high"},
-    {"name": "PPI May release", "date": "2026-06-11 12:30 UTC", "impact": "medium"},
-    {"name": "FOMC Meeting (hold expected 98.7%, rate 3.50-3.75%)", "date": "2026-06-16 to 2026-06-17", "impact": "high"}
+    {"name": "CPI May 2026 release", "date": "2026-06-10 12:30 UTC", "impact": "high"},
+    {"name": "PPI May 2026 release", "date": "2026-06-11 12:30 UTC", "impact": "medium"},
+    {"name": "FOMC Meeting (hold 98.7%, hawkish pivot signal expected)", "date": "2026-06-16 to 2026-06-17", "impact": "high"}
   ],
   "market_signals": {
     "fear_greed_index": "Fear",
     "etf_weekly_outflow_usd": -3400000000,
-    "btc_24h_change_pct": -3.84,
+    "btc_24h_change_pct": -3.6,
+    "btc_7d_change_pct": -17.0,
+    "btc_drawdown_from_ath_pct": -51.8,
+    "key_support_broken": 62000,
     "dominant_factors": [
-      "BTC $60.5K - 4-month low, down from $72K in ~1 week (-15%)",
-      "Record $3.4B weekly ETF outflows; largest since ETF launch",
-      "MicroStrategy sold 32 BTC - first sale since 2022",
-      "CPI 3.8% YoY (highest since 2023); Fed on hold, no cuts",
-      "$1.5B leveraged long liquidations triggered",
-      "Israel-Hezbollah ceasefire rejected; risk-off macro"
+      "BTC $60.8K - down 51% from Oct 2025 ATH of $126,200",
+      "Record $3.4B weekly ETF outflows; largest since spot ETF launch (Jan 2024)",
+      "BTC broke below $62K support triggering $1.5B in long liquidations",
+      "April CPI 3.8% YoY (highest since 2023); Fed hawkish pivot at June 16-17 FOMC",
+      "Michael Saylor Strategy sold 32 BTC - first BTC sale since 2022",
+      "BTC-DJIA correlation 84%; macro risk-off environment",
+      "Fear & Greed Index in Fear zone; social media sentiment bearish"
     ]
   },
-  "notes": "BTC $60.5K 4개월 최저, ETF 역대 최대 유출, 공포지수, 베어 지속",
-  "updated": "2026-06-06 20:04:34 UTC",
-  "valid_until": "2026-06-07 00:04:34 UTC"
+  "notes": "BTC $61K 붕괴, ETF 역대 최대 유출, 연준 매파 전환 우려",
+  "updated": "2026-06-07 00:06:14 UTC",
+  "valid_until": "2026-06-07 04:06:14 UTC"
 }
