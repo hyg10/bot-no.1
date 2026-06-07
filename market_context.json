@@ -4,42 +4,49 @@
   "btc_price_usd": 61537,
   "key_events_next_24h": [
     {
-      "name": "Weekend low-liquidity window (Sun gap risk)",
-      "time": "2026-06-07 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral",
-      "note": "Lower volume Sun; gap moves possible on Monday open"
-    },
-    {
       "name": "BTC Spot ETF Daily Flow Report",
       "time": "2026-06-07 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "$3.2B+ weekly ETF outflow; institutional selling continues"
+      "note": "$3.4B+ weekly outflow; institutional selling continues"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin ETF SEC Filing (ongoing)",
+      "time": "2026-06-07 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral",
+      "note": "Goldman filing active; no imminent decision expected"
+    },
+    {
+      "name": "Weekend low-liquidity window (Sun gap risk)",
+      "time": "2026-06-07 20:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral",
+      "note": "Lower volume Sunday; gap moves possible on Monday open"
     }
   ],
   "upcoming_macro": [
-    {"name": "CPI May 2026 release", "date": "2026-06-10 08:30 UTC", "impact": "high"},
+    {"name": "CPI May 2026 release", "date": "2026-06-10 12:30 UTC", "impact": "high"},
     {"name": "PPI May 2026 release", "date": "2026-06-11 08:30 UTC", "impact": "medium"},
-    {"name": "FOMC Rate Decision (hold expected; 3.5%-3.75%)", "date": "2026-06-16 to 2026-06-17", "impact": "high"}
+    {"name": "FOMC Rate Decision (hold at 3.50-3.75% expected)", "date": "2026-06-17 18:00 UTC", "impact": "high"}
   ],
   "market_signals": {
     "fear_greed_index": "Fear (33)",
-    "etf_weekly_outflow_usd": -3200000000,
+    "etf_weekly_outflow_usd": -3400000000,
     "btc_24h_change_pct": 1.01,
     "btc_drawdown_from_ath_pct": -51.2,
     "dominant_factors": [
       "BTC ~$61.5K - down 51% from Oct 2025 ATH of $126,200",
-      "Spot ETF outflows exceeded $3.2B this week",
+      "Spot ETF outflows: record $3.4B weekly; largest since ETF launch",
       "Fear & Greed Index 33 (Fear); 317 of 390 tokens in red",
-      "XWIN Trend Index 8/100 - Strong Downtrend signal",
       "Michael Saylor Strategy sold 32 BTC - first BTC sale since 2022",
-      "Capital rotating to stocks/AI/chip rally; crypto narrative fading",
-      "Geopolitical risk: Hezbollah rejected ceasefire offer, USD strong",
-      "Next FOMC June 16-17; hold at 3.5-3.75% expected (86% probability)"
+      "$1.5B liquidations of leveraged long positions",
+      "Sticky inflation (CPI 3.8% YoY, Apr) - Fed hold likely thru June",
+      "Capital rotating to stocks/AI; crypto narrative fading",
+      "USD strengthening; FOMC June 16-17 hold at 3.5-3.75% (99.2% prob)"
     ]
   },
-  "notes": "공포지수 33, ETF 32억달러 유출, 주간 하락세 지속",
-  "updated": "2026-06-07 12:00:00 UTC",
-  "valid_until": "2026-06-07 16:00:00 UTC"
+  "notes": "BTC $61,500, 공포지수 33, ETF 34억달러 유출, 하락세 지속",
+  "updated": "2026-06-07 16:04:53 UTC",
+  "valid_until": "2026-06-07 20:04:53 UTC"
 }
