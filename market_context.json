@@ -1,27 +1,20 @@
 {
   "regime": "bearish",
-  "confidence": 0.78,
-  "btc_price_usd": 61803,
+  "confidence": 0.75,
+  "btc_price_usd": 61200,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report",
-      "time": "2026-06-07 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "$3.4B+ weekly outflow; record institutional selling continues"
-    },
-    {
-      "name": "Weekend low-liquidity window (gap risk)",
-      "time": "2026-06-07 22:00 UTC",
+      "name": "Quiet macro window - no scheduled high-impact releases",
+      "time": "2026-06-08 00:00 UTC",
       "impact": "low",
-      "expected_direction": "bearish",
-      "note": "Low Sunday volume; downside gap risk on Monday open"
+      "expected_direction": "neutral",
+      "note": "No FOMC/CPI/PPI due until Jun 10-11; weekend carry-over selling risk"
     }
   ],
   "upcoming_macro": [
     {"name": "CPI May 2026 release", "date": "2026-06-10 12:30 UTC", "impact": "high"},
     {"name": "PPI May 2026 release", "date": "2026-06-11 12:30 UTC", "impact": "medium"},
-    {"name": "FOMC Rate Decision (hold 3.50-3.75% expected, 36% cut chance)", "date": "2026-06-17 18:00 UTC", "impact": "high"}
+    {"name": "FOMC Rate Decision (hold 3.50-3.75% expected, 99.2% prob no change)", "date": "2026-06-17 18:00 UTC", "impact": "high"}
   ],
   "market_signals": {
     "fear_greed_index": "Fear (33)",
@@ -30,16 +23,16 @@
     "btc_7d_change_pct": -17.0,
     "btc_drawdown_from_ath_pct": -51.0,
     "dominant_factors": [
-      "BTC ~$61,803 - down 51% from Oct 2025 ATH of $126,200",
+      "BTC ~$61,200 - down 51% from Oct 2025 ATH of $126,200",
       "Spot ETF outflows: record $3.4B weekly; 19 of 30 days negative flow",
       "Fear & Greed Index 33 (Fear); 317 of 390 tokens in red",
-      "Michael Saylor Strategy sold 32 BTC - first BTC sale since 2022",
-      "$1.5B liquidations of leveraged long positions this week",
-      "Capital rotating to stocks/AI sector; crypto narrative fading",
-      "USD strengthening; FOMC June 16-17 hold at 3.5-3.75% (64% prob)"
+      "MicroStrategy first disclosed BTC sale since 2022",
+      "USD strengthening; FOMC Jun 16-17 hold at 3.50-3.75% (99.2% prob)",
+      "CPI 3.8% YoY (hot); PPI +6.0% YoY - sticky inflation reduces cut odds",
+      "Capital rotating to stocks/AI sector; ESG BTC ETF launched Jun 5"
     ]
   },
-  "notes": "BTC 61,800달러, 공포지수 33, ETF 34억달러 유출 지속",
-  "updated": "2026-06-07 20:04:34 UTC",
-  "valid_until": "2026-06-08 00:04:34 UTC"
+  "notes": "BTC 61K달러, 공포지수 33, ETF 34억달러 유출 지속",
+  "updated": "2026-06-08 00:06:54 UTC",
+  "valid_until": "2026-06-08 04:06:54 UTC"
 }
