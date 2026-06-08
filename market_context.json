@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
   "confidence": 0.75,
-  "btc_price_usd": 61400,
+  "btc_price_usd": 62500,
   "key_events_next_24h": [
     {
       "name": "Quiet macro window - no high-impact releases scheduled June 9",
@@ -24,7 +24,7 @@
     "btc_7d_change_pct": -17.0,
     "btc_from_ath_pct": -51.0,
     "dominant_factors": [
-      "BTC ~$61,400 - Fear & Greed Index 33 (Fear zone)",
+      "BTC ~$62,500 (range $61K-$63.5K) - Fear & Greed Index 33 (Fear zone)",
       "Record spot ETF weekly outflow -$3.4B (largest since ETF launch Jan 2024)",
       "317/390 tokens in red; broad market selloff continues",
       "MicroStrategy first BTC sale since 2022 (32 BTC) triggers sentiment shock",
@@ -33,7 +33,7 @@
       "May CPI due Jun 10 - another hot print risks further BTC leg down to $58K"
     ]
   },
-  "notes": "공포지수33, ETF 34억달러유출, BTC 7일-17%, 인플레지속 약세",
-  "updated": "2026-06-08 13:00:00 UTC",
-  "valid_until": "2026-06-08 17:00:00 UTC"
+  "notes": "공포지수33, $59K저점→$63K반등, ETF유출·인플레지속 약세",
+  "updated": "2026-06-08 13:30:00 UTC",
+  "valid_until": "2026-06-08 17:30:00 UTC"
 }
