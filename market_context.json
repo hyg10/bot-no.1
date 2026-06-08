@@ -1,38 +1,37 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
-  "btc_price_usd": 61400,
+  "confidence": 0.80,
+  "btc_price_usd": 61700,
   "key_events_next_24h": [
     {
-      "name": "Quiet macro window - no scheduled high-impact releases",
+      "name": "Quiet macro window - no high-impact releases scheduled",
       "time": "2026-06-08 00:00 UTC",
       "impact": "low",
-      "expected_direction": "neutral",
-      "note": "No FOMC/CPI/PPI due until Jun 10-11; weekend carry-over selling risk"
+      "expected_direction": "neutral"
     }
   ],
   "upcoming_macro": [
-    {"name": "CPI May 2026 release", "date": "2026-06-10 12:30 UTC", "impact": "high"},
-    {"name": "PPI May 2026 release", "date": "2026-06-11 12:30 UTC", "impact": "medium"},
-    {"name": "FOMC Rate Decision (hold ~65% prob, first meeting under Chair Warsh)", "date": "2026-06-17 18:00 UTC", "impact": "high"}
+    {"name": "US May CPI Release", "date": "2026-06-10 12:30 UTC", "impact": "high", "expected_direction": "bearish"},
+    {"name": "US May PPI Release", "date": "2026-06-11 12:30 UTC", "impact": "medium", "expected_direction": "bearish"},
+    {"name": "FOMC Rate Decision (99% hold, Chair Warsh presser)", "date": "2026-06-17 18:00 UTC", "impact": "high", "expected_direction": "neutral"}
   ],
   "market_signals": {
-    "fear_greed_index": "Fear (33)",
-    "etf_weekly_outflow_usd": -3400000000,
-    "btc_24h_change_pct": -1.2,
-    "btc_7d_change_pct": -12.3,
-    "btc_drawdown_from_ath_pct": -51.0,
+    "fear_greed_index": 12,
+    "fear_greed_label": "Extreme Fear",
+    "etf_7d_outflow_usd": -2420000000,
+    "btc_24h_change_pct": -3.6,
+    "btc_7d_change_pct": -17.0,
     "dominant_factors": [
-      "BTC ~$61,400 - down 51% from Oct 2025 ATH of $126,200",
-      "Spot ETF record weekly outflow $3.4B; 19 of 30 days negative flow",
-      "Fear & Greed Index 33 (Fear); 317 of 390 tokens in red on Jun 7",
-      "MicroStrategy first disclosed BTC sale (bearish signal from largest holder)",
-      "USD strengthening; sticky inflation (CPI 3.8% YoY) reduces Fed cut odds",
-      "FOMC Jun 16-17: ~65% prob hold; first meeting under new Chair Warsh",
-      "CPI report due Jun 10 - hot print would push BTC lower further"
+      "BTC ~$61,700 - Fear & Greed Index 12 (Extreme Fear)",
+      "Spot ETF 7-day outflow -$2.42B; zero positive flow days in streak",
+      "MicroStrategy first BTC sale since 2022 (32 BTC) triggers sentiment shock",
+      "Whale offloading: 24,602 BTC sold; $1.25B+ forced liquidations",
+      "Capital rotating into AI/tech stocks (Nvidia, SpaceX, Anthropic hype)",
+      "Sticky inflation CPI 3.8% YoY; Fed holds at 3.50-3.75%; no cut in sight",
+      "May CPI due Jun 10 - hot print risks further BTC leg down"
     ]
   },
-  "notes": "BTC 61K, 공포지수 33, ETF 34억달러 유출, 매도 우세",
-  "updated": "2026-06-08 04:05:35 UTC",
-  "valid_until": "2026-06-08 08:05:35 UTC"
+  "notes": "공포지수 12 극단적공포, ETF 유출·고래매도, BTC 7일 -17%",
+  "updated": "2026-06-08 08:05:52 UTC",
+  "valid_until": "2026-06-08 12:05:52 UTC"
 }
