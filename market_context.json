@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
   "confidence": 0.75,
-  "btc_price_usd": 61200,
+  "btc_price_usd": 61400,
   "key_events_next_24h": [
     {
       "name": "Quiet macro window - no scheduled high-impact releases",
@@ -14,25 +14,25 @@
   "upcoming_macro": [
     {"name": "CPI May 2026 release", "date": "2026-06-10 12:30 UTC", "impact": "high"},
     {"name": "PPI May 2026 release", "date": "2026-06-11 12:30 UTC", "impact": "medium"},
-    {"name": "FOMC Rate Decision (hold 3.50-3.75% expected, 99.2% prob no change)", "date": "2026-06-17 18:00 UTC", "impact": "high"}
+    {"name": "FOMC Rate Decision (hold ~65% prob, first meeting under Chair Warsh)", "date": "2026-06-17 18:00 UTC", "impact": "high"}
   ],
   "market_signals": {
     "fear_greed_index": "Fear (33)",
     "etf_weekly_outflow_usd": -3400000000,
-    "btc_24h_change_pct": -3.6,
-    "btc_7d_change_pct": -17.0,
+    "btc_24h_change_pct": -1.2,
+    "btc_7d_change_pct": -12.3,
     "btc_drawdown_from_ath_pct": -51.0,
     "dominant_factors": [
-      "BTC ~$61,200 - down 51% from Oct 2025 ATH of $126,200",
-      "Spot ETF outflows: record $3.4B weekly; 19 of 30 days negative flow",
-      "Fear & Greed Index 33 (Fear); 317 of 390 tokens in red",
-      "MicroStrategy first disclosed BTC sale since 2022",
-      "USD strengthening; FOMC Jun 16-17 hold at 3.50-3.75% (99.2% prob)",
-      "CPI 3.8% YoY (hot); PPI +6.0% YoY - sticky inflation reduces cut odds",
-      "Capital rotating to stocks/AI sector; ESG BTC ETF launched Jun 5"
+      "BTC ~$61,400 - down 51% from Oct 2025 ATH of $126,200",
+      "Spot ETF record weekly outflow $3.4B; 19 of 30 days negative flow",
+      "Fear & Greed Index 33 (Fear); 317 of 390 tokens in red on Jun 7",
+      "MicroStrategy first disclosed BTC sale (bearish signal from largest holder)",
+      "USD strengthening; sticky inflation (CPI 3.8% YoY) reduces Fed cut odds",
+      "FOMC Jun 16-17: ~65% prob hold; first meeting under new Chair Warsh",
+      "CPI report due Jun 10 - hot print would push BTC lower further"
     ]
   },
-  "notes": "BTC 61K달러, 공포지수 33, ETF 34억달러 유출 지속",
-  "updated": "2026-06-08 00:06:54 UTC",
-  "valid_until": "2026-06-08 04:06:54 UTC"
+  "notes": "BTC 61K, 공포지수 33, ETF 34억달러 유출, 매도 우세",
+  "updated": "2026-06-08 04:05:35 UTC",
+  "valid_until": "2026-06-08 08:05:35 UTC"
 }
