@@ -1,11 +1,11 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
-  "btc_price_usd": 62500,
+  "confidence": 0.65,
+  "btc_price_usd": 63300,
   "key_events_next_24h": [
     {
-      "name": "Quiet macro window - no high-impact releases scheduled June 9",
-      "time": "2026-06-09 00:00 UTC",
+      "name": "Quiet macro window - no high-impact releases June 8-9",
+      "time": "2026-06-08 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
@@ -14,26 +14,35 @@
     {"name": "US May CPI Release (BLS)", "date": "2026-06-10 12:30 UTC", "impact": "high", "expected_direction": "bearish"},
     {"name": "US May PPI Release (BLS)", "date": "2026-06-11 12:30 UTC", "impact": "medium", "expected_direction": "bearish"},
     {"name": "VanEck Bitcoin ETF SEC Decision Deadline", "date": "2026-06-17 00:00 UTC", "impact": "medium", "expected_direction": "bullish"},
-    {"name": "FOMC Rate Decision (hold 3.50-3.75% expected, >95%)", "date": "2026-06-17 18:00 UTC", "impact": "high", "expected_direction": "neutral"}
+    {"name": "FOMC Rate Decision (hold 3.50-3.75% expected)", "date": "2026-06-17 18:00 UTC", "impact": "high", "expected_direction": "neutral"}
   ],
   "market_signals": {
     "fear_greed_index": 33,
     "fear_greed_label": "Fear",
-    "etf_7d_outflow_usd": -3400000000,
-    "btc_24h_change_pct": -3.6,
-    "btc_7d_change_pct": -17.0,
-    "btc_from_ath_pct": -51.0,
+    "rsi_4h": 25.97,
+    "rsi_status": "oversold",
+    "etf_7d_outflow_usd": -2700000000,
+    "btc_24h_change_pct": 1.4,
+    "btc_7d_low": 59100,
+    "btc_200wma_test": true,
     "dominant_factors": [
-      "BTC ~$62,500 (range $61K-$63.5K) - Fear & Greed Index 33 (Fear zone)",
-      "Record spot ETF weekly outflow -$3.4B (largest since ETF launch Jan 2024)",
-      "317/390 tokens in red; broad market selloff continues",
-      "MicroStrategy first BTC sale since 2022 (32 BTC) triggers sentiment shock",
-      "Capital rotating into AI/tech equities (Nvidia, SpaceX, Anthropic hype)",
-      "Sticky inflation: April CPI 3.8% YoY; Fed holds at 3.50-3.75%; no cut in sight",
-      "May CPI due Jun 10 - another hot print risks further BTC leg down to $58K"
+      "BTC ~$63,300 bouncing from $59,100 low (June 5) - touched 200-week MA for first time since 2022 bear market",
+      "317/390 tokens in red; Fear & Greed Index 33 (Fear zone)",
+      "Spot ETF weekly outflow -$2.7B (June 1-5); institutional selling dominant",
+      "MicroStrategy first BTC sale since 2022 (32 BTC) triggered sentiment shock; then bought 1,550 BTC at avg $65,332",
+      "Macro headwinds: oil >$100/bbl (Middle East tensions), sticky inflation, USD strength",
+      "Fed holds at 3.50-3.75% for 3rd consecutive meeting; no rate cut in sight",
+      "RSI(4h) at 25.97 = deeply oversold; technical bounce possible but trend remains down",
+      "May CPI due Jun 10 - another hot print risks further BTC leg down toward $58K"
+    ],
+    "bullish_factors": [
+      "200-week MA held as support at $59,100 (historically reliable floor)",
+      "Institutional accumulation: Strategy +1,550 BTC, Bitmine largest ETH buy of 2026",
+      "RSI deeply oversold (25.97) - bounce conditions present",
+      "Monday open $63,310 = +4% recovery from Sunday open"
     ]
   },
   "notes": "공포지수33, $59K저점→$63K반등, ETF유출·인플레지속 약세",
-  "updated": "2026-06-08 13:30:00 UTC",
-  "valid_until": "2026-06-08 17:30:00 UTC"
+  "updated": "2026-06-08 14:45:00 UTC",
+  "valid_until": "2026-06-08 18:45:00 UTC"
 }
