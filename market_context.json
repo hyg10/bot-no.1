@@ -3,13 +3,19 @@
   "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US CPI May 2026",
+      "name": "US CPI May 2026 (BLS Release)",
       "time": "2026-06-10 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin ETF SEC Registration",
+      "time": "2026-06-09 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $63K 반등, 공포지수 33, ETF 유출 지속, CPI 발표 임박",
-  "updated": "2026-06-09 12:07:50 UTC",
-  "valid_until": "2026-06-09 16:07:50 UTC"
+  "notes": "BTC $63K 반등, 공포지수 33, ETF유입 회복, CPI 내일 발표",
+  "updated": "2026-06-09 07:30:00 UTC",
+  "valid_until": "2026-06-09 11:30:00 UTC"
 }
