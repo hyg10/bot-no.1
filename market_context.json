@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 62000,
+  "confidence": 0.70,
+  "btc_price_usd": 63400,
   "key_events_next_24h": [
     {
       "name": "US May CPI Release (BLS)",
@@ -19,30 +19,33 @@
   "market_signals": {
     "fear_greed_index": 33,
     "fear_greed_label": "Fear",
-    "btc_24h_change_pct": 1.5,
+    "btc_24h_change_pct": 1.55,
     "btc_7d_low": 59100,
+    "btc_7d_change_pct": -13.93,
+    "btc_30d_change_pct": -21.04,
+    "btc_ath_usd": 126198,
     "market_cap_usd": 2410000000000,
-    "market_cap_24h_change_pct": -2.66,
     "tokens_rising": 73,
     "tokens_falling": 317,
+    "etf_weekly_outflow_usd": 3400000000,
     "dominant_factors": [
-      "BTC ~$62K recovering from $59,100 low (June 5) - year-low for 2026",
-      "317/390 tokens in red; Fear & Greed Index 33 (Fear zone)",
-      "Spot ETF inflows remain negative; institutional selling pressure dominant",
-      "Macro headwinds: sticky inflation, Fed uncertainty, USD strength",
-      "Market cap -2.66% to $2.41T in 24h; 84% correlation with DJIA selloff",
+      "BTC ~$63.4K, recovering from $59,100 year-low hit June 5 (2026 low)",
+      "Fear & Greed Index 33 (Fear) - up 1pt from 32, no reversal signal yet",
+      "Record $3.4B weekly outflow from US spot Bitcoin ETFs in early June 2026",
+      "317/390 tokens in red; clear broad-market bearish bias",
+      "Macro headwinds: sticky US inflation, Fed rate-cut uncertainty, USD strength",
+      "Leveraged liquidations: 351K traders liquidated, $1.75B positions wiped June 5",
       "MicroStrategy net buyer: sold 32 BTC (dividend), bought 1,550 BTC at avg $65,332",
-      "Polymarket crowd 87% probability BTC hits $65K in 2026",
-      "May CPI due Jun 10 - hot print risks further BTC leg down; cool print = relief rally"
+      "May CPI June 10 is next major catalyst - hot print risks fresh BTC leg down"
     ],
     "bullish_factors": [
-      "Monday recovery: BTC up ~4% from Sunday open ($59,100 range)",
-      "Institutional accumulation continuing (MicroStrategy 845,256 BTC total)",
-      "Goldman Sachs seeking SEC approval for new Bitcoin ETF",
-      "Short-term oversold bounce conditions present"
+      "Monday June 8 recovery: BTC up ~4% from Sunday open near $59,100 range",
+      "MicroStrategy total holdings now ~845,256 BTC; continued accumulation signal",
+      "Goldman Sachs seeking SEC approval for new Bitcoin ETF (institutional interest)",
+      "Short-term oversold bounce conditions; Fear zone historically a contrarian buy area"
     ]
   },
-  "notes": "공포지수33, $59K저점→$62K반등, 내일 CPI 발표 변동성 주의",
-  "updated": "2026-06-09 07:00:00 UTC",
-  "valid_until": "2026-06-09 11:00:00 UTC"
+  "notes": "공포지수33·ETF $34억유출, CPI발표前 하락세 우세",
+  "updated": "2026-06-09 09:00:00 UTC",
+  "valid_until": "2026-06-09 13:00:00 UTC"
 }
