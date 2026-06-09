@@ -1,13 +1,13 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 63300,
+  "btc_price_usd": 62000,
   "key_events_next_24h": [
     {
-      "name": "Quiet macro window - no high-impact releases June 8-9",
-      "time": "2026-06-08 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "US May CPI Release (BLS)",
+      "time": "2026-06-10 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
   "upcoming_macro": [
@@ -19,30 +19,30 @@
   "market_signals": {
     "fear_greed_index": 33,
     "fear_greed_label": "Fear",
-    "rsi_4h": 25.97,
-    "rsi_status": "oversold",
-    "etf_7d_outflow_usd": -2700000000,
-    "btc_24h_change_pct": 1.4,
+    "btc_24h_change_pct": 1.5,
     "btc_7d_low": 59100,
-    "btc_200wma_test": true,
+    "market_cap_usd": 2410000000000,
+    "market_cap_24h_change_pct": -2.66,
+    "tokens_rising": 73,
+    "tokens_falling": 317,
     "dominant_factors": [
-      "BTC ~$63,300 bouncing from $59,100 low (June 5) - touched 200-week MA for first time since 2022 bear market",
+      "BTC ~$62K recovering from $59,100 low (June 5) - year-low for 2026",
       "317/390 tokens in red; Fear & Greed Index 33 (Fear zone)",
-      "Spot ETF weekly outflow -$2.7B (June 1-5); institutional selling dominant",
-      "MicroStrategy first BTC sale since 2022 (32 BTC) triggered sentiment shock; then bought 1,550 BTC at avg $65,332",
-      "Macro headwinds: oil >$100/bbl (Middle East tensions), sticky inflation, USD strength",
-      "Fed holds at 3.50-3.75% for 3rd consecutive meeting; no rate cut in sight",
-      "RSI(4h) at 25.97 = deeply oversold; technical bounce possible but trend remains down",
-      "May CPI due Jun 10 - another hot print risks further BTC leg down toward $58K"
+      "Spot ETF inflows remain negative; institutional selling pressure dominant",
+      "Macro headwinds: sticky inflation, Fed uncertainty, USD strength",
+      "Market cap -2.66% to $2.41T in 24h; 84% correlation with DJIA selloff",
+      "MicroStrategy net buyer: sold 32 BTC (dividend), bought 1,550 BTC at avg $65,332",
+      "Polymarket crowd 87% probability BTC hits $65K in 2026",
+      "May CPI due Jun 10 - hot print risks further BTC leg down; cool print = relief rally"
     ],
     "bullish_factors": [
-      "200-week MA held as support at $59,100 (historically reliable floor)",
-      "Institutional accumulation: Strategy +1,550 BTC, Bitmine largest ETH buy of 2026",
-      "RSI deeply oversold (25.97) - bounce conditions present",
-      "Monday open $63,310 = +4% recovery from Sunday open"
+      "Monday recovery: BTC up ~4% from Sunday open ($59,100 range)",
+      "Institutional accumulation continuing (MicroStrategy 845,256 BTC total)",
+      "Goldman Sachs seeking SEC approval for new Bitcoin ETF",
+      "Short-term oversold bounce conditions present"
     ]
   },
-  "notes": "공포지수33, $59K저점→$63K반등, ETF유출·인플레지속 약세",
-  "updated": "2026-06-08 14:45:00 UTC",
-  "valid_until": "2026-06-08 18:45:00 UTC"
+  "notes": "공포지수33, $59K저점→$62K반등, 내일 CPI 발표 변동성 주의",
+  "updated": "2026-06-09 07:00:00 UTC",
+  "valid_until": "2026-06-09 11:00:00 UTC"
 }
