@@ -1,22 +1,22 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.75,
   "current_price_usd": 61500,
   "key_events_next_24h": [
     {
-      "name": "US May CPI Release (BLS, 8:30 AM EDT)",
+      "name": "US May CPI Released: 3.8% YoY (above 2% target, bearish)",
       "time": "2026-06-10 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting Begins (Kevin Warsh chairs, June 16-17, rate hold 97.3% priced)",
+      "name": "FOMC Meeting (June 16-17, rate decision, hike risk rising)",
       "time": "2026-06-16 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $61K 하락, 공포지수33, CPI발표 임박",
-  "updated": "2026-06-10 08:15:00 UTC",
-  "valid_until": "2026-06-10 12:15:00 UTC"
+  "notes": "BTC $61.5K, CPI 3.8% 발표 후 약세지속, ETF 대량유출, 공포지수 33",
+  "updated": "2026-06-10 14:00:00 UTC",
+  "valid_until": "2026-06-10 18:00:00 UTC"
 }
