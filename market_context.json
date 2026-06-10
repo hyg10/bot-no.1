@@ -1,22 +1,22 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
-  "current_price_usd": 63300,
+  "confidence": 0.70,
+  "current_price_usd": 61600,
   "key_events_next_24h": [
     {
-      "name": "US May CPI Release",
+      "name": "US May CPI Release (BLS, 8:30 AM EDT)",
       "time": "2026-06-10 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC Filing Review (ongoing)",
+      "name": "Goldman Sachs BTC ETF SEC Review (ongoing filing)",
       "time": "2026-06-10 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포탐욕 극단공포(8), ETF 유출, CPI 발표 당일, ATH 대비 -50%",
-  "updated": "2026-06-10 10:30:00 UTC",
-  "valid_until": "2026-06-10 14:30:00 UTC"
+  "notes": "공포지수33, 주간-18% 최악, ETF순유출$17.2억, BTC $61.6K 하락세",
+  "updated": "2026-06-10 07:30:00 UTC",
+  "valid_until": "2026-06-10 11:30:00 UTC"
 }
