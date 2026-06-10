@@ -1,22 +1,22 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
-  "current_price_usd": 61600,
+  "confidence": 0.65,
+  "current_price_usd": 61500,
   "key_events_next_24h": [
     {
       "name": "US May CPI Release (BLS, 8:30 AM EDT)",
       "time": "2026-06-10 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs BTC ETF SEC Review (ongoing filing)",
-      "time": "2026-06-10 00:00 UTC",
-      "impact": "low",
+      "name": "FOMC Meeting Begins (Kevin Warsh chairs, June 16-17, rate hold 97.3% priced)",
+      "time": "2026-06-16 18:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수33, 주간-18% 최악, ETF순유출$17.2억, BTC $61.6K 하락세",
-  "updated": "2026-06-10 07:30:00 UTC",
-  "valid_until": "2026-06-10 11:30:00 UTC"
+  "notes": "BTC $61K 하락, 공포지수33, CPI발표 임박",
+  "updated": "2026-06-10 08:15:00 UTC",
+  "valid_until": "2026-06-10 12:15:00 UTC"
 }
