@@ -1,22 +1,31 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "current_price_usd": 61165,
+  "confidence": 0.72,
+  "btc_price_usd": 61500,
   "key_events_next_24h": [
     {
-      "name": "US May CPI Released: 4.2% YoY (matched forecast, core 0.2% MoM below 0.3% est.)",
+      "name": "US CPI May 2026 (released 08:30 ET today — 4.2% YoY, matched forecast)",
       "time": "2026-06-10 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (June 16-17, rate decision, hold ~65% priced)",
-      "time": "2026-06-16 18:00 UTC",
+      "name": "FOMC Meeting Day 1 (June 16-17, rate hold ~64% priced; no decision today)",
+      "time": "2026-06-16 00:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $61K, 공포지수 33, ETF유출 지속, CPI 예상치 부합, 하락추세",
+  "signals": {
+    "fear_greed_index": 33,
+    "fear_greed_label": "Fear",
+    "btc_weekly_change_pct": -17.1,
+    "btc_from_ath_pct": -51.3,
+    "etf_weekly_outflow_usd": "1.72B",
+    "total_crypto_market_cap_usd": "2.11T",
+    "market_breadth": "317 tokens down vs 73 up"
+  },
+  "notes": "BTC $61,500 주간-17%, ETF유출 $1.72B, 공포지수33 약세",
   "updated": "2026-06-10 14:00:00 UTC",
   "valid_until": "2026-06-10 18:00:00 UTC"
 }
