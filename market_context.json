@@ -1,24 +1,24 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bearish",
+  "confidence": 0.62,
   "key_events_next_24h": [
     {
-      "name": "US PPI (May 2026)",
+      "name": "May PPI Release (BLS) - released today",
       "time": "2026-06-11 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting (Jun 16-17) - Approaching",
-      "time": "2026-06-16 18:00 UTC",
+      "name": "FOMC Rate Decision (Jun 17) - approaching",
+      "time": "2026-06-17 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "ETF 주간 17.2억 유출, 공포지수 33, 연준 결정 앞두고 관망세",
-  "updated": "2026-06-11 07:00:00 UTC",
-  "valid_until": "2026-06-11 11:00:00 UTC",
-  "btc_price_usd": 62000,
+  "notes": "공포지수 33, CPI 4.2%, FOMC 앞둔 불확실성으로 약세",
+  "updated": "2026-06-11 15:30:00 UTC",
+  "valid_until": "2026-06-11 19:30:00 UTC",
+  "btc_price_usd": 62860,
   "fear_greed_index": 33,
-  "etf_weekly_flow_usd": -1720000000
+  "etf_weekly_flow_usd": null
 }
