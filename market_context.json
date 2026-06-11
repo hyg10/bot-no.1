@@ -1,15 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "US CPI Report (May 2026 Data)",
+      "name": "US May PPI Report (BLS)",
       "time": "2026-06-11 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "ETF 대규모 자금유출, 공포지수 33, BTC -17% 주간 하락. CPI 발표 대기",
-  "updated": "2026-06-11 08:30:00 UTC",
-  "valid_until": "2026-06-11 12:30:00 UTC"
+  "notes": "ETF $43억 유출·Fed 매파 전환, BTC $62K 박스권 약세 지속",
+  "updated": "2026-06-11 09:00:00 UTC",
+  "valid_until": "2026-06-11 13:00:00 UTC"
 }
