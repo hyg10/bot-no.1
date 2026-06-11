@@ -1,15 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US May PPI Report (BLS)",
-      "time": "2026-06-11 12:30 UTC",
-      "impact": "high",
+      "name": "Iran-Israel geopolitical escalation (oil +5%, risk-off pressure)",
+      "time": "2026-06-11 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "Bitcoin ETF flow monitoring (prior week: record -$1.72B outflow)",
+      "time": "2026-06-11 12:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC meeting approaching (Jun 16-17, rate hold expected at 3.50-3.75%)",
+      "time": "2026-06-17 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF $43억 유출·Fed 매파 전환, BTC $62K 박스권 약세 지속",
-  "updated": "2026-06-11 09:00:00 UTC",
-  "valid_until": "2026-06-11 13:00:00 UTC"
+  "notes": "BTC $62K권, ETF 유출 $1.72B, 공포탐욕 33, FOMC 6/16-17 대기 중",
+  "updated": "2026-06-11 04:00:00 UTC",
+  "valid_until": "2026-06-11 08:00:00 UTC"
 }
