@@ -1,24 +1,30 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 63113,
-  "fear_greed_index": 33,
-  "etf_weekly_flow_usd": -2970000000,
+  "confidence": 0.65,
+  "btc_price_usd": 63283,
+  "fear_greed_index": 12,
+  "etf_weekly_flow_usd": -4400000000,
   "key_events_next_24h": [
     {
-      "name": "SpaceX IPO (SPCX) Nasdaq listing - ~$75B raise, largest IPO in history",
-      "time": "2026-06-12 09:30 UTC",
-      "impact": "high",
+      "name": "ECB Rate Decision & Press Conference",
+      "time": "2026-06-12 12:15 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Michigan Consumer Sentiment (June prelim)",
+      "time": "2026-06-12 14:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting rate decision (99.3% probability: no change)",
-      "time": "2026-06-17 18:00 UTC",
+      "name": "FOMC Meeting (June 16-17) - major upcoming risk",
+      "time": "2026-06-16 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "공포지수 33, ETF 순유출, SpaceX IPO 압박, BTC $63K 반등 중",
-  "updated": "2026-06-12 08:07:00 UTC",
-  "valid_until": "2026-06-12 12:07:00 UTC"
+  "notes": "공포지수12, ETF 13연속순유출, 인플레4.2% Fed긴축유지",
+  "updated": "2026-06-12 09:30:00 UTC",
+  "valid_until": "2026-06-12 13:30:00 UTC"
 }
