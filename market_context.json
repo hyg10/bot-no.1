@@ -1,21 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 63668,
+  "confidence": 0.55,
+  "btc_price_usd": 63600,
   "fear_greed_index": 12,
   "etf_weekly_flow_usd": -4400000000,
   "key_events_next_24h": [
     {
-      "name": "ECB Rate Decision & Press Conference",
-      "time": "2026-06-12 12:15 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
       "name": "Michigan Consumer Inflation Expectations (June prelim)",
       "time": "2026-06-12 14:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
       "name": "Fed Balance Sheet Release",
@@ -24,13 +18,13 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting Day 1 (June 16-17) - rate hold 98% priced",
+      "name": "FOMC Meeting Day 1 (June 16-17) - rate hold 98% priced, bias shift risk",
       "time": "2026-06-16 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수12, BTC -26%(4주). 이란평화 소식 반등, ECB·FOMC 관망",
-  "updated": "2026-06-12 11:00:00 UTC",
-  "valid_until": "2026-06-12 15:00:00 UTC"
+  "notes": "BTC+3% 이란평화 반등, 공포지수12, FOMC/ECB 불확실성 지속",
+  "updated": "2026-06-12 13:30:00 UTC",
+  "valid_until": "2026-06-12 17:30:00 UTC"
 }
