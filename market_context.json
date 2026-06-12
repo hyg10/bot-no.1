@@ -1,11 +1,24 @@
 {
-  "regime": "neutral",
-  "confidence": 0.4,
-  "key_events_next_24h": [],
-  "notes": "공포지수 33, FOMC 6/17 앞두고 BTC $62K대 관망세",
-  "updated": "2026-06-11 20:03:00 UTC",
-  "valid_until": "2026-06-12 00:03:00 UTC",
-  "btc_price_usd": 62797,
+  "regime": "bearish",
+  "confidence": 0.62,
+  "key_events_next_24h": [
+    {
+      "name": "FOMC Meeting Day 1 (June 16-17) - market in anticipation/wait mode",
+      "time": "2026-06-16 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "No major CPI/PPI/employment releases scheduled today",
+      "time": "2026-06-12 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
+  ],
+  "notes": "BTC $63K 보합, 공포지수 33(Fear), 연준 회의 관망 하방 압력",
+  "updated": "2026-06-12 06:00:00 UTC",
+  "valid_until": "2026-06-12 10:00:00 UTC",
+  "btc_price_usd": 63200,
   "fear_greed_index": 33,
   "etf_weekly_flow_usd": null
 }
