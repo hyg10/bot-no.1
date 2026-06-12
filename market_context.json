@@ -1,24 +1,24 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting Day 1 (June 16-17) - market in anticipation/wait mode",
-      "time": "2026-06-16 14:00 UTC",
+      "name": "SpaceX IPO (SPCX) Nasdaq listing - largest IPO in history, ~$75B raise",
+      "time": "2026-06-12 09:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "No major CPI/PPI/employment releases scheduled today",
-      "time": "2026-06-12 00:00 UTC",
-      "impact": "low",
+      "name": "FOMC rate hold anticipated at 97% probability (June 16-17 meeting)",
+      "time": "2026-06-17 18:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $63K 보합, 공포지수 33(Fear), 연준 회의 관망 하방 압력",
-  "updated": "2026-06-12 06:00:00 UTC",
-  "valid_until": "2026-06-12 10:00:00 UTC",
-  "btc_price_usd": 63200,
+  "notes": "공포지수 33, ETF 10일 순유출, SpaceX IPO 유동성 압박, BTC ~$63k",
+  "updated": "2026-06-12 06:30:00 UTC",
+  "valid_until": "2026-06-12 10:30:00 UTC",
+  "btc_price_usd": 63000,
   "fear_greed_index": 33,
-  "etf_weekly_flow_usd": null
+  "etf_weekly_flow_usd": -2970000000
 }
