@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.38,
-  "btc_price_usd": 63700,
+  "confidence": 0.40,
+  "btc_price_usd": 63400,
   "fear_greed_index": 12,
   "key_events_next_24h": [
     {
@@ -17,7 +17,7 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "극단적공포(F&G 12), ETF 13일 연속유출, 이란평화·연준 앞두고 관망",
-  "updated": "2026-06-13 08:30:00 UTC",
-  "valid_until": "2026-06-13 12:30:00 UTC"
+  "notes": "극단적공포(F&G 12), 이란평화+3%반등. FOMC(16-17) 앞두고 관망",
+  "updated": "2026-06-13 04:02:46 UTC",
+  "valid_until": "2026-06-13 08:02:46 UTC"
 }
