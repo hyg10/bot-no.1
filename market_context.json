@@ -1,29 +1,29 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 63650,
+  "regime": "neutral",
+  "confidence": 0.42,
+  "btc_price_usd": 63802,
   "fear_greed_index": 12,
   "key_events_next_24h": [
     {
-      "name": "US PPI (May 2026)",
-      "time": "2026-06-13 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US Initial Jobless Claims",
-      "time": "2026-06-13 12:30 UTC",
+      "name": "US-Iran Peace Deal Negotiations (weekend signing possible)",
+      "time": "2026-06-13 18:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     },
     {
       "name": "FOMC Meeting Begins (rate decision Jun 17 18:00 UTC)",
       "time": "2026-06-16 13:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "SpaceX Nasdaq IPO liquidity absorption aftermath",
+      "time": "2026-06-13 13:30 UTC",
+      "impact": "low",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "F&G=12 극단공포+기술지표 약세. PPI발표 대기. 이란종전 단기반등",
-  "updated": "2026-06-13 08:03:17 UTC",
-  "valid_until": "2026-06-13 12:03:17 UTC"
+  "notes": "F&G=12 극단공포, 317/390종목 하락. 이란평화 기대로 BTC 63K 방어",
+  "updated": "2026-06-13 08:30:00 UTC",
+  "valid_until": "2026-06-13 12:30:00 UTC"
 }
