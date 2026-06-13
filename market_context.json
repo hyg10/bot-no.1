@@ -1,30 +1,23 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 63600,
+  "regime": "neutral",
+  "confidence": 0.38,
+  "btc_price_usd": 63700,
   "fear_greed_index": 12,
-  "etf_weekly_flow_usd": -4400000000,
   "key_events_next_24h": [
     {
-      "name": "Michigan Consumer Inflation Expectations (June prelim)",
-      "time": "2026-06-12 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "name": "Trump-Iran peace deal potential announcement (this weekend)",
+      "time": "2026-06-13 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
     },
     {
-      "name": "Fed Balance Sheet Release",
-      "time": "2026-06-12 20:30 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Meeting Day 1 (June 16-17) - rate hold 98% priced, bias shift risk",
-      "time": "2026-06-16 18:00 UTC",
+      "name": "FOMC June meeting opens (rate decision June 17 18:00 UTC)",
+      "time": "2026-06-16 13:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC+3% 이란평화 반등, 공포지수12, FOMC/ECB 불확실성 지속",
-  "updated": "2026-06-12 13:30:00 UTC",
-  "valid_until": "2026-06-12 17:30:00 UTC"
+  "notes": "극단적공포(F&G 12), ETF 13일 연속유출, 이란평화·연준 앞두고 관망",
+  "updated": "2026-06-13 08:30:00 UTC",
+  "valid_until": "2026-06-13 12:30:00 UTC"
 }
