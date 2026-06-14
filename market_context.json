@@ -1,23 +1,29 @@
 {
   "regime": "neutral",
   "confidence": 0.40,
-  "btc_price_usd": 63900,
-  "fear_greed_index": 12,
+  "btc_price_usd": 63700,
+  "fear_greed_index": 33,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report (13-day outflow streak context)",
+      "name": "BTC Spot ETF Daily Flow Report",
       "time": "2026-06-14 16:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting begins (hawkish hold expected, new chair Kevin Warsh)",
+      "name": "FOMC Meeting begins (hawkish hold expected, possible bias shift)",
       "time": "2026-06-16 14:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "SpaceX Nasdaq IPO (liquidity drain from crypto)",
+      "time": "2026-06-14 14:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "ETF 유출 지속·극도공포(12), 기술 반등 신호 혼재, FOMC 주시",
-  "updated": "2026-06-13 14:15:00 UTC",
-  "valid_until": "2026-06-13 18:15:00 UTC"
+  "notes": "이란 평화소식 반등, FOMC 매파 우려로 혼조세",
+  "updated": "2026-06-14 00:03:37 UTC",
+  "valid_until": "2026-06-14 04:03:37 UTC"
 }
