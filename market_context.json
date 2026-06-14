@@ -1,35 +1,23 @@
 {
   "regime": "neutral",
   "confidence": 0.40,
-  "btc_price_usd": 64373,
-  "fear_greed_index": 13,
   "key_events_next_24h": [
     {
-      "name": "SpaceX Nasdaq IPO (liquidity drain from crypto expected)",
-      "time": "2026-06-14 14:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC Spot ETF Daily Flow Report (record outflow streak ongoing)",
-      "time": "2026-06-14 16:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US-Iran Peace Deal Progress (risk-on if confirmed)",
-      "time": "2026-06-14 12:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "FOMC Meeting Start (decision June 17 18:00 UTC, 98% hold expected)",
-      "time": "2026-06-16 14:00 UTC",
+      "name": "FOMC Meeting Day 1 (June 16-17)",
+      "time": "2026-06-16 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Rate Decision + Press Conference",
+      "time": "2026-06-17 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "극도공포(F&G:13), ETF 37.5억달러 유출 지속, 반등 중, FOMC 대기",
-  "updated": "2026-06-14 08:05:00 UTC",
-  "valid_until": "2026-06-14 12:05:00 UTC"
+  "notes": "FOMC 6/17 결정 앞두고 관망, 공포지수 12, BTC $64K 단기반등",
+  "btc_price_usd": 64385,
+  "fear_greed_index": 12,
+  "updated": "2026-06-14 06:00:00 UTC",
+  "valid_until": "2026-06-14 10:00:00 UTC"
 }
