@@ -1,32 +1,34 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 64382,
+  "confidence": 0.40,
+  "btc_price_usd": 64385,
   "key_events_next_24h": [
     {
-      "name": "Pre-FOMC Positioning (FOMC Jun 16-17, decision Jun 17)",
+      "name": "Pre-FOMC Positioning (FOMC Jun 16-17, decision Jun 17 14:00 EDT)",
       "time": "2026-06-15 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "99.5% probability of hold at 3.50-3.75%; hawkish tone expected from new Fed chair Warsh"
+      "impact": "high",
+      "expected_direction": "neutral",
+      "note": "99.5% probability of hold; hawkish tone from Fed chair Warsh may pressure risk assets"
     },
     {
       "name": "SpaceX IPO Liquidity Drain (ongoing)",
-      "time": "2026-06-14 16:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "SpaceX holds 18,712 BTC; Nasdaq listing draws speculative capital away from crypto"
+      "time": "2026-06-14 20:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral",
+      "note": "SpaceX holds 18,712 BTC as strategic reserve; IPO capital rotation may reduce crypto liquidity marginally"
     }
   ],
-  "notes": "공포지수 12(극도공포), FOMC 매파 동결 전망, BTC $64K 반등 중",
-  "updated": "2026-06-14 16:02:58 UTC",
-  "valid_until": "2026-06-14 20:02:58 UTC",
+  "notes": "이란평화기대로 소폭상승, FOMC앞두고 관망세, 공포지수33",
+  "updated": "2026-06-14 20:03:00 UTC",
+  "valid_until": "2026-06-15 00:03:00 UTC",
   "sources": {
-    "fear_greed_index": 12,
-    "fear_greed_label": "Extreme Fear",
-    "standard_chartered_note": "Cycle low likely at $59K; declared crypto winter over",
-    "fed_rate": "3.50-3.75% (hawkish hold expected Jun 17)",
-    "btc_24h_change_pct": 1.78,
-    "market_cap_usd_trln": 1.26
+    "fear_greed_index": 33,
+    "fear_greed_label": "Fear",
+    "standard_chartered_note": "Cycle low likely at $59K; BTC recovering toward $64K+",
+    "iran_peace_deal_note": "Trump cancelled Iran strikes Jun 11; BTC +3% on news",
+    "etf_inflows_jun12": 85850000,
+    "fed_rate": "3.50-3.75% (hold expected Jun 17, hawkish tone risk)",
+    "btc_24h_change_pct": 0.86,
+    "mining_difficulty_change_pct": -10.09
   }
 }
