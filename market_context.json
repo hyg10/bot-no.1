@@ -1,23 +1,32 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
+  "confidence": 0.4,
+  "btc_price_usd": 64382,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting Day 1 (June 16-17)",
-      "time": "2026-06-16 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "Pre-FOMC Positioning (FOMC Jun 16-17, decision Jun 17)",
+      "time": "2026-06-15 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "note": "99.5% probability of hold at 3.50-3.75%; hawkish tone expected from new Fed chair Warsh"
     },
     {
-      "name": "FOMC Rate Decision + Press Conference",
-      "time": "2026-06-17 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "SpaceX IPO Liquidity Drain (ongoing)",
+      "time": "2026-06-14 16:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "note": "SpaceX holds 18,712 BTC; Nasdaq listing draws speculative capital away from crypto"
     }
   ],
-  "notes": "FOMC 6/17 결정 앞두고 관망, 공포지수 12, BTC $64K 단기반등",
-  "btc_price_usd": 64385,
-  "fear_greed_index": 12,
-  "updated": "2026-06-14 06:00:00 UTC",
-  "valid_until": "2026-06-14 10:00:00 UTC"
+  "notes": "공포지수 12(극도공포), FOMC 매파 동결 전망, BTC $64K 반등 중",
+  "updated": "2026-06-14 16:02:58 UTC",
+  "valid_until": "2026-06-14 20:02:58 UTC",
+  "sources": {
+    "fear_greed_index": 12,
+    "fear_greed_label": "Extreme Fear",
+    "standard_chartered_note": "Cycle low likely at $59K; declared crypto winter over",
+    "fed_rate": "3.50-3.75% (hawkish hold expected Jun 17)",
+    "btc_24h_change_pct": 1.78,
+    "market_cap_usd_trln": 1.26
+  }
 }
