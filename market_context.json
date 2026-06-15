@@ -1,25 +1,25 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting Day 1 (June 16-17, rate held 3.50-3.75%)",
-      "time": "2026-06-16 18:00 UTC",
+      "name": "FOMC Meeting Day 1 (Jun 16-17, decision Jun 17 18:00 UTC)",
+      "time": "2026-06-16 13:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran Peace Deal (signing scheduled June 19, Switzerland)",
+      "name": "US-Iran Peace Agreement Signing (Switzerland)",
       "time": "2026-06-15 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $65,695 반등중, 공포지수12 패닉, FOMC 16일 불확실성",
-  "updated": "2026-06-15 12:03:57 UTC",
-  "valid_until": "2026-06-15 16:03:57 UTC",
+  "notes": "미이란 휴전 BTC $66.5k 반등, FOMC 6/17 매파 리스크 주의",
+  "updated": "2026-06-15 13:30:00 UTC",
+  "valid_until": "2026-06-15 17:30:00 UTC",
   "price_snapshot": {
-    "btc_usd": 65695,
+    "btc_usd": 66521,
     "change_24h_pct": 2.08,
     "weekly_range_low": 59800,
     "weekly_range_high": 73000
@@ -27,9 +27,9 @@
   "sentiment_signals": {
     "fear_greed_index": 12,
     "fear_greed_label": "Extreme Fear",
-    "etf_inflow_usd_m": 85.85,
-    "standard_chartered_cycle_low": 59000,
-    "technical_bullish_indicators": 14,
-    "technical_bearish_indicators": 17
+    "etf_inflow_usd_m": 85.8,
+    "cpi_yoy_pct": 4.2,
+    "fomc_rate_expected": "hold",
+    "fomc_bias_risk": "hawkish_shift"
   }
 }
