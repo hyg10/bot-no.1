@@ -1,35 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 65714,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting Start (rate decision June 17 18:00 UTC)",
-      "time": "2026-06-16 14:00 UTC",
+      "name": "FOMC Meeting Day 1 (Warsh, Jun 16-17)",
+      "time": "2026-06-16 09:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish",
-      "note": "No rate change expected (hold at 3.50-3.75%); hawkish bias shift possible, pressuring risk assets"
-    },
-    {
-      "name": "FOMC Rate Decision & Press Conference",
-      "time": "2026-06-17 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 결정 앞두고 관망세. 공포지수 12, BTC $65.7K 반등 중",
-  "updated": "2026-06-15 06:00:00 UTC",
-  "valid_until": "2026-06-15 10:00:00 UTC",
-  "sources": {
-    "fear_greed_index": 12,
-    "fear_greed_label": "Extreme Fear",
-    "btc_24h_range_low": 63663,
-    "btc_24h_range_high": 65698,
-    "btc_24h_change_pct": 2.03,
-    "etf_net_outflow_13_sessions_usd": 4400000000,
-    "fed_rate_current": "3.50-3.75%",
-    "standard_chartered_note": "Cycle low likely at $59K; crypto winter over",
-    "iran_peace_note": "Trump cancelled Iran strikes Jun 11; BTC +3% relief rally",
-    "spacex_btc_holding": 18712
-  }
+  "notes": "공포지수13·ETF유입+SpaceX BTC보유로 혼조, FOMC전 경계",
+  "updated": "2026-06-15 08:03:30 UTC",
+  "valid_until": "2026-06-15 12:03:30 UTC"
 }
