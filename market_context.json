@@ -1,34 +1,31 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 64385,
+  "confidence": 0.35,
+  "btc_price_usd": 65608.0,
   "key_events_next_24h": [
     {
-      "name": "Pre-FOMC Positioning (FOMC Jun 16-17, decision Jun 17 14:00 EDT)",
-      "time": "2026-06-15 00:00 UTC",
+      "name": "FOMC Meeting Start (rate decision June 17 18:00 UTC)",
+      "time": "2026-06-16 14:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral",
-      "note": "99.5% probability of hold; hawkish tone from Fed chair Warsh may pressure risk assets"
-    },
-    {
-      "name": "SpaceX IPO Liquidity Drain (ongoing)",
-      "time": "2026-06-14 20:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral",
-      "note": "SpaceX holds 18,712 BTC as strategic reserve; IPO capital rotation may reduce crypto liquidity marginally"
+      "expected_direction": "bearish",
+      "note": "99.5% probability of hold at 3.50-3.75%; new Fed Chair Warsh tone could be hawkish, pressuring risk assets"
     }
   ],
-  "notes": "이란평화기대로 소폭상승, FOMC앞두고 관망세, 공포지수33",
-  "updated": "2026-06-14 20:03:00 UTC",
-  "valid_until": "2026-06-15 00:03:00 UTC",
+  "notes": "FOMC 금리동결 예상, ETF 13일 연속 유출, 공포지수 12",
+  "updated": "2026-06-15 00:03:52 UTC",
+  "valid_until": "2026-06-15 04:03:52 UTC",
   "sources": {
-    "fear_greed_index": 33,
-    "fear_greed_label": "Fear",
-    "standard_chartered_note": "Cycle low likely at $59K; BTC recovering toward $64K+",
-    "iran_peace_deal_note": "Trump cancelled Iran strikes Jun 11; BTC +3% on news",
-    "etf_inflows_jun12": 85850000,
-    "fed_rate": "3.50-3.75% (hold expected Jun 17, hawkish tone risk)",
-    "btc_24h_change_pct": 0.86,
-    "mining_difficulty_change_pct": -10.09
+    "fear_greed_index": 12,
+    "fear_greed_label": "Extreme Fear",
+    "btc_24h_range_low": 63645.4,
+    "btc_24h_range_high": 65765.3,
+    "btc_24h_change_pct": 1.87,
+    "btc_dominance_pct": 56.3,
+    "crypto_market_cap_usd": 2250000000000,
+    "etf_net_outflow_13_sessions_usd": 4400000000,
+    "fed_rate_current": "3.50-3.75%",
+    "cpi_yoy": 0.042,
+    "standard_chartered_note": "Cycle low likely at $59K; crypto winter over",
+    "iran_peace_note": "Trump cancelled Iran strikes Jun 11; BTC +3% relief rally"
   }
 }
