@@ -1,31 +1,35 @@
 {
   "regime": "neutral",
-  "confidence": 0.35,
-  "btc_price_usd": 65608.0,
+  "confidence": 0.40,
+  "btc_price_usd": 65714,
   "key_events_next_24h": [
     {
       "name": "FOMC Meeting Start (rate decision June 17 18:00 UTC)",
       "time": "2026-06-16 14:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "99.5% probability of hold at 3.50-3.75%; new Fed Chair Warsh tone could be hawkish, pressuring risk assets"
+      "note": "No rate change expected (hold at 3.50-3.75%); hawkish bias shift possible, pressuring risk assets"
+    },
+    {
+      "name": "FOMC Rate Decision & Press Conference",
+      "time": "2026-06-17 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "FOMC 금리동결 예상, ETF 13일 연속 유출, 공포지수 12",
-  "updated": "2026-06-15 00:03:52 UTC",
-  "valid_until": "2026-06-15 04:03:52 UTC",
+  "notes": "FOMC 결정 앞두고 관망세. 공포지수 12, BTC $65.7K 반등 중",
+  "updated": "2026-06-15 06:00:00 UTC",
+  "valid_until": "2026-06-15 10:00:00 UTC",
   "sources": {
     "fear_greed_index": 12,
     "fear_greed_label": "Extreme Fear",
-    "btc_24h_range_low": 63645.4,
-    "btc_24h_range_high": 65765.3,
-    "btc_24h_change_pct": 1.87,
-    "btc_dominance_pct": 56.3,
-    "crypto_market_cap_usd": 2250000000000,
+    "btc_24h_range_low": 63663,
+    "btc_24h_range_high": 65698,
+    "btc_24h_change_pct": 2.03,
     "etf_net_outflow_13_sessions_usd": 4400000000,
     "fed_rate_current": "3.50-3.75%",
-    "cpi_yoy": 0.042,
     "standard_chartered_note": "Cycle low likely at $59K; crypto winter over",
-    "iran_peace_note": "Trump cancelled Iran strikes Jun 11; BTC +3% relief rally"
+    "iran_peace_note": "Trump cancelled Iran strikes Jun 11; BTC +3% relief rally",
+    "spacex_btc_holding": 18712
   }
 }
