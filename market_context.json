@@ -1,6 +1,6 @@
 {
   "regime": "neutral",
-  "confidence": 0.35,
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
       "name": "FOMC Rate Decision (Jun 17, 2pm ET / 18:00 UTC) - Hold at 3.50-3.75% expected",
@@ -9,40 +9,41 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "Fed Chair Warsh Press Conference (new chair, hawkish lean expected)",
+      "name": "Fed Chair Warsh Press Conference + Dot Plot (hawkish lean, cut timeline key)",
       "time": "2026-06-17 18:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran Ceasefire Risk-On Effect (ongoing, partially priced in)",
-      "time": "2026-06-16 00:00 UTC",
+      "name": "US-Iran Peace Deal Signing Ceremony (June 19, Switzerland) - Risk-On",
+      "time": "2026-06-19 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Bitcoin Spot ETF Flows ($85.8M inflow Jun 15, trend to watch)",
-      "time": "2026-06-16 00:00 UTC",
+      "name": "BlackRock Bitcoin Yield ETF - Nasdaq Debut (institutional demand)",
+      "time": "2026-06-16 13:30 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "FOMC 매파 리스크, BTC $66K 회복 중. 공포탐욕 33 Fear 구간 주의",
-  "updated": "2026-06-16 08:03:40 UTC",
-  "valid_until": "2026-06-16 12:03:40 UTC",
+  "notes": "워시 첫 FOMC 매파 리스크(6/17), 이란협정·ETF로 BTC 반등 지속",
+  "updated": "2026-06-16 12:03:49 UTC",
+  "valid_until": "2026-06-16 16:03:49 UTC",
   "price_snapshot": {
-    "btc_usd": 66328,
-    "change_24h_pct": 2.08,
-    "fear_greed_index": 33,
-    "fear_greed_label": "Fear"
+    "btc_usd": 66304,
+    "support": 63500,
+    "resistance": 67000,
+    "rsi_14d": 35.12,
+    "technical_bias": "mixed_oversold_but_bearish_signals"
   },
   "sentiment_signals": {
     "fomc_rate_expected": "hold_3.50_3.75",
     "fomc_chair": "warsh_kevin_hawkish",
-    "fomc_cut_probability_2026": "low_65pct_hold",
-    "etf_flow_recent_usd_m": 85.8,
-    "mining_difficulty_change": "-10pct_june14_miner_stress",
-    "rsi_14d": 35.12,
-    "technical_bias": "oversold_but_bearish_ma_structure"
+    "fomc_dotplot_risk": "cuts_may_push_to_2027",
+    "geopolitical": "us_iran_peace_deal_risk_on",
+    "etf_catalyst": "blackrock_yield_btc_etf_launched_nasdaq",
+    "fear_greed_trend": "recovering_from_extreme_fear_12",
+    "ta_signals": "13_bullish_17_bearish"
   }
 }
