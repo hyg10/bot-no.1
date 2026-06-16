@@ -1,49 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Jun 17, 2pm ET / 18:00 UTC) - Hold at 3.50-3.75% expected",
+      "name": "FOMC Rate Decision (Warsh debut)",
       "time": "2026-06-17 18:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "Fed Chair Warsh Press Conference + Dot Plot (hawkish lean, cut timeline key)",
+      "name": "Warsh Press Conference & Dot Plot",
       "time": "2026-06-17 18:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US-Iran Peace Deal Signing Ceremony (June 19, Switzerland) - Risk-On",
-      "time": "2026-06-19 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "BlackRock Bitcoin Yield ETF - Nasdaq Debut (institutional demand)",
-      "time": "2026-06-16 13:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "워시 첫 FOMC 매파 리스크(6/17), 이란협정·ETF로 BTC 반등 지속",
-  "updated": "2026-06-16 12:03:49 UTC",
-  "valid_until": "2026-06-16 16:03:49 UTC",
-  "price_snapshot": {
-    "btc_usd": 66304,
-    "support": 63500,
-    "resistance": 67000,
-    "rsi_14d": 35.12,
-    "technical_bias": "mixed_oversold_but_bearish_signals"
-  },
-  "sentiment_signals": {
-    "fomc_rate_expected": "hold_3.50_3.75",
-    "fomc_chair": "warsh_kevin_hawkish",
-    "fomc_dotplot_risk": "cuts_may_push_to_2027",
-    "geopolitical": "us_iran_peace_deal_risk_on",
-    "etf_catalyst": "blackrock_yield_btc_etf_launched_nasdaq",
-    "fear_greed_trend": "recovering_from_extreme_fear_12",
-    "ta_signals": "13_bullish_17_bearish"
-  }
+  "notes": "FOMC 금리동결 예상(98%). 워시 기자회견 매파여부 주목. ETF유입 재개",
+  "updated": "2026-06-16 16:03:52 UTC",
+  "valid_until": "2026-06-16 20:03:52 UTC"
 }
