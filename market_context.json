@@ -1,15 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
+  "confidence": 0.35,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Jun 17, 2pm ET / 18:00 UTC)",
+      "name": "FOMC Rate Decision (Jun 17, 2pm ET / 18:00 UTC) - Hold at 3.50-3.75% expected",
       "time": "2026-06-17 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Fed Chair Powell Press Conference",
+      "name": "Fed Chair Warsh Press Conference (new chair, hawkish lean expected)",
       "time": "2026-06-17 18:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
@@ -21,28 +21,28 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "Bitcoin Spot ETF Flows Stabilizing ($85.8M inflow Jun 15)",
+      "name": "Bitcoin Spot ETF Flows ($85.8M inflow Jun 15, trend to watch)",
       "time": "2026-06-16 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "FOMC 매파 전환 리스크로 중립, 공포탐욕 33 Fear 구간",
-  "updated": "2026-06-16 07:00:00 UTC",
-  "valid_until": "2026-06-16 11:00:00 UTC",
+  "notes": "FOMC 매파 리스크, BTC $66K 회복 중. 공포탐욕 33 Fear 구간 주의",
+  "updated": "2026-06-16 08:03:40 UTC",
+  "valid_until": "2026-06-16 12:03:40 UTC",
   "price_snapshot": {
-    "btc_usd": 66500,
-    "change_24h_pct": -0.77,
+    "btc_usd": 66328,
+    "change_24h_pct": 2.08,
     "fear_greed_index": 33,
     "fear_greed_label": "Fear"
   },
   "sentiment_signals": {
     "fomc_rate_expected": "hold_3.50_3.75",
-    "fomc_bias_risk": "hawkish_shift",
-    "fomc_cut_timeline_risk": "pushed_to_2027",
+    "fomc_chair": "warsh_kevin_hawkish",
+    "fomc_cut_probability_2026": "low_65pct_hold",
     "etf_flow_recent_usd_m": 85.8,
-    "etf_flow_weekly_prior_usd_b": -3.4,
-    "mining_cost_vs_price": "underwater_84300_vs_66500",
-    "technical_bias": "mixed_iran_positive_vs_fomc_risk"
+    "mining_difficulty_change": "-10pct_june14_miner_stress",
+    "rsi_14d": 35.12,
+    "technical_bias": "oversold_but_bearish_ma_structure"
   }
 }
