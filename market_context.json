@@ -1,21 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Warsh debut)",
+      "name": "FOMC Rate Decision + Warsh Press Conference",
       "time": "2026-06-17 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "Warsh Press Conference & Dot Plot",
-      "time": "2026-06-17 18:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
+      "name": "US-Iran Ceasefire Deal Momentum",
+      "time": "2026-06-17 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "FOMC 금리동결 예상(98%). 워시 기자회견 매파여부 주목. ETF유입 재개",
-  "updated": "2026-06-16 16:03:52 UTC",
-  "valid_until": "2026-06-16 20:03:52 UTC"
+  "notes": "FOMC 금리동결 유력, 워시 기자회견 톤이 방향 결정",
+  "updated": "2026-06-16 13:00:00 UTC",
+  "valid_until": "2026-06-16 17:00:00 UTC"
 }
