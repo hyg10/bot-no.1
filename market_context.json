@@ -1,36 +1,48 @@
 {
-  "regime": "neutral",
-  "confidence": 0.35,
+  "regime": "bullish",
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting Day 1 (Kevin Warsh, decision Jun 17 18:00 UTC)",
-      "time": "2026-06-16 14:00 UTC",
+      "name": "FOMC Rate Decision (Jun 17, 2pm ET)",
+      "time": "2026-06-17 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "US-Iran Ceasefire Formal Signing Prep (Switzerland, Jun 19)",
+      "name": "FOMC Meeting Day 2 / Press Conference (Powell/Warsh)",
+      "time": "2026-06-17 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US-Iran Ceasefire Risk-On Effect (ongoing)",
+      "time": "2026-06-16 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Bitcoin Spot ETF Net Inflows $85.8M (Jun 15)",
       "time": "2026-06-16 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "미국-이란 휴전으로 단기 반등, 극도 공포(F&G 18), FOMC 앞 관망",
-  "updated": "2026-06-15 20:03:40 UTC",
-  "valid_until": "2026-06-16 00:03:40 UTC",
+  "notes": "미이란 휴전+ETF유입 강세, FOMC 금리발표 앞두고 변동성 주의",
+  "updated": "2026-06-16 06:00:00 UTC",
+  "valid_until": "2026-06-16 10:00:00 UTC",
   "price_snapshot": {
-    "btc_usd": 65695,
-    "change_24h_pct": 2.08,
+    "btc_usd": 66521,
+    "change_24h_pct": 3.0,
     "weekly_range_low": 59800,
     "weekly_range_high": 73000
   },
   "sentiment_signals": {
-    "fear_greed_index": 18,
-    "fear_greed_label": "Extreme Fear",
+    "fear_greed_index": 33,
+    "fear_greed_label": "Fear",
     "etf_inflow_usd_m": 85.8,
     "fomc_rate_expected": "hold_3.50_3.75",
     "fomc_hold_probability_pct": 97.8,
-    "technical_rsi": 35,
-    "technical_bias": "bearish_short_term"
+    "mining_difficulty_change_pct": -10.0,
+    "technical_bias": "short_term_bullish"
   }
 }
