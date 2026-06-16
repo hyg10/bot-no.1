@@ -1,48 +1,48 @@
 {
-  "regime": "bullish",
-  "confidence": 0.55,
+  "regime": "neutral",
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Jun 17, 2pm ET)",
+      "name": "FOMC Rate Decision (Jun 17, 2pm ET / 18:00 UTC)",
       "time": "2026-06-17 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting Day 2 / Press Conference (Powell/Warsh)",
-      "time": "2026-06-17 14:00 UTC",
+      "name": "Fed Chair Powell Press Conference",
+      "time": "2026-06-17 18:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran Ceasefire Risk-On Effect (ongoing)",
+      "name": "US-Iran Ceasefire Risk-On Effect (ongoing, partially priced in)",
       "time": "2026-06-16 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Bitcoin Spot ETF Net Inflows $85.8M (Jun 15)",
+      "name": "Bitcoin Spot ETF Flows Stabilizing ($85.8M inflow Jun 15)",
       "time": "2026-06-16 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "미이란 휴전+ETF유입 강세, FOMC 금리발표 앞두고 변동성 주의",
-  "updated": "2026-06-16 06:00:00 UTC",
-  "valid_until": "2026-06-16 10:00:00 UTC",
+  "notes": "FOMC 매파 전환 리스크로 중립, 공포탐욕 33 Fear 구간",
+  "updated": "2026-06-16 07:00:00 UTC",
+  "valid_until": "2026-06-16 11:00:00 UTC",
   "price_snapshot": {
-    "btc_usd": 66521,
-    "change_24h_pct": 3.0,
-    "weekly_range_low": 59800,
-    "weekly_range_high": 73000
+    "btc_usd": 66500,
+    "change_24h_pct": -0.77,
+    "fear_greed_index": 33,
+    "fear_greed_label": "Fear"
   },
   "sentiment_signals": {
-    "fear_greed_index": 33,
-    "fear_greed_label": "Fear",
-    "etf_inflow_usd_m": 85.8,
     "fomc_rate_expected": "hold_3.50_3.75",
-    "fomc_hold_probability_pct": 97.8,
-    "mining_difficulty_change_pct": -10.0,
-    "technical_bias": "short_term_bullish"
+    "fomc_bias_risk": "hawkish_shift",
+    "fomc_cut_timeline_risk": "pushed_to_2027",
+    "etf_flow_recent_usd_m": 85.8,
+    "etf_flow_weekly_prior_usd_b": -3.4,
+    "mining_cost_vs_price": "underwater_84300_vs_66500",
+    "technical_bias": "mixed_iran_positive_vs_fomc_risk"
   }
 }
