@@ -1,22 +1,23 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 66000,
+  "confidence": 0.45,
+  "btc_price_usd": 65829,
+  "fear_greed_index": 23,
   "key_events_next_24h": [
     {
-      "name": "Post-FOMC Market Digest (Warsh Press Conference Completed)",
-      "time": "2026-06-17 18:30 UTC",
+      "name": "Post-FOMC Digestion (held 3.50-3.75%, Miran dissent for cut)",
+      "time": "2026-06-17 20:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "US-Iran Ceasefire Signing Ceremony (Geneva)",
+      "name": "US-Iran Peace Treaty Signing Ceremony (Geneva)",
       "time": "2026-06-19 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "Fed 금리 동결, Warsh 첫 기자회견. BTC $66K 회복 중, 공포지수 23",
-  "updated": "2026-06-17 20:00:00 UTC",
-  "valid_until": "2026-06-18 00:00:00 UTC"
+  "notes": "Fed 금리동결·기관매수 지속, BTC $65.8K 횡보, 공포지수 23",
+  "updated": "2026-06-17 22:00:00 UTC",
+  "valid_until": "2026-06-18 02:00:00 UTC"
 }
