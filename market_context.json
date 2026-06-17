@@ -1,8 +1,8 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 65829,
-  "fear_greed_index": 38,
+  "confidence": 0.4,
+  "btc_price_usd": 64940,
+  "fear_greed_index": 33,
   "key_events_next_24h": [
     {
       "name": "FOMC Rate Decision (Fed Chair Warsh first meeting; 97% hold priced in)",
@@ -23,7 +23,7 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "FOMC 금리동결 97% 예상, 워쉬 발언 관건. 이란 평화협정 호재",
-  "updated": "2026-06-17 12:03:58 UTC",
-  "valid_until": "2026-06-17 16:03:58 UTC"
+  "notes": "FOMC 결정 임박, BTC $64,940 하락. 공포지수 33, 기관 매수 지속",
+  "updated": "2026-06-17 14:00:00 UTC",
+  "valid_until": "2026-06-17 18:00:00 UTC"
 }
