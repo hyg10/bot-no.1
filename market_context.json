@@ -1,18 +1,18 @@
 {
-  "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 64940,
-  "fear_greed_index": 33,
+  "regime": "bearish",
+  "confidence": 0.65,
+  "btc_price_usd": 64881,
+  "fear_greed_index": 25,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Fed Chair Warsh first meeting; 97% hold priced in)",
-      "time": "2026-06-17 18:00 UTC",
+      "name": "FOMC Press Conference (Warsh; hawkish dot plot - rate hike projected for H2 2026)",
+      "time": "2026-06-17 18:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Press Conference (Warsh forward guidance / dot plot; hawkish risk)",
-      "time": "2026-06-17 18:30 UTC",
+      "name": "Post-FOMC market digestion (dot plot flipped from cut to hike; risk-off pressure)",
+      "time": "2026-06-17 20:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
@@ -23,7 +23,7 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "FOMC 결정 임박, BTC $64,940 하락. 공포지수 33, 기관 매수 지속",
-  "updated": "2026-06-17 14:00:00 UTC",
-  "valid_until": "2026-06-17 18:00:00 UTC"
+  "notes": "FOMC 동결, 매파 점도표 충격. BTC -2.5%, 기관 매수 방어중",
+  "updated": "2026-06-17 18:30:00 UTC",
+  "valid_until": "2026-06-17 22:30:00 UTC"
 }
