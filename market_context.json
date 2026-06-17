@@ -1,29 +1,29 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.40,
   "btc_price_usd": 65829,
-  "fear_greed_index": 68,
+  "fear_greed_index": 38,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Fed Chair Warsh - first decision; 97% hold expected)",
-      "time": "2026-06-17 19:00 UTC",
+      "name": "FOMC Rate Decision (Fed Chair Warsh first meeting; 97% hold priced in)",
+      "time": "2026-06-17 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Press Conference (Warsh forward guidance / dot plot)",
-      "time": "2026-06-17 19:30 UTC",
+      "name": "FOMC Press Conference (Warsh forward guidance / dot plot; hawkish risk)",
+      "time": "2026-06-17 18:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran Peace Treaty Signing Ceremony (Switzerland)",
+      "name": "US-Iran Peace Treaty Signing Ceremony (Switzerland; geopolitical relief)",
       "time": "2026-06-19 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "FOMC 금리동결 97% 예상, Warsh 발언이 BTC 방향 결정",
-  "updated": "2026-06-17 08:03:46 UTC",
-  "valid_until": "2026-06-17 12:03:46 UTC"
+  "notes": "FOMC 금리동결 97% 예상, 워쉬 발언 관건. 이란 평화협정 호재",
+  "updated": "2026-06-17 12:03:58 UTC",
+  "valid_until": "2026-06-17 16:03:58 UTC"
 }
