@@ -1,29 +1,29 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 64881,
-  "fear_greed_index": 25,
+  "regime": "neutral",
+  "confidence": 0.40,
+  "btc_price_usd": 65165,
+  "fear_greed_index": 12,
   "key_events_next_24h": [
     {
-      "name": "FOMC Press Conference (Warsh; hawkish dot plot - rate hike projected for H2 2026)",
-      "time": "2026-06-17 18:30 UTC",
+      "name": "FOMC 매파 점도표 후폭풍 지속 (금리 3.5-3.75% 동결, 하반기 인상 9명 지지)",
+      "time": "2026-06-18 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Post-FOMC market digestion (dot plot flipped from cut to hike; risk-off pressure)",
-      "time": "2026-06-17 20:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US-Iran Peace Treaty Signing Ceremony (Switzerland; geopolitical relief)",
+      "name": "US-Iran 평화협정 서명 가능성 (트럼프 '주말까지' 발언, 스위스 예정)",
       "time": "2026-06-19 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
+    },
+    {
+      "name": "Bitcoin Spot ETF 일일 자금 흐름 (6/13 이후 유입 전환 추세 확인)",
+      "time": "2026-06-18 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 동결, 매파 점도표 충격. BTC -2.5%, 기관 매수 방어중",
-  "updated": "2026-06-17 18:30:00 UTC",
-  "valid_until": "2026-06-17 22:30:00 UTC"
+  "notes": "극도공포(F&G=12), 매파FOMC vs 장기홀더12만5천BTC 매집 혼조",
+  "updated": "2026-06-18 06:00:00 UTC",
+  "valid_until": "2026-06-18 10:00:00 UTC"
 }
