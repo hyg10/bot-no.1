@@ -1,29 +1,39 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 63975,
-  "fear_greed_index": 23,
+  "confidence": 0.62,
+  "btc_price_usd": 63908,
+  "fear_greed_index": 12,
   "key_events_next_24h": [
     {
-      "name": "Post-FOMC 매파 후폭풍 지속 (Warsh 연준, 하반기 금리인상 9/18명 지지)",
+      "name": "Post-FOMC 매파 후폭풍 지속 (Warsh 연준, 하반기 금리인상 9/18명 지지, PCE 3.6%)",
       "time": "2026-06-18 12:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran 평화협정 서명식 (글로벌 리스크온 촉매)",
+      "name": "US-Iran 평화협정 서명식 (글로벌 리스크온 - 주식 상승, BTC 영향 제한적)",
       "time": "2026-06-19 10:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Bitcoin Spot ETF 일일 자금흐름 발표",
-      "time": "2026-06-18 20:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Bitcoin Spot ETF 일일 자금흐름 발표 (전일 -$111M 유출 기록)",
+      "time": "2026-06-18 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "FOMC매파·ETF누적유출·F&G23 극단공포, BTC $64K 지지 테스트",
-  "updated": "2026-06-18 12:05:00 UTC",
-  "valid_until": "2026-06-18 16:05:00 UTC"
+  "notes": "연준 매파+ETF 유출로 하락세, 극단공포(12). LTH 누적 긍정적",
+  "context_summary": {
+    "btc_24h_change_pct": -1.29,
+    "fear_greed_index": 12,
+    "fear_greed_label": "Extreme Fear",
+    "etf_flows_24h_usd_m": -111,
+    "fed_stance": "hawkish - 9/18 officials project 2026 rate hike; PCE forecast raised to 3.6%; forward guidance eliminated",
+    "equity_divergence": "SPX +1.7%, NASDAQ +3.1% on Iran deal, while BTC is red - BTC trading Fed policy not geopolitics",
+    "lth_accumulation_june": "125,000 BTC absorbed by long-term holders in June 2026",
+    "corporate_treasury": "Strategy holds 846,842 BTC; added 1,587 BTC ($100M) June 8-14"
+  },
+  "updated": "2026-06-18 12:30:00 UTC",
+  "valid_until": "2026-06-18 16:30:00 UTC"
 }
