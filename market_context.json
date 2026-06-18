@@ -1,39 +1,39 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
-  "btc_price_usd": 63908,
-  "fear_greed_index": 12,
+  "confidence": 0.65,
+  "btc_price_usd": 63500,
+  "fear_greed_index": 15,
   "key_events_next_24h": [
     {
-      "name": "Post-FOMC 매파 후폭풍 지속 (Warsh 연준, 하반기 금리인상 9/18명 지지, PCE 3.6%)",
-      "time": "2026-06-18 12:00 UTC",
-      "impact": "high",
+      "name": "Bitcoin Spot ETF Daily Flow Report",
+      "time": "2026-06-18 20:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran 평화협정 서명식 (글로벌 리스크온 - 주식 상승, BTC 영향 제한적)",
+      "name": "US-Iran Peace Agreement Formal Signing (Geneva)",
       "time": "2026-06-19 10:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Bitcoin Spot ETF 일일 자금흐름 발표 (전일 -$111M 유출 기록)",
-      "time": "2026-06-18 20:00 UTC",
+      "name": "CLARITY Act Senate Floor Vote",
+      "time": "2026-06-19 14:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "연준 매파+ETF 유출로 하락세, 극단공포(12). LTH 누적 긍정적",
+  "notes": "FOMC 매파 쇼크 지속, 공포지수 15. 주식·BTC 디커플링 진행 중.",
   "context_summary": {
-    "btc_24h_change_pct": -1.29,
-    "fear_greed_index": 12,
+    "btc_24h_change_pct": -1.57,
+    "fear_greed_index": 15,
     "fear_greed_label": "Extreme Fear",
     "etf_flows_24h_usd_m": -111,
-    "fed_stance": "hawkish - 9/18 officials project 2026 rate hike; PCE forecast raised to 3.6%; forward guidance eliminated",
-    "equity_divergence": "SPX +1.7%, NASDAQ +3.1% on Iran deal, while BTC is red - BTC trading Fed policy not geopolitics",
+    "fed_stance": "hawkish - 9/18 officials project 2026 rate hike; dot plot shocked market Jun 17",
+    "equity_divergence": "SPX +1.7%, NASDAQ +3.1% on Iran deal while BTC falls - BTC trading Fed, not geopolitics",
     "lth_accumulation_june": "125,000 BTC absorbed by long-term holders in June 2026",
-    "corporate_treasury": "Strategy holds 846,842 BTC; added 1,587 BTC ($100M) June 8-14"
+    "corporate_treasury": "Strategy holds 846,842 BTC; bottom signal flashed via LTH absorption"
   },
-  "updated": "2026-06-18 12:30:00 UTC",
-  "valid_until": "2026-06-18 16:30:00 UTC"
+  "updated": "2026-06-18 18:10:00 UTC",
+  "valid_until": "2026-06-18 22:10:00 UTC"
 }
