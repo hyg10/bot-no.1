@@ -1,29 +1,29 @@
 {
-  "regime": "neutral",
-  "confidence": 0.50,
-  "btc_price_usd": 64238,
-  "fear_greed_index": 33,
+  "regime": "bearish",
+  "confidence": 0.62,
+  "btc_price_usd": 64394,
+  "fear_greed_index": 18,
   "key_events_next_24h": [
     {
-      "name": "FOMC 매파 점도표 후폭풍 지속 (금리 3.5-3.75% 동결, 하반기 인상 9명 지지)",
-      "time": "2026-06-18 00:00 UTC",
+      "name": "Post-FOMC 매파 후폭풍 지속 (Warsh 연준, 하반기 금리인상 50.5% 가능성)",
+      "time": "2026-06-18 12:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran 평화협정 서명 가능성 (트럼프 '주말까지' 발언)",
-      "time": "2026-06-19 00:00 UTC",
-      "impact": "medium",
+      "name": "US-Iran 평화협정 서명식 (스위스, 글로벌 리스크온 촉매)",
+      "time": "2026-06-19 10:00 UTC",
+      "impact": "high",
       "expected_direction": "bullish"
     },
     {
-      "name": "Bitcoin Spot ETF 일일 자금 흐름 (6/15 유입 $85.8M, 기관 매수 지속 확인)",
+      "name": "Bitcoin Spot ETF 일일 자금흐름 발표 (주간 $3.4B 유출 후 회복 여부)",
       "time": "2026-06-18 20:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 매파동결·인상시사 하락압력, 기관대규모매수·이란합의로 지지",
-  "updated": "2026-06-18 04:05:00 UTC",
-  "valid_until": "2026-06-18 08:05:00 UTC"
+  "notes": "극단공포(F&G 18), FOMC매파·ETF유출 하락. 미이란평화서명 반등변수",
+  "updated": "2026-06-18 08:10:00 UTC",
+  "valid_until": "2026-06-18 12:10:00 UTC"
 }
