@@ -1,45 +1,46 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
-  "btc_price_usd": 63200,
-  "fear_greed_index": 20,
+  "confidence": 0.72,
+  "btc_price_usd": 62300,
+  "fear_greed_index": 33,
   "key_events_next_24h": [
     {
-      "name": "Post-FOMC Hawkish Overhang (Jun 16-17: 9/18 officials project 2026 rate hike, no forward guidance, PCE forecast 3.6%)",
+      "name": "Iran-US Peace Deal Collapsed — Iran refuses Switzerland delegation (Israel airstrikes Lebanon overnight)",
       "time": "2026-06-19 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
-    },
-    {
-      "name": "US-Iran Peace Deal Signing Ceremony (Switzerland) — equity-positive, BTC diverging",
-      "time": "2026-06-19 10:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
     },
     {
       "name": "CLARITY Act Senate Floor Proceedings (XRP commodity classification, White House targets July 4 signing)",
       "time": "2026-06-19 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
+    },
+    {
+      "name": "Weekend Low-Liquidity Window Begins",
+      "time": "2026-06-20 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "FOMC 매파 점도표 충격, CPI 4.2%, BTC 약세 지속",
+  "notes": "연준 매파+이란협상 붕괴로 BTC -3%, 공포지수 33",
   "context_summary": {
-    "btc_24h_change_pct": -1.5,
-    "btc_price_range": "$59,130 (US-Iran crisis low) - $65,695 (Jun 15 high) - ~$63,200 (Jun 19)",
-    "fear_greed_index": 20,
-    "fear_greed_label": "Extreme Fear",
-    "technical_indicators": "Bearish; RSI ~35 (not yet oversold); LTH absorbed 125K BTC in June (bottom signal Jun 17); price below 50D/200D SMAs (~$70-75K)",
-    "etf_flows_note": "Spot ETFs lost $111M on Jun 17 (13-day outflow streak, ~$4.4B total); FBTC $14M inflows selective",
-    "fed_stance": "Hawkish shock - 9/18 FOMC officials project 2026 rate hike; Kevin Warsh (new Chair) eliminated forward guidance; PCE forecast 3.6%",
-    "cpi_may2026": "May CPI 4.2% YoY; Core CPI 2.9% YoY — limits rate cut path, risk-off pressure",
-    "geopolitical": "US-Iran peace deal signing Jun 19 (equity bullish, S&P +1.7%, Nasdaq +3.1%) but BTC diverging — trading Fed policy not geopolitics",
-    "equity_divergence": "S&P +1.7%, Nasdaq +3.1% on Iran deal while BTC -1.3% — clear macro divergence, BTC risk-off",
-    "lth_accumulation_june": "125,000 BTC absorbed by long-term holders in June 2026 (medium-term bottom signal, limits downside)",
+    "btc_24h_change_pct": -3.0,
+    "btc_price_range": "$62,201 (24h low) - $64,370 (24h high) - ~$62,300 (current)",
+    "fear_greed_index": 33,
+    "fear_greed_label": "Fear",
+    "technical_indicators": "Bearish; post-FOMC selling continues; BTC -3% today, ETH -3.3%, SOL -4.9%, XRP -4.6%",
+    "etf_flows_note": "iShares Bitcoin Premium Income ETF approved June 11 (late June launch); ongoing outflow pressure from institutional risk-off",
+    "fed_stance": "FOMC June 16-17: rates held at 3.5-3.75%; median dot plot signals potential 2026 rate hike — hawkish hold",
+    "cpi_may2026": "May CPI 4.17% YoY; Core CPI 2.82% YoY — released Jun 10; next CPI due July 14",
+    "geopolitical": "Iran-US Burgenstock peace signing collapsed — Iran delegation refused to deploy after Israel-Lebanon escalation; sharp risk-off",
+    "equity_divergence": "Crypto lagging any equity recovery; total crypto market cap ~$2.1T",
+    "lth_accumulation_june": "125,000 BTC absorbed by LTH in June 2026 (medium-term support, limits extreme downside)",
     "btc_ath_drawdown": "~50% drawdown from Oct 2025 ATH of ~$126,000",
-    "clarity_act": "Senate floor calendar — White House targeting July 4 signing (positive long-term regulatory catalyst)",
-    "next_fomc": "July 28-29, 2026"
+    "clarity_act": "Senate floor calendar — positive long-term regulatory catalyst",
+    "next_fomc": "July 28-29, 2026",
+    "next_cpi": "July 14, 2026"
   },
-  "updated": "2026-06-19 17:00:00 UTC",
-  "valid_until": "2026-06-19 21:00:00 UTC"
+  "updated": "2026-06-19 20:02:34 UTC",
+  "valid_until": "2026-06-20 00:02:34 UTC"
 }
