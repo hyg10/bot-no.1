@@ -1,44 +1,45 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 64200,
-  "fear_greed_index": 12,
+  "btc_price_usd": 63908,
+  "fear_greed_index": 33,
   "key_events_next_24h": [
     {
-      "name": "FOMC Hawkish Aftermath (9/18 officials project 2026 rate hike, Jun 17)",
+      "name": "Post-FOMC Hawkish Overhang (Jun 16-17: 9/18 officials project 2026 rate hike, no forward guidance, PCE forecast 3.6%)",
       "time": "2026-06-19 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran Formal Peace Signing Ceremony (Switzerland)",
-      "time": "2026-06-19 10:00 UTC",
+      "name": "US-Iran Peace Deal Equity Rally (S&P +1.7%, Nasdaq +3.1%) — BTC diverging bearishly vs equities",
+      "time": "2026-06-19 09:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "CLARITY Act Senate Floor Proceedings (crypto commodity classification)",
+      "name": "CLARITY Act Senate Floor Proceedings (XRP commodity classification, White House targets July 4 signing)",
       "time": "2026-06-19 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "FOMC 매파 충격, 공포지수 12(극단적 공포), BTC $64K대 하락압력",
+  "notes": "FOMC 매파 충격·ETF 자금유출로 BTC 하락세 우세, 공포지수 Fear 구간",
   "context_summary": {
-    "btc_24h_change_pct": -1.3,
-    "btc_price_range": "$63,458 (Jun 12) - $65,695 (Jun 15) - ~$64,200 (Jun 19)",
-    "fear_greed_index": 12,
-    "fear_greed_label": "Extreme Fear",
-    "technical_indicators": "Bearish; LTH absorbed 125K BTC in June (bottom signal), but spot price still under pressure",
-    "etf_flows_note": "FBTC saw +$14M inflow Jun 17 while rival ETFs bled (selective institutional buying)",
-    "blackrock_btc_holdings": "764,000 BTC (world 3rd largest holder)",
-    "fed_stance": "Hawkish shock - 9/18 FOMC officials project 2026 rate hike; rates held 3.50-3.75% at Jun 17 meeting",
-    "cpi_may2026": "Above target (Apr headline 3.8% YoY, highest since May 2023) - limits rate cut path",
-    "geopolitical": "US-Iran peace deal signing imminent (bullish risk sentiment offset vs Fed hawkishness)",
-    "equity_divergence": "S&P/NASDAQ rallied on Iran deal while BTC fell - BTC correlating with Fed not geopolitics",
-    "lth_accumulation_june": "125,000 BTC absorbed by long-term holders in June 2026 (potential medium-term bottom signal)",
-    "clarity_act": "Senate floor calendar - White House targeting July 4 signing (positive long-term catalyst)"
+    "btc_24h_change_pct": -1.29,
+    "btc_price_range": "$61,500 (Jun 6 low) - $65,695 (Jun 15) - ~$63,908 (Jun 18)",
+    "fear_greed_index": 33,
+    "fear_greed_label": "Fear",
+    "technical_indicators": "Bearish; LTH absorbed 125K BTC in June (bottom signal flashed Jun 17), but spot price still under pressure post-FOMC",
+    "etf_flows_note": "Spot ETFs lost combined $111M on Jun 17; record 13-day outflow streak totaling $4.4B",
+    "fed_stance": "Hawkish shock - 9/18 FOMC officials project 2026 rate hike; Kevin Warsh eliminated forward guidance; PCE forecast 3.6%",
+    "cpi_may2026": "May CPI 4.2% YoY (in-line); Core CPI 2.9% YoY; energy +3.9% (US-Iran driven) — limits rate cut path",
+    "geopolitical": "US-Iran peace deal signed (equity bullish) but BTC diverging — trading Fed policy not geopolitics",
+    "equity_divergence": "S&P +1.7%, Nasdaq +3.1% on Iran deal while BTC -1.29% — clear macro divergence",
+    "lth_accumulation_june": "125,000 BTC absorbed by long-term holders in June 2026 (medium-term bottom signal)",
+    "btc_ath_drawdown": "~50% drawdown from Oct 2025 ATH of $126,080",
+    "clarity_act": "Senate floor calendar — White House targeting July 4 signing (positive long-term regulatory catalyst)",
+    "next_fomc": "July 28-29, 2026"
   },
-  "updated": "2026-06-19 08:02:31 UTC",
-  "valid_until": "2026-06-19 12:02:31 UTC"
+  "updated": "2026-06-19 12:00:00 UTC",
+  "valid_until": "2026-06-19 16:00:00 UTC"
 }
