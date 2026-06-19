@@ -1,37 +1,44 @@
 {
   "regime": "bearish",
-  "confidence": 0.68,
-  "btc_price_usd": 62847.84,
-  "fear_greed_index": 22,
+  "confidence": 0.65,
+  "btc_price_usd": 63800,
+  "fear_greed_index": 20,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Peace Agreement Formal Signing (Geneva, Switzerland)",
+      "name": "US-Iran Formal Peace Signing Ceremony (Switzerland)",
       "time": "2026-06-19 10:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     },
     {
       "name": "CLARITY Act Senate Floor Proceedings (crypto commodity classification)",
       "time": "2026-06-19 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
+    },
+    {
+      "name": "FOMC Hawkish Aftermath (9/18 officials project 2026 rate hike, Jun 17)",
+      "time": "2026-06-19 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "FOMC 매파 충격·ETF 순유출·공포지수 22. 단기 약세 지속",
+  "notes": "FOMC 매파 충격·ETF 순유출·공포지수 20. 단기 약세 지속",
   "context_summary": {
-    "btc_24h_change_pct": -2.57,
-    "btc_24h_high": 64768.32,
-    "btc_24h_low": 62195.29,
-    "fear_greed_index": 22,
+    "btc_24h_change_pct": -1.5,
+    "btc_price_range": "$62,606 (CoinDesk) - $64,020 (Yahoo Finance)",
+    "fear_greed_index": 20,
     "fear_greed_label": "Extreme Fear",
-    "technical_indicators": "3 bullish vs 28 bearish signals (CoinCodex, Jun 18)",
+    "technical_indicators": "Bearish dominant; RSI ~49.74 neutral; 50d MA $65,749, 200d MA $65,192",
     "etf_flows_24h_usd_m": -111,
     "etf_flows_12day_usd_m": -3580,
+    "fidelity_fbtc_inflow_usd_m": 14,
     "fed_stance": "hawkish - 9/18 officials project 2026 rate hike; rates held 3.50-3.75%, Jun 16-17 FOMC",
-    "equity_divergence": "SPX/NASDAQ +1-3% on Iran deal while BTC falls - BTC trading Fed, not geopolitics",
+    "cpi_may2026_yoy": "4.2% (above target, limits rate cut path)",
+    "equity_divergence": "SPX/NASDAQ +1-3% on Iran deal while BTC falls - BTC trading Fed not geopolitics",
     "lth_accumulation_june": "125,000 BTC absorbed by long-term holders in June 2026 (bullish LT signal)",
-    "blackrock_btc_holdings": "764,000 BTC (world's 3rd largest holder per Arkham)"
+    "blackrock_btc_holdings": "764,000 BTC (world 3rd largest holder)"
   },
-  "updated": "2026-06-19 00:05:00 UTC",
-  "valid_until": "2026-06-19 04:05:00 UTC"
+  "updated": "2026-06-19 04:02:44 UTC",
+  "valid_until": "2026-06-19 08:02:44 UTC"
 }
