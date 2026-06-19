@@ -1,9 +1,15 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 63800,
-  "fear_greed_index": 20,
+  "btc_price_usd": 64200,
+  "fear_greed_index": 12,
   "key_events_next_24h": [
+    {
+      "name": "FOMC Hawkish Aftermath (9/18 officials project 2026 rate hike, Jun 17)",
+      "time": "2026-06-19 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
     {
       "name": "US-Iran Formal Peace Signing Ceremony (Switzerland)",
       "time": "2026-06-19 10:00 UTC",
@@ -15,30 +21,24 @@
       "time": "2026-06-19 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
-    },
-    {
-      "name": "FOMC Hawkish Aftermath (9/18 officials project 2026 rate hike, Jun 17)",
-      "time": "2026-06-19 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
     }
   ],
-  "notes": "FOMC 매파 충격·ETF 순유출·공포지수 20. 단기 약세 지속",
+  "notes": "FOMC 매파 충격, 공포지수 12(극단적 공포), BTC $64K대 하락압력",
   "context_summary": {
-    "btc_24h_change_pct": -1.5,
-    "btc_price_range": "$62,606 (CoinDesk) - $64,020 (Yahoo Finance)",
-    "fear_greed_index": 20,
+    "btc_24h_change_pct": -1.3,
+    "btc_price_range": "$63,458 (Jun 12) - $65,695 (Jun 15) - ~$64,200 (Jun 19)",
+    "fear_greed_index": 12,
     "fear_greed_label": "Extreme Fear",
-    "technical_indicators": "Bearish dominant; RSI ~49.74 neutral; 50d MA $65,749, 200d MA $65,192",
-    "etf_flows_24h_usd_m": -111,
-    "etf_flows_12day_usd_m": -3580,
-    "fidelity_fbtc_inflow_usd_m": 14,
-    "fed_stance": "hawkish - 9/18 officials project 2026 rate hike; rates held 3.50-3.75%, Jun 16-17 FOMC",
-    "cpi_may2026_yoy": "4.2% (above target, limits rate cut path)",
-    "equity_divergence": "SPX/NASDAQ +1-3% on Iran deal while BTC falls - BTC trading Fed not geopolitics",
-    "lth_accumulation_june": "125,000 BTC absorbed by long-term holders in June 2026 (bullish LT signal)",
-    "blackrock_btc_holdings": "764,000 BTC (world 3rd largest holder)"
+    "technical_indicators": "Bearish; LTH absorbed 125K BTC in June (bottom signal), but spot price still under pressure",
+    "etf_flows_note": "FBTC saw +$14M inflow Jun 17 while rival ETFs bled (selective institutional buying)",
+    "blackrock_btc_holdings": "764,000 BTC (world 3rd largest holder)",
+    "fed_stance": "Hawkish shock - 9/18 FOMC officials project 2026 rate hike; rates held 3.50-3.75% at Jun 17 meeting",
+    "cpi_may2026": "Above target (Apr headline 3.8% YoY, highest since May 2023) - limits rate cut path",
+    "geopolitical": "US-Iran peace deal signing imminent (bullish risk sentiment offset vs Fed hawkishness)",
+    "equity_divergence": "S&P/NASDAQ rallied on Iran deal while BTC fell - BTC correlating with Fed not geopolitics",
+    "lth_accumulation_june": "125,000 BTC absorbed by long-term holders in June 2026 (potential medium-term bottom signal)",
+    "clarity_act": "Senate floor calendar - White House targeting July 4 signing (positive long-term catalyst)"
   },
-  "updated": "2026-06-19 04:02:44 UTC",
-  "valid_until": "2026-06-19 08:02:44 UTC"
+  "updated": "2026-06-19 08:02:31 UTC",
+  "valid_until": "2026-06-19 12:02:31 UTC"
 }
