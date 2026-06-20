@@ -1,28 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.6,
-  "btc_price_usd": 63527,
+  "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Peace Agreement Market Digestion",
-      "time": "2026-06-20 09:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "BTC Spot ETF Daily Flow Report",
-      "time": "2026-06-20 20:00 UTC",
+      "name": "Fed Speaker Remarks (potential)",
+      "time": "2026-06-20 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "CLARITY Act Senate Floor Progress",
-      "time": "2026-06-20 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "BTC Spot ETF Daily Flow Data",
+      "time": "2026-06-20 20:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "매파 FOMC·ETF 13일 유출로 약세, 지정학 해소로 $63K 반등 중",
-  "updated": "2026-06-20 08:05:00 UTC",
-  "valid_until": "2026-06-20 12:05:00 UTC"
+  "notes": "FOMC 매파 충격 후 BTC $63k 지지선 테스트, ETF 자금 유출 지속",
+  "updated": "2026-06-20 06:30:00 UTC",
+  "valid_until": "2026-06-20 10:30:00 UTC"
 }
