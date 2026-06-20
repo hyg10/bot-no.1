@@ -1,27 +1,28 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
+  "confidence": 0.62,
   "key_events_next_24h": [
     {
-      "name": "Post-FOMC Hawkish Spillover (June 18 dot plot: 9/18 officials see 2026 rate hike)",
+      "name": "Post-FOMC hawkish aftershock (June 17: 9/18 officials see 2026 rate hike, Warsh drops forward guidance)",
       "time": "2026-06-20 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "CLARITY Act Senate Floor Vote (crypto regulation, potential vote)",
-      "time": "2026-06-20 18:00 UTC",
+      "name": "BTC Spot ETF daily flow data (cumulative $7.75B outflows since mid-May)",
+      "time": "2026-06-20 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "bearish"
     },
     {
-      "name": "BTC Spot ETF Daily Flow Data",
-      "time": "2026-06-20 20:00 UTC",
+      "name": "CLARITY Act legislative progress (XRP commodity classification, target July 4 signing)",
+      "time": "2026-06-21 00:00 UTC",
       "impact": "low",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "매파 연준 충격 후 공포 심리 지속, BTC $63.6K 하방 압력",
-  "updated": "2026-06-20 07:00:00 UTC",
-  "valid_until": "2026-06-20 11:00:00 UTC"
+  "notes": "FOMC 매파 쇼크 후 BTC 하락세, ETF 대규모 유출 지속",
+  "btc_price_usd": 63640,
+  "updated": "2026-06-20 08:00:00 UTC",
+  "valid_until": "2026-06-20 12:00:00 UTC"
 }
