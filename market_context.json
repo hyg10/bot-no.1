@@ -3,10 +3,16 @@
   "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "Fed Speaker Remarks (potential)",
-      "time": "2026-06-20 14:00 UTC",
-      "impact": "medium",
+      "name": "Post-FOMC Hawkish Spillover (June 18 dot plot: 9/18 officials see 2026 rate hike)",
+      "time": "2026-06-20 00:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "CLARITY Act Senate Floor Vote (crypto regulation, potential vote)",
+      "time": "2026-06-20 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     },
     {
       "name": "BTC Spot ETF Daily Flow Data",
@@ -15,7 +21,7 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 매파 충격 후 BTC $63k 지지선 테스트, ETF 자금 유출 지속",
-  "updated": "2026-06-20 06:30:00 UTC",
-  "valid_until": "2026-06-20 10:30:00 UTC"
+  "notes": "매파 연준 충격 후 공포 심리 지속, BTC $63.6K 하방 압력",
+  "updated": "2026-06-20 07:00:00 UTC",
+  "valid_until": "2026-06-20 11:00:00 UTC"
 }
