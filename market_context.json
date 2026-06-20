@@ -1,46 +1,28 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 62600,
-  "fear_greed_index": 33,
+  "confidence": 0.6,
+  "btc_price_usd": 63527,
   "key_events_next_24h": [
     {
-      "name": "Weekend Low-Liquidity Window (ongoing)",
-      "time": "2026-06-20 06:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "CLARITY Act Senate Floor Activity (XRP commodity classification, White House targets July 4 signing)",
-      "time": "2026-06-30 00:00 UTC",
+      "name": "US-Iran Peace Agreement Market Digestion",
+      "time": "2026-06-20 09:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Next FOMC Meeting",
-      "time": "2026-07-28 18:00 UTC",
-      "impact": "high",
+      "name": "BTC Spot ETF Daily Flow Report",
+      "time": "2026-06-20 20:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "CLARITY Act Senate Floor Progress",
+      "time": "2026-06-20 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "연준 매파·공포지수 33·BTC 4일 하락세, 단기 약세 지속",
-  "context_summary": {
-    "btc_24h_change_pct": -1.6,
-    "btc_price_range": "$61,000 (June low) - $66,304 (June high) - ~$62,600 (current est.)",
-    "fear_greed_index": 33,
-    "fear_greed_label": "Fear",
-    "technical_indicators": "Bearish; BTC down 4 consecutive days; RSI neutral-bearish; below 50d MA ($65,749) and 200d MA ($65,192)",
-    "etf_flows_note": "FBTC +$14M inflows June 17 but other ETFs bleeding; selective institutional buying only",
-    "fed_stance": "FOMC June 17: rates held at 3.5-3.75%; 9/18 officials project 2026 rate hike; new Chair Warsh eliminated forward guidance — hawkish shock",
-    "cpi_may2026": "May CPI 4.17% YoY; Core CPI 2.82% YoY; PCE forecast raised to 3.6%; next CPI due July 14",
-    "geopolitical": "US-Iran peace deal boosted equities (S&P +1.7%, Nasdaq +3.1%) but BTC diverging negative",
-    "equity_divergence": "BTC -1.6% vs S&P +1.7% — BTC underperforming equities; total crypto market cap ~$2.1T",
-    "lth_accumulation_june": "125,000 BTC absorbed by LTH in June 2026 (medium-term support, limits extreme downside)",
-    "btc_ath_drawdown": "~50% drawdown from Oct 2025 ATH of ~$126,000",
-    "clarity_act": "Senate floor calendar — positive long-term regulatory catalyst; White House targets July 4 signing",
-    "next_fomc": "2026-07-28",
-    "next_cpi": "2026-07-14"
-  },
-  "updated": "2026-06-20 04:02:31 UTC",
-  "valid_until": "2026-06-20 08:02:31 UTC"
+  "notes": "매파 FOMC·ETF 13일 유출로 약세, 지정학 해소로 $63K 반등 중",
+  "updated": "2026-06-20 08:05:00 UTC",
+  "valid_until": "2026-06-20 12:05:00 UTC"
 }
