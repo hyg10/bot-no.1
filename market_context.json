@@ -1,16 +1,16 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
+  "confidence": 0.58,
   "key_events_next_24h": [
     {
-      "name": "Post-FOMC hawkish digestion continues (June 17: held 3.50-3.75%, 9/18 officials project hike, PCE forecast raised to 3.6%)",
+      "name": "Post-FOMC hawkish digestion (June 17: held 3.50-3.75%, 9/18 officials project 2026 hike, PCE raised to 3.6%)",
       "time": "2026-06-21 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US Senate CLARITY Act floor proceedings (crypto commodity classification)",
-      "time": "2026-06-21 14:00 UTC",
+      "name": "US-Iran peace agreement signing expected",
+      "time": "2026-06-22 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
@@ -19,10 +19,16 @@
       "time": "2026-06-22 13:45 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Goldman Sachs BTC ETF SEC registration (ongoing)",
+      "time": "2026-06-21 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "연준 매파 쇼크·공포지수12·BTC $64K 약세 지속",
-  "btc_price_usd": 64227,
-  "updated": "2026-06-21 15:00:00 UTC",
-  "valid_until": "2026-06-21 19:00:00 UTC"
+  "notes": "FOMC 매파 충격 지속, BTC $64K 기술지표 20:10 약세",
+  "btc_price_usd": 64224,
+  "updated": "2026-06-21 19:30:00 UTC",
+  "valid_until": "2026-06-21 23:30:00 UTC"
 }
