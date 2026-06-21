@@ -1,6 +1,6 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
+  "confidence": 0.62,
   "key_events_next_24h": [
     {
       "name": "Post-FOMC hawkish digestion continues (June 17: held 3.50-3.75%, 9/18 officials project hike, PCE forecast raised to 3.6%)",
@@ -15,14 +15,14 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "No major CPI/NFP/FOMC releases scheduled in next 24h",
-      "time": "2026-06-21 00:00 UTC",
-      "impact": "low",
+      "name": "US June PMI Flash Estimate (possible release)",
+      "time": "2026-06-22 13:45 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 매파 여진 지속, BTC $64K 지지 불안, 기술적 약세 우위",
-  "btc_price_usd": 64050,
-  "updated": "2026-06-21 11:00:00 UTC",
-  "valid_until": "2026-06-21 15:00:00 UTC"
+  "notes": "연준 매파 쇼크·공포지수12·BTC $64K 약세 지속",
+  "btc_price_usd": 64227,
+  "updated": "2026-06-21 15:00:00 UTC",
+  "valid_until": "2026-06-21 19:00:00 UTC"
 }
