@@ -1,9 +1,22 @@
 {
-  "regime": "bullish",
-  "confidence": 0.52,
-  "key_events_next_24h": [],
-  "notes": "FOMC 쇼크 흡수 후 48시간 +1.9% 회복세. 뉴스 미수집.",
-  "btc_price_usd": 64190,
-  "updated": "2026-06-21 00:10:00 UTC",
-  "valid_until": "2026-06-21 04:10:00 UTC"
+  "regime": "neutral",
+  "confidence": 0.4,
+  "key_events_next_24h": [
+    {
+      "name": "Post-FOMC hawkish digestion (rate held 3.50-3.75%, 9/18 officials project hike)",
+      "time": "2026-06-21 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "No major scheduled macro releases (CPI/NFP/FOMC all outside 24h window)",
+      "time": "2026-06-21 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
+  ],
+  "notes": "공포지수 33, 매파 FOMC 후 BTC $63,935 소폭 반등, 혼조",
+  "btc_price_usd": 63935,
+  "updated": "2026-06-21 04:02:35 UTC",
+  "valid_until": "2026-06-21 08:02:35 UTC"
 }
