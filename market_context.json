@@ -1,22 +1,22 @@
 {
-  "regime": "neutral",
-  "confidence": 0.4,
+  "regime": "bearish",
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "Post-FOMC hawkish digestion (rate held 3.50-3.75%, 9/18 officials project hike)",
+      "name": "Post-FOMC hawkish digestion continues (June 17: held 3.50-3.75%, 9/18 officials project hike, PCE forecast raised to 3.6%)",
       "time": "2026-06-21 00:00 UTC",
-      "impact": "medium",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "No major scheduled macro releases (CPI/NFP/FOMC all outside 24h window)",
+      "name": "No major scheduled macro releases in next 24h (CPI/NFP/FOMC all outside window)",
       "time": "2026-06-21 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수 33, 매파 FOMC 후 BTC $63,935 소폭 반등, 혼조",
-  "btc_price_usd": 63935,
-  "updated": "2026-06-21 04:02:35 UTC",
-  "valid_until": "2026-06-21 08:02:35 UTC"
+  "notes": "기술적 약세 우위, 고래 매집으로 $64K 지지, 하락 리스크 상존",
+  "btc_price_usd": 64224,
+  "updated": "2026-06-21 07:00:00 UTC",
+  "valid_until": "2026-06-21 11:00:00 UTC"
 }
