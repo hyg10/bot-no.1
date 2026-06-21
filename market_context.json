@@ -9,14 +9,20 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "No major scheduled macro releases in next 24h (CPI/NFP/FOMC all outside window)",
+      "name": "US Senate CLARITY Act floor proceedings (crypto commodity classification)",
+      "time": "2026-06-21 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "No major CPI/NFP/FOMC releases scheduled in next 24h",
       "time": "2026-06-21 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "기술적 약세 우위, 고래 매집으로 $64K 지지, 하락 리스크 상존",
-  "btc_price_usd": 64224,
-  "updated": "2026-06-21 07:00:00 UTC",
-  "valid_until": "2026-06-21 11:00:00 UTC"
+  "notes": "FOMC 매파 여진 지속, BTC $64K 지지 불안, 기술적 약세 우위",
+  "btc_price_usd": 64050,
+  "updated": "2026-06-21 11:00:00 UTC",
+  "valid_until": "2026-06-21 15:00:00 UTC"
 }
