@@ -1,35 +1,23 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
-  "btc_price_usd": 64197,
-  "fear_greed_index": 12,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "US June PMI Flash Estimate (S&P Global)",
-      "time": "2026-06-22 13:45 UTC",
+      "name": "US Equities Open - Post-FOMC Hawkish Sentiment Ongoing",
+      "time": "2026-06-22 13:30 UTC",
       "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "No major scheduled data releases (FOMC was Jun 17, CPI was Jun 10)",
+      "time": "2026-06-22 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "US-Iran Peace Deal Potential Signing",
-      "time": "2026-06-22 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Goldman Sachs Bitcoin ETF SEC review (pending approval)",
-      "time": "2026-06-23 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "CLARITY Act Senate Floor Watch (vote window: Jun 30 - Jul 4)",
-      "time": "2026-06-30 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "연준 매파 충격 소화, 기관 매집 강세. 박스권 유지",
-  "updated": "2026-06-22 09:15:00 UTC",
-  "valid_until": "2026-06-22 13:15:00 UTC"
+  "notes": "매파적 연준 여파 지속, 기관매수로 하방지지. 혼재된 신호",
+  "btc_price_usd": 64500,
+  "fear_greed_index": 12,
+  "updated": "2026-06-22 13:30:00 UTC",
+  "valid_until": "2026-06-22 17:30:00 UTC"
 }
