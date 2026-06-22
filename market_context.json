@@ -1,34 +1,28 @@
 {
   "regime": "bearish",
-  "confidence": 0.58,
+  "confidence": 0.55,
+  "btc_price_usd": 63737,
   "key_events_next_24h": [
     {
-      "name": "Post-FOMC hawkish digestion (June 17: held 3.50-3.75%, 9/18 officials project 2026 hike, PCE raised to 3.6%)",
-      "time": "2026-06-21 00:00 UTC",
+      "name": "Post-FOMC hawkish consolidation (held 3.50-3.75%, 9/18 officials project 2026 hike, PCE raised to 3.6%)",
+      "time": "2026-06-22 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran peace agreement signing expected",
-      "time": "2026-06-22 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "US June PMI Flash Estimate (possible release)",
+      "name": "US June PMI Flash Estimate release (S&P Global)",
       "time": "2026-06-22 13:45 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs BTC ETF SEC registration (ongoing)",
-      "time": "2026-06-21 00:00 UTC",
+      "name": "Goldman Sachs BTC Spot ETF SEC review (ongoing, no fixed deadline)",
+      "time": "2026-06-22 00:00 UTC",
       "impact": "low",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 매파 충격 지속, BTC $64K 기술지표 20:10 약세",
-  "btc_price_usd": 64224,
-  "updated": "2026-06-21 19:30:00 UTC",
-  "valid_until": "2026-06-21 23:30:00 UTC"
+  "notes": "매파적 FOMC 여파, 공포지수 12·ETF 유출, 기관 축적 지속",
+  "updated": "2026-06-22 00:02:57 UTC",
+  "valid_until": "2026-06-22 04:02:57 UTC"
 }
