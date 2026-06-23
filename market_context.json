@@ -1,29 +1,29 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.62,
   "key_events_next_24h": [
     {
-      "name": "US Equities Open - Post-FOMC Hawkish Overhang (9/18 officials project 2026 hike)",
-      "time": "2026-06-22 13:30 UTC",
+      "name": "Bitcoin Spot ETF Daily Flow Data (record outflows ongoing since mid-May)",
+      "time": "2026-06-23 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "No major scheduled macro data (FOMC Jun 17, CPI Jun 10 - both past)",
-      "time": "2026-06-22 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "Goldman Sachs BTC ETF SEC Approval Decision (pending, no confirmed date)",
+      "time": "2026-06-23 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     },
     {
-      "name": "Goldman Sachs Bitcoin Premium Income ETF - SEC Registration Active",
-      "time": "2026-06-22 00:00 UTC",
+      "name": "No major macro data scheduled (FOMC Jun 17, CPI Jun 10 - both past)",
+      "time": "2026-06-23 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "연준 매파 충격 후 BTC $64K 횡보, 공포지수 12 극도 공포",
-  "btc_price_usd": 64500,
-  "fear_greed_index": 12,
-  "updated": "2026-06-22 13:45:00 UTC",
-  "valid_until": "2026-06-22 17:45:00 UTC"
+  "notes": "공포탐욕지수 8, ETF $127억 유출, 기술적 지표 베어리시 우세",
+  "btc_price_usd": 64800,
+  "fear_greed_index": 8,
+  "updated": "2026-06-23 00:02:45 UTC",
+  "valid_until": "2026-06-23 04:02:45 UTC"
 }
