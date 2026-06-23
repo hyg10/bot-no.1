@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
-  "btc_price_usd": 64200,
+  "confidence": 0.65,
+  "btc_price_usd": 62400,
   "fear_greed_index": 23,
   "key_events_next_24h": [
     {
@@ -29,7 +29,7 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "공포지수 23(극도공포), BTC $64K, 이평선 하회 하락추세",
-  "updated": "2026-06-23 08:02:49 UTC",
-  "valid_until": "2026-06-23 12:02:49 UTC"
+  "notes": "연준 매파 충격 후 BTC $62k 하락, 이평선 하회 하락추세 유지",
+  "updated": "2026-06-23 10:00:00 UTC",
+  "valid_until": "2026-06-23 14:00:00 UTC"
 }
