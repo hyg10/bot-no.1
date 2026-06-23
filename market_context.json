@@ -1,35 +1,21 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 62400,
-  "fear_greed_index": 23,
   "key_events_next_24h": [
     {
-      "name": "S&P Global Flash US PMI Manufacturing & Services (Jun)",
-      "time": "2026-06-23 13:45 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Fed hawkish commentary (post-Jun 17 FOMC: 9/18 officials project 2026 rate hike)",
+      "name": "Fed Rate Hike Risk (Post-FOMC Hawkish Sentiment)",
       "time": "2026-06-23 18:00 UTC",
-      "impact": "medium",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Bitcoin Spot ETF daily flow data (cumulative outflows ~$2.75B since mid-May)",
-      "time": "2026-06-23 21:00 UTC",
+      "name": "Goldman Sachs Bitcoin ETF SEC Review (Pending)",
+      "time": "2026-06-24 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "CLARITY Act Senate Floor Vote (July 4 White House signing target)",
-      "time": "2026-06-23 14:00 UTC",
-      "impact": "low",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "연준 매파 충격 후 BTC $62k 하락, 이평선 하회 하락추세 유지",
-  "updated": "2026-06-23 10:00:00 UTC",
-  "valid_until": "2026-06-23 14:00:00 UTC"
+  "notes": "연준 매파 충격으로 BTC $62K대 하락, 공포지수 19 극도공포",
+  "updated": "2026-06-23 14:00:00 UTC",
+  "valid_until": "2026-06-23 18:00:00 UTC"
 }
