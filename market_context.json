@@ -1,6 +1,8 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
+  "confidence": 0.62,
+  "btc_price_usd": 64200,
+  "fear_greed_index": 23,
   "key_events_next_24h": [
     {
       "name": "S&P Global Flash US PMI Manufacturing & Services (Jun)",
@@ -15,21 +17,19 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "Bitcoin Spot ETF daily flow data (record cumulative outflows ~$2.75B since mid-May)",
+      "name": "Bitcoin Spot ETF daily flow data (cumulative outflows ~$2.75B since mid-May)",
       "time": "2026-06-23 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC approval (pending, no confirmed date)",
-      "time": "2026-06-24 00:00 UTC",
+      "name": "CLARITY Act Senate Floor Vote (July 4 White House signing target)",
+      "time": "2026-06-23 14:00 UTC",
       "impact": "low",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "ETF 대규모 유출·매파 연준, 기술적 베어리시 우세",
-  "btc_price_usd": 64500,
-  "fear_greed_index": 25,
-  "updated": "2026-06-23 06:30:00 UTC",
-  "valid_until": "2026-06-23 10:30:00 UTC"
+  "notes": "공포지수 23(극도공포), BTC $64K, 이평선 하회 하락추세",
+  "updated": "2026-06-23 08:02:49 UTC",
+  "valid_until": "2026-06-23 12:02:49 UTC"
 }
