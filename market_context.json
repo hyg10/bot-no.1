@@ -1,29 +1,23 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Crypto Clarity Act Senate Progress (July vote expected)",
-      "time": "2026-06-24 ongoing",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "FOMC Hawkish Fallout (June 17 decision, rate hike projections still weighing)",
+      "time": "2026-06-24 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     },
     {
-      "name": "Goldman Sachs / Morgan Stanley Bitcoin ETF Application Review",
-      "time": "2026-06-24 ongoing",
+      "name": "CLARITY Act Senate Floor Vote (crypto commodity classification)",
+      "time": "2026-06-24 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
-    },
-    {
-      "name": "No FOMC / CPI / PPI scheduled (next: July 14-29)",
-      "time": "N/A",
-      "impact": "low",
-      "expected_direction": "neutral"
     }
   ],
-  "btc_price_usd": 62450,
+  "btc_price_usd": 62700,
   "fear_greed_index": 19,
-  "notes": "BTC $62K, 극도공포(19), 주간-5%, 장기홀더 매도 감소 저점신호",
-  "updated": "2026-06-24 08:02:58 UTC",
-  "valid_until": "2026-06-24 12:02:58 UTC"
+  "notes": "매크로 긴축 쇼크·극단 공포지수, BTC 주간 -4.8% 하락세",
+  "updated": "2026-06-24 12:02:50 UTC",
+  "valid_until": "2026-06-24 16:02:50 UTC"
 }
