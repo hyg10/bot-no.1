@@ -1,10 +1,10 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "FOMC Hawkish Fallout (June 17 decision, rate hike projections still weighing)",
-      "time": "2026-06-24 00:00 UTC",
+      "name": "PCE Inflation Data Release (May 2026)",
+      "time": "2026-06-24 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
@@ -13,11 +13,17 @@
       "time": "2026-06-24 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
+    },
+    {
+      "name": "June Jobs Report Data Preview Window",
+      "time": "2026-06-25 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "btc_price_usd": 62700,
+  "btc_price_usd": 62600,
   "fear_greed_index": 19,
-  "notes": "매크로 긴축 쇼크·극단 공포지수, BTC 주간 -4.8% 하락세",
-  "updated": "2026-06-24 12:02:50 UTC",
-  "valid_until": "2026-06-24 16:02:50 UTC"
+  "notes": "BTC $62K대 2주저점, 극도공포지수19, 강달러·금리인상 우려 압박",
+  "updated": "2026-06-24 14:30:00 UTC",
+  "valid_until": "2026-06-24 18:30:00 UTC"
 }
