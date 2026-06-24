@@ -1,29 +1,29 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Fed Hawkish Dot Plot Fallout (June 17 FOMC - 9/18 officials project rate hike)",
-      "time": "2026-06-23 20:00 UTC",
-      "impact": "high",
+      "name": "Fed Hawkish Stance Continuation (3.50-3.75% hold, PCE revised to 3.6%)",
+      "time": "2026-06-24 14:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "CLARITY Act Progress (July 4 signing deadline approaching)",
-      "time": "2026-06-24 00:00 UTC",
+      "name": "CLARITY Act Progress (July 4 signing deadline)",
+      "time": "2026-06-24 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
       "name": "Goldman Sachs Bitcoin ETF SEC Review (ongoing)",
-      "time": "2026-06-24 12:00 UTC",
+      "time": "2026-06-24 16:00 UTC",
       "impact": "low",
       "expected_direction": "bullish"
     }
   ],
-  "btc_price_usd": 62300,
-  "fear_greed_index": 12,
-  "notes": "연준 매파 발언 여파로 BTC 하락세. 공포지수 12(극도 공포)",
-  "updated": "2026-06-23 20:02:43 UTC",
-  "valid_until": "2026-06-24 00:02:43 UTC"
+  "btc_price_usd": 62500,
+  "fear_greed_index": 21,
+  "notes": "공포지수 21 극도공포, 금리 고점 유지·PCE 상향으로 하락세",
+  "updated": "2026-06-24 06:30:00 UTC",
+  "valid_until": "2026-06-24 10:30:00 UTC"
 }
