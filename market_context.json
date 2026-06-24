@@ -3,27 +3,27 @@
   "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "Fed Hawkish Stance Continuation (3.50-3.75% hold, dot plot higher-for-longer)",
-      "time": "2026-06-24 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "CLARITY Act Senate Floor Vote Progress (July 4 signing deadline, 59% Polymarket odds)",
-      "time": "2026-06-24 18:00 UTC",
+      "name": "Crypto Clarity Act Senate Progress (July vote expected)",
+      "time": "2026-06-24 ongoing",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "Goldman Sachs Bitcoin Premium Income ETF - SEC filing activity ongoing",
-      "time": "2026-06-24 16:00 UTC",
+      "name": "Goldman Sachs / Morgan Stanley Bitcoin ETF Application Review",
+      "time": "2026-06-24 ongoing",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "No FOMC / CPI / PPI scheduled (next: July 14-29)",
+      "time": "N/A",
       "impact": "low",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
-  "btc_price_usd": 63200,
-  "fear_greed_index": 28,
-  "notes": "공포지수 28, BTC 주간 -3.4%, CLARITY Act 7월 서명 기대",
-  "updated": "2026-06-24 04:02:32 UTC",
-  "valid_until": "2026-06-24 08:02:32 UTC"
+  "btc_price_usd": 62450,
+  "fear_greed_index": 19,
+  "notes": "BTC $62K, 극도공포(19), 주간-5%, 장기홀더 매도 감소 저점신호",
+  "updated": "2026-06-24 08:02:58 UTC",
+  "valid_until": "2026-06-24 12:02:58 UTC"
 }
