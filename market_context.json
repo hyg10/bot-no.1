@@ -1,13 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.70,
   "key_events_next_24h": [
-    {
-      "name": "PCE Inflation Data Release (May 2026)",
-      "time": "2026-06-24 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
     {
       "name": "CLARITY Act Senate Floor Vote (crypto commodity classification)",
       "time": "2026-06-24 20:00 UTC",
@@ -22,8 +16,8 @@
     }
   ],
   "btc_price_usd": 62600,
-  "fear_greed_index": 19,
-  "notes": "BTC $62K대 2주저점, 극도공포지수19, 강달러·금리인상 우려 압박",
-  "updated": "2026-06-24 14:30:00 UTC",
-  "valid_until": "2026-06-24 18:30:00 UTC"
+  "fear_greed_index": 24,
+  "notes": "BTC 62K대 극도공포24, AI급락·ETF유출·강달러로 하락세 지속",
+  "updated": "2026-06-24 13:30:00 UTC",
+  "valid_until": "2026-06-24 17:30:00 UTC"
 }
