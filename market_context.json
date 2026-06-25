@@ -1,23 +1,35 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "CLARITY Act Senate Floor Vote (crypto commodity classification)",
-      "time": "2026-06-24 20:00 UTC",
+      "name": "BTC Spot ETF Daily Flow Report (June 24 data)",
+      "time": "2026-06-25 02:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin ETF SEC Review (ongoing)",
+      "time": "2026-06-25 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "June Jobs Report Data Preview Window",
-      "time": "2026-06-25 00:00 UTC",
-      "impact": "medium",
+      "name": "USD Dollar Index (DXY) strength continuation risk",
+      "time": "2026-06-25 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "PCE Inflation Data Release (May, est. June 27)",
+      "time": "2026-06-27 12:30 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "btc_price_usd": 62600,
+  "btc_price_usd": 62520,
   "fear_greed_index": 24,
-  "notes": "BTC 62K대 극도공포24, AI급락·ETF유출·강달러로 하락세 지속",
-  "updated": "2026-06-24 13:30:00 UTC",
-  "valid_until": "2026-06-24 17:30:00 UTC"
+  "notes": "공포지수24·달러강세·BTC 62,500달러 약세 지속",
+  "updated": "2026-06-25 06:00:00 UTC",
+  "valid_until": "2026-06-25 10:00:00 UTC"
 }
