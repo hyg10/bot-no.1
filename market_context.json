@@ -1,35 +1,35 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Report (June 24 data)",
-      "time": "2026-06-25 02:00 UTC",
+      "name": "Fed Hawkish Stance Ongoing (rate held 3.50-3.75%, hike signaled H2 2026)",
+      "time": "2026-06-25 00:00 UTC",
       "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "USD Dollar Index Elevated (101.15, 1yr high) - macro risk-off",
+      "time": "2026-06-25 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin ETF SEC Filing Review (ongoing)",
+      "time": "2026-06-25 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC Review (ongoing)",
-      "time": "2026-06-25 00:00 UTC",
+      "name": "BTC Spot ETF Flows (turned +$39.2M on Jun 23, fragile reversal watch)",
+      "time": "2026-06-25 16:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "USD Dollar Index (DXY) strength continuation risk",
-      "time": "2026-06-25 13:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "PCE Inflation Data Release (May, est. June 27)",
-      "time": "2026-06-27 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "btc_price_usd": 62520,
+  "notes": "공포탐욕 24(극도공포), 기술지표 61% 약세, 달러강세·리스크오프",
+  "btc_price_usd": 62400,
   "fear_greed_index": 24,
-  "notes": "공포지수24·달러강세·BTC 62,500달러 약세 지속",
-  "updated": "2026-06-25 06:00:00 UTC",
-  "valid_until": "2026-06-25 10:00:00 UTC"
+  "updated": "2026-06-25 04:02:47 UTC",
+  "valid_until": "2026-06-25 08:02:47 UTC"
 }
