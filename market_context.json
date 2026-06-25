@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
-  "btc_price_usd": 62500,
+  "confidence": 0.72,
+  "btc_price_usd": 61285,
   "fear_greed_index": 24,
   "key_events_next_24h": [
     {
@@ -9,24 +9,35 @@
       "time": "2026-06-25 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "notes": "Fed's preferred inflation gauge; elevated reading reinforces hawkish dot-plot (9 officials favor hike)"
+      "notes": "Fed preferred inflation gauge; elevated reading reinforces hawkish dot-plot (9 officials favor hike)"
     },
     {
       "name": "BTC Spot ETF Daily Flows Report",
       "time": "2026-06-25 20:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin ETF SEC Review (Pending)",
+      "time": "2026-06-26 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
   "market_signals": {
     "fear_greed_label": "Extreme Fear",
     "btc_24h_change_pct": -4.76,
     "pattern": "Bear flag breakdown confirmed",
-    "key_support": 60000,
+    "key_support": 59500,
     "key_resistance": 65000,
-    "macro_headwinds": ["Strong USD", "Hawkish Fed (3.8% dot-plot median)", "Risk-off sentiment", "Middle East uncertainty"]
+    "macro_headwinds": [
+      "Strong USD (DXY 101.15, 1yr high)",
+      "Hawkish Fed dot-plot (9 officials favor hike)",
+      "Institutional redemption wave ($6.35B in 30d)",
+      "Risk-off: Nasdaq -2.2%"
+    ]
   },
-  "notes": "극도 공포(24), 베어플래그 확인, 달러강세, PCE 발표 예정",
-  "updated": "2026-06-25 08:02:38 UTC",
-  "valid_until": "2026-06-25 12:02:38 UTC"
+  "notes": "베어 플래그 붕괴, 극도 공포(24), 강달러, PCE 발표 임박",
+  "updated": "2026-06-25 11:00:00 UTC",
+  "valid_until": "2026-06-25 15:00:00 UTC"
 }
