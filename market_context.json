@@ -1,11 +1,11 @@
 {
   "regime": "bearish",
-  "confidence": 0.78,
-  "btc_price_usd": 61285,
+  "confidence": 0.75,
+  "btc_price_usd": 59500,
   "fear_greed_index": 12,
   "key_events_next_24h": [
     {
-      "name": "US May PCE Price Index Release",
+      "name": "US May PCE Price Index Release (may be released already ~12:30 UTC)",
       "time": "2026-06-25 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish",
@@ -16,31 +16,49 @@
       "time": "2026-06-25 20:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "notes": "Yesterday saw $469M outflow - largest this month; IBIT alone -$239M"
+      "notes": "Yesterday $469M outflow (month's largest); BlackRock IBIT alone -$239M; further outflows likely"
     },
     {
-      "name": "CLARITY Act Senate Floor Consideration (pending)",
+      "name": "CLARITY Act Senate Floor Consideration (pending/delayed)",
       "time": "2026-06-26 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "notes": "Delay in passage contributing to negative sentiment; on Senate General Orders Calendar #423"
+      "notes": "Delay in passage contributing to negative sentiment; uncertainty weighing on market"
+    },
+    {
+      "name": "No FOMC meeting (last: June 16-17, rates held at 3.5-3.75%)",
+      "time": "N/A",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "No CPI/PPI scheduled (next CPI: July 14, PPI: July 15)",
+      "time": "N/A",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
   "market_signals": {
     "fear_greed_label": "Extreme Fear",
     "btc_24h_change_pct": -2.7,
-    "pattern": "Crash below $60K then partial recovery to $61.5K; $994M liquidations (78% longs)",
-    "key_support": 59500,
+    "btc_7d_change_pct": -4.47,
+    "btc_from_peak_pct": -23.3,
+    "peak_price": 77623,
+    "peak_date": "2026-05-25",
+    "pattern": "Crashed below $60K, partial recovery to ~$59.5-61.5K range; ~$994M liquidations (78% longs)",
+    "key_support": 59000,
     "key_resistance": 63500,
     "macro_headwinds": [
       "Hawkish Fed: rates held 3.5-3.75%, 9 officials favor hike in 2026",
-      "PCE inflation revised to 3.6% (from 2.7%) - higher than expected",
-      "ETF outflows: $469M single-day exit (month's largest)",
-      "Capital rotation from crypto to AI stocks",
-      "BTC at 20-month low; down $16K from May peak of $77.6K"
+      "PCE inflation revised to 3.6% from 2.7% - well above target",
+      "ETF outflows: $469M single-day exit (month's largest); BlackRock IBIT -$239M",
+      "Capital rotation from crypto to AI stocks (Nasdaq fell 2.2% on June 23)",
+      "DXY at 101.15 (highest in 1+ year) - macro risk-off",
+      "BTC near 20-month low; down ~$18K from May peak of $77.6K",
+      "Chinese miner calls bottom $42K-$44K for late 2026 (long-term cycle model)"
     ]
   },
-  "notes": "BTC 60K 붕괴 후 반등 중; 공포지수 12, ETF 대규모 유출로 약세 지속",
-  "updated": "2026-06-25 14:00:00 UTC",
-  "valid_until": "2026-06-25 18:00:00 UTC"
+  "notes": "BTC $60K 붕괴 후 반등 중; 공포지수 12, ETF 대규모 유출로 약세 지속",
+  "updated": "2026-06-25 14:30:00 UTC",
+  "valid_until": "2026-06-25 18:30:00 UTC"
 }
