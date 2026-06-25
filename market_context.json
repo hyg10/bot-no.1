@@ -1,43 +1,46 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.78,
   "btc_price_usd": 61285,
-  "fear_greed_index": 24,
+  "fear_greed_index": 12,
   "key_events_next_24h": [
     {
-      "name": "US PCE Price Index (May 2026) Release",
+      "name": "US May PCE Price Index Release",
       "time": "2026-06-25 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "notes": "Fed preferred inflation gauge; elevated reading reinforces hawkish dot-plot (9 officials favor hike)"
+      "notes": "Fed preferred inflation gauge; PCE revised to 3.6% (was 2.7%), reinforces hawkish stance"
     },
     {
       "name": "BTC Spot ETF Daily Flows Report",
       "time": "2026-06-25 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "impact": "high",
+      "expected_direction": "bearish",
+      "notes": "Yesterday saw $469M outflow - largest this month; IBIT alone -$239M"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC Review (Pending)",
+      "name": "CLARITY Act Senate Floor Consideration (pending)",
       "time": "2026-06-26 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "bearish",
+      "notes": "Delay in passage contributing to negative sentiment; on Senate General Orders Calendar #423"
     }
   ],
   "market_signals": {
     "fear_greed_label": "Extreme Fear",
-    "btc_24h_change_pct": -4.76,
-    "pattern": "Bear flag breakdown confirmed",
+    "btc_24h_change_pct": -2.7,
+    "pattern": "Crash below $60K then partial recovery to $61.5K; $994M liquidations (78% longs)",
     "key_support": 59500,
-    "key_resistance": 65000,
+    "key_resistance": 63500,
     "macro_headwinds": [
-      "Strong USD (DXY 101.15, 1yr high)",
-      "Hawkish Fed dot-plot (9 officials favor hike)",
-      "Institutional redemption wave ($6.35B in 30d)",
-      "Risk-off: Nasdaq -2.2%"
+      "Hawkish Fed: rates held 3.5-3.75%, 9 officials favor hike in 2026",
+      "PCE inflation revised to 3.6% (from 2.7%) - higher than expected",
+      "ETF outflows: $469M single-day exit (month's largest)",
+      "Capital rotation from crypto to AI stocks",
+      "BTC at 20-month low; down $16K from May peak of $77.6K"
     ]
   },
-  "notes": "베어 플래그 붕괴, 극도 공포(24), 강달러, PCE 발표 임박",
-  "updated": "2026-06-25 11:00:00 UTC",
-  "valid_until": "2026-06-25 15:00:00 UTC"
+  "notes": "BTC 60K 붕괴 후 반등 중; 공포지수 12, ETF 대규모 유출로 약세 지속",
+  "updated": "2026-06-25 14:00:00 UTC",
+  "valid_until": "2026-06-25 18:00:00 UTC"
 }
