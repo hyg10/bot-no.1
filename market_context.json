@@ -1,29 +1,29 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
-  "btc_price_usd": 59500,
-  "fear_greed_index": 12,
+  "confidence": 0.70,
+  "btc_price_usd": 59442,
+  "fear_greed_index": 24,
   "key_events_next_24h": [
     {
-      "name": "US May PCE Price Index Release (may be released already ~12:30 UTC)",
-      "time": "2026-06-25 12:30 UTC",
+      "name": "USD Dollar Index elevated (DXY 101.15, multi-year high)",
+      "time": "2026-06-26 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "notes": "Fed preferred inflation gauge; PCE revised to 3.6% (was 2.7%), reinforces hawkish stance"
+      "notes": "Macro risk-off; Dollar strength = headwind for BTC"
     },
     {
       "name": "BTC Spot ETF Daily Flows Report",
-      "time": "2026-06-25 20:00 UTC",
+      "time": "2026-06-26 20:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish",
-      "notes": "Yesterday $469M outflow (month's largest); BlackRock IBIT alone -$239M; further outflows likely"
+      "expected_direction": "neutral",
+      "notes": "June 23 saw first positive inflow day ($39.2M); watch for continuation or reversal"
     },
     {
-      "name": "CLARITY Act Senate Floor Consideration (pending/delayed)",
-      "time": "2026-06-26 00:00 UTC",
+      "name": "CLARITY Act - Senate floor consideration (still pending/delayed)",
+      "time": "2026-06-27 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "notes": "Delay in passage contributing to negative sentiment; uncertainty weighing on market"
+      "notes": "Regulatory uncertainty; delay weighing on market sentiment"
     },
     {
       "name": "No FOMC meeting (last: June 16-17, rates held at 3.5-3.75%)",
@@ -40,25 +40,29 @@
   ],
   "market_signals": {
     "fear_greed_label": "Extreme Fear",
-    "btc_24h_change_pct": -2.7,
+    "btc_24h_change_pct": -2.35,
     "btc_7d_change_pct": -4.47,
-    "btc_from_peak_pct": -23.3,
+    "btc_from_peak_pct": -23.5,
     "peak_price": 77623,
     "peak_date": "2026-05-25",
-    "pattern": "Crashed below $60K, partial recovery to ~$59.5-61.5K range; ~$994M liquidations (78% longs)",
+    "pattern": "Sustained downtrend from $77.6K peak; trading ~$59-61K range; June 23 tentative ETF inflow reversal ($39.2M)",
     "key_support": 59000,
     "key_resistance": 63500,
     "macro_headwinds": [
-      "Hawkish Fed: rates held 3.5-3.75%, 9 officials favor hike in 2026",
-      "PCE inflation revised to 3.6% from 2.7% - well above target",
-      "ETF outflows: $469M single-day exit (month's largest); BlackRock IBIT -$239M",
-      "Capital rotation from crypto to AI stocks (Nasdaq fell 2.2% on June 23)",
-      "DXY at 101.15 (highest in 1+ year) - macro risk-off",
-      "BTC near 20-month low; down ~$18K from May peak of $77.6K",
-      "Chinese miner calls bottom $42K-$44K for late 2026 (long-term cycle model)"
+      "Hawkish Fed: rates held 3.5-3.75%, 9 officials favor hike in 2026, PCE inflation revised to 3.6%",
+      "Largest institutional ETF redemption wave since spot BTC ETF launch ($6.35B over 30 days)",
+      "DXY at 101.15 (highest in 1+ year) - macro risk-off environment",
+      "Capital rotation from crypto to AI stocks (Nasdaq fell 2.2% June 23)",
+      "BTC ~$18K below May peak; ~11M BTC held at a loss"
+    ],
+    "macro_tailwinds": [
+      "June 23 ETF inflows turned positive: +$39.2M (ARKB +$31M, MSBT +$8.9M)",
+      "Corporate accumulation: Strategy +520 BTC ($35M), Strive +759 BTC ($50M)",
+      "SEC pro-crypto 2026-2030 strategic plan; accelerated ETF approval process (75 days vs 240)",
+      "Long-term holders at record 14.8M BTC - strong HODLer conviction"
     ]
   },
-  "notes": "BTC $60K 붕괴 후 반등 중; 공포지수 12, ETF 대규모 유출로 약세 지속",
-  "updated": "2026-06-25 14:30:00 UTC",
-  "valid_until": "2026-06-25 18:30:00 UTC"
+  "notes": "BTC $59K대, 공포지수24, ETF 소폭 유입 전환, 달러 강세 지속",
+  "updated": "2026-06-26 06:00:00 UTC",
+  "valid_until": "2026-06-26 10:00:00 UTC"
 }
