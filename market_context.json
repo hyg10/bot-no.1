@@ -1,8 +1,8 @@
 {
   "regime": "bearish",
   "confidence": 0.75,
-  "btc_price_usd": 59400,
-  "fear_greed_index": 10,
+  "btc_price_usd": 59233,
+  "fear_greed_index": 24,
   "key_events_next_24h": [
     {
       "name": "BTC $10.6B Quarterly Options Expiry (80% OTM, negative gamma)",
@@ -27,7 +27,7 @@
     }
   ],
   "market_signals": {
-    "fear_greed_label": "Extreme Fear",
+    "fear_greed_label": "Extreme Fear (24)",
     "btc_24h_change_pct": -2.11,
     "btc_7d_change_pct": -4.47,
     "btc_from_peak_pct": -23.5,
@@ -49,7 +49,7 @@
     "macro_headwinds": [
       "Hawkish Fed: rates held 3.5-3.75%, dot plot raised to 3.8% median, PCE forecast 3.6%",
       "Record ETF redemption streak: $6.75B cumulative outflows since mid-May",
-      "Extreme fear: F&G index at 8-13 (lowest in 2026)",
+      "Extreme fear: F&G index at 24 (Extreme Fear territory)",
       "Negative gamma regime: market maker hedging amplifies directional moves",
       "80% of $10.6B quarterly options underwater ahead of June 27 expiry",
       "Over $1B in crypto liquidations triggered after BTC fell below $60K"
@@ -60,7 +60,7 @@
       "Long-term holders at record 14.8M BTC — HODLer conviction intact"
     ]
   },
-  "notes": "BTC $59K, 공포지수8, 분기만기$106억(80% 수중), 매도세 지속",
-  "updated": "2026-06-26 12:00:00 UTC",
-  "valid_until": "2026-06-26 16:00:00 UTC"
+  "notes": "BTC $59K, 공포지수24, 분기만기$106억(80% 수중), 매도세 지속",
+  "updated": "2026-06-26 08:02:31 UTC",
+  "valid_until": "2026-06-26 12:02:31 UTC"
 }
