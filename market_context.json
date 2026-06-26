@@ -16,20 +16,28 @@
       "time": "2026-06-26 20:00 UTC",
       "impact": "high",
       "expected_direction": "neutral",
-      "notes": "Cumulative $6.75B outflows since mid-May; watch for second consecutive positive day"
+      "notes": "Cumulative $6.75B outflows since mid-May; single positive day June 23 (+$39.2M) not yet a trend"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin ETF - SEC Approval Pending",
+      "time": "2026-06-26 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish",
+      "notes": "GS seeking SEC approval for new BTC ETF product; approval could catalyze institutional inflows"
     },
     {
       "name": "USD Personal Consumption Expenditures (PCE) - May 2026",
       "time": "2026-06-27 12:30 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "notes": "Fed raised PCE forecast to 3.6%; elevated print = hawkish pressure; iShares -$239M, Fidelity -$121M outflows"
+      "notes": "Already released 4.1% YoY (3-year high); market digesting hawkish implications; next FOMC July 26-27"
     }
   ],
   "market_signals": {
     "fear_greed_label": "Extreme Fear (24)",
-    "btc_24h_change_pct": -2.91,
-    "btc_7d_change_pct": -4.47,
+    "btc_24h_change_pct": -3.16,
+    "btc_recent_low": 58000,
+    "btc_recent_low_label": "21-month low (Sep 2024 level)",
     "btc_from_peak_pct": -23.5,
     "peak_price": 77623,
     "peak_date": "2026-05-25",
@@ -48,21 +56,23 @@
     },
     "macro_headwinds": [
       "Hawkish Fed: rates held 3.5-3.75%, dot plot raised to 3.8% median, PCE forecast 3.6%",
+      "PCE May 4.1% YoY (3-year high) — inflation reacceleration pressing risk-off sentiment",
       "Spot ETF massive outflows: iShares -$239M, Fidelity -$121M; cumulative $6.75B since mid-May",
       "Extreme fear: F&G index at 24 (30-day avg 19, persistent Extreme Fear)",
-      "CPI May 4.2% YoY; PCE May 4.1% YoY — inflation reacceleration",
+      "$898M+ crypto liquidations in 24h; derivatives stress rising with put skew climbing",
       "Negative gamma regime: market maker hedging amplifies directional moves",
       "80% of $10.6B quarterly options underwater ahead of June 27 expiry",
       "Risk-off rotation: capital fleeing crypto into AI stocks and bonds"
     ],
     "macro_tailwinds": [
+      "BTC bounced from $58,000 21-month low — short-term buyer absorption visible",
       "Long-term holders absorbed 125,000 BTC in June — one of largest monthly accumulations",
       "Long-term holders at record 14.8M BTC — HODLer conviction intact",
-      "BTC near 200-week MA ~$62,457 — historically a major support zone",
-      "Corporate accumulation continues: Strategy +520 BTC, Strive +759 BTC (~$50M)"
+      "Corporate accumulation continues: Strategy +520 BTC, Strive +759 BTC (~$50M)",
+      "Goldman Sachs Bitcoin ETF SEC approval pending — potential institutional catalyst"
     ]
   },
-  "notes": "BTC $59.4K 하락, ETF 대규모 유출, 공포지수24, 분기옵션만기 임박",
-  "updated": "2026-06-26 11:15:00 UTC",
-  "valid_until": "2026-06-26 15:15:00 UTC"
+  "notes": "BTC 21개월 최저 후 반등, ETF 유출 지속, 공포지수24, 분기옵션만기 내일",
+  "updated": "2026-06-26 12:00:00 UTC",
+  "valid_until": "2026-06-26 16:00:00 UTC"
 }
