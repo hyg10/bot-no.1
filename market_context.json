@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.78,
-  "btc_price_usd": 59419,
+  "confidence": 0.75,
+  "btc_price_usd": 58981,
   "fear_greed_index": 24,
   "key_events_next_24h": [
     {
@@ -35,7 +35,7 @@
   ],
   "market_signals": {
     "fear_greed_label": "Extreme Fear (24)",
-    "btc_24h_change_pct": -3.16,
+    "btc_24h_change_pct": -2.35,
     "btc_recent_low": 58000,
     "btc_recent_low_label": "21-month low (Sep 2024 level)",
     "btc_from_peak_pct": -23.5,
@@ -57,7 +57,7 @@
     "macro_headwinds": [
       "Hawkish Fed: rates held 3.5-3.75%, dot plot raised to 3.8% median, PCE forecast 3.6%",
       "PCE May 4.1% YoY (3-year high) — inflation reacceleration pressing risk-off sentiment",
-      "Spot ETF massive outflows: iShares -$239M, Fidelity -$121M; cumulative $6.75B since mid-May",
+      "Spot ETF massive outflows: June 25 net -$692M (largest since May 27); cumulative $6.75B+ since mid-May; annual ETF holdings growth near zero",
       "Extreme fear: F&G index at 24 (30-day avg 19, persistent Extreme Fear)",
       "$898M+ crypto liquidations in 24h; derivatives stress rising with put skew climbing",
       "Negative gamma regime: market maker hedging amplifies directional moves",
@@ -72,7 +72,7 @@
       "Goldman Sachs Bitcoin ETF SEC approval pending — potential institutional catalyst"
     ]
   },
-  "notes": "BTC 21개월 최저 후 반등, ETF 유출 지속, 공포지수24, 분기옵션만기 내일",
-  "updated": "2026-06-26 12:00:00 UTC",
-  "valid_until": "2026-06-26 16:00:00 UTC"
+  "notes": "ETF 6/25 $6.9억 유출, BTC $59K 약세, 공포지수24, 옵션만기 내일",
+  "updated": "2026-06-26 20:30:00 UTC",
+  "valid_until": "2026-06-27 00:30:00 UTC"
 }
