@@ -1,78 +1,70 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
-  "btc_price_usd": 58981,
-  "fear_greed_index": 24,
+  "confidence": 0.72,
+  "btc_price_usd": 60148,
+  "fear_greed_index": 13,
   "key_events_next_24h": [
     {
-      "name": "BTC $10.6B Quarterly Options Expiry (80% OTM, negative gamma)",
-      "time": "2026-06-27 08:00 UTC",
+      "name": "BTC Spot ETF Daily Flows Report",
+      "time": "2026-06-27 21:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "notes": "$60K put wall $450M OI; negative gamma regime may amplify downside"
+      "notes": "Cumulative ~$9.75B outflows since mid-May; June 25 single-day -$692M (largest since May 27); continued outflow likely = further downside"
     },
     {
-      "name": "BTC Spot ETF Daily Flows Report",
-      "time": "2026-06-26 20:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral",
-      "notes": "Cumulative $6.75B outflows since mid-May; single positive day June 23 (+$39.2M) not yet a trend"
+      "name": "Fed Hawkish Overhang (post-June FOMC dot plot)",
+      "time": "2026-06-27 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "notes": "No new FOMC today; carry-over from June 16-17 meeting: median dot raised to 3.8%, PCE forecast 3.6%, rate hike potential for later 2026"
     },
     {
       "name": "Goldman Sachs Bitcoin ETF - SEC Approval Pending",
-      "time": "2026-06-26 00:00 UTC",
+      "time": "2026-06-27 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish",
-      "notes": "GS seeking SEC approval for new BTC ETF product; approval could catalyze institutional inflows"
-    },
-    {
-      "name": "USD Personal Consumption Expenditures (PCE) - May 2026",
-      "time": "2026-06-27 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish",
-      "notes": "Already released 4.1% YoY (3-year high); market digesting hawkish implications; next FOMC July 26-27"
+      "notes": "GS seeking SEC approval for new BTC ETF; approval could catalyze institutional inflows as potential upside catalyst"
     }
   ],
+  "upcoming_macro": [
+    {"name": "Next FOMC meeting (July 26-27, 2026)", "impact": "high"},
+    {"name": "CPI next scheduled release (TBD July)", "impact": "high"},
+    {"name": "Goldman Sachs BTC ETF SEC approval (pending)", "impact": "medium"}
+  ],
   "market_signals": {
-    "fear_greed_label": "Extreme Fear (24)",
-    "btc_24h_change_pct": -2.35,
-    "btc_recent_low": 58000,
-    "btc_recent_low_label": "21-month low (Sep 2024 level)",
-    "btc_from_peak_pct": -23.5,
-    "peak_price": 77623,
-    "peak_date": "2026-05-25",
-    "pattern": "Negative gamma regime; $10.6B options expiry June 27; 80% positions OTM; fragile $59-60K support floor",
-    "key_support": 59000,
+    "fear_greed_label": "Extreme Fear (13)",
+    "btc_24h_change_pct": 1.34,
+    "btc_recent_low": 58189,
+    "btc_recent_low_date": "2026-06-26",
+    "btc_from_ath_pct": -52.27,
+    "ath_price": 126021,
+    "ath_date": "~2025-10",
+    "pattern": "Dead-cat bounce after hitting 21-month low; extreme fear; technical 61% bearish signals",
+    "key_support": 58000,
     "key_resistance": 63500,
-    "options_expiry": {
-      "notional_usd": "10.6B",
-      "date": "2026-06-27",
-      "pct_otm": 80,
-      "max_pain": 74000,
-      "key_put_strike": 60000,
-      "key_put_oi": "450M USD",
-      "key_call_strike": 80000,
-      "key_call_oi": "406M USD"
+    "technical_signals": {
+      "total_signals": 23,
+      "bearish": 14,
+      "bullish": 2,
+      "neutral": 7,
+      "bias_pct_bearish": 61
     },
     "macro_headwinds": [
-      "Hawkish Fed: rates held 3.5-3.75%, dot plot raised to 3.8% median, PCE forecast 3.6%",
-      "PCE May 4.1% YoY (3-year high) — inflation reacceleration pressing risk-off sentiment",
-      "Spot ETF massive outflows: June 25 net -$692M (largest since May 27); cumulative $6.75B+ since mid-May; annual ETF holdings growth near zero",
-      "Extreme fear: F&G index at 24 (30-day avg 19, persistent Extreme Fear)",
-      "$898M+ crypto liquidations in 24h; derivatives stress rising with put skew climbing",
-      "Negative gamma regime: market maker hedging amplifies directional moves",
-      "80% of $10.6B quarterly options underwater ahead of June 27 expiry",
-      "Risk-off rotation: capital fleeing crypto into AI stocks and bonds"
+      "Extreme fear: F&G index at 13 (deepest in recent weeks)",
+      "Spot ETF massive outflows: ~$9.75B cumulative since mid-May; June 25 single-day -$692M",
+      "Hawkish Fed: new Chair Kevin Warsh raised dot plot to 3.8% median, dropped easing bias",
+      "PCE inflation forecast raised to 3.6% for 2026 — inflation reacceleration",
+      "61% of technical signals (14/23) bearish; break above $71K needed to confirm reversal",
+      "BTC down -52.27% from $126K ATH (reached ~Oct 2025)"
     ],
     "macro_tailwinds": [
-      "BTC bounced from $58,000 21-month low — short-term buyer absorption visible",
-      "Long-term holders absorbed 125,000 BTC in June — one of largest monthly accumulations",
-      "Long-term holders at record 14.8M BTC — HODLer conviction intact",
-      "Corporate accumulation continues: Strategy +520 BTC, Strive +759 BTC (~$50M)",
-      "Goldman Sachs Bitcoin ETF SEC approval pending — potential institutional catalyst"
+      "BTC bounced slightly from $58,189 intraday low (June 26) — buyer absorption visible",
+      "Long-term holder accumulation continues (HODLer conviction intact)",
+      "Goldman Sachs Bitcoin ETF SEC approval pending — potential institutional catalyst",
+      "June 23 ETF flow turned positive ($+39M) — possible early sign of trend reversal"
     ]
   },
-  "notes": "ETF 6/25 $6.9억 유출, BTC $59K 약세, 공포지수24, 옵션만기 내일",
-  "updated": "2026-06-26 20:30:00 UTC",
-  "valid_until": "2026-06-27 00:30:00 UTC"
+  "notes": "공포지수 13, ETF대량유출, BTC $60K 소폭반등, 기술적 베어리시",
+  "updated": "2026-06-27 06:30:00 UTC",
+  "valid_until": "2026-06-27 10:30:00 UTC"
 }
