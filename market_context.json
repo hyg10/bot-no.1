@@ -1,27 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.78,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "US PCE Price Index / Personal Income & Outlays (May 2026)",
-      "time": "2026-06-27 12:30 UTC",
+      "name": "BTC/ETH Options Expiry (~$10.6B notional, in progress)",
+      "time": "2026-06-27 08:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US Q1 2026 GDP Final Revision (3rd estimate)",
-      "time": "2026-06-27 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Bitcoin Spot ETF Daily Flow Data",
+      "name": "Spot BTC ETF Daily Flow Data (Farside/Bloomberg)",
       "time": "2026-06-27 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "ETF 80억 유출, 공포지수 24, BTC 21개월 저점 근처 하락세",
-  "updated": "2026-06-27 11:40:00 UTC",
-  "valid_until": "2026-06-27 15:40:00 UTC"
+  "notes": "BTC $60k 지지선 위협, ETF 주간 유출 $13억, PCE 4.1% 고인플레 우려",
+  "updated": "2026-06-27 11:30:00 UTC",
+  "valid_until": "2026-06-27 15:30:00 UTC"
 }
