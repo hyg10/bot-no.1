@@ -1,16 +1,9 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
-  "btc_price_usd": 60149,
-  "fear_greed_index": 24,
+  "confidence": 0.78,
+  "btc_price_usd": 59624,
+  "fear_greed_index": 13,
   "key_events_next_24h": [
-    {
-      "name": "BTC Quarterly Options Expiry (~$10.6B notional)",
-      "time": "2026-06-27 08:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish",
-      "notes": "Large quarterly expiry; pin risk near $60K; vol spike likely around expiry time"
-    },
     {
       "name": "BTC Spot ETF Daily Flows Report",
       "time": "2026-06-27 21:00 UTC",
@@ -39,14 +32,11 @@
     {"name": "Goldman Sachs BTC ETF SEC approval (pending)", "impact": "medium"}
   ],
   "market_signals": {
-    "fear_greed_label": "Extreme Fear (24)",
+    "fear_greed_label": "Extreme Fear (13)",
     "btc_24h_change_pct": 1.0,
     "btc_recent_low": 58189,
     "btc_recent_low_date": "2026-06-26",
-    "btc_from_ath_pct": -52.27,
-    "ath_price": 126021,
-    "ath_date": "~2025-10",
-    "pattern": "Slight bounce from 21-month low; extreme fear; risk-off institutional behavior dominates",
+    "pattern": "Bounced off 21-month low; extreme fear; ETF institutional selling dominates",
     "key_support": 58000,
     "key_resistance": 63500,
     "technical_signals": {
@@ -57,21 +47,20 @@
       "bias_pct_bearish": 61
     },
     "macro_headwinds": [
-      "Extreme fear: F&G index at 24 (Extreme Fear territory)",
+      "Extreme fear: F&G index at 13 (Extreme Fear territory)",
       "Spot ETF outflows: $1.3B weekly; June 25 single-day -$692M (largest since May 27)",
-      "$1.1B+ leveraged position liquidations triggered near 21-month lows",
-      "Hawkish Fed: Chair Warsh held rate at 3.50-3.75%; PCE forecast raised to 3.6%; 9 officials eye hike",
+      "Hawkish Fed: rate held 3.50-3.75%; PCE forecast raised to 3.6%; 9 officials eye hike",
       "61% of technical signals bearish; break above $71K needed to confirm reversal",
-      "BTC -52% from $126K ATH (~Oct 2025); Strategy (Saylor) in paper loss territory"
+      "RSI at 32.16, deep stress zone without capitulation signal yet"
     ],
     "macro_tailwinds": [
-      "BTC bounced from $58,189 intraday low (June 26) to ~$60,149 today (+1%)",
-      "Long-term holder accumulation continues",
-      "Goldman Sachs BTC ETF pending SEC approval — potential institutional catalyst",
-      "Solana +8.4% suggests some risk appetite returning in altcoin space"
+      "BTC bounced from $58,189 intraday low (June 26) to ~$59,624 today (+1%)",
+      "Long-term holder accumulation continues (Strategy +520 BTC, Strive +759 BTC)",
+      "Goldman Sachs BTC ETF pending SEC approval - potential institutional catalyst",
+      "Solana outperforming on tokenized stock issuance demand"
     ]
   },
-  "notes": "극도 공포(F&G=24), ETF 주간 13억달러 유출, BTC 21개월 저점 소폭 반등",
-  "updated": "2026-06-27 06:30:00 UTC",
-  "valid_until": "2026-06-27 10:30:00 UTC"
+  "notes": "극도공포F&G=13, ETF주간$13억유출, BTC $59,600 약반등",
+  "updated": "2026-06-27 08:02:24 UTC",
+  "valid_until": "2026-06-27 12:02:24 UTC"
 }
