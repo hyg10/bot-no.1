@@ -3,19 +3,19 @@
   "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "BTC/ETH Options Expiry (~$10.6B notional, in progress)",
+      "name": "Bitcoin Quarterly Options Expiry ($10.6B notional)",
       "time": "2026-06-27 08:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Spot BTC ETF Daily Flow Data (Farside/Bloomberg)",
+      "name": "BTC Spot ETF Daily Flow Data",
       "time": "2026-06-27 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $60k 지지선 위협, ETF 주간 유출 $13억, PCE 4.1% 고인플레 우려",
-  "updated": "2026-06-27 11:30:00 UTC",
-  "valid_until": "2026-06-27 15:30:00 UTC"
+  "notes": "ETF 주간 13억달러 순유출, 공포탐욕지수 24, BTC 21개월 최저",
+  "updated": "2026-06-27 12:00:00 UTC",
+  "valid_until": "2026-06-27 16:00:00 UTC"
 }
