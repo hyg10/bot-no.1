@@ -1,21 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "Bitcoin Quarterly Options Expiry ($10.6B notional)",
-      "time": "2026-06-27 08:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC Spot ETF Daily Flow Data",
-      "time": "2026-06-27 20:00 UTC",
+      "name": "Q2 2026 quarter-end portfolio rebalancing",
+      "time": "2026-06-30 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "ETF 주간 13억달러 순유출, 공포탐욕지수 24, BTC 21개월 최저",
-  "updated": "2026-06-27 12:00:00 UTC",
-  "valid_until": "2026-06-27 16:00:00 UTC"
+  "notes": "BTC $60k 하방 압력, ETF 주간 13억달러 유출, 공포지수 13",
+  "updated": "2026-06-28 00:02:46 UTC",
+  "valid_until": "2026-06-28 04:02:46 UTC"
 }
