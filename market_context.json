@@ -1,9 +1,9 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.70,
   "key_events_next_24h": [
     {
-      "name": "Core PCE / Personal Spending data release",
+      "name": "Core PCE / Personal Spending data release (May 2026)",
       "time": "2026-06-29 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
@@ -21,16 +21,16 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "Binance EU License Expiry Deadline",
-      "time": "2026-06-30 00:00 UTC",
+      "name": "Bitcoin Spot ETF Daily Flow Report",
+      "time": "2026-06-29 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "극단공포지수18·ETF유출지속·BTC 6만달러 하방압박",
-  "updated": "2026-06-28 16:02:23 UTC",
-  "valid_until": "2026-06-28 20:02:23 UTC",
-  "price_at_update": 60237,
-  "fear_greed_index": 18,
-  "btc_24h_change_pct": 1.87
+  "notes": "극단공포24·ETF주간13억유출·$60K반등시도·추세약세",
+  "updated": "2026-06-28 14:10:00 UTC",
+  "valid_until": "2026-06-28 18:10:00 UTC",
+  "price_at_update": 60180,
+  "fear_greed_index": 24,
+  "btc_24h_change_pct": -0.12
 }
