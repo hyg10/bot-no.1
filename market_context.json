@@ -1,30 +1,30 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.80,
   "key_events_next_24h": [
     {
-      "name": "BlackRock BITA Bitcoin Income ETF Potential Launch (Nasdaq)",
-      "time": "2026-06-28 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "Core PCE / Personal Spending data release (June 29)",
+      "time": "2026-06-29 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Chicago PMI (June 2026)",
+      "time": "2026-06-29 13:45 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
       "name": "Q2 2026 Quarter-End Portfolio Rebalancing",
       "time": "2026-06-30 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
-    },
-    {
-      "name": "Goldman Sachs Bitcoin Fund Launch Window",
-      "time": "2026-07-01 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "극단공포24, ETF 13억달러 유출, BTC $58k 저점 $60k 반등 중",
-  "updated": "2026-06-28 08:02:41 UTC",
-  "valid_until": "2026-06-28 12:02:41 UTC",
-  "price_at_update": 60200,
-  "fear_greed_index": 24,
-  "btc_24h_change_pct": 0.3
+  "notes": "ETF 80억달러 유출·공포지수 18·BTC 6만달러 하방 압박",
+  "updated": "2026-06-28 12:02:54 UTC",
+  "valid_until": "2026-06-28 16:02:54 UTC",
+  "price_at_update": 60237,
+  "fear_greed_index": 18,
+  "btc_24h_change_pct": 0.5
 }
