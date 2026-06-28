@@ -1,16 +1,10 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "BlackRock BITA Bitcoin Income ETF Potential Launch",
+      "name": "BlackRock BITA Bitcoin Income ETF Potential Launch (Nasdaq)",
       "time": "2026-06-28 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Goldman Sachs Bitcoin Fund Launch Window (~Jul 1)",
-      "time": "2026-07-01 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
@@ -19,12 +13,18 @@
       "time": "2026-06-30 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin Fund Launch Window",
+      "time": "2026-07-01 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "극도공포(F&G:13), ETF 순유출 13억불, BTC 21개월 저점 반등 중",
-  "updated": "2026-06-28 04:02:33 UTC",
-  "valid_until": "2026-06-28 08:02:33 UTC",
-  "price_at_update": 60100,
-  "fear_greed_index": 13,
-  "btc_24h_change_pct": -2.5
+  "notes": "극단공포24, ETF 13억달러 유출, BTC $58k 저점 $60k 반등 중",
+  "updated": "2026-06-28 08:02:41 UTC",
+  "valid_until": "2026-06-28 12:02:41 UTC",
+  "price_at_update": 60200,
+  "fear_greed_index": 24,
+  "btc_24h_change_pct": 0.3
 }
