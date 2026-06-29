@@ -1,6 +1,6 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
       "name": "Core PCE / Personal Spending data release (May 2026)",
@@ -10,15 +10,15 @@
     },
     {
       "name": "Chicago PMI (June 2026)",
-      "time": "2026-06-29 13:45 UTC",
+      "time": "2026-06-30 13:45 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "Q2 2026 Quarter-End Portfolio Rebalancing",
+      "name": "Q2 2026 Quarter-End & Month-End Portfolio Rebalancing",
       "time": "2026-06-30 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
       "name": "Bitcoin Spot ETF Daily Flow Report",
@@ -27,10 +27,10 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $59K 약세, ETF주간 $13억 유출, 숏스퀴즈 가능성",
-  "updated": "2026-06-29 06:00:00 UTC",
-  "valid_until": "2026-06-29 10:00:00 UTC",
-  "price_at_update": 59500,
-  "fear_greed_index": 22,
-  "btc_24h_change_pct": -1.2
+  "notes": "BTC $59K, 극단공포(F&G:13), 18%월간하락, PCE발표대기",
+  "updated": "2026-06-29 04:02:20 UTC",
+  "valid_until": "2026-06-29 08:02:20 UTC",
+  "price_at_update": 59427,
+  "fear_greed_index": 13,
+  "btc_24h_change_pct": -0.9
 }
