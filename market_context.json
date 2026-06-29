@@ -3,41 +3,43 @@
   "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "US PCE / Core Inflation Data",
-      "time": "2026-06-30 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Chicago PMI (US Manufacturing)",
+      "name": "Chicago PMI (US Manufacturing, June 30)",
       "time": "2026-06-30 13:45 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "Q2 End / EOM Institutional Rebalancing",
+      "name": "Q2 End / EOM Institutional Rebalancing (June 30)",
       "time": "2026-06-30 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "Spot BTC ETF Daily Flows ($1.3B outflow last week)",
+      "name": "Spot BTC ETF Daily Flows ($1.3B outflow past week, ongoing)",
       "time": "2026-06-29 20:00 UTC",
-      "impact": "medium",
+      "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin ETF SEC Review (pending, no fixed date)",
+      "time": "2026-06-30 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $59,860 하락세, 극도공포(24), ETF 유출 지속",
-  "updated": "2026-06-29 16:02:46 UTC",
-  "valid_until": "2026-06-29 20:02:46 UTC",
+  "notes": "ETF 유출 $1.3B·공포지수 24로 약세, $58K 저점 후 $60K 저항",
+  "updated": "2026-06-29 16:10:00 UTC",
+  "valid_until": "2026-06-29 20:10:00 UTC",
   "source_data": {
-    "btc_price_usd": 59860,
+    "btc_price_usd": 59686,
     "fear_greed_index": 24,
     "etf_outflow_week_usd_bn": 1.3,
-    "btc_7d_change_pct": -4.44,
-    "btc_30d_change_pct": -18.2,
+    "btc_30d_change_pct": -18.5,
+    "btc_24h_change_pct": -0.7,
+    "btc_recent_low": 58000,
+    "short_squeeze_setup": true,
     "last_fomc": "2026-06-17",
     "fed_funds_rate": "3.50-3.75%",
-    "btc_24h_change_pct": 0.34
+    "next_major_macro": "2026-07-30 (PCE)"
   }
 }
