@@ -1,17 +1,11 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
       "name": "US PCE / Core Inflation Data",
       "time": "2026-06-30 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Q2 End / EOM Institutional Rebalancing",
-      "time": "2026-06-30 20:00 UTC",
-      "impact": "medium",
       "expected_direction": "bearish"
     },
     {
@@ -21,23 +15,29 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "Spot BTC ETF Continued Record Outflows",
-      "time": "2026-06-29 14:00 UTC",
-      "impact": "high",
+      "name": "Q2 End / EOM Institutional Rebalancing",
+      "time": "2026-06-30 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Spot BTC ETF Daily Flows ($1.3B outflow last week)",
+      "time": "2026-06-29 20:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $59K, 극도공포(24), ETF 사상최대 유출, 약세 지속",
-  "updated": "2026-06-29 10:00:00 UTC",
-  "valid_until": "2026-06-29 14:00:00 UTC",
+  "notes": "BTC $59,860 하락세, 극도공포(24), ETF 유출 지속",
+  "updated": "2026-06-29 16:02:46 UTC",
+  "valid_until": "2026-06-29 20:02:46 UTC",
   "source_data": {
-    "btc_price_usd": 59344,
+    "btc_price_usd": 59860,
     "fear_greed_index": 24,
-    "etf_outflow_june_usd_bn": 4.0,
-    "btc_7d_change_pct": -6.8,
-    "btc_ytd_change_pct": -30.0,
+    "etf_outflow_week_usd_bn": 1.3,
+    "btc_7d_change_pct": -4.44,
+    "btc_30d_change_pct": -18.2,
     "last_fomc": "2026-06-17",
     "fed_funds_rate": "3.50-3.75%",
-    "btc_24h_change_pct": -0.95
+    "btc_24h_change_pct": 0.34
   }
 }
