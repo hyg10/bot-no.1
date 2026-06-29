@@ -1,36 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "Core PCE / Personal Spending data release (May 2026)",
-      "time": "2026-06-29 12:30 UTC",
+      "name": "Quarter-End Portfolio Rebalancing (June 30)",
+      "time": "2026-06-30 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Spot BTC ETF Continued Record Outflows",
+      "time": "2026-06-29 14:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Chicago PMI (June 2026)",
-      "time": "2026-06-30 13:45 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Q2 2026 Quarter-End & Month-End Portfolio Rebalancing",
-      "time": "2026-06-30 00:00 UTC",
+      "name": "US PCE / Core Inflation Data (potential end-of-month release)",
+      "time": "2026-06-30 12:30 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Bitcoin Spot ETF Daily Flow Report",
-      "time": "2026-06-29 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $59K, 극단공포(F&G:13), 18%월간하락, PCE발표대기",
-  "updated": "2026-06-29 04:02:20 UTC",
-  "valid_until": "2026-06-29 08:02:20 UTC",
-  "price_at_update": 59427,
-  "fear_greed_index": 13,
-  "btc_24h_change_pct": -0.9
+  "notes": "ETF 기록적 자금 유출, 극단적 공포 지수, 하락세 지속",
+  "updated": "2026-06-29 06:00:00 UTC",
+  "valid_until": "2026-06-29 10:00:00 UTC"
 }
