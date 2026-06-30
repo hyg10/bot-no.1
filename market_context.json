@@ -3,23 +3,29 @@
   "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "Q2 / H1 Quarter-End Rebalancing (June 30)",
-      "time": "2026-06-30 16:00 UTC",
+      "name": "Q2/H1 Quarter-End Rebalancing (June 30 close)",
+      "time": "2026-06-30 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "ISM Manufacturing PMI (June)",
+      "name": "ISM Manufacturing PMI - June (US)",
       "time": "2026-07-01 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "US Strategic Bitcoin Reserve Architecture (Trump deadline Jul 22)",
+      "time": "2026-07-01 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $59K, ETF 13억달러 유출, 공포지수 24, 연준 매파 기조",
-  "updated": "2026-06-30 06:00:00 UTC",
-  "valid_until": "2026-06-30 10:00:00 UTC",
+  "notes": "BTC $59K 지지선 공방, ETF 유출 $13억, 극단적 공포(24)",
+  "updated": "2026-06-30 08:00:00 UTC",
+  "valid_until": "2026-06-30 12:00:00 UTC",
   "source_data": {
-    "btc_price_usd": 59285,
+    "btc_price_usd": 59500,
     "fear_greed_index": 24,
     "fear_greed_label": "Extreme Fear",
     "etf_outflow_week_usd_bn": 1.3,
