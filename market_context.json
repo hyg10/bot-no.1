@@ -1,6 +1,6 @@
 {
   "regime": "bearish",
-  "confidence": 0.68,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
       "name": "Q2 / H1 Quarter-End Rebalancing (June 30)",
@@ -9,15 +9,15 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "US Strategic Bitcoin Reserve Architecture Deadline Progress (before July 22)",
-      "time": "2026-07-01 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "bullish"
+      "name": "ISM Manufacturing PMI (June)",
+      "time": "2026-07-01 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $59K 지지선 위협, 극도공포(24), ETF $13억 유출, 베어 기조",
-  "updated": "2026-06-30 00:02:37 UTC",
-  "valid_until": "2026-06-30 04:02:37 UTC",
+  "notes": "BTC $59K, ETF 13억달러 유출, 공포지수 24, 연준 매파 기조",
+  "updated": "2026-06-30 06:00:00 UTC",
+  "valid_until": "2026-06-30 10:00:00 UTC",
   "source_data": {
     "btc_price_usd": 59285,
     "fear_greed_index": 24,
@@ -26,7 +26,6 @@
     "btc_june_change_pct": -18.5,
     "btc_24h_change_pct": -1.21,
     "btc_recent_low": 58000,
-    "short_squeeze_setup": true,
     "last_fomc": "2026-06-17",
     "fed_funds_rate": "3.50-3.75%",
     "next_fomc": "2026-07-28/29",
