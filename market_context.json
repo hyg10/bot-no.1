@@ -1,15 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
+  "confidence": 0.82,
   "key_events_next_24h": [
     {
-      "name": "Q2 / Month-End Portfolio Rebalancing (US Markets Close)",
-      "time": "2026-06-30 20:00 UTC",
+      "name": "Q2 Quarter-End Close (Fund De-grossing)",
+      "time": "2026-06-30 21:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Spot Bitcoin ETF Weekly Flow Data",
+      "time": "2026-07-01 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "ISM Manufacturing PMI (July 1)",
+      "time": "2026-07-01 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "극심한 공포 지수, BTC $58K 약세 지속, ETF 대규모 유출",
-  "updated": "2026-06-30 13:30:00 UTC",
-  "valid_until": "2026-06-30 17:30:00 UTC"
+  "notes": "BTC $58.5K 극도공포, ETF 순유출 역대최대, 분기말 매도압력",
+  "updated": "2026-06-30 16:15:00 UTC",
+  "valid_until": "2026-06-30 20:15:00 UTC"
 }
