@@ -1,12 +1,12 @@
 {
   "regime": "bearish",
-  "confidence": 0.82,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Q2 Quarter-End Close (Fund De-grossing)",
-      "time": "2026-06-30 21:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "ISM Manufacturing PMI (June 2026)",
+      "time": "2026-07-01 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     },
     {
       "name": "Spot Bitcoin ETF Weekly Flow Data",
@@ -15,13 +15,21 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "ISM Manufacturing PMI (July 1)",
-      "time": "2026-07-01 14:00 UTC",
-      "impact": "medium",
+      "name": "US CPI Release (June 2026)",
+      "time": "2026-07-14 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Rate Decision",
+      "time": "2026-07-29 18:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $58.5K 극도공포, ETF 순유출 역대최대, 분기말 매도압력",
-  "updated": "2026-06-30 16:15:00 UTC",
-  "valid_until": "2026-06-30 20:15:00 UTC"
+  "btc_price_usd": 59000,
+  "fear_greed_index": 12,
+  "notes": "극단적공포(12), BTC $59K권, ATH 대비 50% 하락 약세 지속",
+  "updated": "2026-07-01 07:00:00 UTC",
+  "valid_until": "2026-07-01 11:00:00 UTC"
 }
