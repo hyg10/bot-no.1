@@ -1,6 +1,6 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
       "name": "ISM Manufacturing PMI (June 2026)",
@@ -15,21 +15,21 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "US CPI Release (June 2026)",
-      "time": "2026-07-14 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "US Senate Crypto Market Structure Legislation Advancement",
+      "time": "2026-07-01 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     },
     {
-      "name": "FOMC Rate Decision",
-      "time": "2026-07-29 18:00 UTC",
-      "impact": "high",
+      "name": "SEC Novel ETF Rules Review Comment Period (opened Jun 30)",
+      "time": "2026-07-01 20:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "btc_price_usd": 59000,
+  "btc_price_usd": 58500,
   "fear_greed_index": 12,
-  "notes": "극단적공포(12), BTC $59K권, ATH 대비 50% 하락 약세 지속",
-  "updated": "2026-07-01 07:00:00 UTC",
-  "valid_until": "2026-07-01 11:00:00 UTC"
+  "notes": "극단적공포(12), BTC $58,500 급락, ETF 유출 29억. 뚜렷한 하락세.",
+  "updated": "2026-07-01 06:00:00 UTC",
+  "valid_until": "2026-07-01 10:00:00 UTC"
 }
