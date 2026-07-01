@@ -1,35 +1,39 @@
 {
   "regime": "bearish",
-  "confidence": 0.82,
-  "btc_price_usd": 58566.0,
+  "confidence": 0.78,
+  "btc_price_usd": 58620.0,
   "fear_greed_index": 11,
   "key_events_next_24h": [
     {
-      "name": "BTC $58K 지지선 테스트 (21개월 최저 $57,950)",
-      "time": "2026-07-01 00:00 UTC",
+      "name": "US Employment Situation (NFP) June 2026",
+      "time": "2026-07-02 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "bearish",
+      "note": "Strong jobs = Fed keeps rates high = BTC selling pressure"
     },
     {
-      "name": "ISM Manufacturing PMI June 2026",
-      "time": "2026-07-01 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "name": "BTC $58K 지지선 방어 여부",
+      "time": "2026-07-01 ongoing",
+      "impact": "high",
+      "expected_direction": "bearish",
+      "note": "$57,950 이탈 시 $50K 하락 위험 (Peter Schiff 경고)"
     },
     {
-      "name": "JOLTS Job Openings May 2026",
-      "time": "2026-07-01 14:00 UTC",
+      "name": "SEC Novel ETF 27개 질의 검토 (60일 코멘트 기간)",
+      "time": "2026-07-01 ongoing",
       "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "SEC Novel ETF 27개 질의 검토 시작 (60일 코멘트)",
-      "time": "2026-07-01 13:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "bearish",
+      "note": "신규 크립토 ETF 규제 불확실성 증가"
     }
   ],
-  "notes": "BTC 21개월 최저 $58K, ETF 45억달러 유출, 공포지수 11",
-  "updated": "2026-07-01 13:30:00 UTC",
-  "valid_until": "2026-07-01 17:30:00 UTC"
+  "macro_context": {
+    "fomc_next": "2026-07-29 18:00 UTC",
+    "cpi_next": "2026-07-14 12:30 UTC",
+    "ppi_next": "2026-07-15 12:30 UTC",
+    "june_cpi_yoy": 4.17,
+    "btf_etf_june_outflow_usd": 4500000000
+  },
+  "notes": "BTC $58.6K 21개월최저, 공포지수 11, ETF 45억유출 최악",
+  "updated": "2026-07-01 17:00:00 UTC",
+  "valid_until": "2026-07-01 21:00:00 UTC"
 }
