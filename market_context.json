@@ -1,35 +1,29 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.78,
+  "btc_price_usd": 58475.4,
+  "fear_greed_index": 11,
   "key_events_next_24h": [
     {
-      "name": "ISM Manufacturing PMI (June)",
+      "name": "ISM Manufacturing PMI (June 2026)",
       "time": "2026-07-01 14:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "JOLTS Job Openings (May)",
-      "time": "2026-07-01 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "SEC Novel ETF 27-Question Review (ongoing)",
-      "time": "2026-07-01 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "US Senate Crypto Market Structure Legislation",
+      "name": "JOLTS Job Openings (May 2026)",
+      "time": "2026-07-01 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US Senate Crypto Market Structure Vote (ongoing)",
       "time": "2026-07-01 00:00 UTC",
       "impact": "low",
       "expected_direction": "bullish"
     }
   ],
-  "btc_price_usd": 59000,
-  "fear_greed_index": 12,
-  "notes": "극도공포(12), ETF월간순유출$45억, $58K지지선, 약세우위",
-  "updated": "2026-07-01 08:30:00 UTC",
-  "valid_until": "2026-07-01 12:30:00 UTC"
+  "notes": "극도공포지수 11, BTC $58.5K 연저점, 6월 -18.5% 약세 지속",
+  "updated": "2026-07-01 12:07:07 UTC",
+  "valid_until": "2026-07-01 16:07:07 UTC"
 }
