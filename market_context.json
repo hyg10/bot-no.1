@@ -1,29 +1,35 @@
 {
   "regime": "bearish",
-  "confidence": 0.78,
-  "btc_price_usd": 58475.4,
+  "confidence": 0.82,
+  "btc_price_usd": 58566.0,
   "fear_greed_index": 11,
   "key_events_next_24h": [
     {
-      "name": "ISM Manufacturing PMI (June 2026)",
-      "time": "2026-07-01 14:00 UTC",
-      "impact": "medium",
+      "name": "BTC $58K 지지선 테스트 (21개월 최저 $57,950)",
+      "time": "2026-07-01 00:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "JOLTS Job Openings (May 2026)",
+      "name": "ISM Manufacturing PMI June 2026",
       "time": "2026-07-01 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "US Senate Crypto Market Structure Vote (ongoing)",
-      "time": "2026-07-01 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "bullish"
+      "name": "JOLTS Job Openings May 2026",
+      "time": "2026-07-01 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "SEC Novel ETF 27개 질의 검토 시작 (60일 코멘트)",
+      "time": "2026-07-01 13:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "극도공포지수 11, BTC $58.5K 연저점, 6월 -18.5% 약세 지속",
-  "updated": "2026-07-01 12:07:07 UTC",
-  "valid_until": "2026-07-01 16:07:07 UTC"
+  "notes": "BTC 21개월 최저 $58K, ETF 45억달러 유출, 공포지수 11",
+  "updated": "2026-07-01 13:30:00 UTC",
+  "valid_until": "2026-07-01 17:30:00 UTC"
 }
