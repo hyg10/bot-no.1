@@ -1,21 +1,22 @@
 {
-  "regime": "bearish",
-  "confidence": 0.68,
+  "regime": "neutral",
+  "confidence": 0.40,
+  "btc_price_usd": 61544,
   "key_events_next_24h": [
-    {
-      "name": "US June Non-Farm Payrolls (NFP) Employment Report",
-      "time": "2026-07-02 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
     {
       "name": "BTC Spot ETF Daily Flow Data",
       "time": "2026-07-02 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "US Independence Day - low liquidity expected",
+      "time": "2026-07-04 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 기록적 유출($45억/6월), 극도공포. NFP 23분내·$58k 지지선 핵심",
-  "updated": "2026-07-02 12:07:21 UTC",
-  "valid_until": "2026-07-02 16:07:21 UTC"
+  "notes": "NFP 후 반등 $61.5k, 연준 비둘기 긍정. ETF 유출 지속 하방 압력.",
+  "updated": "2026-07-02 16:08:00 UTC",
+  "valid_until": "2026-07-02 20:08:00 UTC"
 }
