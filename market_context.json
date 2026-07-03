@@ -1,28 +1,28 @@
 {
-  "regime": "neutral",
-  "confidence": 0.38,
-  "btc_price_usd": 61471,
+  "regime": "bearish",
+  "confidence": 0.65,
+  "btc_price_usd": 61865,
   "key_events_next_24h": [
     {
-      "name": "US Independence Day Holiday (July 4) - thin liquidity",
+      "name": "U.S. Independence Day - Traditional Markets Closed, Reduced Crypto Liquidity",
       "time": "2026-07-04 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "BTC Spot ETF Daily Flow Data",
-      "time": "2026-07-03 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "US Strategic Bitcoin Reserve Blueprint (inter-agency, deadline Jul 22)",
-      "time": "2026-07-03 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "bullish"
+      "name": "CLARITY Act July 4 Signing Deadline Missed - Senate Stalemate (needs 7 more Democratic votes)",
+      "time": "2026-07-04 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "BTC Spot ETF Daily Flow Data (7 consecutive outflow weeks, record $4.51B June outflow)",
+      "time": "2026-07-03 20:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "NFP 57K 약세로 BTC $61K 반등, 6월 ETF $45억 유출 후 혼조",
-  "updated": "2026-07-03 09:30:00 UTC",
-  "valid_until": "2026-07-03 13:30:00 UTC"
+  "notes": "공포지수 11·ETF $45억 유출·연준 매파, 6월 -20% 하락세 지속",
+  "updated": "2026-07-03 08:06:43 UTC",
+  "valid_until": "2026-07-03 12:06:43 UTC"
 }
