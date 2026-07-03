@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.38,
-  "btc_price_usd": 61792,
+  "confidence": 0.55,
+  "btc_price_usd": 61865,
   "key_events_next_24h": [
     {
       "name": "US Independence Day - Reduced Liquidity",
@@ -10,13 +10,13 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "BTC Spot ETF Daily Flow Data (7 consecutive outflow weeks)",
+      "name": "BTC Spot ETF Daily Flow Data (inflows resumed: $221M, 10-day outflow streak ended)",
       "time": "2026-07-03 20:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "약고용(57K)·연준 비둘기 발언으로 단기반등, 구조적 약세 지속",
-  "updated": "2026-07-03 12:06:53 UTC",
-  "valid_until": "2026-07-03 16:06:53 UTC"
+  "notes": "ETF유입 재개($221M)·연준 비둘기 신호, 구조적 하락추세 지속",
+  "updated": "2026-07-03 16:10:00 UTC",
+  "valid_until": "2026-07-03 20:10:00 UTC"
 }
