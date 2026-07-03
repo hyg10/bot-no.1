@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 61500,
+  "confidence": 0.38,
+  "btc_price_usd": 61471,
   "key_events_next_24h": [
     {
       "name": "US Independence Day Holiday (July 4) - thin liquidity",
@@ -23,6 +23,6 @@
     }
   ],
   "notes": "NFP 57K 약세로 BTC $61K 반등, 6월 ETF $45억 유출 후 혼조",
-  "updated": "2026-07-03 08:00:00 UTC",
-  "valid_until": "2026-07-03 12:00:00 UTC"
+  "updated": "2026-07-03 09:30:00 UTC",
+  "valid_until": "2026-07-03 13:30:00 UTC"
 }
