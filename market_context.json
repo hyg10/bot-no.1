@@ -1,28 +1,22 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 61865,
+  "regime": "neutral",
+  "confidence": 0.38,
+  "btc_price_usd": 61792,
   "key_events_next_24h": [
     {
-      "name": "U.S. Independence Day - Traditional Markets Closed, Reduced Crypto Liquidity",
+      "name": "US Independence Day - Reduced Liquidity",
       "time": "2026-07-04 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "CLARITY Act July 4 Signing Deadline Missed - Senate Stalemate (needs 7 more Democratic votes)",
-      "time": "2026-07-04 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC Spot ETF Daily Flow Data (7 consecutive outflow weeks, record $4.51B June outflow)",
+      "name": "BTC Spot ETF Daily Flow Data (7 consecutive outflow weeks)",
       "time": "2026-07-03 20:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "공포지수 11·ETF $45억 유출·연준 매파, 6월 -20% 하락세 지속",
-  "updated": "2026-07-03 08:06:43 UTC",
-  "valid_until": "2026-07-03 12:06:43 UTC"
+  "notes": "약고용(57K)·연준 비둘기 발언으로 단기반등, 구조적 약세 지속",
+  "updated": "2026-07-03 12:06:53 UTC",
+  "valid_until": "2026-07-03 16:06:53 UTC"
 }
