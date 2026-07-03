@@ -1,11 +1,11 @@
 {
   "regime": "neutral",
   "confidence": 0.40,
-  "btc_price_usd": 61800,
+  "btc_price_usd": 61500,
   "key_events_next_24h": [
     {
-      "name": "US Market Holiday (Independence Day Observance) - low liquidity",
-      "time": "2026-07-03 13:30 UTC",
+      "name": "US Independence Day Holiday (July 4) - thin liquidity",
+      "time": "2026-07-04 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
@@ -16,13 +16,13 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "US Strategic Bitcoin Reserve Plan (inter-agency review, deadline Jul 22)",
+      "name": "US Strategic Bitcoin Reserve Blueprint (inter-agency, deadline Jul 22)",
       "time": "2026-07-03 00:00 UTC",
       "impact": "low",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "약한 NFP(57K)로 $61.8K 반등, 극단공포(11), 6월 -20% 후 회복 중",
-  "updated": "2026-07-02 19:30:00 UTC",
-  "valid_until": "2026-07-02 23:30:00 UTC"
+  "notes": "NFP 57K 약세로 BTC $61K 반등, 6월 ETF $45억 유출 후 혼조",
+  "updated": "2026-07-03 08:00:00 UTC",
+  "valid_until": "2026-07-03 12:00:00 UTC"
 }
