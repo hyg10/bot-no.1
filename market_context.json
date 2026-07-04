@@ -1,22 +1,22 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 62500,
+  "confidence": 0.4,
+  "btc_price_usd": 62677,
   "key_events_next_24h": [
     {
       "name": "US Independence Day - US Markets Closed (Low Liquidity)",
-      "time": "2026-07-04 13:30 UTC",
+      "time": "2026-07-04 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "BTC ETF Flow Data Watch (post-June record outflows)",
+      "name": "BTC ETF Flow Data Watch (post-June outflows)",
       "time": "2026-07-05 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "6월 급락 후 반등, 연준 완화 긍정. 공포지수 높아 중립",
+  "notes": "공포지수 17 극단적공포, 저점 반등 중. Fed 금리동결 89% 예상.",
   "updated": "2026-07-04 08:00:00 UTC",
   "valid_until": "2026-07-04 12:00:00 UTC"
 }
