@@ -1,22 +1,28 @@
 {
-  "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 62677,
+  "regime": "bearish",
+  "confidence": 0.65,
+  "btc_price_usd": 62465,
   "key_events_next_24h": [
     {
-      "name": "US Independence Day - US Markets Closed (Low Liquidity)",
+      "name": "US Independence Day - US Markets Closed",
       "time": "2026-07-04 00:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "BTC ETF Flow Data Watch (post-June outflows)",
+      "name": "BTC ETF Flow Watch (June record outflow $4.5B)",
       "time": "2026-07-05 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Meeting Minutes Release",
+      "time": "2026-07-08 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수 17 극단적공포, 저점 반등 중. Fed 금리동결 89% 예상.",
-  "updated": "2026-07-04 08:00:00 UTC",
-  "valid_until": "2026-07-04 12:00:00 UTC"
+  "notes": "BTC $62K 극단공포(24), ETF 최대유출, 약세 우위",
+  "updated": "2026-07-04 10:30:00 UTC",
+  "valid_until": "2026-07-04 14:30:00 UTC"
 }
