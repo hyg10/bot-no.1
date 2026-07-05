@@ -1,18 +1,12 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 63121,
+  "confidence": 0.35,
+  "btc_price_usd": 63029,
   "key_events_next_24h": [
     {
-      "name": "US Independence Day (Market Holiday - Low Liquidity)",
-      "time": "2026-07-04 00:00 UTC",
+      "name": "US Markets Reopen (post-holiday Monday open)",
+      "time": "2026-07-06 13:30 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Asia Session Resumes Post-Holiday",
-      "time": "2026-07-05 00:00 UTC",
-      "impact": "low",
       "expected_direction": "neutral"
     },
     {
@@ -22,7 +16,7 @@
       "expected_direction": "neutral"
     }
   ],
-  "notes": "$63K 회복세, 미국 독립기념일 저유동성, ETF 유출 지속",
-  "updated": "2026-07-04 20:06:34 UTC",
-  "valid_until": "2026-07-05 00:06:34 UTC"
+  "notes": "BTC 63K 회복, 6월 ETF 대량유출. 공포심리 지속, 단기 반등세.",
+  "updated": "2026-07-05 00:10:00 UTC",
+  "valid_until": "2026-07-05 04:10:00 UTC"
 }
