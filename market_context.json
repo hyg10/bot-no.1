@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.42,
-  "btc_price_usd": 63135,
+  "confidence": 0.35,
+  "btc_price_usd": 62884,
   "key_events_next_24h": [
     {
       "name": "US Market Open (Mon Jul 6, post-July 4 holiday)",
@@ -34,7 +34,7 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $63K 단기 반등, ETF 기록적 유출 지속, 하락추세 유지",
-  "updated": "2026-07-05 08:06:29 UTC",
-  "valid_until": "2026-07-05 12:06:29 UTC"
+  "notes": "공포지수22(극도공포), ETF유출지속, 기술적약세, 주말저유동성",
+  "updated": "2026-07-05 12:07:00 UTC",
+  "valid_until": "2026-07-05 16:07:00 UTC"
 }
