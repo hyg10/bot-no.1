@@ -1,22 +1,28 @@
 {
   "regime": "neutral",
-  "confidence": 0.35,
-  "btc_price_usd": 63029,
+  "confidence": 0.45,
+  "btc_price_usd": 62800,
   "key_events_next_24h": [
     {
-      "name": "US Markets Reopen (post-holiday Monday open)",
+      "name": "US Equity Markets Reopen (post-July 4 holiday)",
       "time": "2026-07-06 13:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Minutes Release",
+      "name": "FOMC Minutes Release (June 17 meeting)",
       "time": "2026-07-08 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "US Strategic Bitcoin Reserve blueprint inter-agency deadline",
+      "time": "2026-07-22 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC 63K 회복, 6월 ETF 대량유출. 공포심리 지속, 단기 반등세.",
-  "updated": "2026-07-05 00:10:00 UTC",
-  "valid_until": "2026-07-05 04:10:00 UTC"
+  "notes": "BTC $62-63K 회복, ETF 유출 부담, 기술지표 중립 균형",
+  "updated": "2026-07-05 06:00:00 UTC",
+  "valid_until": "2026-07-05 10:00:00 UTC"
 }
