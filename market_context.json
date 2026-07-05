@@ -1,10 +1,16 @@
 {
   "regime": "neutral",
-  "confidence": 0.35,
-  "btc_price_usd": 62884,
+  "confidence": 0.40,
+  "btc_price_usd": 62800,
   "key_events_next_24h": [
     {
-      "name": "US Market Open (Mon Jul 6, post-July 4 holiday)",
+      "name": "Asia/EU Market Open (Monday, post-holiday positioning)",
+      "time": "2026-07-06 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US Market Open (Monday)",
       "time": "2026-07-06 13:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
@@ -13,7 +19,7 @@
       "name": "BTC ETF Weekly Flow Data",
       "time": "2026-07-06 18:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
       "name": "FOMC Minutes Release (Jun 17 meeting)",
@@ -34,7 +40,7 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "공포지수22(극도공포), ETF유출지속, 기술적약세, 주말저유동성",
-  "updated": "2026-07-05 12:07:00 UTC",
-  "valid_until": "2026-07-05 16:07:00 UTC"
+  "notes": "6월 -20% 후 반등중, 극단적공포(22), Fed비둘기+전략비축금 긍정",
+  "updated": "2026-07-05 16:06:51 UTC",
+  "valid_until": "2026-07-05 20:06:51 UTC"
 }
