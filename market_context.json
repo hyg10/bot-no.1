@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
   "confidence": 0.40,
-  "btc_price_usd": 63200,
+  "current_price_usd": 61952.4,
   "key_events_next_24h": [
     {
       "name": "ISM Services PMI (US, June)",
@@ -34,7 +34,7 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $63K 회복세, 6월 ETF 유출 우려. 연준 완화+전략비축 기대로 혼조.",
-  "updated": "2026-07-06 09:00:00 UTC",
-  "valid_until": "2026-07-06 13:00:00 UTC"
+  "notes": "6월 -20% 하락 후 반등 시도. ETF 유출 지속, 이란평화+전략비축 기대 혼조",
+  "updated": "2026-07-06 12:10:00 UTC",
+  "valid_until": "2026-07-06 16:10:00 UTC"
 }
