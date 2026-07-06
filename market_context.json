@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 62700,
+  "confidence": 0.40,
+  "btc_price_usd": 63200,
   "key_events_next_24h": [
     {
       "name": "ISM Services PMI (US, June)",
@@ -13,7 +13,7 @@
       "name": "FOMC Minutes Release (Jun 17 meeting)",
       "time": "2026-07-08 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     },
     {
       "name": "US CPI Release (June data)",
@@ -34,7 +34,7 @@
       "expected_direction": "bullish"
     }
   ],
-  "notes": "6월 -20% 급락 후 $62,700 반등. Fed 완화 시사, ETF 유출로 불안정.",
-  "updated": "2026-07-06 06:30:00 UTC",
-  "valid_until": "2026-07-06 10:30:00 UTC"
+  "notes": "BTC $63K 회복세, 6월 ETF 유출 우려. 연준 완화+전략비축 기대로 혼조.",
+  "updated": "2026-07-06 09:00:00 UTC",
+  "valid_until": "2026-07-06 13:00:00 UTC"
 }
