@@ -1,14 +1,8 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 62733,
+  "confidence": 0.42,
+  "btc_price_usd": 62838,
   "key_events_next_24h": [
-    {
-      "name": "Asia/EU Market Open (Monday, post-US-holiday positioning)",
-      "time": "2026-07-06 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
     {
       "name": "US Market Open (Monday)",
       "time": "2026-07-06 13:30 UTC",
@@ -34,6 +28,12 @@
       "expected_direction": "neutral"
     },
     {
+      "name": "US PPI Release (June data)",
+      "time": "2026-07-15 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
       "name": "US Strategic BTC Reserve blueprint deadline",
       "time": "2026-07-22 00:00 UTC",
       "impact": "high",
@@ -43,10 +43,10 @@
       "name": "FOMC Rate Decision",
       "time": "2026-07-29 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $62,733 반등중, 연준금리동결 전망, RSI중립, ETF자금유출 부담",
-  "updated": "2026-07-05 20:06:00 UTC",
-  "valid_until": "2026-07-06 00:06:00 UTC"
+  "notes": "6월 -20% 후 $62,838 반등, ETF 유출 지속, 연준 인플레 완화 신호",
+  "updated": "2026-07-06 00:06:29 UTC",
+  "valid_until": "2026-07-06 04:06:29 UTC"
 }
