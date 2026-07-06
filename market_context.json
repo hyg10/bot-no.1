@@ -1,40 +1,22 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "current_price_usd": 61952.4,
+  "confidence": 0.35,
+  "btc_price_usd": 62000,
   "key_events_next_24h": [
+    {
+      "name": "Strategy BTC Sale Digestion (3,588 BTC / $216M sold)",
+      "time": "2026-07-06 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
     {
       "name": "ISM Services PMI (US, June)",
       "time": "2026-07-07 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Minutes Release (Jun 17 meeting)",
-      "time": "2026-07-08 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "US CPI Release (June data)",
-      "time": "2026-07-14 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US Strategic BTC Reserve blueprint deadline",
-      "time": "2026-07-22 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "FOMC Rate Decision",
-      "time": "2026-07-29 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "6월 -20% 하락 후 반등 시도. ETF 유출 지속, 이란평화+전략비축 기대 혼조",
-  "updated": "2026-07-06 12:10:00 UTC",
-  "valid_until": "2026-07-06 16:10:00 UTC"
+  "notes": "Strategy BTC매도+약한고용지표, 혼조세, 중립",
+  "updated": "2026-07-06 14:00:00 UTC",
+  "valid_until": "2026-07-06 18:00:00 UTC"
 }
