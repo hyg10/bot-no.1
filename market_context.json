@@ -1,13 +1,14 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 63500,
+  "confidence": 0.45,
+  "btc_price_usd": 64000,
   "key_events_next_24h": [
     {
-      "name": "ISM Services PMI (US, June)",
-      "time": "2026-07-07 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "name": "FOMC Minutes Release (Warsh, June meeting)",
+      "time": "2026-07-08 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish",
+      "note": "9 officials favor rate hike; PCE inflation revised to 3.6%; hawkish tilt expected"
     },
     {
       "name": "Mt. Gox BTC Creditor Repayments (47,228 BTC to Bitstamp)",
@@ -22,7 +23,24 @@
       "expected_direction": "bearish"
     }
   ],
-  "notes": "공포24·저항$65.7K미돌파·마운트곡스+Strategy매도 공급압박",
-  "updated": "2026-07-07 10:00:00 UTC",
-  "valid_until": "2026-07-07 14:00:00 UTC"
+  "notes": "BTC $64K 회복, 공포23, FOMC의사록+마운트곡스 매도 압박",
+  "updated": "2026-07-07 12:06:48 UTC",
+  "valid_until": "2026-07-07 16:06:48 UTC",
+  "analysis": {
+    "bullish_factors": [
+      "BTC +10% in July, recovering from June lows",
+      "Spot ETF net inflows $46-222M, ending 10-day outflow streak",
+      "Short liquidations $86.6M vs longs $54M (short covering = bullish)",
+      "Weaker NFP (Jul 2) shifted rate hike expectations lower"
+    ],
+    "bearish_factors": [
+      "Fear & Greed Index 23 (Extreme Fear)",
+      "FOMC hawkish: 9 officials see rate hike, PCE inflation 3.6%",
+      "Mt. Gox 47,228 BTC sell pressure ongoing",
+      "Strategy selling $216M BTC",
+      "Key resistance at $64.5-65.7K unbroken",
+      "Still well below 2025 all-time highs, in corrective phase"
+    ],
+    "btc_price_sources": "CoinStats $64,034 / CoinGecko $63,219 / Coinbase $64,194 - consensus ~$64,000"
+  }
 }
