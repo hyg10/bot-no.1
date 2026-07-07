@@ -1,22 +1,22 @@
 {
   "regime": "neutral",
-  "confidence": 0.35,
-  "btc_price_usd": 62000,
+  "confidence": 0.45,
+  "btc_price_usd": 63800,
   "key_events_next_24h": [
-    {
-      "name": "Strategy BTC Sale Digestion (3,588 BTC / $216M sold)",
-      "time": "2026-07-06 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
     {
       "name": "ISM Services PMI (US, June)",
       "time": "2026-07-07 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Fed Speakers (post-June FOMC hawkish hold)",
+      "time": "2026-07-07 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "Strategy BTC매도+약한고용지표, 혼조세, 중립",
-  "updated": "2026-07-06 14:00:00 UTC",
-  "valid_until": "2026-07-06 18:00:00 UTC"
+  "notes": "단기반등+ETF유입재개, 공포지수24(극도공포), $65.7K저항 주목",
+  "updated": "2026-07-07 07:00:00 UTC",
+  "valid_until": "2026-07-07 11:00:00 UTC"
 }
