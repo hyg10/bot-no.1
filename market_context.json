@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 63800,
+  "confidence": 0.40,
+  "btc_price_usd": 63500,
   "key_events_next_24h": [
     {
       "name": "ISM Services PMI (US, June)",
@@ -10,13 +10,19 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "Fed Speakers (post-June FOMC hawkish hold)",
-      "time": "2026-07-07 18:00 UTC",
+      "name": "Mt. Gox BTC Creditor Repayments (47,228 BTC to Bitstamp)",
+      "time": "2026-07-07 ongoing",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Strategy $216M BTC Sale Aftermath",
+      "time": "2026-07-07 ongoing",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "단기반등+ETF유입재개, 공포지수24(극도공포), $65.7K저항 주목",
-  "updated": "2026-07-07 07:00:00 UTC",
-  "valid_until": "2026-07-07 11:00:00 UTC"
+  "notes": "공포24·저항$65.7K미돌파·마운트곡스+Strategy매도 공급압박",
+  "updated": "2026-07-07 10:00:00 UTC",
+  "valid_until": "2026-07-07 14:00:00 UTC"
 }
