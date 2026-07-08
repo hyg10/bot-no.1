@@ -1,52 +1,53 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 63500,
+  "confidence": 0.40,
+  "btc_price_usd": 62000,
   "key_events_next_24h": [
     {
       "name": "FOMC Minutes Release (June 16-17 Warsh meeting)",
       "time": "2026-07-08 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Hawkish dot-plot detail expected; Fed held 3.50-3.75%, 9 officials flag possible 2026 rate hike"
+      "note": "Hawkish dot-plot detail expected; dot-plot median shifted toward rate hike not cut in 2026"
     },
     {
       "name": "Spot BTC ETF daily flow data",
       "time": "2026-07-08 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish",
-      "note": "Goldman Sachs & Morgan Stanley spot BTC ETF filings boost inflow expectations"
+      "note": "Recent 2 consecutive positive days: +$265M on Jul 7 (BlackRock IBIT $200M+)"
     },
     {
       "name": "June CPI Report (pre-release positioning)",
       "time": "2026-07-14 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral",
-      "note": "Last major inflation read before July 28-29 FOMC decision; market positioning begins now"
+      "note": "Last major inflation read before July 28-29 FOMC decision; positioning starts now"
     }
   ],
-  "notes": "FOMC의사록 18시 발표 임박, BTC $63.5K 횡보, 극단공포(24) 지속",
-  "updated": "2026-07-08 13:00:00 UTC",
-  "valid_until": "2026-07-08 17:00:00 UTC",
+  "notes": "BTC $64k→$62k 조정, FOMC의사록 18시 발표 대기, 혼조세",
+  "updated": "2026-07-08 06:30:00 UTC",
+  "valid_until": "2026-07-08 10:30:00 UTC",
   "analysis": {
     "bullish_factors": [
       "BTC +10% in July, recovering from June lows (~$57K) toward $64K",
       "Weak June NFP eased rate hike fears, boosted rate-cut expectations",
-      "Goldman Sachs & Morgan Stanley filed spot BTC ETFs - institutional adoption deepening",
-      "Spot ETF net inflows positive: +$221.72M on Jul 2 ending 10-day outflow streak",
-      "US strategic Bitcoin reserve under active government review (Trump admin)"
+      "Spot ETF net inflows positive 2 consecutive days: +$265M on Jul 7",
+      "Short liquidations ($86.6M) dominated over long liquidations ($54M)",
+      "Retail positioning 57.1% long on Binance (bullish tilt)"
     ],
     "bearish_factors": [
-      "Fear & Greed Index 24 (Extreme Fear) - sentiment has not caught up with price recovery",
-      "FOMC minutes TODAY at 18:00 UTC: hawkish tone expected, 9 officials saw rate hike in 2026",
-      "Market pricing 19.4% chance of 25bps rate HIKE at July 29 FOMC - unusual risk",
-      "BTC YTD still down ~41% from Oct 2025 ATH of $128,198 - macro trend remains bearish",
-      "BTC struggling to sustain above $64K, near-term resistance zone",
-      "Asia tech weakness and ongoing risk-off macro environment"
+      "BTC pulled back from $64K to ~$62K today - near-term resistance confirmed",
+      "FOMC minutes TODAY at 18:00 UTC: hawkish tone expected (dot-plot leans rate hike)",
+      "Coinbase Premium Index negative since May 19 - longest ever streak, weak US institutional demand",
+      "Strategy $213M BTC sale creating sell pressure",
+      "EU eyeing tighter crypto regulation",
+      "Fear & Greed Index ~23-24 (Extreme Fear) - sentiment not supportive",
+      "BTC still 49.9% below ATH of $126,080"
     ],
-    "btc_price_sources": "Yahoo Finance $64,000 / Coinbase $63,618 / Fortune $63,229 / consensus ~$63,500",
-    "fear_greed": "24 (Extreme Fear)",
+    "btc_price_sources": "99Bitcoins $62K / CoinDesk pulls back from $64K / Yahoo Finance July 7 strong open $64K",
+    "fear_greed": "23-24 (Extreme Fear) on crypto F&G; 63/100 Greed on media sentiment index",
     "fed_rate": "3.50-3.75% (held at June 17 meeting)",
-    "fomc_july_odds": "79.5% no change, 19.4% rate hike at July 28-29 meeting"
+    "fomc_july_odds": "July 29 rate decision pending; dot-plot shifted to hike bias"
   }
 }
