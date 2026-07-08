@@ -1,40 +1,47 @@
 {
   "regime": "neutral",
-  "confidence": 0.38,
-  "btc_price_usd": 63219,
+  "confidence": 0.4,
+  "btc_price_usd": 63500,
   "key_events_next_24h": [
     {
       "name": "FOMC Minutes Release (June 16-17 Warsh meeting)",
       "time": "2026-07-08 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Hawkish dot plot detail expected; rate held 3.50-3.75%, hints at possible 2026 hike"
+      "note": "Hawkish dot plot detail expected; rate held 3.50-3.75%, hints at possible 2026 rate hike"
     },
     {
-      "name": "Strategy $216M BTC Sale Aftermath",
-      "time": "2026-07-07 ongoing",
+      "name": "Oil price spike - Strait of Hormuz geopolitical tension",
+      "time": "2026-07-08 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "Spot BTC ETF daily flow data (recent +$46.6M inflow)",
+      "time": "2026-07-08 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $63K 회복, 공포23, 내일 FOMC의사록 매파 경계",
-  "updated": "2026-07-07 14:00:00 UTC",
-  "valid_until": "2026-07-07 18:00:00 UTC",
+  "notes": "FOMC의사록 오늘 발표, 극도공포(23), 주간+6% 회복 혼조",
+  "updated": "2026-07-08 09:00:00 UTC",
+  "valid_until": "2026-07-08 13:00:00 UTC",
   "analysis": {
     "bullish_factors": [
-      "BTC +10% in July, +6.7% weekly, recovering from June lows",
-      "Spot ETF net inflows +$221.72M on Jul 2, ending 10-day outflow streak",
-      "Short liquidations $86.6M vs longs $54M (short covering = bullish pressure)",
-      "Weaker US labor data shifted rate hike expectations lower"
+      "BTC +10% in July, +6.27% weekly, recovering strongly from June lows (~$57K)",
+      "Spot ETF net inflows returned: +$221.72M on Jul 2 ending 10-day outflow streak; +$46.6M recently",
+      "Strategy's $213M BTC sale absorbed without major breakdown (bullish resilience)",
+      "Weaker US labor data (June NFP) eased rate hike fears",
+      "BTC decoupling from sliding AI/chip stocks"
     ],
     "bearish_factors": [
-      "Fear & Greed Index 23 (Extreme Fear)",
-      "FOMC minutes tomorrow: hawkish tone, dot plot raised to 3.8% year-end",
-      "Strategy sold 3,588 BTC (~$216M), largest sale since abandoning never-sell stance",
-      "Key resistance at $64,000 unbroken, pulling back from highs",
-      "Still well below 2025 all-time highs, in corrective phase for 2026",
-      "Rising oil prices (Strait of Hormuz), weakness in Asian tech shares"
+      "Fear & Greed Index 23 (Extreme Fear) despite price recovery",
+      "FOMC minutes TODAY (Jul 8): hawkish tone expected, dot plot raised to 3.8% year-end - 2026 hike risk",
+      "BTC failed to hold $64K, pulling back to $63,200-$63,500 range",
+      "Oil surge from Strait of Hormuz attack adding macro risk-off pressure",
+      "Asian tech share weakness, risk-off environment broadly",
+      "BTC still well below 2025 all-time highs, corrective phase persisting"
     ],
-    "btc_price_sources": "CoinGecko $63,219 / CoinDesk ~$63,xxx - consensus ~$63,200"
+    "btc_price_sources": "Yahoo Finance $64,000 / Coinbase $64,194 / TradingView $63,428 / consensus ~$63,500"
   }
 }
