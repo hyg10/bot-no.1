@@ -8,40 +8,45 @@
       "time": "2026-07-08 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "Hawkish dot plot detail expected; rate held 3.50-3.75%, hints at possible 2026 rate hike"
+      "note": "Hawkish dot-plot detail expected; Fed held 3.50-3.75%, 9 officials flag possible 2026 rate hike"
     },
     {
-      "name": "Oil price spike - Strait of Hormuz geopolitical tension",
-      "time": "2026-07-08 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Spot BTC ETF daily flow data (recent +$46.6M inflow)",
+      "name": "Spot BTC ETF daily flow data",
       "time": "2026-07-08 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "bullish",
+      "note": "Goldman Sachs & Morgan Stanley spot BTC ETF filings boost inflow expectations"
+    },
+    {
+      "name": "June CPI Report (pre-release positioning)",
+      "time": "2026-07-14 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral",
+      "note": "Last major inflation read before July 28-29 FOMC decision; market positioning begins now"
     }
   ],
-  "notes": "FOMC의사록 오늘 발표, 극도공포(23), 주간+6% 회복 혼조",
-  "updated": "2026-07-08 09:00:00 UTC",
-  "valid_until": "2026-07-08 13:00:00 UTC",
+  "notes": "FOMC의사록 18시 발표 임박, BTC $63.5K 횡보, 극단공포(24) 지속",
+  "updated": "2026-07-08 13:00:00 UTC",
+  "valid_until": "2026-07-08 17:00:00 UTC",
   "analysis": {
     "bullish_factors": [
-      "BTC +10% in July, +6.27% weekly, recovering strongly from June lows (~$57K)",
-      "Spot ETF net inflows returned: +$221.72M on Jul 2 ending 10-day outflow streak; +$46.6M recently",
-      "Strategy's $213M BTC sale absorbed without major breakdown (bullish resilience)",
-      "Weaker US labor data (June NFP) eased rate hike fears",
-      "BTC decoupling from sliding AI/chip stocks"
+      "BTC +10% in July, recovering from June lows (~$57K) toward $64K",
+      "Weak June NFP eased rate hike fears, boosted rate-cut expectations",
+      "Goldman Sachs & Morgan Stanley filed spot BTC ETFs - institutional adoption deepening",
+      "Spot ETF net inflows positive: +$221.72M on Jul 2 ending 10-day outflow streak",
+      "US strategic Bitcoin reserve under active government review (Trump admin)"
     ],
     "bearish_factors": [
-      "Fear & Greed Index 23 (Extreme Fear) despite price recovery",
-      "FOMC minutes TODAY (Jul 8): hawkish tone expected, dot plot raised to 3.8% year-end - 2026 hike risk",
-      "BTC failed to hold $64K, pulling back to $63,200-$63,500 range",
-      "Oil surge from Strait of Hormuz attack adding macro risk-off pressure",
-      "Asian tech share weakness, risk-off environment broadly",
-      "BTC still well below 2025 all-time highs, corrective phase persisting"
+      "Fear & Greed Index 24 (Extreme Fear) - sentiment has not caught up with price recovery",
+      "FOMC minutes TODAY at 18:00 UTC: hawkish tone expected, 9 officials saw rate hike in 2026",
+      "Market pricing 19.4% chance of 25bps rate HIKE at July 29 FOMC - unusual risk",
+      "BTC YTD still down ~41% from Oct 2025 ATH of $128,198 - macro trend remains bearish",
+      "BTC struggling to sustain above $64K, near-term resistance zone",
+      "Asia tech weakness and ongoing risk-off macro environment"
     ],
-    "btc_price_sources": "Yahoo Finance $64,000 / Coinbase $64,194 / TradingView $63,428 / consensus ~$63,500"
+    "btc_price_sources": "Yahoo Finance $64,000 / Coinbase $63,618 / Fortune $63,229 / consensus ~$63,500",
+    "fear_greed": "24 (Extreme Fear)",
+    "fed_rate": "3.50-3.75% (held at June 17 meeting)",
+    "fomc_july_odds": "79.5% no change, 19.4% rate hike at July 28-29 meeting"
   }
 }
