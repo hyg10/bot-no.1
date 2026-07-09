@@ -1,49 +1,49 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
+  "confidence": 0.60,
   "btc_price_usd": 62300,
   "key_events_next_24h": [
     {
-      "name": "US-Iran geopolitical escalation (airstrikes + Strait of Hormuz attack)",
-      "time": "2026-07-09 00:00 UTC",
-      "impact": "high",
+      "name": "US-Iran geopolitical risk (ongoing; Trump remarks reignited fears)",
+      "time": "2026-07-09 18:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "Spot BTC ETF daily flow data (inflow continuation watch)",
+      "name": "Spot BTC ETF daily flow data (watch for resumption of outflows)",
       "time": "2026-07-09 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs Bitcoin ETF SEC review (application in progress)",
-      "time": "2026-07-09 00:00 UTC",
+      "name": "No FOMC/CPI/PPI scheduled (next FOMC: Jul 28-29, CPI: Jul 14)",
+      "time": "2026-07-10 00:00 UTC",
       "impact": "low",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "미-이란 공습·호르무즈 긴장 지속. BTC $62K대. 극단적 공포(F&G 23)",
-  "updated": "2026-07-09 09:00:00 UTC",
-  "valid_until": "2026-07-09 13:00:00 UTC",
+  "notes": "극단적공포(F&G 22), BTC $62K 약세. 코인베이스 프리미엄 50일 마이너스",
+  "updated": "2026-07-09 18:06:49 UTC",
+  "valid_until": "2026-07-09 22:06:49 UTC",
   "analysis": {
     "bullish_factors": [
       "BTC recovered +10% in July from June lows (~$58K)",
-      "Spot ETF inflows resumed Jul 7: +$221.7M (largest in 2 months, ended 10-day outflow streak)",
-      "Soft US labor market data shifted Fed expectations toward easing",
-      "Weakening dollar environment supportive for BTC as risk asset"
+      "BTC decoupled from sliding AI/chip stocks",
+      "Iran market fears faded intraday; BTC recovered most losses"
     ],
     "bearish_factors": [
-      "US-Iran airstrikes ongoing + Strait of Hormuz attack: risk-off pressure",
-      "BTC pulled back from $64K to ~$62K (-2.5% in 24h)",
-      "Fear & Greed Index: 23 (Extreme Fear territory)",
-      "Coinbase Premium 50-day negative streak: weak US institutional demand",
-      "Strategy $216M BTC sale overhang (3,588 BTC sold)",
-      "No FOMC cut expected until at least Q4 (Fed dot plot leans hawkish)"
+      "Fear & Greed Index: 22 (Extreme Fear)",
+      "BTC down -2.4% on the day, pulling back from $64K",
+      "Coinbase Premium 50-day negative streak: persistent weak US demand",
+      "Strategy $216M BTC sale (3,588 BTC sold): overhang",
+      "Macro structure broken above $65K; fragile recovery",
+      "Rising oil prices after Strait of Hormuz attack: risk-off",
+      "BTC dominance 56.08%: capital sheltering, not flowing into alts"
     ],
-    "btc_price_sources": "CoinDesk $61,913 / Yahoo $62,199 / Jul 9 estimate ~$62,300",
-    "fear_greed": "23 (Extreme Fear, improved from low but still elevated)",
-    "fed_rate": "3.50-3.75% (held; Jul 8 FOMC minutes released; next decision Jul 29)",
-    "fomc_next": "July 28-29 FOMC; CPI July 14 is key near-term input",
+    "btc_price_sources": "Yahoo $62,128 / Coinbase $61,753 / Finbold $62,302",
+    "fear_greed": "22 (Extreme Fear)",
+    "fed_rate": "3.50-3.75% (held; FOMC minutes Jul 8; next decision Jul 28-29)",
+    "fomc_next": "July 28-29 FOMC; CPI July 14 is next key input",
     "no_major_events_next_24h": true
   }
 }
