@@ -1,58 +1,47 @@
 {
   "regime": "bearish",
-  "confidence": 0.6,
-  "btc_price_usd": 62084,
+  "confidence": 0.55,
+  "btc_price_usd": 62500,
   "key_events_next_24h": [
     {
-      "name": "FOMC Minutes Release (June 16-17 Warsh meeting)",
-      "time": "2026-07-08 18:00 UTC",
+      "name": "US-Iran Geopolitical Escalation (airstrikes ongoing, ceasefire collapsed)",
+      "time": "2026-07-09 00:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Hawkish dot-plot detail expected; dot-plot median shifted toward rate hike not cut in 2026"
+      "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran Military Strikes (risk-off ongoing)",
-      "time": "2026-07-08 00:00 UTC",
+      "name": "Spot BTC ETF daily flow data (inflow continuation watch)",
+      "time": "2026-07-09 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "US airstrikes on Iranian targets after Strait of Hormuz incident; crypto prices falling"
+      "expected_direction": "bullish"
     },
     {
-      "name": "Spot BTC ETF daily flow data",
-      "time": "2026-07-08 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish",
-      "note": "Snapped 10-day outflow streak on Jul 7 with $221.7M inflow; watch for continuation"
-    },
-    {
-      "name": "June CPI Report (pre-release positioning)",
+      "name": "June CPI Report (pre-release positioning begins)",
       "time": "2026-07-14 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral",
-      "note": "Last major inflation read before July 28-29 FOMC decision; positioning starts now"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "이란 공습 리스크오프·FOMC 매파 의사록 대기, 단기 하락 압력",
-  "updated": "2026-07-08 13:00:00 UTC",
-  "valid_until": "2026-07-08 17:00:00 UTC",
+  "notes": "미-이란 공습 지속·극단적공포 23, BTC $62K대 하락압력 지속",
+  "updated": "2026-07-09 06:00:00 UTC",
+  "valid_until": "2026-07-09 10:00:00 UTC",
   "analysis": {
     "bullish_factors": [
-      "BTC +10% in July, recovering from June lows (~$58K) toward $64K",
-      "Spot ETF net inflows snapped 10-day losing streak: +$221.7M on Jul 7 (largest in 2 months)",
-      "Weak June NFP eased rate hike fears, supportive for risk assets"
+      "BTC recovered +10% in July from June lows (~$58K)",
+      "Spot ETF inflows resumed Jul 7: +$221.7M (largest in 2 months)",
+      "Soft June NFP shifted Fed expectations toward rate easing"
     ],
     "bearish_factors": [
-      "US-Iran military strikes today driving risk-off across all markets",
-      "BTC down 2.2% on July 8 to ~$62K from $64K high yesterday",
-      "FOMC minutes TODAY at 18:00 UTC: hawkish tone expected (dot-plot leans toward 2026 rate hike)",
-      "Fear & Greed Index 23 (Extreme Fear) - sentiment deeply negative",
-      "Strategy $213M BTC sale creating sell pressure",
-      "BTC still ~50% below ATH of $126,080",
-      "Coinbase Premium Index negative - weak US institutional demand"
+      "US-Iran airstrikes ongoing: ceasefire collapsed, risk-off across markets",
+      "BTC down from $64K to ~$62K following Jul 8 strikes",
+      "Fear & Greed Index: 23 (Extreme Fear)",
+      "Coinbase Premium 50-day negative streak: weak US institutional demand",
+      "Stablecoin market shrank 2.4% ($7.7B) in June - worst since TerraUSD collapse",
+      "Strategy $213M BTC sale overhang"
     ],
-    "btc_price_sources": "Yahoo Finance $62,083 at 8:45am ET / Fortune July 8 / CoinDesk pullback from $64K",
-    "fear_greed": "23 (Extreme Fear) on crypto F&G",
-    "fed_rate": "3.50-3.75% (held at June 17 meeting)",
-    "fomc_july_odds": "July 29 rate decision pending; dot-plot shifted toward hike bias"
+    "btc_price_sources": "Coinbase $63,618 / Yahoo $61,668 / Fortune Jul 8 $62,083 - averaging ~$62,500",
+    "fear_greed": "23 (Extreme Fear)",
+    "fed_rate": "3.50-3.75% (held Jun 17; Warsh pause confirmed in Jul 8 minutes)",
+    "fomc_next": "July 28-29 FOMC decision; CPI Jul 14 is key input"
   }
 }
