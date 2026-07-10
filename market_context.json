@@ -1,51 +1,56 @@
 {
   "regime": "neutral",
-  "confidence": 0.5,
-  "btc_price_usd": 63500,
+  "confidence": 0.45,
+  "btc_price_usd": 63258,
   "key_events_next_24h": [
     {
-      "name": "No FOMC/CPI/PPI today (CPI: Jul 14, FOMC: Jul 28-29)",
-      "time": "2026-07-10 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "BTC Spot ETF daily flow data (10-day outflow streak ended Jul 9 with $221M inflow)",
+      "name": "BTC Spot ETF daily flow data",
       "time": "2026-07-10 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
+    },
+    {
+      "name": "US Senate Digital Asset Legislation Vote (possible)",
+      "time": "2026-07-10 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "No FOMC/CPI scheduled today (CPI: Jul 14, FOMC: Jul 28-29)",
+      "time": "2026-07-10 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF유입 재개+10%반등, 공포지수23 극단, 혼조 신호",
-  "updated": "2026-07-10 07:30:00 UTC",
-  "valid_until": "2026-07-10 11:30:00 UTC",
+  "notes": "BTC 6월 저점 반등+10%, ETF 유입 재개. 공포지수 23 극도공포",
+  "updated": "2026-07-10 12:00:00 UTC",
+  "valid_until": "2026-07-10 16:00:00 UTC",
   "analysis": {
     "bullish_factors": [
       "BTC ETF 10-day outflow streak ended: $221.7M inflow on Jul 9 (largest in 2 months)",
       "BTC recovered +10% in July from June lows (~$58K); weekly gain +6.27%",
-      "Weak June jobs report (57K vs 113K expected): rate cut expectations rising",
-      "US Treasury yields fell + dollar weakened: BTC carrying cost reduced",
-      "Short liquidations dominating ($86.6M vs $54M longs): short squeeze in progress",
-      "SEC 2026 regulatory agenda supports Bitcoin alongside equities on exchanges",
-      "BTC classified as digital commodity (SEC-CFTC Mar 17): regulatory clarity",
-      "Digital asset legislation may reach Senate this month"
+      "Weak June jobs report (57K vs 113K expected): monetary easing expectations rising",
+      "USD weakened + Treasury yields fell: BTC carrying cost reduced",
+      "Short squeeze dynamics in play: short liquidations dominating",
+      "Digital asset legislation may reach US Senate this month (bullish for crypto)",
+      "Fed Chair Warsh: inflation risks have come down — supportive for risk assets"
     ],
     "bearish_factors": [
       "Fear & Greed Index: 23 (Extreme Fear) — deep pessimism despite price gains",
-      "BTC pulled back from $64K highs; potential retest of $58-59K support",
-      "Strategy $213M BTC sale creates market overhang",
-      "BTC started 2026 at $93K — still ~32% YTD, macro downtrend intact",
-      "Clarity Act passage odds fell to ~48% (down from 74%)",
+      "BTC pulled back from $64K highs — failed to hold above $64K intraday",
+      "Strategy $213M BTC sale creates sell-side overhang",
+      "BTC started 2026 at $93K — still ~32% YTD drawdown, macro downtrend intact",
       "June was worst month on record for BTC ETF outflows — recovery fragile",
-      "Short squeeze dynamics = bounce may not be sustained"
+      "Short squeeze may not sustain if macro deteriorates further",
+      "FOMC June 17 held at 3.50-3.75%; dot plot revised up (no cuts expected in 2026)"
     ],
-    "btc_price_sources": "CoinDesk Jul-10 ~$64,372 / Yahoo Jul-9 $62,302-$63,257 / Motley Fool Jul-9 $63,207",
-    "fear_greed": "23 (Extreme Fear) — improved 10 pts from last week, constructive divergence",
-    "fed_rate": "3.50-3.75% (held); next FOMC decision Jul 28-29 (hold expected)",
+    "btc_price_sources": "Yahoo Jul-10 $63,257; Coindesk Jul-7 $64K pullback; Fortune Jul-8 $63,351",
+    "fear_greed": "23 (Extreme Fear) — improved 10pts over week; divergence vs rising price is constructive",
+    "fed_rate": "3.50-3.75% (held Jun 17); next FOMC Jul 28-29 (hold expected)",
     "fomc_next": "July 28-29 FOMC; CPI July 14 is next key macro input",
     "etf_flows": "$221.7M net inflow Jul 9 — ends 10-day losing streak",
-    "sec_agenda": "Jul 7: SEC published 2026 agenda allowing BTC alongside equities",
+    "weekly_change_pct": 6.27,
     "no_major_events_next_24h": true,
-    "weekly_change_pct": 6.27
+    "regime_rationale": "Recovery from June lows is real (+10%) with ETF inflows returning and macro tailwinds. However Fear/Greed at extreme fear (23) and price failed $64K. Mixed signals -> neutral, confidence 0.45 (below 0.5 filter threshold; bot trades on own 3-layer system)"
   }
 }
