@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 62000,
+  "confidence": 0.5,
+  "btc_price_usd": 63229,
   "key_events_next_24h": [
     {
       "name": "No FOMC/CPI/PPI today (CPI: Jul 14, FOMC: Jul 28-29)",
@@ -11,46 +11,41 @@
     },
     {
       "name": "BTC Spot ETF daily flow data (10-day outflow streak ended Jul 9 with $221M inflow)",
-      "time": "2026-07-10 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Clarity Act Senate vote window opens (Senate returns Jul 13; 48% passage odds)",
-      "time": "2026-07-13 00:00 UTC",
+      "time": "2026-07-10 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "ETF 순유입 재개, 공포지수 25, 규제 불확실 속 중립 유지",
-  "updated": "2026-07-10 08:00:00 UTC",
-  "valid_until": "2026-07-10 12:00:00 UTC",
+  "notes": "ETF순유입 재개+단기반등, 공포지수23, 중립유지",
+  "updated": "2026-07-10 06:08:33 UTC",
+  "valid_until": "2026-07-10 10:08:33 UTC",
   "analysis": {
     "bullish_factors": [
       "BTC ETF 10-day outflow streak ended: $221.7M inflow on Jul 9 (largest in 2 months)",
-      "BTC recovered +10% in July from June lows (~$58K)",
+      "BTC recovered +10% in July from June lows (~$58K); weekly gain +6.27%",
       "Weak June jobs report (57K vs 113K expected): rate cut expectations rising",
       "US Treasury yields fell + dollar weakened: BTC carrying cost reduced",
-      "Iran peace agreement optimism lifted risk sentiment",
-      "Fear & Greed improved: 22 (Jul 9) -> 25 (Jul 10) — still fear but recovering",
+      "Short liquidations dominating ($86.6M vs $54M longs): short squeeze in progress",
       "SEC 2026 regulatory agenda supports Bitcoin alongside equities on exchanges",
-      "BTC classified as digital commodity (SEC-CFTC Mar 17): regulatory clarity"
+      "BTC classified as digital commodity (SEC-CFTC Mar 17): regulatory clarity",
+      "SEC Regulation Crypto overhaul announced July 7: bullish long-term"
     ],
     "bearish_factors": [
-      "Fear & Greed Index: 25 (Fear) — below neutral",
-      "BTC pulled back from $64K highs; possible retest of $58-59K range",
-      "Strategy $213M BTC sale (absorbed but creates overhang)",
-      "Middle East tensions (Iran/Strait of Hormuz) ongoing — risk-off pressure",
-      "Clarity Act passage only 48% odds (down from 74% a month ago)",
+      "Fear & Greed Index: 23 (Extreme Fear) — deep pessimism",
+      "BTC pulled back from $64K highs to $63K; possible retest of $58-59K range",
+      "Strategy $216M BTC sale (absorbed but creates overhang)",
+      "BTC started 2026 at $93K — still -32% YTD, macro downtrend intact",
+      "Clarity Act passage odds fell to ~48% (down from 74% a month ago)",
       "June was worst month on record for BTC ETF outflows — recovery fragile",
-      "BTC dominance ~56%: capital not yet rotating into alts (flight-to-safety mode)"
+      "Short squeeze dynamics = bounce may not be sustained"
     ],
-    "btc_price_sources": "Yahoo ~$63,257 / Coinbase $61,753 / Robinhood Jul-10 ~$58,500-59K",
-    "fear_greed": "25 (Fear) — improved from 22 (Extreme Fear) on Jul 9",
+    "btc_price_sources": "KuCoin Jul-10 $63,229 (+1.51%) / Yahoo Jul-9 $62,302 / Fortune Jul-7 $63,229",
+    "fear_greed": "23 (Extreme Fear) — slight improvement from 22 on Jul 9",
     "fed_rate": "3.50-3.75% (held); next FOMC decision Jul 28-29",
     "fomc_next": "July 28-29 FOMC; CPI July 14 is next key macro input",
     "etf_flows": "$221.7M net inflow Jul 9 — ends 10-day losing streak",
     "clarity_act": "Senate returns Jul 13; ~3 week window before Aug recess; 48% passage odds",
-    "no_major_events_next_24h": true
+    "no_major_events_next_24h": true,
+    "weekly_change_pct": 6.27
   }
 }
