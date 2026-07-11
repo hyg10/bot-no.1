@@ -1,56 +1,38 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 63258,
-  "key_events_next_24h": [
-    {
-      "name": "BTC Spot ETF daily flow data",
-      "time": "2026-07-10 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "US Senate Digital Asset Legislation Vote (possible)",
-      "time": "2026-07-10 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "No FOMC/CPI scheduled today (CPI: Jul 14, FOMC: Jul 28-29)",
-      "time": "2026-07-10 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    }
-  ],
-  "notes": "BTC 6월 저점 반등+10%, ETF 유입 재개. 공포지수 23 극도공포",
-  "updated": "2026-07-10 12:00:00 UTC",
-  "valid_until": "2026-07-10 16:00:00 UTC",
+  "confidence": 0.40,
+  "btc_price_usd": 64132,
+  "key_events_next_24h": [],
+  "notes": "ETF유입 재개·고래 누적 긍정. CPI(7/14) 앞두고 중립 유지",
+  "updated": "2026-07-11 00:07:00 UTC",
+  "valid_until": "2026-07-11 04:07:00 UTC",
   "analysis": {
     "bullish_factors": [
-      "BTC ETF 10-day outflow streak ended: $221.7M inflow on Jul 9 (largest in 2 months)",
-      "BTC recovered +10% in July from June lows (~$58K); weekly gain +6.27%",
-      "Weak June jobs report (57K vs 113K expected): monetary easing expectations rising",
-      "USD weakened + Treasury yields fell: BTC carrying cost reduced",
-      "Short squeeze dynamics in play: short liquidations dominating",
-      "Digital asset legislation may reach US Senate this month (bullish for crypto)",
-      "Fed Chair Warsh: inflation risks have come down — supportive for risk assets"
+      "BTC ETF $510M inflow over 3 consecutive days (Jul 7-9) — BlackRock led recovery",
+      "BTC rallied ~10% in July from Jun lows (~$57.7K); +1.51% today at $64,132",
+      "Whale accumulation: 270K+ BTC bought by whales in past 2 weeks",
+      "CLARITY Act progress in US Congress — positive regulatory signal for crypto",
+      "Fed Chair Warsh: inflation risks easing, 5 working groups reviewing policy",
+      "Weak Jun jobs report (57K vs 113K expected) still echoing — easing expectations"
     ],
     "bearish_factors": [
-      "Fear & Greed Index: 23 (Extreme Fear) — deep pessimism despite price gains",
-      "BTC pulled back from $64K highs — failed to hold above $64K intraday",
-      "Strategy $213M BTC sale creates sell-side overhang",
-      "BTC started 2026 at $93K — still ~32% YTD drawdown, macro downtrend intact",
-      "June was worst month on record for BTC ETF outflows — recovery fragile",
-      "Short squeeze may not sustain if macro deteriorates further",
-      "FOMC June 17 held at 3.50-3.75%; dot plot revised up (no cuts expected in 2026)"
+      "Fear & Greed Index: 22 (Extreme Fear) — persistent deep pessimism",
+      "Coinbase Premium negative for 50+ consecutive days — weak US retail/institutional demand",
+      "Technical: 18 bearish vs 15 bullish indicators (bearish majority)",
+      "BTC still ~50% below Oct 2025 ATH ($128K) — macro downtrend intact",
+      "Jun 2026 BTC ETF outflows totaled ~$4.5B — recovery fragile after massive exodus",
+      "FOMC Jul 28-29: 19.4% probability of 25bps hike — residual rate hike risk",
+      "June CPI (Jul 14) could reset expectations sharply in either direction"
     ],
-    "btc_price_sources": "Yahoo Jul-10 $63,257; Coindesk Jul-7 $64K pullback; Fortune Jul-8 $63,351",
-    "fear_greed": "23 (Extreme Fear) — improved 10pts over week; divergence vs rising price is constructive",
-    "fed_rate": "3.50-3.75% (held Jun 17); next FOMC Jul 28-29 (hold expected)",
-    "fomc_next": "July 28-29 FOMC; CPI July 14 is next key macro input",
-    "etf_flows": "$221.7M net inflow Jul 9 — ends 10-day losing streak",
-    "weekly_change_pct": 6.27,
+    "btc_price_sources": "Yahoo Finance Jul-11 $64,132 (+1.51%); Jul-10 $63,356 (+2.18%); Jul-7 pullback from $64K",
+    "fear_greed": "22 (Extreme Fear) — recovered slightly from low of ~15 in early Jul",
+    "fed_rate": "3.50-3.75% (held Jun 17); FOMC Jul 28-29 — 79.5% hold, 19.4% hike",
+    "fomc_next": "July 28-29 FOMC; June CPI July 14 is next critical macro input",
+    "etf_flows": "$510M inflow over Jul 7-9 after 10-day $2.7B outflow streak; YTD still -$5.4B net",
+    "whale_activity": "270K+ BTC accumulated by whales in past 2 weeks (contrarian buy signal)",
+    "coinbase_premium": "Negative for 50+ days — US buyer demand remains structurally weak",
+    "next_major_events": "CPI Jul 14 12:30 UTC (high), Fed Beige Book Jul 15 20:15 UTC (medium), FOMC Jul 28-29 (high)",
     "no_major_events_next_24h": true,
-    "regime_rationale": "Recovery from June lows is real (+10%) with ETF inflows returning and macro tailwinds. However Fear/Greed at extreme fear (23) and price failed $64K. Mixed signals -> neutral, confidence 0.45 (below 0.5 filter threshold; bot trades on own 3-layer system)"
+    "regime_rationale": "Mixed signals: recovery (+10% Jul) and ETF inflows positive, but extreme fear (22), coinbase premium negative, and 18 vs 15 bearish technical indicators. CPI Jul 14 creates uncertainty. Confidence 0.40 < 0.5 threshold — bot trades on own 3-layer system unfiltered."
   }
 }
