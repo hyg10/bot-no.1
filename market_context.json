@@ -1,39 +1,43 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 64154,
-  "key_events_next_24h": [],
-  "notes": "공포지수 26 개선, BTC $64k 안정. 주말 주요 이벤트 없음.",
-  "updated": "2026-07-11 06:00:00 UTC",
-  "valid_until": "2026-07-11 10:00:00 UTC",
+  "confidence": 0.45,
+  "btc_price_usd": 64153,
+  "key_events_next_24h": [
+    {
+      "name": "Crypto Clarity Act Senate vote (expected late July)",
+      "time": "2026-07-11 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    }
+  ],
+  "notes": "BTC $64k 안정, ETF 유입 재개. CPI 7/14 전 관망세",
+  "updated": "2026-07-11 08:00:00 UTC",
+  "valid_until": "2026-07-11 12:00:00 UTC",
   "analysis": {
     "bullish_factors": [
       "BTC ETF inflows resumed: $221.7M single-day haul (largest in 2 months) after 10-day losing streak",
-      "BTC rallied ~10% in July from Jun lows (~$57.7K); +1.39% today at $64,154",
-      "Fear & Greed improved: 26 (Fear) vs 23 (Extreme Fear) yesterday — panic selling easing",
-      "Fed Chair Warsh: inflation risks have come down — soft Jun jobs report (57K vs 113K) echoing",
-      "Global crypto market cap +1.2% to $2.28T; BTC dominance 56.4% (strong)",
-      "Bears squeezed: BTC climbed from below $60K to $64K in 5 sessions vs short pressure"
+      "BTC rallied ~10% in July from Jun lows (~$57.7K); +1.5% today at ~$64,153",
+      "Fear & Greed improved: ~26 (Fear) vs 23 (Extreme Fear) earlier this week",
+      "Weaker Jun jobs data (57K vs 113K expected) supports rate-cut expectations",
+      "Crypto Clarity Act draft expected soon; Senate vote later in July",
+      "BTC dominance 56.4% (strong); global crypto market cap recovering"
     ],
     "bearish_factors": [
-      "Fear & Greed still in Fear zone (26) — investors remain cautious",
-      "Strategy sold $213M in BTC, spooking market sentiment",
+      "Fear & Greed still in Fear zone — investors remain cautious",
+      "Strategy sold $213M in BTC, market absorbed but sentiment dented",
       "BTC still ~50% below Oct 2025 ATH (~$128K) — macro downtrend intact",
       "Analysts: 'too early to call new bull cycle'; summer volumes subdued",
       "Coinbase Premium negative 50+ consecutive days — US structural demand weak",
-      "June CPI (Jul 14 12:30 UTC) could reset expectations sharply",
-      "FOMC Jul 28-29: residual 19.4% probability of 25bps hike still present"
+      "June CPI (Jul 14 12:30 UTC) could reset rate-cut expectations sharply",
+      "FOMC Jul 28-29: residual ~19% probability of 25bps hike still present"
     ],
-    "btc_price_sources": "Yahoo Finance Jul-11 $64,154 (+1.39%); Fortune Jul-10 $64,340; CoinDesk Jul-7 pullback from $64K",
-    "fear_greed": "26 (Fear) — improved from 23 yesterday and ~22 earlier this week (Extreme Fear)",
+    "btc_price_sources": "Yahoo Finance Jul-11 ~$64,154; CoinDesk Jul-7 pullback from $64K run",
+    "fear_greed": "23-26 (Fear range) — improving from Extreme Fear earlier in July",
     "fed_rate": "3.50-3.75% (held Jun 17); FOMC Jul 28-29 — ~80% hold, ~19% hike probability",
-    "fomc_next": "July 28-29 FOMC; CPI July 14 12:30 UTC is next critical macro input (3 days out)",
-    "etf_flows": "$221.7M single-day inflow (Jul ~10) — snapped 10-day outflow streak; Jul 7-9 also positive",
-    "whale_activity": "Recovery rally from $57.7K to $64K; squeeze on short sellers confirmed",
-    "coinbase_premium": "Negative for 50+ days — US retail/institutional demand structurally weak",
-    "next_major_events": "CPI Jul 14 12:30 UTC (high), Fed Beige Book Jul 15 (medium), FOMC Jul 28-29 (high)",
+    "fomc_next": "July 28-29 FOMC; CPI July 14 12:30 UTC is next critical macro input",
+    "etf_flows": "$221.7M single-day inflow — snapped 10-day outflow streak; cautiously positive",
     "no_major_events_next_24h": true,
-    "weekend_context": "Jul 11-12 is weekend — no economic releases scheduled; crypto-only catalysts possible",
-    "regime_rationale": "Mixed: recovery (+10% July) and ETF inflow reversal positive; Fear/Greed improving (22→26). But Strategy BTC sale, subdued volumes, and approaching CPI create uncertainty. Bot trades on own 3-layer system (confidence 0.40 < 0.50 threshold, so no macro filter active)."
+    "weekend_context": "Jul 11-12 weekend — no economic releases; crypto-only catalysts possible",
+    "regime_rationale": "Mixed: 10% July recovery and ETF inflow reversal bullish; but Fear zone, Strategy BTC sale, approaching CPI create uncertainty. Confidence 0.45 < 0.50 threshold — macro filter inactive; bot trades on own 3-layer system."
   }
 }
