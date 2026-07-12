@@ -1,33 +1,48 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 64154,
-  "key_events_next_24h": [],
-  "notes": "BTC $64k 단기 반등, CPI 7/14 예정, 공포탐욕 23 극도공포",
-  "updated": "2026-07-11 06:00:00 UTC",
-  "valid_until": "2026-07-11 10:00:00 UTC",
+  "confidence": 0.40,
+  "btc_price_usd": 63813,
+  "key_events_next_24h": [
+    {
+      "name": "No major macro events in next 24h (quiet session)",
+      "time": "2026-07-12 00:00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
+  ],
+  "notes": "ETF 10일 유출 끊김, BTC $63.8K 약보합. CPI 전 혼조세",
+  "updated": "2026-07-12 00:10:00 UTC",
+  "valid_until": "2026-07-12 04:10:00 UTC",
   "analysis": {
     "bullish_factors": [
-      "BTC +10% in July: rebounded from $58k end-of-June lows to $64,154",
-      "SEC regulatory agenda (Jul 7): proposed rules to let BTC trade on licensed platforms alongside equities",
-      "BTC classified as 'digital commodity' by SEC-CFTC joint release (Mar 17); regulatory tailwind",
-      "Short-squeeze momentum: weekly gain ~6.27%",
-      "Fear & Greed at 23 (Extreme Fear) — contrarian bullish signal historically"
+      "US spot BTC ETFs snapped 10-day outflow streak: +$221.7M (largest daily inflow in 2 months)",
+      "17 banks piloting tokenized assets on Swift blockchain platform (banking adoption signal)",
+      "Circle secured US trust bank approval (regulatory expansion bullish)",
+      "BTC up ~9.5% month-to-date from July 1 lows of $58,278"
     ],
     "bearish_factors": [
-      "Fear & Greed at 23 — Extreme Fear zone; not a confirmed trend reversal",
-      "BTC down ~20% YTD — macro downtrend intact, rebound may be short-squeeze not new bull",
-      "High S&P 500 correlation (71%) and Gold correlation (87%) — macro-driven, not BTC-specific",
-      "June CPI release July 14 12:30 UTC — inflation data could pressure rate-cut odds",
-      "Weekend (Jul 11-12): low liquidity, no major catalysts expected",
-      "Analysts describe recovery as 'fragile'; buyers need to hold $64k after CPI"
+      "Coinbase Premium negative for 50 consecutive days (sustained weak US spot demand)",
+      "Citi cut 12-month BTC target to $82k (downward analyst revision)",
+      "Galaxy Research warns possible downside to $40k-$46k",
+      "Market described as 'most fragile since post-FTX bear cycle'",
+      "Today's price down -0.42% intraday (high $64,464, now $63,813)",
+      "July gains 'may be fleeting' per CoinDesk Daybook analysis"
     ],
-    "btc_price_sources": "Yahoo Finance Jul-11 01:36 EDT ~$64,154; CoinDesk Jul-7 pullback from $64k run",
-    "fear_greed": "23 (Extreme Fear) — alternative sentiment index 63/100 (Greed); conflicting signals",
-    "fed_rate": "3.50-3.75% (held Jun 17 under Chair Warsh); FOMC Jul 28-29 next",
-    "fomc_next": "July 28-29 FOMC (17 days away); CPI July 14 12:30 UTC is next critical macro input",
-    "no_major_events_next_24h": true,
-    "weekend_context": "Jul 11-12 weekend — no scheduled economic releases; crypto-only catalysts only",
-    "regime_rationale": "Conflicting signals: +10% July rebound and SEC tailwinds bullish; but Extreme Fear (23), down 20% YTD, fragile short-squeeze recovery, CPI on Jul 14 = uncertainty. Confidence 0.4 < 0.50 threshold — macro filter inactive; bot uses own 3-layer system."
+    "btc_price_sources": "Crypto.com BTCUSD-PERP live: $63,813 at 00:06 UTC Jul-12; Yahoo Finance Jul-12 $64,132",
+    "live_ticker": {
+      "last": 63813,
+      "best_bid": 63814.0,
+      "best_ask": 63814.1,
+      "high_24h": 64464.5,
+      "low_24h": 63753.0,
+      "change_pct": -0.42,
+      "volume_24h": 2314.5,
+      "timestamp": "2026-07-12T00:06:35Z"
+    },
+    "macro_next_24h": "No major scheduled economic releases in next 24h (July 12). Quiet session expected.",
+    "macro_upcoming": "June CPI July 14 12:30 UTC (2 days away, HIGH impact). JPMorgan & Goldman Q2 earnings July 14.",
+    "fomc_next": "July 28-29 FOMC. Market pricing: 79.5% no change, 19.4% +25bp hike.",
+    "fed_rate": "Current rate held at Jun 17 meeting under Chair Warsh.",
+    "regime_rationale": "Mixed signals: ETF inflow reversal and banking adoption are bullish, but Coinbase Premium negative 50 days and multiple analyst downgrades signal fragility. Price recovering but today slightly red. Confidence 0.40 < 0.50 threshold — macro filter stays inactive; bot relies on its own 3-layer system."
   }
 }
