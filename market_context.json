@@ -1,52 +1,27 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "btc_price_usd": 63850,
   "key_events_next_24h": [
     {
-      "name": "US June CPI Release",
+      "name": "Weekend low-liquidity window (Sunday)",
+      "time": "2026-07-12 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US June CPI data release (BLS, ~36h away)",
       "time": "2026-07-14 12:30 UTC",
       "impact": "high",
       "expected_direction": "bullish"
     },
     {
-      "name": "Fed Chair Kevin Warsh Congressional Testimony (House Financial Services)",
+      "name": "Fed Chair Warsh testimony (House Financial Services)",
       "time": "2026-07-14 14:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Bitcoin Spot ETF Daily Flow Update",
-      "time": "2026-07-13 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $64k권 혼조세: ETF유입 재개 긍정, 코인베이스프리미엄 50일 음수+고래매도 부정",
-  "updated": "2026-07-12 11:00:00 UTC",
-  "valid_until": "2026-07-12 15:00:00 UTC",
-  "analysis": {
-    "bullish_factors": [
-      "BTC rallied ~10% in July from June lows of ~$58,000",
-      "US spot BTC ETFs snapped 10-day outflow streak: $221.7M net inflows (largest 2-month haul)",
-      "Macro tailwind possible if June CPI (Jul 14) prints soft - oil prices down 20% in June",
-      "Bitcoin sentiment 63/100 (Greed) as of July 6 per Perception media analysis",
-      "Regulatory tailwind: SEC acknowledging past ETF handling mistakes, more pro-crypto stance"
-    ],
-    "bearish_factors": [
-      "Crypto Fear & Greed Index at 23 (Extreme Fear) as of July 12",
-      "Coinbase Premium negative for 50 consecutive days - sustained weak US institutional demand",
-      "Whales continuing to sell while retail buys - concerning divergence",
-      "Strategy (MicroStrategy) sold $213M of BTC - unusual reversal by major holder",
-      "Iran geopolitical tensions adding risk-off pressure",
-      "BTC struggling at $64K resistance; pulling back after brief breach",
-      "Fed Chair Warsh hawkish risk: July 14 testimony + FOMC Sep rate hike priced ~20%"
-    ],
-    "btc_price_sources": "Yahoo Finance/CoinDesk Jul 12: $63,845-$64,233 range",
-    "macro_next_24h": "Weekend session (Jul 12-13). No major US macro releases. Crypto market sentiment-driven. Iran tensions to watch.",
-    "macro_upcoming": "June CPI Jul 14 12:30 UTC (HIGH impact). Fed Chair Warsh House Financial Services testimony Jul 14 14:00 UTC. JPMorgan/Goldman Q2 earnings Jul 14.",
-    "fomc_next": "Jul 28-29 FOMC. Market pricing: ~79.5% hold, ~20% +25bp hike in September.",
-    "fed_rate": "Held at 3.50-3.75% at Jun 17 meeting under Chair Warsh.",
-    "regime_rationale": "Conflicting signals prevent a clear directional call. Positive: ETF inflows returned strongly, 10% July rally. Negative: Fear/Greed at 23 (extreme fear), Coinbase premium negative 50 days, whale distribution, geopolitical risk. Weekend session with no catalysts until July 14 CPI. Confidence lowered to 0.45 (below 0.50 filter threshold) - bot should NOT apply macro overlay this cycle; trade on technical signals only."
-  }
+  "notes": "BTC 64K 반등 중, 극공포 지수. CPI 발표 전 관망 구간",
+  "updated": "2026-07-12 10:45:00 UTC",
+  "valid_until": "2026-07-12 14:45:00 UTC"
 }
