@@ -1,37 +1,52 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
+  "confidence": 0.45,
   "btc_price_usd": 63850,
   "key_events_next_24h": [
     {
-      "name": "Weekend quiet session (no major US macro releases)",
-      "time": "2026-07-12 00:00 UTC",
-      "impact": "low",
+      "name": "US June CPI Release",
+      "time": "2026-07-14 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Fed Chair Kevin Warsh Congressional Testimony (House Financial Services)",
+      "time": "2026-07-14 14:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Bitcoin Spot ETF Daily Flow Update",
+      "time": "2026-07-13 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "연준 매파 우려로 BTC 소폭 하락, ETF 유입은 긍정적, CPI 관망 모드",
-  "updated": "2026-07-12 10:40:00 UTC",
-  "valid_until": "2026-07-12 14:40:00 UTC",
+  "notes": "BTC $64k권 혼조세: ETF유입 재개 긍정, 코인베이스프리미엄 50일 음수+고래매도 부정",
+  "updated": "2026-07-12 11:00:00 UTC",
+  "valid_until": "2026-07-12 15:00:00 UTC",
   "analysis": {
     "bullish_factors": [
-      "BTC rallied ~10% in July from June lows of $58,000",
-      "US spot BTC ETFs resumed net inflows: IBIT +$86.83M on Jul 10, ending outflow streak",
-      "Altcoins showing strength (DeXe +7% Jul 12) signals broad risk appetite",
-      "Weak June jobs data initially fueled rally; macro tailwind possible if CPI soft"
+      "BTC rallied ~10% in July from June lows of ~$58,000",
+      "US spot BTC ETFs snapped 10-day outflow streak: $221.7M net inflows (largest 2-month haul)",
+      "Macro tailwind possible if June CPI (Jul 14) prints soft - oil prices down 20% in June",
+      "Bitcoin sentiment 63/100 (Greed) as of July 6 per Perception media analysis",
+      "Regulatory tailwind: SEC acknowledging past ETF handling mistakes, more pro-crypto stance"
     ],
     "bearish_factors": [
+      "Crypto Fear & Greed Index at 23 (Extreme Fear) as of July 12",
+      "Coinbase Premium negative for 50 consecutive days - sustained weak US institutional demand",
+      "Whales continuing to sell while retail buys - concerning divergence",
       "Strategy (MicroStrategy) sold $213M of BTC - unusual reversal by major holder",
-      "Hawkish Fed pivot: strong jobs data reviving Sep rate-hike odds (~20%)",
-      "BTC down -0.35% intraday today (Jul 12) - slight pullback from $64K resistance",
-      "Geopolitical risks (Middle East) reducing risk appetite for crypto",
-      "June CPI (Jul 14) and Warsh testimony could surprise hawkish"
+      "Iran geopolitical tensions adding risk-off pressure",
+      "BTC struggling at $64K resistance; pulling back after brief breach",
+      "Fed Chair Warsh hawkish risk: July 14 testimony + FOMC Sep rate hike priced ~20%"
     ],
-    "btc_price_sources": "Yahoo Finance/CoinDesk Jul 12 ~$63,845-$64,233; spot ~$63,850 at time of analysis",
-    "macro_next_24h": "Weekend session (Jul 12-13). No major US macro releases scheduled. Crypto market sentiment-driven.",
-    "macro_upcoming": "June CPI Jul 14 12:30 UTC (HIGH impact, ~36h away). Fed Chair Warsh House testimony Jul 14 14:00 UTC. JPMorgan/Goldman Q2 earnings Jul 14.",
-    "fomc_next": "Jul 28-29 FOMC. Market pricing: ~79.5% no change, ~20% +25bp hike in September.",
+    "btc_price_sources": "Yahoo Finance/CoinDesk Jul 12: $63,845-$64,233 range",
+    "macro_next_24h": "Weekend session (Jul 12-13). No major US macro releases. Crypto market sentiment-driven. Iran tensions to watch.",
+    "macro_upcoming": "June CPI Jul 14 12:30 UTC (HIGH impact). Fed Chair Warsh House Financial Services testimony Jul 14 14:00 UTC. JPMorgan/Goldman Q2 earnings Jul 14.",
+    "fomc_next": "Jul 28-29 FOMC. Market pricing: ~79.5% hold, ~20% +25bp hike in September.",
     "fed_rate": "Held at 3.50-3.75% at Jun 17 meeting under Chair Warsh.",
-    "regime_rationale": "Mixed signals with moderate confidence. BTC recovered 10% from June lows but faces multiple headwinds: hawkish Fed repricing, Strategy BTC sale, and CPI uncertainty. ETF inflows are constructive. Weekend quiet session likely, no trend catalyst until July 14 CPI. Confidence 0.55 just above filter threshold - macro overlay active but with caution."
+    "regime_rationale": "Conflicting signals prevent a clear directional call. Positive: ETF inflows returned strongly, 10% July rally. Negative: Fear/Greed at 23 (extreme fear), Coinbase premium negative 50 days, whale distribution, geopolitical risk. Weekend session with no catalysts until July 14 CPI. Confidence lowered to 0.45 (below 0.50 filter threshold) - bot should NOT apply macro overlay this cycle; trade on technical signals only."
   }
 }
