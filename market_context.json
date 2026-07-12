@@ -1,48 +1,37 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 63813,
+  "confidence": 0.55,
+  "btc_price_usd": 63850,
   "key_events_next_24h": [
     {
-      "name": "No major macro events in next 24h (quiet session)",
-      "time": "2026-07-12 00:00:00 UTC",
+      "name": "Weekend quiet session (no major US macro releases)",
+      "time": "2026-07-12 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 10일 유출 끊김, BTC $63.8K 약보합. CPI 전 혼조세",
-  "updated": "2026-07-12 00:10:00 UTC",
-  "valid_until": "2026-07-12 04:10:00 UTC",
+  "notes": "연준 매파 우려로 BTC 소폭 하락, ETF 유입은 긍정적, CPI 관망 모드",
+  "updated": "2026-07-12 10:40:00 UTC",
+  "valid_until": "2026-07-12 14:40:00 UTC",
   "analysis": {
     "bullish_factors": [
-      "US spot BTC ETFs snapped 10-day outflow streak: +$221.7M (largest daily inflow in 2 months)",
-      "17 banks piloting tokenized assets on Swift blockchain platform (banking adoption signal)",
-      "Circle secured US trust bank approval (regulatory expansion bullish)",
-      "BTC up ~9.5% month-to-date from July 1 lows of $58,278"
+      "BTC rallied ~10% in July from June lows of $58,000",
+      "US spot BTC ETFs resumed net inflows: IBIT +$86.83M on Jul 10, ending outflow streak",
+      "Altcoins showing strength (DeXe +7% Jul 12) signals broad risk appetite",
+      "Weak June jobs data initially fueled rally; macro tailwind possible if CPI soft"
     ],
     "bearish_factors": [
-      "Coinbase Premium negative for 50 consecutive days (sustained weak US spot demand)",
-      "Citi cut 12-month BTC target to $82k (downward analyst revision)",
-      "Galaxy Research warns possible downside to $40k-$46k",
-      "Market described as 'most fragile since post-FTX bear cycle'",
-      "Today's price down -0.42% intraday (high $64,464, now $63,813)",
-      "July gains 'may be fleeting' per CoinDesk Daybook analysis"
+      "Strategy (MicroStrategy) sold $213M of BTC - unusual reversal by major holder",
+      "Hawkish Fed pivot: strong jobs data reviving Sep rate-hike odds (~20%)",
+      "BTC down -0.35% intraday today (Jul 12) - slight pullback from $64K resistance",
+      "Geopolitical risks (Middle East) reducing risk appetite for crypto",
+      "June CPI (Jul 14) and Warsh testimony could surprise hawkish"
     ],
-    "btc_price_sources": "Crypto.com BTCUSD-PERP live: $63,813 at 00:06 UTC Jul-12; Yahoo Finance Jul-12 $64,132",
-    "live_ticker": {
-      "last": 63813,
-      "best_bid": 63814.0,
-      "best_ask": 63814.1,
-      "high_24h": 64464.5,
-      "low_24h": 63753.0,
-      "change_pct": -0.42,
-      "volume_24h": 2314.5,
-      "timestamp": "2026-07-12T00:06:35Z"
-    },
-    "macro_next_24h": "No major scheduled economic releases in next 24h (July 12). Quiet session expected.",
-    "macro_upcoming": "June CPI July 14 12:30 UTC (2 days away, HIGH impact). JPMorgan & Goldman Q2 earnings July 14.",
-    "fomc_next": "July 28-29 FOMC. Market pricing: 79.5% no change, 19.4% +25bp hike.",
-    "fed_rate": "Current rate held at Jun 17 meeting under Chair Warsh.",
-    "regime_rationale": "Mixed signals: ETF inflow reversal and banking adoption are bullish, but Coinbase Premium negative 50 days and multiple analyst downgrades signal fragility. Price recovering but today slightly red. Confidence 0.40 < 0.50 threshold — macro filter stays inactive; bot relies on its own 3-layer system."
+    "btc_price_sources": "Yahoo Finance/CoinDesk Jul 12 ~$63,845-$64,233; spot ~$63,850 at time of analysis",
+    "macro_next_24h": "Weekend session (Jul 12-13). No major US macro releases scheduled. Crypto market sentiment-driven.",
+    "macro_upcoming": "June CPI Jul 14 12:30 UTC (HIGH impact, ~36h away). Fed Chair Warsh House testimony Jul 14 14:00 UTC. JPMorgan/Goldman Q2 earnings Jul 14.",
+    "fomc_next": "Jul 28-29 FOMC. Market pricing: ~79.5% no change, ~20% +25bp hike in September.",
+    "fed_rate": "Held at 3.50-3.75% at Jun 17 meeting under Chair Warsh.",
+    "regime_rationale": "Mixed signals with moderate confidence. BTC recovered 10% from June lows but faces multiple headwinds: hawkish Fed repricing, Strategy BTC sale, and CPI uncertainty. ETF inflows are constructive. Weekend quiet session likely, no trend catalyst until July 14 CPI. Confidence 0.55 just above filter threshold - macro overlay active but with caution."
   }
 }
