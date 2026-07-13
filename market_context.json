@@ -1,32 +1,32 @@
 {
-  "regime": "neutral",
-  "confidence": 0.35,
-  "btc_price_usd": 64111.0,
+  "regime": "bearish",
+  "confidence": 0.65,
+  "btc_price_usd": 63000.0,
   "key_events_next_24h": [
     {
       "name": "US June CPI Release (BLS)",
       "time": "2026-07-14 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bullish",
-      "notes": "Forecast ~3.8% YoY (down from 4.2% in May). Cool print = bullish BTC. Binary risk event."
+      "expected_direction": "bearish",
+      "notes": "Oil spike (+5%) reviving inflation fears. Hot print likely → rate hike pressure → bearish BTC. Binary risk event."
     },
     {
       "name": "Fed Chair Warsh - House Financial Services Testimony",
       "time": "2026-07-14 14:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral",
-      "notes": "Hawkish Warsh. Comments on rate path directly impact BTC. Watch for hike signals."
+      "expected_direction": "bearish",
+      "notes": "Hawkish Warsh. With oil-driven inflation resurgence, may signal rate hike path. Watch for hike signals."
     }
   ],
   "market_summary": {
-    "trend": "recovery from ~$58K end-June lows, consolidating $63-64K; resistance at $65.6K (50m EMA)",
-    "sentiment": "Fear&Greed index 23 (Extreme Fear) vs media sentiment 63/100 (Greed) — mixed",
-    "macro": "Weak June jobs (57K vs 113K expected) boosted rate-cut hopes; dollar weakened",
-    "fed_stance": "Hawkish under Warsh; hold expected at 3.50-3.75% in July FOMC (Jul 28-29)",
-    "etf_flows": "Stabilizing after weeks of outflows; institutional re-entry tentative",
-    "us_demand": "Coinbase Premium still negative — weak US institutional spot demand"
+    "trend": "BTC slipped below $63K in Asian session leverage flush (-2.18% on Jul 13); 200-week MA broken",
+    "sentiment": "Bearish — geopolitical risk (US-Iran), oil price spike, inflation fears resurgent",
+    "macro": "Oil +5% on US Iran strikes; inflation concerns back; Fed hike speculation growing for Sep",
+    "fed_stance": "Hawkish under Warsh; hold expected Jul 28-29 FOMC but Sep hike odds rising",
+    "etf_flows": "Fragile rebound — $510M inflows over 3 days early July but YTD outflows -$5.4B; institutional sentiment weak",
+    "liquidations": "$13M BTC long liquidations in past 24h; leveraged longs flushed in Asia session"
   },
-  "notes": "CPI 발표 대기, $65.6K 저항. 매크로 이진 리스크로 중립",
-  "updated": "2026-07-13 08:00:00 UTC",
-  "valid_until": "2026-07-13 12:00:00 UTC"
+  "notes": "유가급등·인플레 우려로 BTC $63K 하락, CPI 내일 발표",
+  "updated": "2026-07-13 12:30:00 UTC",
+  "valid_until": "2026-07-13 16:30:00 UTC"
 }
