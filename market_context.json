@@ -1,30 +1,32 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 63954.7,
+  "confidence": 0.35,
+  "btc_price_usd": 64111.0,
   "key_events_next_24h": [
     {
-      "name": "US June CPI Release",
+      "name": "US June CPI Release (BLS)",
       "time": "2026-07-14 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral",
-      "notes": "May CPI was 4.2% YoY. Hot print = bearish BTC; cool print = bullish. Binary risk event."
+      "expected_direction": "bullish",
+      "notes": "Forecast ~3.8% YoY (down from 4.2% in May). Cool print = bullish BTC. Binary risk event."
     },
     {
-      "name": "US June PPI Release",
-      "time": "2026-07-15 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "name": "Fed Chair Warsh - House Financial Services Testimony",
+      "time": "2026-07-14 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral",
+      "notes": "Hawkish Warsh. Comments on rate path directly impact BTC. Watch for hike signals."
     }
   ],
   "market_summary": {
-    "trend": "recovery from ~$58K end-June lows, now consolidating at ~$64K",
-    "etf_flows": "10-day outflow streak ended with $221.7M single-day inflow (2-month high)",
-    "us_demand": "Coinbase Premium negative for 50+ consecutive days — weak US institutional demand",
-    "fed_stance": "Hawkish under Warsh: rate-cut bias removed, 9/18 officials project hike, CPI forecast 3.6%",
-    "next_fomc": "2026-07-28 to 2026-07-29"
+    "trend": "recovery from ~$58K end-June lows, consolidating $63-64K; resistance at $65.6K (50m EMA)",
+    "sentiment": "Fear&Greed index 23 (Extreme Fear) vs media sentiment 63/100 (Greed) — mixed",
+    "macro": "Weak June jobs (57K vs 113K expected) boosted rate-cut hopes; dollar weakened",
+    "fed_stance": "Hawkish under Warsh; hold expected at 3.50-3.75% in July FOMC (Jul 28-29)",
+    "etf_flows": "Stabilizing after weeks of outflows; institutional re-entry tentative",
+    "us_demand": "Coinbase Premium still negative — weak US institutional spot demand"
   },
-  "notes": "CPI 발표 임박·매크로 불확실. ETF 유입 전환, 단기 중립",
-  "updated": "2026-07-13 00:09:00 UTC",
-  "valid_until": "2026-07-13 04:09:00 UTC"
+  "notes": "CPI 발표 대기, $65.6K 저항. 매크로 이진 리스크로 중립",
+  "updated": "2026-07-13 08:00:00 UTC",
+  "valid_until": "2026-07-13 12:00:00 UTC"
 }
