@@ -1,32 +1,32 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 63000.0,
+  "confidence": 0.60,
+  "btc_price_usd": 62800.0,
   "key_events_next_24h": [
     {
       "name": "US June CPI Release (BLS)",
       "time": "2026-07-14 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "notes": "Oil spike (+5%) reviving inflation fears. Hot print likely → rate hike pressure → bearish BTC. Binary risk event."
+      "notes": "May CPI was 4.2% YoY (energy-driven). Moderation possible on oil pullback, but Middle East risk keeps upside bias. Hot print → rate hike pressure → bearish BTC."
     },
     {
-      "name": "Fed Chair Warsh - House Financial Services Testimony",
+      "name": "Fed Chair Warsh - House Financial Services Committee Testimony",
       "time": "2026-07-14 14:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "notes": "Hawkish Warsh. With oil-driven inflation resurgence, may signal rate hike path. Watch for hike signals."
+      "notes": "Hawkish Warsh. Persistent inflation + geopolitical oil spike may reinforce hold/hike signals. Watch for Sep hike language."
     }
   ],
   "market_summary": {
-    "trend": "BTC slipped below $63K in Asian session leverage flush (-2.18% on Jul 13); 200-week MA broken",
-    "sentiment": "Bearish — geopolitical risk (US-Iran), oil price spike, inflation fears resurgent",
-    "macro": "Oil +5% on US Iran strikes; inflation concerns back; Fed hike speculation growing for Sep",
-    "fed_stance": "Hawkish under Warsh; hold expected Jul 28-29 FOMC but Sep hike odds rising",
-    "etf_flows": "Fragile rebound — $510M inflows over 3 days early July but YTD outflows -$5.4B; institutional sentiment weak",
-    "liquidations": "$13M BTC long liquidations in past 24h; leveraged longs flushed in Asia session"
+    "trend": "BTC opened $63,745 but pulled to $62,555 by 13:30 UTC on Jul 13 — US-Iran weekend strikes dampening risk appetite",
+    "sentiment": "Bearish — Fear & Greed Index at 23 (Extreme Fear); geopolitical risk (US-Iran), CPI uncertainty tomorrow",
+    "macro": "US-Iran conflict weekend escalation; oil elevated; June CPI due Jul 14 (last Fed data point before Jul 28-29 FOMC)",
+    "fed_stance": "Fed hold at 3.50-3.75% expected Jul 28-29 (79.5% odds). Sep hike odds rising if CPI hot.",
+    "etf_flows": "Recovering from June record outflows; July 10% rally partly reversed by geopolitical shock",
+    "fear_greed": "23 — Extreme Fear (price rising amid fear = possible exhaustion of sellers, but not yet confirmed)"
   },
-  "notes": "유가급등·인플레 우려로 BTC $63K 하락, CPI 내일 발표",
-  "updated": "2026-07-13 12:30:00 UTC",
-  "valid_until": "2026-07-13 16:30:00 UTC"
+  "notes": "중동갈등+CPI 고위험. BTC 62-63k 하락세, 베어리시",
+  "updated": "2026-07-13 13:30:00 UTC",
+  "valid_until": "2026-07-13 17:30:00 UTC"
 }
