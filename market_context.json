@@ -1,27 +1,30 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.40,
+  "btc_price_usd": 63954.7,
   "key_events_next_24h": [
     {
-      "name": "Weekend low-liquidity window (Sunday)",
-      "time": "2026-07-12 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US June CPI data release (BLS, ~36h away)",
+      "name": "US June CPI Release",
       "time": "2026-07-14 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral",
+      "notes": "May CPI was 4.2% YoY. Hot print = bearish BTC; cool print = bullish. Binary risk event."
     },
     {
-      "name": "Fed Chair Warsh testimony (House Financial Services)",
-      "time": "2026-07-14 14:00 UTC",
+      "name": "US June PPI Release",
+      "time": "2026-07-15 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC 64K 반등 중, 극공포 지수. CPI 발표 전 관망 구간",
-  "updated": "2026-07-12 10:45:00 UTC",
-  "valid_until": "2026-07-12 14:45:00 UTC"
+  "market_summary": {
+    "trend": "recovery from ~$58K end-June lows, now consolidating at ~$64K",
+    "etf_flows": "10-day outflow streak ended with $221.7M single-day inflow (2-month high)",
+    "us_demand": "Coinbase Premium negative for 50+ consecutive days — weak US institutional demand",
+    "fed_stance": "Hawkish under Warsh: rate-cut bias removed, 9/18 officials project hike, CPI forecast 3.6%",
+    "next_fomc": "2026-07-28 to 2026-07-29"
+  },
+  "notes": "CPI 발표 임박·매크로 불확실. ETF 유입 전환, 단기 중립",
+  "updated": "2026-07-13 00:09:00 UTC",
+  "valid_until": "2026-07-13 04:09:00 UTC"
 }
