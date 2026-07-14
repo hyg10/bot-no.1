@@ -1,28 +1,28 @@
 {
   "regime": "bearish",
-  "confidence": 0.68,
-  "btc_price_usd": 62650,
+  "confidence": 0.65,
+  "btc_price_usd": 62550,
   "key_events_next_24h": [
     {
       "name": "US June CPI Release (BLS)",
       "time": "2026-07-14 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral",
-      "note": "Headline CPI expected -0.1% MoM (~3.9% YoY) on gasoline drop. Core CPI +0.2% MoM (2.9% YoY). Soft print = short-term bullish; surprise to upside = risk-off sell."
+      "note": "Released today. Headline and core readings will shape rate-cut odds. Soft print = short-term relief; upside surprise = risk-off sell."
     },
     {
       "name": "Fed Chair Warsh Congressional Testimony",
       "time": "2026-07-14 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Scheduled same day as CPI. Tone on rate path could amplify or offset CPI reaction. Fed on hold at 3.50-3.75% until at least July 29 FOMC."
+      "note": "Tone on rate path could amplify or offset CPI reaction. Fed on hold at 3.50-3.75% until July 29 FOMC."
     },
     {
       "name": "US June PPI Release",
       "time": "2026-07-15 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Secondary inflation gauge; confirms or contradicts CPI read."
+      "note": "Secondary inflation gauge; confirms or contradicts CPI read. Due tomorrow 8:30 AM ET."
     },
     {
       "name": "Fed Beige Book Release",
@@ -33,15 +33,15 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC at ~$62,650, stuck below $63K resistance. Down ~18% for July after June lows of ~$60K.",
-    "sentiment": "Extreme Fear — Fear & Greed Index fell to 22 (down from 28 yesterday). Bearish momentum building.",
-    "macro": "Trump reinstated Iran Hormuz blockade: WTI crude +20% from July low, above $80/barrel. Oil spike raises rate-hike bets, reversing the peace-trade recovery that lifted BTC in early July.",
-    "etf_flows": "Spot BTC ETFs saw -$424M outflows in a single session: BlackRock IBIT -$185M, Fidelity FBTC -$245M. Largest single-day outflow in weeks — institutional demand has reversed sharply.",
-    "supply_risk": "US government transferred ~$300M in seized BTC+ETH (3,940 BTC + 30,014 ETH) to Coinbase Prime — potential market-sell overhead. Whale wallets continue to distribute while retail accumulates.",
-    "technicals": "Price failing to reclaim $63K. Bearish MACD divergence on daily. Bears in control with relief rallies being sold.",
+    "trend": "BTC at ~$62,550, down 1.98% in 24h. Down ~33% from year-open above $93K. Failed to hold $63K resistance.",
+    "sentiment": "Extreme Fear — Fear & Greed Index at 22 (dropped from 28 yesterday). Bearish momentum accelerating.",
+    "macro": "Iran-US geopolitical tensions weighing on risk assets. Oil spike raising rate-hike bets, reversing early-July peace-trade recovery.",
+    "etf_flows": "Spot BTC ETFs saw large outflows: BlackRock IBIT and Fidelity FBTC recording significant single-session redemptions. Institutional demand reversed from early-July recovery.",
+    "supply_risk": "US government BTC transfers and whale distribution continue to add sell-side pressure. Retail accumulating at lows.",
+    "technicals": "Price failing to reclaim $63K. Bears in control with relief rallies being sold. Weekly range: $60K-$64K.",
     "fed_stance": "FOMC on hold at 3.50-3.75%. Next decision July 29. Rate cut odds falling as Iran conflict pushes oil and inflation expectations higher."
   },
-  "notes": "극단적공포(FGI:22), ETF 424M 유출, 이란분쟁재점화, $63K 저항돌파실패",
-  "updated": "2026-07-14 13:45:00 UTC",
-  "valid_until": "2026-07-14 17:45:00 UTC"
+  "notes": "극단공포(FGI:22), BTC -2%, 이란갈등 재점화, $63K 돌파실패",
+  "updated": "2026-07-14 18:00:00 UTC",
+  "valid_until": "2026-07-14 22:00:00 UTC"
 }
