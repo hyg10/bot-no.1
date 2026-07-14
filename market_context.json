@@ -1,21 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 62962,
+  "regime": "neutral",
+  "confidence": 0.45,
+  "btc_price_usd": 62821,
   "key_events_next_24h": [
     {
       "name": "US June CPI Release (BLS)",
       "time": "2026-07-14 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral",
-      "note": "Soft print = bullish, hot print = bearish. Last major inflation read before July 28-29 FOMC. Markets pricing rate hold at 3.50-3.75%."
+      "expected_direction": "bullish",
+      "note": "Soft print expected = bullish for rate cut bets. Last major inflation read before July 28-29 FOMC. Markets pricing Fed hold at 3.50-3.75%."
     },
     {
       "name": "JPMorgan & Goldman Sachs Q2 Earnings",
       "time": "2026-07-14 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Large bank earnings can influence broad risk sentiment."
+      "note": "Large bank earnings influence broad risk sentiment."
     },
     {
       "name": "US June PPI Release",
@@ -26,21 +26,22 @@
     },
     {
       "name": "Fed Beige Book Release",
-      "time": "2026-07-15 20:15 UTC",
+      "time": "2026-07-15 18:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Qualitative survey of 12 Fed districts; most current anecdotal input before July 28-29 FOMC."
+      "note": "Qualitative survey of 12 Fed districts ahead of July 28-29 FOMC."
     }
   ],
   "market_summary": {
-    "trend": "BTC at ~$62,962 (-1.57% 24h). Strong openings on Jul 13 reversed on US-Iran conflict escalation and Middle East risk-off.",
-    "sentiment": "Bearish — Fear & Greed Index at 28 (Fear); geopolitical risk (US-Iran, Strait of Hormuz), CPI uncertainty today.",
-    "macro": "US-Iran tensions escalated over weekend with military strikes and Strait of Hormuz closure driving oil higher and risk-off. June CPI due today (last major Fed data point before Jul 28-29 FOMC).",
-    "fed_stance": "Fed hold at 3.50-3.75% expected Jul 28-29 (most likely). Updated dot plot points to possible hike later in 2026 if inflation stays elevated.",
-    "etf_flows": "Spot BTC ETFs saw $221.72M net inflow on Jul 2, ending 10-day outflow streak. Strategy sold 3,588 BTC (~$216M) - largest sale since abandoning never-sell stance.",
-    "fear_greed": "28 — Fear. Fragile sentiment; market struggling to break out above $65k resistance."
+    "trend": "BTC at ~$62,821 (+1.03% 24h). Recovering from June lows (~$60K, 21-month low) but still well below 2025 peak of $93K+.",
+    "sentiment": "Neutral — Fear & Greed Index at 23 (Extreme Fear); slight bounce today but underlying conditions remain fragile.",
+    "macro": "Soft US-dollar and lower Treasury yields supportive of BTC. CPI today is key catalyst. US-Iran tensions remain an ongoing geopolitical risk.",
+    "supply_risk": "US DOJ / German BKA wallets moved BTC to exchanges in last 72h — potential large-scale liquidations. Mt. Gox cold storage transfers also reigniting supply overhang fears.",
+    "fed_stance": "Fed hold at 3.50-3.75% expected July 28-29. Soft CPI = bullish for rate cut narrative. Hot print = risk-off.",
+    "etf_flows": "Spot BTC ETFs ended 10-day outflow streak. Institutional demand via ETFs resuming but offset by government wallet sell pressure.",
+    "fear_greed": "23 — Extreme Fear. Recovery stalling just below $64K resistance."
   },
-  "notes": "미·이란 갈등 리스크오프, BTC $62,962. CPI 발표 주목",
-  "updated": "2026-07-14 10:00:00 UTC",
-  "valid_until": "2026-07-14 14:00:00 UTC"
+  "notes": "BTC 반등(+1%) 중. 정부 BTC 매도 우려, 극단적 공포(23)",
+  "updated": "2026-07-14 13:00:00 UTC",
+  "valid_until": "2026-07-14 17:00:00 UTC"
 }
