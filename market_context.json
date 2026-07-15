@@ -1,14 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.60,
-  "btc_price_usd": 62550,
+  "regime": "neutral",
+  "confidence": 0.40,
+  "btc_price_usd": 64758,
   "key_events_next_24h": [
     {
       "name": "US June PPI Release (BLS)",
       "time": "2026-07-15 12:30 UTC",
       "impact": "medium",
-      "expected_direction": "neutral",
-      "note": "Secondary inflation gauge after yesterday's CPI. Confirms or contradicts CPI read. Soft = mild relief; hot = risk-off."
+      "expected_direction": "bullish",
+      "note": "Secondary inflation gauge after soft June CPI. Soft PPI = continued disinflation rally; hot = risk-off reversal."
+    },
+    {
+      "name": "Fed Chair Warsh Senate Banking Committee Testimony",
+      "time": "2026-07-15 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "note": "Warsh stated Fed not in 'bailout business' including crypto. Hawkish-leaning tone expected; FOMC on hold at 3.50-3.75%."
     },
     {
       "name": "Fed Beige Book Release",
@@ -16,17 +23,24 @@
       "impact": "low",
       "expected_direction": "neutral",
       "note": "Qualitative district survey ahead of July 28-29 FOMC. Low immediate market impact expected."
+    },
+    {
+      "name": "Iran/Hormuz Conflict (ongoing)",
+      "time": "2026-07-15 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish",
+      "note": "US resumed strikes against Iran. Oil spiking. Risk-off pressure could cap BTC recovery rally."
     }
   ],
   "market_summary": {
-    "trend": "BTC at ~$62,550. Bounced ~10% from $58K late-June low but still down ~33% from Jan 2026 open above $93K. Facing 50M EMA resistance at $65.6K.",
-    "sentiment": "Fear — Fear & Greed Index 23-26 (slight improvement from Extreme Fear 22). 41% bullish market sentiment.",
-    "macro": "June CPI released Jul 14; market digesting. FOMC on hold at 3.50-3.75%, next decision Jul 28-29. Warsh comments on easing inflation risks supported early-July bounce.",
-    "etf_flows": "Spot BTC ETF outflows continuing to pressure price. Institutional demand has not returned despite short-term bounce.",
-    "technicals": "Price holding $62K-$63K range. 50M EMA at $65.6K has flipped to resistance. Short-term bounce from June lows but structural downtrend intact.",
-    "fed_stance": "FOMC on hold at 3.50-3.75%. Next decision July 29. Soft June jobs data and Warsh inflation comments raised rate-cut hopes modestly but no confirmed pivot."
+    "trend": "BTC at ~$64,758 (+4% today, +10% in July). Recovering from $59K late-June low. Still 49% below ATH of $126K. Testing $65K resistance.",
+    "sentiment": "Extreme Fear — Fear & Greed Index 23 (improved from 13 in late June). Price rising while sentiment stays depressed = seller exhaustion signal.",
+    "macro": "June CPI released Jul 14: core flat vs +0.2% expected = disinflation bullish. FOMC on hold at 3.50-3.75%, next decision Jul 28-29. Iran conflict reignited, oil rising = risk-off headwind.",
+    "etf_flows": "CEX volumes up first time in 5 months (+15.3% spot, $1.11T). ETF outflow streak may be ending.",
+    "technicals": "Short-term bullish: +4% today on CPI relief. Medium-term: structural downtrend from $93K Jan open. $65K is key resistance level.",
+    "fed_stance": "FOMC on hold. Next decision July 29. Warsh hawkish on crypto; soft CPI slightly raised rate-cut expectations for H2 2026."
   },
-  "notes": "FGI 26(공포), BTC $62K대 단기반등, PPI 주목, 하락추세 유지",
-  "updated": "2026-07-15 00:06:44 UTC",
-  "valid_until": "2026-07-15 04:06:44 UTC"
+  "notes": "CPI 냉각 반등+4%, 이란 갈등·FGI 23 혼재 중립",
+  "updated": "2026-07-15 08:00:00 UTC",
+  "valid_until": "2026-07-15 12:00:00 UTC"
 }
