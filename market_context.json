@@ -1,21 +1,14 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 64758,
+  "confidence": 0.45,
+  "btc_price_usd": 65000,
   "key_events_next_24h": [
-    {
-      "name": "US June PPI Release (BLS)",
-      "time": "2026-07-15 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish",
-      "note": "Secondary inflation gauge after soft June CPI. Soft PPI = continued disinflation rally; hot = risk-off reversal."
-    },
     {
       "name": "Fed Chair Warsh Senate Banking Committee Testimony",
       "time": "2026-07-15 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Warsh stated Fed not in 'bailout business' including crypto. Hawkish-leaning tone expected; FOMC on hold at 3.50-3.75%."
+      "note": "Hawkish-leaning tone expected. FOMC on hold at 3.50-3.75%. Could cap BTC rally."
     },
     {
       "name": "Fed Beige Book Release",
@@ -29,18 +22,25 @@
       "time": "2026-07-15 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish",
-      "note": "US resumed strikes against Iran. Oil spiking. Risk-off pressure could cap BTC recovery rally."
+      "note": "US-Iran escalation continues. Oil rising. Risk-off pressure may cap BTC recovery above $65K."
+    },
+    {
+      "name": "Japan Bitcoin ETF Legislation (Upper House)",
+      "time": "2026-07-15 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish",
+      "note": "Japan Upper House approved crypto reclassification as financial instruments. Spot ETF possible by 2027."
     }
   ],
   "market_summary": {
-    "trend": "BTC at ~$64,758 (+4% today, +10% in July). Recovering from $59K late-June low. Still 49% below ATH of $126K. Testing $65K resistance.",
-    "sentiment": "Extreme Fear — Fear & Greed Index 23 (improved from 13 in late June). Price rising while sentiment stays depressed = seller exhaustion signal.",
-    "macro": "June CPI released Jul 14: core flat vs +0.2% expected = disinflation bullish. FOMC on hold at 3.50-3.75%, next decision Jul 28-29. Iran conflict reignited, oil rising = risk-off headwind.",
-    "etf_flows": "CEX volumes up first time in 5 months (+15.3% spot, $1.11T). ETF outflow streak may be ending.",
-    "technicals": "Short-term bullish: +4% today on CPI relief. Medium-term: structural downtrend from $93K Jan open. $65K is key resistance level.",
-    "fed_stance": "FOMC on hold. Next decision July 29. Warsh hawkish on crypto; soft CPI slightly raised rate-cut expectations for H2 2026."
+    "trend": "BTC at ~$65,000 (+3.6% in 24h, +10% in July). Recovered from $58K late-June low. Testing $65K resistance. Analysts targeting $70K if daily close holds.",
+    "sentiment": "Extreme Fear — Fear & Greed Index 25 (improving from 22). Price rising while sentiment stays depressed = possible seller exhaustion.",
+    "macro": "June CPI (Jul 14) and PPI (Jul 15) both soft = disinflation relief rally. FOMC on hold at 3.50-3.75%, next decision Jul 28-29. US-Iran escalation = risk-off headwind. BTC ETF 10-day outflow streak ended.",
+    "etf_flows": "Bitcoin ETF 10-day outflow streak ended as of Jul 15. Potential turning point in institutional flows.",
+    "technicals": "Short-term bullish: +3.6% today on CPI/PPI relief. $65K is key resistance. Medium-term: structural downtrend from $93K Jan open still intact.",
+    "fed_stance": "FOMC on hold. Next decision July 29. Soft CPI/PPI slightly raised H2 2026 rate-cut expectations but inflation still at 4.2% YoY."
   },
-  "notes": "CPI 냉각 반등+4%, 이란 갈등·FGI 23 혼재 중립",
-  "updated": "2026-07-15 08:00:00 UTC",
-  "valid_until": "2026-07-15 12:00:00 UTC"
+  "notes": "CPI·PPI 호재로 BTC $65K 돌파. 이란갈등·워시증언 하방 혼재.",
+  "updated": "2026-07-15 13:00:00 UTC",
+  "valid_until": "2026-07-15 17:00:00 UTC"
 }
