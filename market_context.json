@@ -1,40 +1,40 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 64765.6,
+  "confidence": 0.42,
+  "btc_price_usd": 64728.0,
   "key_events_next_24h": [
     {
       "name": "US Retail Sales (June) + Initial Jobless Claims",
       "time": "2026-07-16 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Weak retail = dovish = bullish for BTC. Strong retail = hawkish risk. Claims below consensus also supports rate-cut bets."
+      "note": "Weak retail = dovish = bullish for BTC. Strong retail = hawkish risk. Claims data could shift rate-cut bets for H2."
     },
     {
-      "name": "Iran/Hormuz Conflict (ongoing)",
-      "time": "2026-07-16 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "Ongoing US-Iran escalation. Oil elevated. Risk-off pressure capping BTC above $65K."
+      "name": "Philadelphia Fed Manufacturing Index",
+      "time": "2026-07-16 12:30 UTC",
+      "impact": "low",
+      "expected_direction": "neutral",
+      "note": "Secondary indicator. Weak reading could support Fed pause narrative."
     },
     {
       "name": "FOMC Meeting (upcoming, not today)",
-      "time": "2026-07-28 18:00 UTC",
+      "time": "2026-07-29 18:00 UTC",
       "impact": "low",
       "expected_direction": "neutral",
-      "note": "Next rate decision July 28-29. Market pricing hold at 3.50-3.75%. No immediate impact today."
+      "note": "Next rate decision July 28-29. Current rate 3.50-3.75%. Hold expected. No near-term rate-cut signal from Fed."
     }
   ],
   "market_summary": {
-    "trend": "BTC at ~$64,765 (-0.3% in 24h, +11% in July). Pulling back from 3-week high of $65,551 hit today. Consolidating after CPI/PPI-driven relief rally from $58K late-June low.",
-    "sentiment": "Mixed: Extreme Fear (F&G Index ~23) vs media sentiment 63/100 Greed. Price rising while Fear index stays low = contrarian bullish divergence / possible seller exhaustion.",
-    "macro": "Soft CPI (Jul 14, -0.4% MoM) and PPI (Jul 15, -0.3% MoM) delivered dovish surprise. Annual CPI 3.5%. Rate-cut expectations for H2 2026 rising. FOMC on hold at 3.50-3.75%. Warsh testimony (Jul 15) passed without hawkish shock.",
-    "etf_flows": "ETF 10-day outflow streak ended: week of July 11 saw $197M net inflows (first positive week in 8). Goldman Sachs filed for new BTC ETF. IBIT options limit raised to 1M contracts.",
-    "technicals": "Day candle: high $65,551 / low $64,432 / current $64,765. Intraday pullback from highs. Support at $64,400. Monthly trend bullish (+11%) but medium-term downtrend from Jan $93K high still structural.",
-    "whale_activity": "Whales selling into rally; retail accumulating. 326 WBTC withdrawn from Ethereum exchanges (largest net outflow since June) - accumulation signal. Mixed.",
-    "regulatory": "Japan reclassified crypto as financial assets with tax reduction. SEC neutral stance on ETFs. Taiwan lawmakers calling for national BTC reserves."
+    "trend": "BTC at ~$64,728 (-0.4% in 24h, +10% in July). Recovering from June low near $58K. Briefly hit 3-week high above $65K on July 15. Consolidating below $65K resistance.",
+    "sentiment": "Fear & Greed Index at 23 (Extreme Fear), but improved +10 pts over past week. Price rising vs falling fear = contrarian divergence. Sentiment fragile - any macro shock can reverse gains.",
+    "macro": "June CPI released July 14: -0.4% MoM, +3.5% YoY (soft/dovish). PPI next due Aug 13. FOMC July 28-29 hold expected at 3.50-3.75%. Brent crude above $85/bbl keeps inflation risk elevated.",
+    "etf_flows": "Spot BTC ETFs saw $180M+ net inflows on July 15 with $139M into IBIT (iShares BTC Trust). ETF demand recovering after prior week outflows.",
+    "technicals": "Support at $64,400. Resistance at $65,000-$65,500. Monthly trend bullish (+10%) but year-to-date still deeply negative from Jan high near $93K. Short-term uptrend intact.",
+    "whale_activity": "Mixed: some selling into rally observed. ETF inflows suggest institutional accumulation. Net neutral signal.",
+    "regulatory": "SEC neutral on ETFs. No major regulatory events imminent. Japan crypto tax reform positive backdrop."
   },
-  "notes": "CPI·PPI 완화 후 $65K 돌파 시도, 고래 매도·이란갈등으로 등락 혼재",
-  "updated": "2026-07-16 00:10:00 UTC",
-  "valid_until": "2026-07-16 04:10:00 UTC"
+  "notes": "6월 CPI 완화로 $65K 돌파 시도, F&G 23 취약, 소매판매 주시",
+  "updated": "2026-07-16 06:00:00 UTC",
+  "valid_until": "2026-07-16 10:00:00 UTC"
 }
