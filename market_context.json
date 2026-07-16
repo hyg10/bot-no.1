@@ -1,46 +1,46 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 65020.0,
+  "confidence": 0.45,
+  "btc_price_usd": 64700.0,
   "key_events_next_24h": [
     {
-      "name": "US Retail Sales (June) + Initial Jobless Claims",
-      "time": "2026-07-16 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral",
-      "note": "Releasing in ~24min. Weak retail = dovish = bullish BTC. Strong retail = hawkish risk. Watch closely."
-    },
-    {
-      "name": "Philadelphia Fed Manufacturing Index",
-      "time": "2026-07-16 12:30 UTC",
-      "impact": "low",
-      "expected_direction": "neutral",
-      "note": "Secondary indicator. Weak reading supports Fed pause narrative."
-    },
-    {
-      "name": "SEC Crypto Rulemaking Proposals (July 2026 target)",
-      "time": "2026-07-16 00:00 UTC",
+      "name": "Clarity Act Crypto Regulatory Hearing",
+      "time": "2026-07-16 14:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish",
-      "note": "SEC has 3 crypto rule proposals on July agenda (token offerings, broker-dealer custody, market structure). Shift from enforcement to rulemaking = long-term positive."
+      "note": "Congressional hearing on digital asset market structure. Pro-crypto tone expected under current administration."
     },
     {
-      "name": "FOMC Meeting (not today)",
+      "name": "Michigan Consumer Sentiment (Preliminary, Jul)",
+      "time": "2026-07-17 14:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral",
+      "note": "Consumer confidence gauge. Weak reading = dovish narrative = slightly bullish for risk assets."
+    },
+    {
+      "name": "Industrial Production & Capacity Utilization (Jun)",
+      "time": "2026-07-17 13:15 UTC",
+      "impact": "low",
+      "expected_direction": "neutral",
+      "note": "Hard macro data. Unlikely to move BTC significantly."
+    },
+    {
+      "name": "FOMC Meeting (upcoming)",
       "time": "2026-07-29 18:00 UTC",
       "impact": "low",
       "expected_direction": "neutral",
-      "note": "Next rate decision July 28-29. Rate hold at 3.50-3.75% expected. Hawkish dot plot from June raised year-end 2026 rate to 3.8%."
+      "note": "Next FOMC July 28-29. Rate hold at 3.50-3.75% expected. No immediate catalyst."
     }
   ],
   "market_summary": {
-    "trend": "BTC at ~$65,020 (+3.5% on July 15, +4.03% weekly). Recovered above $65K on softer June CPI data. Testing resistance at $65,471. Next target $68-70K if bullish breakout.",
-    "sentiment": "Fear & Greed Index ~26 (Fear territory), despite +4% weekly gain. Cautiously neutral: price rising vs fearful sentiment = mixed divergence. Sentiment fragile.",
-    "macro": "June CPI released July 14: soft/dovish, eased rate-hike fears. FOMC hold expected July 28-29 at 3.50-3.75%. Dot plot hawkish but no imminent hike. Retail Sales at 12:30 UTC today is next catalyst.",
-    "etf_flows": "Spot BTC ETF: small $10M net inflow today, but 7-day and 30-day windows still show net outflows. ETF demand stabilizing but not strongly bullish.",
-    "technicals": "Support at $64,400. Resistance at $65,000-$65,500. Higher-low structure forming; accumulation phase potential. Short-term uptrend intact.",
-    "regulatory": "SEC shifting from enforcement to rulemaking - 3 crypto rules targeted for July 2026. Pro-crypto stance under Chair Atkins. Long-term bullish but no immediate catalyst today."
+    "trend": "BTC at ~$64,700 (-0.4% on July 16). Pulled back slightly from July 15 high of $65,100 (+3.5%). Weekly gain +4.03%. Recovery from June lows (~$60K) intact but facing resistance.",
+    "sentiment": "Fear & Greed Index 26 (Fear territory), recovering from 20. Price rising vs fearful sentiment = cautious divergence. Fragile recovery phase.",
+    "macro": "June CPI (released July 14-15): softer than expected, triggered crypto rally on July 15. Retail Sales and Philly Fed released today showed mixed signals. FOMC hold expected July 28-29.",
+    "etf_flows": "Spot BTC ETFs: $191M net inflow over 2 days (July 14-15), reversing 10-day outflow streak of $2.73B. iShares BTC Trust led with $139M. ETF demand stabilizing - structural positive but momentum weak.",
+    "onchain": "Glassnode: falling spot/futures volumes and low blockchain activity. Most on-chain metrics NOT confirming trend reversal. Suggests accumulation possible but no breakout confirmed.",
+    "regulatory": "SEC has 3 crypto rulemaking items on July 2026 agenda. Clarity Act hearing today. Regulatory shift from enforcement to rulemaking = long-term bullish catalyst."
   },
-  "notes": "BTC $65K 회복, CPI 완화 긍정. F&G 26, ETF 혼조, 소매판매 주시",
-  "updated": "2026-07-16 12:06:29 UTC",
-  "valid_until": "2026-07-16 16:06:29 UTC"
+  "notes": "공포지수26, ETF유입전환, 온체인 미확인. 혼재신호-중립유지",
+  "updated": "2026-07-16 14:00:00 UTC",
+  "valid_until": "2026-07-16 18:00:00 UTC"
 }
