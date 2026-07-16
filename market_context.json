@@ -1,46 +1,40 @@
 {
-  "regime": "bullish",
-  "confidence": 0.60,
-  "btc_price_usd": 65100,
+  "regime": "neutral",
+  "confidence": 0.45,
+  "btc_price_usd": 64765.6,
   "key_events_next_24h": [
     {
-      "name": "Fed Chair Warsh Senate Banking Committee Testimony",
-      "time": "2026-07-15 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "Hawkish-leaning tone expected. FOMC on hold at 3.50-3.75%. Could cap BTC rally above $65K."
-    },
-    {
-      "name": "Fed Beige Book Release",
-      "time": "2026-07-15 18:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral",
-      "note": "Qualitative district survey ahead of July 28-29 FOMC. Low immediate market impact expected."
-    },
-    {
-      "name": "Iran/Hormuz Conflict (ongoing)",
-      "time": "2026-07-15 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish",
-      "note": "US-Iran escalation continues. Oil rising. Risk-off pressure may cap BTC above $65K."
-    },
-    {
-      "name": "US Initial Jobless Claims",
+      "name": "US Retail Sales (June) + Initial Jobless Claims",
       "time": "2026-07-16 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral",
-      "note": "Weekly labor market reading. Below-consensus could further support rate-cut expectations."
+      "note": "Weak retail = dovish = bullish for BTC. Strong retail = hawkish risk. Claims below consensus also supports rate-cut bets."
+    },
+    {
+      "name": "Iran/Hormuz Conflict (ongoing)",
+      "time": "2026-07-16 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "note": "Ongoing US-Iran escalation. Oil elevated. Risk-off pressure capping BTC above $65K."
+    },
+    {
+      "name": "FOMC Meeting (upcoming, not today)",
+      "time": "2026-07-28 18:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral",
+      "note": "Next rate decision July 28-29. Market pricing hold at 3.50-3.75%. No immediate impact today."
     }
   ],
   "market_summary": {
-    "trend": "BTC at ~$65,100 (+3.7% in 24h, +10% in July). Recovered from $58K late-June low. 3-week high on soft CPI+PPI data.",
-    "sentiment": "Extreme Fear — Fear & Greed Index 23 (improving). Price rising while sentiment stays depressed = contrarian bullish signal / possible seller exhaustion.",
-    "macro": "June CPI (Jul 14, -0.4% MoM, largest drop since Apr 2020) and PPI (Jul 15, -0.3% MoM vs 0% expected) both surprise dovish = disinflation relief rally. Annual CPI slowed to 3.5%. FOMC on hold at 3.50-3.75%, next decision Jul 28-29.",
-    "etf_flows": "Bitcoin ETF 10-day outflow streak ended. Week of July 11: $197.4M net inflows — first positive week in 8. Institutional re-entry signal.",
-    "technicals": "Short-term bullish: +3.7% today on CPI/PPI relief, 3-week high, broke above $65K. Medium-term: structural downtrend from $93K (Jan high) still intact.",
-    "fed_stance": "FOMC on hold at 3.50-3.75%. Next decision July 29. Soft CPI/PPI raised H2 2026 rate-cut expectations. Warsh testimony (hawkish lean) is today's key risk."
+    "trend": "BTC at ~$64,765 (-0.3% in 24h, +11% in July). Pulling back from 3-week high of $65,551 hit today. Consolidating after CPI/PPI-driven relief rally from $58K late-June low.",
+    "sentiment": "Mixed: Extreme Fear (F&G Index ~23) vs media sentiment 63/100 Greed. Price rising while Fear index stays low = contrarian bullish divergence / possible seller exhaustion.",
+    "macro": "Soft CPI (Jul 14, -0.4% MoM) and PPI (Jul 15, -0.3% MoM) delivered dovish surprise. Annual CPI 3.5%. Rate-cut expectations for H2 2026 rising. FOMC on hold at 3.50-3.75%. Warsh testimony (Jul 15) passed without hawkish shock.",
+    "etf_flows": "ETF 10-day outflow streak ended: week of July 11 saw $197M net inflows (first positive week in 8). Goldman Sachs filed for new BTC ETF. IBIT options limit raised to 1M contracts.",
+    "technicals": "Day candle: high $65,551 / low $64,432 / current $64,765. Intraday pullback from highs. Support at $64,400. Monthly trend bullish (+11%) but medium-term downtrend from Jan $93K high still structural.",
+    "whale_activity": "Whales selling into rally; retail accumulating. 326 WBTC withdrawn from Ethereum exchanges (largest net outflow since June) - accumulation signal. Mixed.",
+    "regulatory": "Japan reclassified crypto as financial assets with tax reduction. SEC neutral stance on ETFs. Taiwan lawmakers calling for national BTC reserves."
   },
-  "notes": "CPI·PPI 모두 예상 하회, BTC 3주 최고가 $65K 돌파. 이란갈등 하방리스크.",
-  "updated": "2026-07-15 15:00:00 UTC",
-  "valid_until": "2026-07-15 19:00:00 UTC"
+  "notes": "CPI·PPI 완화 후 $65K 돌파 시도, 고래 매도·이란갈등으로 등락 혼재",
+  "updated": "2026-07-16 00:10:00 UTC",
+  "valid_until": "2026-07-16 04:10:00 UTC"
 }
