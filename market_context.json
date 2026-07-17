@@ -1,53 +1,46 @@
 {
-  "regime": "neutral",
-  "confidence": 0.55,
-  "btc_price_usd": 62810,
+  "regime": "bearish",
+  "confidence": 0.65,
+  "btc_price_usd": 63130,
   "key_events_next_24h": [
     {
-      "name": "Industrial Production & Capacity Utilization (Jun)",
-      "time": "2026-07-17 13:15 UTC",
-      "impact": "low",
-      "expected_direction": "neutral",
-      "note": "Hard macro data. Unlikely to move BTC significantly."
+      "name": "US-Iran Military Escalation (6th consecutive night of strikes)",
+      "time": "2026-07-17 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish",
+      "note": "US struck 170+ Iranian military sites. Iran retaliated on 85+ US installations. Strait of Hormuz closed. Major risk-off driver."
     },
     {
       "name": "Michigan Consumer Sentiment (Preliminary, Jul)",
       "time": "2026-07-17 14:00 UTC",
       "impact": "low",
       "expected_direction": "neutral",
-      "note": "Weak reading = dovish narrative = slightly bullish for risk assets."
+      "note": "Already scheduled. Low impact on crypto given current geopolitical dominance."
     },
     {
       "name": "BTC ETF daily flow data",
       "time": "2026-07-17 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "Net outflows over 7d/30d windows. Institutional caution persists near $65K resistance."
-    },
-    {
-      "name": "US-Iran geopolitical tension (ongoing)",
-      "time": "2026-07-17 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "Re-escalation of US-Iran tensions driving broad risk-off. BTC retreated from $65K."
+      "note": "120,000 BTC exited via US spot ETFs in 2026. 7d/30d trend: net outflows. Institutions reducing exposure."
     },
     {
       "name": "FOMC Meeting (upcoming, Jul 28-29)",
       "time": "2026-07-29 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral",
-      "note": "Rate hold at 3.50-3.75% expected (79.5% implied odds). No rate cuts expected in 2026."
+      "note": "Rate hold at 3.50-3.75% expected. No rate cuts expected in 2026 (hawkish Chair Warsh)."
     }
   ],
   "market_summary": {
-    "trend": "BTC at ~$62,810 on Jul 17 (04:06 EDT), down from $65K resistance highs on Jul 15-16. BTC failed twice to break $65,100-$65,471. Risk-off mode after US-Iran escalation. Up ~4% weekly but momentum cooling.",
-    "sentiment": "Fear & Greed Index at 26 (Fear). Social volume low. Retail positioning 54% long vs 30d avg 62.9% - cautious. Neither panicked nor euphoric but leaning fearful.",
-    "macro": "Jun CPI (Jul 14): softer-than-expected - main bullish catalyst. PPI -0.3% MoM. Fed rate at 3.50-3.75%, hawkish tone (new Chair Warsh: inflation 'remains elevated'). Dot plot median 3.8% year-end. No cuts expected 2026.",
-    "etf_flows": "Spot BTC ETFs: net outflows 7d/30d windows. Institutions reducing exposure or taking profits. Small inflows on some days but trend bearish. Morgan Stanley launched spot crypto on E*Trade (8.6M customers) - medium-term bullish signal.",
-    "resistance_support": "Key resistance: $65,000-$65,800 (failed twice). Support: $62,000-$63,500 (Polymarket 87% odds BTC in $62-64K range). Deeper support $58K-$59K.",
-    "regulatory": "SEC added 3 crypto rulemaking items to 2026 agenda (Jul 7). Goldman Sachs filed for new Bitcoin ETF. Regulatory direction incrementally positive but uncertainty remains."
+    "trend": "BTC dropped to ~$62,500 intraday low (Jul 17), trading around $63,130 at 08:33 ET. Down ~2.4% on day. Failed $65K resistance twice (Jul 15-16). Iran conflict (6 nights) now dominant driver overriding CPI tailwind.",
+    "sentiment": "Fear & Greed Index: 26 (Fear). Retail longs at 54% vs 62.9% 30d avg - cautious positioning. Risk-off broadly. Crypto market cap fluctuating $2.1T-$2.5T during Iran escalation.",
+    "macro": "Jun CPI (Jul 14): softer-than-expected - last bullish catalyst now fading. PPI -0.3% MoM. Fed rate 3.50-3.75%, hawkish (Chair Warsh). No FOMC/CPI in next 24h. Iran conflict + oil surge dominating macro.",
+    "etf_flows": "Spot BTC ETFs: 120,000 BTC net outflows in 2026. 7d/30d windows negative. Institutions net sellers near $65K resistance.",
+    "resistance_support": "Key resistance: $65,000-$65,800 (failed twice). Support: $62,000-$63,500. Oil surging (Strait of Hormuz closed) adding macro pressure.",
+    "regulatory": "SEC added 3 crypto rulemaking items to 2026 agenda (Jul 7). Japan reclassified crypto as financial assets (bullish long-term). No immediate catalysts."
   },
-  "notes": "BTC $62,810 하락, US-이란 지정학·ETF 유출로 중립 관망",
-  "updated": "2026-07-17 08:30:00 UTC",
-  "valid_until": "2026-07-17 12:30:00 UTC"
+  "notes": "미-이란 교전 6일째 리스크오프, BTC $63K 하락압력 우세",
+  "updated": "2026-07-17 14:00:00 UTC",
+  "valid_until": "2026-07-17 18:00:00 UTC"
 }
