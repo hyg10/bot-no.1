@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 64750,
+  "confidence": 0.40,
+  "btc_price_usd": 64707,
   "key_events_next_24h": [
     {
       "name": "Michigan Consumer Sentiment (Preliminary, Jul)",
@@ -18,22 +18,29 @@
       "note": "Hard macro data. Unlikely to move BTC significantly."
     },
     {
+      "name": "BTC ETF daily flow data",
+      "time": "2026-07-17 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "note": "$4.13B net outflows over 30 days. Continued outflows would pressure price near $65K resistance."
+    },
+    {
       "name": "FOMC Meeting (upcoming, Jul 28-29)",
       "time": "2026-07-29 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral",
-      "note": "Rate hold at 3.50-3.75% expected. Softer CPI/PPI may open door to dovish guidance."
+      "note": "Rate hold at 3.50-3.75% expected. Hawkish dot plot raised median year-end rate to 3.8%."
     }
   ],
   "market_summary": {
-    "trend": "BTC at ~$64,750. Pulled back slightly from Jul 15 high of $65,100 after softer CPI (Jul 14) triggered rally. Up ~10% in July from June lows (~$60k). Still -30% from Jan 2026 highs above $93k.",
-    "sentiment": "Fear & Greed Index ~26 (Fear territory). Price recovering but sentiment remains fearful - cautious divergence. Fragile recovery phase.",
-    "macro": "Jun CPI (Jul 14): softer than expected at 3.5% YoY - main bullish catalyst for current recovery. PPI declined 0.3% MoM (below 6.2% forecast). Fed funds rate at 3.63%. FOMC hold expected Jul 28-29.",
-    "etf_flows": "Spot BTC ETFs: $4.13B net outflows over 30 days, but small $10M inflow recently ending multi-day outflow streak. Structural headwind but showing signs of stabilization.",
-    "onchain": "326 WBTC withdrawn from ETH exchanges Jul 15 (largest net outflow since early June) - potential accumulation signal. Taiwan lawmaker: 80% chance of national BTC holdings within 5 years.",
-    "regulatory": "Goldman Sachs filed for new BTC ETF. SEC generic listing standards approved for crypto ETPs - shortens approval timelines from 240d to ~75d. Regulatory environment improving."
+    "trend": "BTC at ~$64,707, down 1.11% on Jul 17. Failed twice to break $65K resistance (Jul 15-16 highs ~$65,100-$65,471). Up ~7% in July from June lows (~$60K). Still -30% from Jan 2026 highs above $93K.",
+    "sentiment": "Fear & Greed Index recovering from lows but still fragile. Social volume at 41,800 daily comments - second lowest since Oct 2024. Neither panicked nor euphoric. Neutral to cautiously bearish.",
+    "macro": "Jun CPI (Jul 14): softer than expected - main bullish catalyst for current partial recovery. PPI declined 0.3% MoM. Fed rate at 3.50-3.75%, hawkish tone. FOMC raised dot plot median to 3.8% for year-end. No rate cuts expected in 2026.",
+    "etf_flows": "Spot BTC ETFs: $4.13B net outflows over 30 days despite small $10M recent inflow. Institutional sentiment cooled; large allocators waiting for clearer macro signals.",
+    "resistance_support": "Key resistance: $65,700-$65,800 (must break for trend reversal). Support: $63,000-$63,500 (daily pivot ~$63,445). Deeper support $58,000-$59,000.",
+    "regulatory": "SEC added 3 crypto rulemaking items to 2026 agenda (Jul 7): crypto asset sales, custody rules, market-structure changes. White House opposed FIT21 bill - regulatory uncertainty remains."
   },
-  "notes": "6월 저점 반등 후 횡보. ETF 유출 지속, 중립 유지.",
-  "updated": "2026-07-17 00:05:57 UTC",
-  "valid_until": "2026-07-17 04:05:57 UTC"
+  "notes": "BTC $64,700 횡보, $65K 저항 2회 실패, ETF유출, 중립",
+  "updated": "2026-07-17 09:00:00 UTC",
+  "valid_until": "2026-07-17 13:00:00 UTC"
 }
