@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
-  "confidence": 0.6,
-  "btc_price_usd": 63394,
+  "confidence": 0.55,
+  "btc_price_usd": 64108.3,
   "key_events_next_24h": [
     {
       "name": "US-Iran geopolitical tensions (ongoing risk-off pressure)",
@@ -15,25 +15,26 @@
       "time": "2026-07-18 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "$4.13B ETF outflows over 30 days. Institutions net sellers near $65K resistance. 7d/30d trend net outflows."
+      "note": "7d/30d trend net outflows. Institutions net sellers near $64K-$65K resistance. Miner selling surge 2,150% above baseline."
     },
     {
-      "name": "FOMC Meeting (upcoming Jul 28-29, outside 24h window)",
+      "name": "FOMC Meeting (Jul 28-29, outside 24h window)",
       "time": "2026-07-29 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral",
-      "note": "Rate hold at 3.50-3.75% expected. Jun CPI at 3.5% YoY (released Jul 14) tailwind already faded. Next major macro catalyst."
+      "note": "Rate hold at 3.50-3.75% expected. Jun CPI 3.5% YoY (released Jul 14) tailwind faded. Next major macro catalyst."
     }
   ],
   "market_summary": {
-    "trend": "BTC bounced slightly to $63,394 on Jul 18 from $62,941 low on Jul 17. Failed $65K resistance twice (Jul 15-16). Down ~32% from 2026 high of $93K+. Short-term relief rally but structural trend remains bearish.",
-    "sentiment": "Fear & Greed Index: ~26 (Fear). Retail cautious positioning. ETF net outflows dominant. On-chain metrics (Glassnode) show no confirmed trend reversal.",
-    "macro": "US-Iran military escalation is dominant driver. Oil above $85/bbl (Brent). Jun CPI softer (3.5% YoY, released Jul 14) but tailwind faded. FOMC Jul 28-29 is next major catalyst. Rate hold at 3.50-3.75% expected.",
-    "etf_flows": "$4.13B BTC spot ETF outflows over 30 days. Small $10M inflow on one day but trend remains net outflows. 7d and 30d windows both show net outflows. Institutions net sellers.",
-    "resistance_support": "Key resistance: $63,500 / $65,000 (failed twice). Key support: $62,000 / $60,000 (21-month lows). Bearish bias maintained below $65K.",
-    "regulatory": "SEC added 3 crypto rulemaking items to 2026 agenda (Jul 7). Japan reclassified crypto as financial assets (long-term bullish). No imminent SEC decisions."
+    "trend": "BTC at $64,108 (+1.4% today, 24h range $62,467-$64,344). Recovering from Jul 17 low of $62,941 but failed $65K resistance twice (Jul 15-16). Down ~31% from 2026 high of $93K+. Short-term bounce but structural downtrend intact.",
+    "sentiment": "Fear & Greed Index: 25 (Fear, declining from 27). Retail cautious at 54% long (below 30d avg 62.9%). ETF net outflows dominant. On-chain (Glassnode) no confirmed trend reversal.",
+    "macro": "US-Iran escalation dominant driver. Oil above $85/bbl (Brent). Jun CPI softer (fell 0.4% MoM, released Jul 14) but tailwind already faded. FOMC Jul 28-29 next major catalyst. Rate hold expected.",
+    "etf_flows": "BTC spot ETF net outflows over 7d and 30d windows. Institutions net sellers near $64K-$65K. Small inflows on isolated days but trend bearish.",
+    "resistance_support": "Key resistance: $64,344 (today high) / $65,000 (failed twice). Key support: $62,000 / $60,000. Bearish bias maintained below $65K.",
+    "on_chain": "LTH at record 14.85M BTC accumulation (bullish long-term). Miner-to-Binance transfers +470% (bearish near-term supply pressure). 2,150% miner shutdown surge above 90d baseline.",
+    "regulatory": "No imminent SEC BTC ETF decisions. Japan reclassified crypto as financial assets (long-term bullish). Sec added 3 crypto rulemaking items to 2026 agenda (Jul 7)."
   },
-  "notes": "미-이란 갈등 지속, 유가 $85, BTC $63K 반등 시도, 공포지수 26",
-  "updated": "2026-07-18 14:00:00 UTC",
-  "valid_until": "2026-07-18 18:00:00 UTC"
+  "notes": "미이란 갈등, 채굴자매도급증, LTH최고누적, 공포25, 베어리시",
+  "updated": "2026-07-18 12:10:00 UTC",
+  "valid_until": "2026-07-18 16:10:00 UTC"
 }
