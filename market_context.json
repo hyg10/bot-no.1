@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 64246,
+  "confidence": 0.40,
+  "btc_price_usd": 64095,
   "key_events_next_24h": [
     {
       "name": "US-Iran Geopolitical Tension (Ongoing Risk-Off)",
@@ -13,25 +13,25 @@
       "name": "BTC Spot ETF Daily Flow Data",
       "time": "2026-07-19 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "30d net outflows $4.13B dominant. Primary institutional sentiment signal."
+      "expected_direction": "neutral",
+      "note": "2-day inflow reversal ($191M) but 30d trend still net outflows."
     },
     {
-      "name": "No Major Macro Release (quiet until FOMC Jul 29)",
+      "name": "No Major Macro Release (quiet until FOMC Jul 28-29)",
       "time": "2026-07-19 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC at $64,246 (+0.37%), recovering from Jul-month open at $58,278. Range $63K-$65K. Down ~31% from 2026 high of $93K+.",
-    "sentiment": "Fear & Greed Index: 26 (Fear). Retail at 54% long vs 62.9% 30d avg - cautious. Jul rally ~10% from June lows.",
-    "macro": "No major data next 24h. Jun CPI (released Jul 14) was softer-than-expected - brief rally to $65K. FOMC Jul 29 next catalyst. Rate hold expected 3.5-3.75%.",
-    "etf_flows": "30d net outflows dominant. Institutions net sellers near $64K-$65K resistance. No reversal signal yet.",
-    "resistance_support": "Key resistance: $65,000-$65,471 (tested twice, rejected). Key support: $63,800 / $62,000.",
-    "regulatory": "SEC added 3 crypto rulemaking items Jul 7. US-Iran re-escalation weighing on risk assets."
+    "trend": "BTC at $64,095 (-0.3%), recovering from Jun low ~$60K. Range $63K-$65K. Down ~31% from 2026 high of $93K+.",
+    "sentiment": "Fear & Greed Index: 26 (Fear). Jul rally ~10% from June lows but stalling at $65K resistance.",
+    "macro": "No major data next 24h. Jun CPI (released Jul 14) was softer - brief rally to $65,100. FOMC Jul 28-29 next key catalyst. Inflation at 4.2% YoY.",
+    "etf_flows": "30d net outflows dominant, but 2-day inflow reversal of $191M seen Jul 15. Watching for sustained reversal.",
+    "resistance_support": "Key resistance: $65,000-$65,100 (tested Jul 15, rejected). Key support: $63,800 / $62,000.",
+    "regulatory": "SEC added 3 crypto rulemaking items Jul 7. Goldman Sachs Bitcoin Premium Income ETF filing active."
   },
-  "notes": "BTC $64K 보합, ETF 유출·지정학 리스크로 $65K 돌파 제한",
-  "updated": "2026-07-19 08:00:00 UTC",
-  "valid_until": "2026-07-19 12:00:00 UTC"
+  "notes": "공포지수 26, BTC $64K 횡보. $65K 저항·인플레 4.2% 상방 제한",
+  "updated": "2026-07-19 10:00:00 UTC",
+  "valid_until": "2026-07-19 14:00:00 UTC"
 }
