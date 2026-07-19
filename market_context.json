@@ -1,40 +1,32 @@
 {
   "regime": "neutral",
   "confidence": 0.40,
-  "btc_price_usd": 64428.4,
+  "btc_price_usd": 64809.63,
   "key_events_next_24h": [
-    {
-      "name": "Weekend Low-Liquidity Period (no major macro releases)",
-      "time": "2026-07-18 20:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral",
-      "note": "Sat/Sun typically lower volume. Price action may exaggerate moves. No scheduled US economic data releases."
-    },
     {
       "name": "BTC Spot ETF Daily Flow Data (Monday open)",
       "time": "2026-07-20 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish",
-      "note": "30d net outflows $4.13B dominant. Small $10M inflow on Jul 18. Watch for reversal confirmation."
+      "note": "30d net outflows $4.13B dominant. ETF flows remain the primary institutional sentiment signal - watch for reversal vs continuation."
     },
     {
-      "name": "FOMC Meeting (Jul 28-29, outside 24h window)",
+      "name": "FOMC Meeting (Jul 28-29, outside 24h window, pre-positioning risk)",
       "time": "2026-07-28 18:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Rate hold expected at current level. Fed hawkish - inflation 4.2% YoY, potential hike risk. Next major macro catalyst."
+      "expected_direction": "neutral",
+      "note": "Rate hold expected at 3.5-3.75%. No CPI/PPI data in next 24h (next CPI Aug 12). Markets cautious into meeting."
     }
   ],
   "market_summary": {
-    "trend": "BTC at $64,428 (24h range $63,837-$64,451). Slight intraday recovery +0.7%. Neared $65K on Jul 15 (softer CPI rally) but failed resistance twice. Down ~31% from 2026 high of $93K+. Short-term bounce within structural downtrend.",
-    "sentiment": "Fear & Greed Index: 25 (Extreme Fear). ETF net outflows $4.13B over 30 days, small $10M inflow today. Negative funding rates suggest cautious short-side positioning.",
-    "macro": "US-Iran escalation ongoing risk-off pressure. Oil above $85/bbl (Brent). Jun CPI softer (released Jul 14) triggered brief rally to $64.9K but tailwind faded. FOMC Jul 28-29 hawkish risk. Capital rotating from crypto to AI stocks.",
-    "etf_flows": "30d net outflows dominant. Institutions net sellers near $64K-$65K resistance. Today's $10M inflow isolated - not yet a reversal signal.",
-    "resistance_support": "Key resistance: $64,451 (today high) / $65,000 (failed twice Jul 15-16). Key support: $63,837 (today low) / $62,000 / $60,000.",
-    "on_chain": "LTH at record 14.85M BTC (bullish long-term). Miner selling pressure elevated. Weekend = reduced exchange volume.",
-    "regulatory": "No imminent SEC BTC ETF decisions. Japan reclassified crypto as financial assets (long-term bullish). Stripe/Advent bid for PayPal stablecoin play (neutral-bullish long-term)."
+    "trend": "BTC at $64,809 (24h range $63,854-$64,839, +1.43%). Minor recovery after Jul 15-16 pullback from $65K. Structural range $62K-$65K. Down ~31% from 2026 high of $93K+.",
+    "sentiment": "Fear & Greed Index: 26 (Fear). ETF net outflows $4.13B over 30 days. Retail at 54% long (below 30d avg 62.9% - cautious). Weekend liquidity thin.",
+    "macro": "No major macro releases in next 24h. Jun CPI (released Jul 14) was softer - brief rally to $65K faded. FOMC Jul 28-29 is next key catalyst. Rate hold expected at 3.5-3.75%.",
+    "etf_flows": "30d net outflows dominant. Institutions net sellers near $64K-$65K resistance. No clear reversal signal yet.",
+    "resistance_support": "Key resistance: $64,839 (today high) / $65,000 (failed twice Jul 15-16). Key support: $63,854 (today low) / $62,000.",
+    "regulatory": "SEC added 3 crypto rulemaking items Jul 7 (custody, sales, market structure). Japan reclassified crypto as financial assets (long-term bullish)."
   },
-  "notes": "공포지수 25, ETF순유출 지속, 주말저유동성, $65K저항 돌파실패",
-  "updated": "2026-07-18 18:12:00 UTC",
-  "valid_until": "2026-07-18 22:12:00 UTC"
+  "notes": "공포지수 26, ETF 유출 지속, $64.8K 소폭 반등. FOMC 7/29 대기",
+  "updated": "2026-07-19 00:06:17 UTC",
+  "valid_until": "2026-07-19 04:06:17 UTC"
 }
