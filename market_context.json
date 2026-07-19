@@ -1,32 +1,37 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 64809.63,
+  "confidence": 0.45,
+  "btc_price_usd": 64246,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Daily Flow Data (Monday open)",
-      "time": "2026-07-20 20:00 UTC",
+      "name": "US-Iran Geopolitical Tension (Ongoing Risk-Off)",
+      "time": "2026-07-19 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "30d net outflows $4.13B dominant. ETF flows remain the primary institutional sentiment signal - watch for reversal vs continuation."
+      "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting (Jul 28-29, outside 24h window, pre-positioning risk)",
-      "time": "2026-07-28 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral",
-      "note": "Rate hold expected at 3.5-3.75%. No CPI/PPI data in next 24h (next CPI Aug 12). Markets cautious into meeting."
+      "name": "BTC Spot ETF Daily Flow Data",
+      "time": "2026-07-19 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish",
+      "note": "30d net outflows $4.13B dominant. Primary institutional sentiment signal."
+    },
+    {
+      "name": "No Major Macro Release (quiet until FOMC Jul 29)",
+      "time": "2026-07-19 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC at $64,809 (24h range $63,854-$64,839, +1.43%). Minor recovery after Jul 15-16 pullback from $65K. Structural range $62K-$65K. Down ~31% from 2026 high of $93K+.",
-    "sentiment": "Fear & Greed Index: 26 (Fear). ETF net outflows $4.13B over 30 days. Retail at 54% long (below 30d avg 62.9% - cautious). Weekend liquidity thin.",
-    "macro": "No major macro releases in next 24h. Jun CPI (released Jul 14) was softer - brief rally to $65K faded. FOMC Jul 28-29 is next key catalyst. Rate hold expected at 3.5-3.75%.",
-    "etf_flows": "30d net outflows dominant. Institutions net sellers near $64K-$65K resistance. No clear reversal signal yet.",
-    "resistance_support": "Key resistance: $64,839 (today high) / $65,000 (failed twice Jul 15-16). Key support: $63,854 (today low) / $62,000.",
-    "regulatory": "SEC added 3 crypto rulemaking items Jul 7 (custody, sales, market structure). Japan reclassified crypto as financial assets (long-term bullish)."
+    "trend": "BTC at $64,246 (+0.37%), recovering from Jul-month open at $58,278. Range $63K-$65K. Down ~31% from 2026 high of $93K+.",
+    "sentiment": "Fear & Greed Index: 26 (Fear). Retail at 54% long vs 62.9% 30d avg - cautious. Jul rally ~10% from June lows.",
+    "macro": "No major data next 24h. Jun CPI (released Jul 14) was softer-than-expected - brief rally to $65K. FOMC Jul 29 next catalyst. Rate hold expected 3.5-3.75%.",
+    "etf_flows": "30d net outflows dominant. Institutions net sellers near $64K-$65K resistance. No reversal signal yet.",
+    "resistance_support": "Key resistance: $65,000-$65,471 (tested twice, rejected). Key support: $63,800 / $62,000.",
+    "regulatory": "SEC added 3 crypto rulemaking items Jul 7. US-Iran re-escalation weighing on risk assets."
   },
-  "notes": "공포지수 26, ETF 유출 지속, $64.8K 소폭 반등. FOMC 7/29 대기",
-  "updated": "2026-07-19 00:06:17 UTC",
-  "valid_until": "2026-07-19 04:06:17 UTC"
+  "notes": "BTC $64K 보합, ETF 유출·지정학 리스크로 $65K 돌파 제한",
+  "updated": "2026-07-19 08:00:00 UTC",
+  "valid_until": "2026-07-19 12:00:00 UTC"
 }
