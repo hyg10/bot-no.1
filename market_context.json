@@ -1,30 +1,30 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 64400,
+  "regime": "neutral",
+  "confidence": 0.40,
+  "btc_price_usd": 64350,
   "key_events_next_24h": [
     {
-      "name": "US Equity Market Open (Nasdaq -3% weekly, risk-off pressure)",
+      "name": "US Equity Market Open (BTC diverging from equities, Nasdaq gaining)",
       "time": "2026-07-21 13:30 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "BTC Spot Demand Alert (-170K BTC decline, CryptoQuant warning)",
-      "time": "2026-07-20 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "name": "FOMC Meeting (Jul 28-29, hold expected 3.5-3.75%)",
+      "time": "2026-07-28 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,400, -0.17% on day. Recovered from $60K June lows but well below $93K year-start high. Short-term structure intact above $64K.",
-    "sentiment": "Fear & Greed Index: 29 (Fear). Fragile recovery; spot demand sliding toward -170K BTC per CryptoQuant.",
-    "macro": "No major data releases Jul 20-21. FOMC Jul 28-29 next key catalyst (hold expected at 3.5-3.75%). Jun CPI/PPI/Retail Sales all released Jul 14-16.",
-    "etf_flows": "Bitcoin ETF 10-day outflow streak ended. Minor positive signal but overall demand remains weak.",
+    "trend": "BTC ~$64,200-$64,500, -0.2% to -1% on day. Fell while equities (Nasdaq/S&P) gained — divergence persisting. Recovered from $60K June lows but well below $93K year-start high.",
+    "sentiment": "Mixed: global crypto market cap $2.27T, +0.1% 24h. Crypto underperforming vs equities. Standard Chartered renewed $100K year-end target; Polymarket odds favor $70-75K close.",
+    "macro": "No major data releases Jul 20-21. Jun CPI released Jul 14: 3.5% YoY, monthly -0.4% (deflationary monthly trend). FOMC Jul 28-29 next key catalyst; hold strongly expected (79.5% odds). No rate decision today.",
+    "etf_flows": "SEC approved higher IBIT options limits (250K -> 1M). SEC adopting neutral stance to crypto ETFs. Mild institutional positive signal.",
     "resistance_support": "Key resistance: $65,000-$65,500. Key support: $63,000 / $60,000.",
-    "regulatory": "No BTC ETF SEC decisions expected Jul 20-21. France blocking Polymarket for World Cup highlights regulatory pressure on crypto platforms."
+    "regulatory": "No BTC ETF SEC decisions expected Jul 20-21. SEC adopting more neutral/transparent stance on crypto ETFs going forward."
   },
-  "notes": "공포지수 29, 현물수요 급감, 주식약세. $64K 회복 불구 하락추세",
-  "updated": "2026-07-20 17:10:00 UTC",
-  "valid_until": "2026-07-20 21:10:00 UTC"
+  "notes": "주식 대비 약세 혼조세, FOMC 28일 예정, 24h 내 대형 이벤트 없음",
+  "updated": "2026-07-20 20:00:00 UTC",
+  "valid_until": "2026-07-21 00:00:00 UTC"
 }
