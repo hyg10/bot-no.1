@@ -1,30 +1,30 @@
 {
-  "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 64300,
+  "regime": "bearish",
+  "confidence": 0.55,
+  "btc_price_usd": 64400,
   "key_events_next_24h": [
     {
-      "name": "No Major Macro Release (quiet day - next FOMC Jul 28-29)",
-      "time": "2026-07-20 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "US Equity Market Open (Nasdaq -3% weekly, risk-off pressure)",
+      "time": "2026-07-21 13:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     },
     {
-      "name": "SEC Regulation Crypto Rule Proposals (July ongoing - any-day risk)",
-      "time": "2026-07-20 00:00 UTC",
+      "name": "BTC Spot Demand Alert (-170K BTC decline, CryptoQuant warning)",
+      "time": "2026-07-20 18:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,300, +0.37% on day. Bounced ~+10% in July from $58K June lows; pulled back after $65,100 high Jul 15.",
-    "sentiment": "Fear & Greed Index: 24 (Extreme Fear). Recovery seen as fragile bounce, not trend reversal.",
-    "macro": "No major data releases Jul 20-21. FOMC Jul 28-29 key next catalyst (hold expected but hawkish tone risk). Jun CPI 3.5% / core 2.6% released Jul 14.",
-    "etf_flows": "4 consecutive inflow days as of Jul 18 (~$132M Friday). Reversal from recent outflows; long-term investors accumulating but broader sentiment still cautious.",
-    "resistance_support": "Key resistance: $65,000-$65,500. Key support: $63,800 / $62,000.",
-    "regulatory": "SEC '3-rule Regulation Crypto' package on July agenda (crypto asset sales, broker-dealer capital, market structure). No specific ETF decisions expected Jul 20-21."
+    "trend": "BTC ~$64,400, -0.17% on day. Recovered from $60K June lows but well below $93K year-start high. Short-term structure intact above $64K.",
+    "sentiment": "Fear & Greed Index: 29 (Fear). Fragile recovery; spot demand sliding toward -170K BTC per CryptoQuant.",
+    "macro": "No major data releases Jul 20-21. FOMC Jul 28-29 next key catalyst (hold expected at 3.5-3.75%). Jun CPI/PPI/Retail Sales all released Jul 14-16.",
+    "etf_flows": "Bitcoin ETF 10-day outflow streak ended. Minor positive signal but overall demand remains weak.",
+    "resistance_support": "Key resistance: $65,000-$65,500. Key support: $63,000 / $60,000.",
+    "regulatory": "No BTC ETF SEC decisions expected Jul 20-21. France blocking Polymarket for World Cup highlights regulatory pressure on crypto platforms."
   },
-  "notes": "BTC $64,300 횡보, 공포탐욕 24(극단공포), ETF 4일 연속 유입, FOMC 7/29 대기",
-  "updated": "2026-07-20 06:30:00 UTC",
-  "valid_until": "2026-07-20 10:30:00 UTC"
+  "notes": "공포지수 29, 현물수요 급감, 주식약세. $64K 회복 불구 하락추세",
+  "updated": "2026-07-20 17:10:00 UTC",
+  "valid_until": "2026-07-20 21:10:00 UTC"
 }
