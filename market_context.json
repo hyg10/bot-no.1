@@ -1,30 +1,24 @@
 {
-  "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 64350,
+  "regime": "bearish",
+  "confidence": 0.55,
+  "btc_price_usd": 64290,
   "key_events_next_24h": [
     {
-      "name": "US Equity Market Open (BTC diverging from equities, Nasdaq gaining)",
+      "name": "US Equity Market Open (BTC/equities divergence risk)",
       "time": "2026-07-21 13:30 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Meeting (Jul 28-29, hold expected 3.5-3.75%)",
-      "time": "2026-07-28 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,200-$64,500, -0.2% to -1% on day. Fell while equities (Nasdaq/S&P) gained — divergence persisting. Recovered from $60K June lows but well below $93K year-start high.",
-    "sentiment": "Mixed: global crypto market cap $2.27T, +0.1% 24h. Crypto underperforming vs equities. Standard Chartered renewed $100K year-end target; Polymarket odds favor $70-75K close.",
-    "macro": "No major data releases Jul 20-21. Jun CPI released Jul 14: 3.5% YoY, monthly -0.4% (deflationary monthly trend). FOMC Jul 28-29 next key catalyst; hold strongly expected (79.5% odds). No rate decision today.",
-    "etf_flows": "SEC approved higher IBIT options limits (250K -> 1M). SEC adopting neutral stance to crypto ETFs. Mild institutional positive signal.",
-    "resistance_support": "Key resistance: $65,000-$65,500. Key support: $63,000 / $60,000.",
-    "regulatory": "No BTC ETF SEC decisions expected Jul 20-21. SEC adopting more neutral/transparent stance on crypto ETFs going forward."
+    "trend": "BTC ~$64,200-$64,400, ranging below $65K resistance. Well below EMA200 at $74,405 — structurally bearish. Recovery from $60K June lows stalling at $65K resistance.",
+    "sentiment": "Fear & Greed Index 29 (Fear). Risk-off sentiment from US-Iran tensions. Daily MACD positive (+267) and RSI 52.5 give short-term mixed signal but macro structure remains bearish.",
+    "macro": "No major data releases Jul 21-22. Jun CPI: 3.5% YoY, monthly -0.4% (disinflationary trend). FOMC Jul 28-29 next major catalyst — rate hold expected. No CPI/PPI/employment data in next 24h.",
+    "etf_flows": "$4.13B ETF outflows past 30 days. Institutional selling pressure persists. Compressed Bollinger Bands suggest imminent volatility expansion.",
+    "resistance_support": "Key resistance: $65,000-$65,500. Key support: $63,000 / $60,000. EMA200: $74,405.",
+    "regulatory": "No BTC ETF SEC decisions expected Jul 21-22. SEC added crypto rulemaking items (asset sales, custody, market structure) to 2026 agenda."
   },
-  "notes": "주식 대비 약세 혼조세, FOMC 28일 예정, 24h 내 대형 이벤트 없음",
-  "updated": "2026-07-20 20:00:00 UTC",
-  "valid_until": "2026-07-21 00:00:00 UTC"
+  "notes": "공포지수 29, EMA200 하방, ETF 유출 지속, 24h 이벤트 없음",
+  "updated": "2026-07-21 06:00:00 UTC",
+  "valid_until": "2026-07-21 10:00:00 UTC"
 }
