@@ -1,36 +1,30 @@
 {
-  "regime": "bearish",
-  "confidence": 0.5,
-  "btc_price_usd": 64913,
+  "regime": "neutral",
+  "confidence": 0.45,
+  "btc_price_usd": 66252,
   "key_events_next_24h": [
-    {
-      "name": "US Equity Market Open (BTC/equities divergence risk)",
-      "time": "2026-07-21 13:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
     {
       "name": "Bitcoin ETF Daily Flow Report",
       "time": "2026-07-21 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "bullish"
     },
     {
-      "name": "FOMC Meeting Countdown (July 28-29 decision)",
+      "name": "FOMC Rate Decision (approaching - Jul 29)",
       "time": "2026-07-29 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,900 (+0.57% day), up ~10% in July from $58,250 low. Still well below EMA200 at $74,405 — structurally bearish. $65,000-$65,500 resistance zone holding.",
-    "sentiment": "Fear & Greed Index 26-29 (Fear). Mixed: Standard Chartered reaffirms $100K year-end target (bullish LT), but ETF net outflows dominate short-term signal.",
-    "macro": "No major data releases Jul 21-22. Jun CPI: 3.5% YoY, monthly -0.4% (disinflationary). Fed rate held at 3.5-3.75% (Jun meeting). FOMC Jul 28-29 next catalyst — rate hold expected.",
-    "etf_flows": "Net outflows persist through July. Institutional selling pressure; BlackRock IBIT options limit increased to 1M contracts (SEC approved) — mildly positive long-term.",
-    "resistance_support": "Key resistance: $65,000-$65,500. Key support: $63,000 / $60,000. EMA200: $74,405.",
-    "regulatory": "SEC adopting neutral stance on crypto ETFs; acknowledged past handling mistakes. No BTC ETF decisions expected Jul 21-22."
+    "trend": "BTC $66,252 (+2.25% day, +6.7% weekly). Recovering from $57,700 July low. 24h range $64,016-$66,388. RSI 60.4 (neutral). Above short-term EMAs but below EMA200.",
+    "sentiment": "Fear & Greed Index ~26 (Fear). Mixed: 9/23 signals bullish, 8/23 bearish. Standard Chartered holds $100K year-end target. Short-term momentum positive.",
+    "macro": "No CPI or FOMC in next 24h. FOMC July 29 (rate hold expected). CPI August 12 next major print. US-Iran tensions easing. No crypto regulatory catalysts today.",
+    "etf_flows": "Recent 3-day ETF inflow of $510M ended 8-week outflow streak. YTD still net -$5.4B. Short-term institutional sentiment turning cautiously positive.",
+    "resistance_support": "Key resistance: $67,256 / $69,201. Key support: $65,820 / $63,000. 24h prediction range: $64,637-$68,008.",
+    "regulatory": "SEC streamlined crypto ETF approval timelines to 75 days. No immediate BTC ETF decisions in next 24h."
   },
-  "notes": "공포지수 26, EMA200 하방, ETF 유출 지속, 24h 이벤트 없음",
-  "updated": "2026-07-21 06:06:42 UTC",
-  "valid_until": "2026-07-21 10:06:42 UTC"
+  "notes": "BTC $66.2K 반등 중. 주간 +6.7%, 공포지수 26. 7/29 FOMC 관망 구간.",
+  "updated": "2026-07-21 12:10:00 UTC",
+  "valid_until": "2026-07-21 16:10:00 UTC"
 }
