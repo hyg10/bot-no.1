@@ -1,24 +1,36 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 64290,
+  "confidence": 0.5,
+  "btc_price_usd": 64913,
   "key_events_next_24h": [
     {
       "name": "US Equity Market Open (BTC/equities divergence risk)",
       "time": "2026-07-21 13:30 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "Bitcoin ETF Daily Flow Report",
+      "time": "2026-07-21 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Meeting Countdown (July 28-29 decision)",
+      "time": "2026-07-29 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,200-$64,400, ranging below $65K resistance. Well below EMA200 at $74,405 — structurally bearish. Recovery from $60K June lows stalling at $65K resistance.",
-    "sentiment": "Fear & Greed Index 29 (Fear). Risk-off sentiment from US-Iran tensions. Daily MACD positive (+267) and RSI 52.5 give short-term mixed signal but macro structure remains bearish.",
-    "macro": "No major data releases Jul 21-22. Jun CPI: 3.5% YoY, monthly -0.4% (disinflationary trend). FOMC Jul 28-29 next major catalyst — rate hold expected. No CPI/PPI/employment data in next 24h.",
-    "etf_flows": "$4.13B ETF outflows past 30 days. Institutional selling pressure persists. Compressed Bollinger Bands suggest imminent volatility expansion.",
+    "trend": "BTC ~$64,900 (+0.57% day), up ~10% in July from $58,250 low. Still well below EMA200 at $74,405 — structurally bearish. $65,000-$65,500 resistance zone holding.",
+    "sentiment": "Fear & Greed Index 26-29 (Fear). Mixed: Standard Chartered reaffirms $100K year-end target (bullish LT), but ETF net outflows dominate short-term signal.",
+    "macro": "No major data releases Jul 21-22. Jun CPI: 3.5% YoY, monthly -0.4% (disinflationary). Fed rate held at 3.5-3.75% (Jun meeting). FOMC Jul 28-29 next catalyst — rate hold expected.",
+    "etf_flows": "Net outflows persist through July. Institutional selling pressure; BlackRock IBIT options limit increased to 1M contracts (SEC approved) — mildly positive long-term.",
     "resistance_support": "Key resistance: $65,000-$65,500. Key support: $63,000 / $60,000. EMA200: $74,405.",
-    "regulatory": "No BTC ETF SEC decisions expected Jul 21-22. SEC added crypto rulemaking items (asset sales, custody, market structure) to 2026 agenda."
+    "regulatory": "SEC adopting neutral stance on crypto ETFs; acknowledged past handling mistakes. No BTC ETF decisions expected Jul 21-22."
   },
-  "notes": "공포지수 29, EMA200 하방, ETF 유출 지속, 24h 이벤트 없음",
-  "updated": "2026-07-21 06:00:00 UTC",
-  "valid_until": "2026-07-21 10:00:00 UTC"
+  "notes": "공포지수 26, EMA200 하방, ETF 유출 지속, 24h 이벤트 없음",
+  "updated": "2026-07-21 06:06:42 UTC",
+  "valid_until": "2026-07-21 10:06:42 UTC"
 }
