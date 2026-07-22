@@ -1,42 +1,36 @@
 {
   "regime": "neutral",
   "confidence": 0.40,
-  "btc_price_usd": 66398,
+  "btc_price_usd": 66609,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Geopolitical Tension (ongoing volatility)",
-      "time": "2026-07-21 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Q2 Earnings Season Reports",
+      "name": "Q2 Earnings Season Reports (ongoing - risk asset volatility)",
       "time": "2026-07-22 12:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
       "name": "Bitcoin ETF Daily Flow Report",
-      "time": "2026-07-21 20:00 UTC",
+      "time": "2026-07-22 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Rate Decision (July 29 - rate hold expected)",
+      "name": "FOMC Rate Decision (Jul 28-29 - hawkish hold expected)",
       "time": "2026-07-29 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
   "market_summary": {
-    "trend": "BTC $66,398 (+1.8% today, opened at $65,214). ETF net inflows 2 consecutive weeks (first time since May). Nasdaq-100 correlation positive.",
-    "sentiment": "Risk appetite returning. Standard Chartered reaffirmed $100K year-end 2026 target. Buyers at $75K-$126K realizing losses (negative overhang). H2 2026 outlooks conflicted.",
-    "macro": "No CPI/PPI or FOMC in next 24h. FOMC July 28-29 (rate hold expected). US-Iran war continues to drive volatility. No crypto regulatory catalysts today.",
-    "etf_flows": "Second consecutive week of BTC ETF net inflows (SoSo Value data). First back-to-back inflow weeks since May 2026. Institutional sentiment cautiously turning.",
-    "resistance_support": "Near-term resistance: ~$67,000 / $69,000. Support: ~$64,000 / $63,000.",
-    "regulatory": "No immediate BTC ETF decisions. Goldman Sachs Bitcoin Premium Income ETF filing pending. SEC 75-day approval timeline in effect."
+    "trend": "BTC $66,609 (Jul 21 close). July recovery: $58,278 (Jul 1) -> $66,609 (+14.3%). Rebounded above $65K on Jul 15 after softer CPI print.",
+    "sentiment": "Conflicting: Fear & Greed index at 26 (Fear). Whales selling while retail buys. Institutional ETF activity mixed - outflows $84M some sessions but rally showing broad-based support (institutions + options traders).",
+    "macro": "No CPI/PPI or FOMC in next 24h. FOMC Jul 28-29 (hawkish hold expected, no cuts in 2026). Fed at 3.50-3.75%. Inflation 4.2% YoY. US-Iran tensions driving oil above $80/bbl, adding inflation pressure.",
+    "etf_flows": "Recent sessions show ETF outflows (~$84M), but latest reports indicate broad-based institutional support on latest rally. Mixed picture overall.",
+    "resistance_support": "Resistance: ~$67,000 / $69,000. Support: ~$64,000 / $63,000. July range: $58,278 - $66,609.",
+    "regulatory": "Crypto market structure bill at 43% passage probability. Goldman Sachs BTC ETF filing pending. No SEC ETF decisions in next 24h. SEC 75-day approval timeline in effect."
   },
-  "notes": "BTC $66.4K, ETF 2주 연속 순유입. 미-이란 긴장·H2 전망 엇갈림",
-  "updated": "2026-07-21 15:00:00 UTC",
-  "valid_until": "2026-07-21 19:00:00 UTC"
+  "notes": "BTC $66,600 보합, 공포지수 26, 연준 매파 유지, 24h 이벤트 없음",
+  "updated": "2026-07-22 00:06:44 UTC",
+  "valid_until": "2026-07-22 04:06:44 UTC"
 }
