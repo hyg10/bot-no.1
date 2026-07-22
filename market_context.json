@@ -1,36 +1,36 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
+  "confidence": 0.4,
   "btc_price_usd": 66609,
   "key_events_next_24h": [
     {
-      "name": "Q2 Earnings Season Reports (ongoing - risk asset volatility)",
+      "name": "No major macro releases scheduled (Jul 22-23)",
       "time": "2026-07-22 12:00 UTC",
-      "impact": "medium",
+      "impact": "low",
       "expected_direction": "neutral"
     },
     {
       "name": "Bitcoin ETF Daily Flow Report",
       "time": "2026-07-22 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     },
     {
-      "name": "FOMC Rate Decision (Jul 28-29 - hawkish hold expected)",
+      "name": "FOMC Rate Decision (Jul 28-29 - hawkish hold expected, no cuts 2026)",
       "time": "2026-07-29 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
   "market_summary": {
-    "trend": "BTC $66,609 (Jul 21 close). July recovery: $58,278 (Jul 1) -> $66,609 (+14.3%). Rebounded above $65K on Jul 15 after softer CPI print.",
-    "sentiment": "Conflicting: Fear & Greed index at 26 (Fear). Whales selling while retail buys. Institutional ETF activity mixed - outflows $84M some sessions but rally showing broad-based support (institutions + options traders).",
-    "macro": "No CPI/PPI or FOMC in next 24h. FOMC Jul 28-29 (hawkish hold expected, no cuts in 2026). Fed at 3.50-3.75%. Inflation 4.2% YoY. US-Iran tensions driving oil above $80/bbl, adding inflation pressure.",
-    "etf_flows": "Recent sessions show ETF outflows (~$84M), but latest reports indicate broad-based institutional support on latest rally. Mixed picture overall.",
+    "trend": "BTC ~$66,609 (Jul 21). July recovery: $58,278 (Jul 1) -> $66,609 (+14.3%). Rebounded above $65K on Jul 15 after softer CPI. Short-term: Polymarket 64% odds of finishing DOWN on Jul 22.",
+    "sentiment": "Mixed/Cautious. Standard Chartered maintains $100K year-end target. Buyers from $75K-$126K realizing losses (overhead resistance). Second-half 2026 outlooks conflicted.",
+    "macro": "No CPI/PPI or FOMC in next 24h. FOMC Jul 28-29 (hawkish hold expected, no cuts in 2026, dot plot median 3.8%). Fed held at 3.50-3.75% at Jun 17 meeting.",
+    "etf_flows": "2 consecutive weeks of POSITIVE net inflows - first time since May 2026. BlackRock IBIT options limit raised to 1M contracts. SEC taking more neutral regulatory stance.",
     "resistance_support": "Resistance: ~$67,000 / $69,000. Support: ~$64,000 / $63,000. July range: $58,278 - $66,609.",
-    "regulatory": "Crypto market structure bill at 43% passage probability. Goldman Sachs BTC ETF filing pending. No SEC ETF decisions in next 24h. SEC 75-day approval timeline in effect."
+    "regulatory": "SEC approved higher IBIT options limits, promising neutral approach. New generic listing standards shorten ETF approval timelines to 75 days. Japan reclassified crypto as financial assets."
   },
-  "notes": "BTC $66,600 보합, 공포지수 26, 연준 매파 유지, 24h 이벤트 없음",
-  "updated": "2026-07-22 00:06:44 UTC",
-  "valid_until": "2026-07-22 04:06:44 UTC"
+  "notes": "$66K 회복세, ETF 2주 순유입. FOMC(7/29) 앞 관망 중립",
+  "updated": "2026-07-22 07:00:00 UTC",
+  "valid_until": "2026-07-22 11:00:00 UTC"
 }
