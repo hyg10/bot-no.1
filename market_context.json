@@ -1,36 +1,42 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 65859,
+  "confidence": 0.55,
+  "btc_price_usd": 65858,
   "key_events_next_24h": [
     {
-      "name": "No major macro data releases scheduled (Jul 22-23)",
-      "time": "2026-07-22 12:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Bitcoin ETF Daily Flow Report",
+      "name": "Bitcoin ETF Daily Flow Report (6th consecutive positive day)",
       "time": "2026-07-22 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "US-Iran War Geopolitical Risk (Ongoing Volatility)",
-      "time": "2026-07-22 00:00 UTC",
+      "name": "US-Iran War Geopolitical Risk (ongoing volatility)",
+      "time": "2026-07-23 00:00 UTC",
       "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "CLARITY Act legislative progress possible",
+      "time": "2026-07-23 15:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Pre-FOMC positioning risk (FOMC Jul 28-29)",
+      "time": "2026-07-23 18:00 UTC",
+      "impact": "low",
       "expected_direction": "bearish"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$65,859 (Jul 22, 06:15 ET). Down $452 from prior day. Jul recovery: $58,278 (Jul 1) -> $66,398 peak on Jul 21. Risk appetite returned briefly with Nasdaq uptick. Short-term: slight pullback from recent high.",
-    "sentiment": "Mixed/Cautious. Risk appetite briefly returned (Nasdaq correlation). Standard Chartered maintains $100K year-end target. Buyers from $75K-$126K realizing losses - overhead resistance. Second-half 2026 outlooks conflicted. 2nd consecutive week of positive ETF net inflows (first time since May).",
-    "macro": "No CPI/PPI or FOMC in next 24h. Next FOMC Jul 28-29 (hawkish hold expected, no cuts in 2026). Jun CPI already released Jul 14 (softer data boosted crypto Jul 14-15). US-Iran war adds ongoing geopolitical risk.",
-    "etf_flows": "2 consecutive weeks of POSITIVE net inflows - first time since May 2026. June saw $4.5B outflows (worst month on record), but trend reversing. BlackRock IBIT options limit raised. SEC taking more neutral regulatory stance.",
-    "resistance_support": "Resistance: ~$67,000 / $69,000. Support: ~$64,000 / $63,000. Jul range so far: $58,278 - $66,609.",
-    "regulatory": "SEC approved higher IBIT options limits. New generic listing standards shorten ETF approval timelines to 75 days. Japan reclassified crypto as financial assets (reduced crypto taxes)."
+    "trend": "BTC ~$65,858 (Jul 22, 18:06 UTC). Opened $66,508 but pulled back to $65,556 mid-morning. Two-week high intraday before retracement. Jul recovery: $58,278 (Jul 1) -> $66,527 recent high.",
+    "sentiment": "Neutral/Cautious. Fear & Greed Index at 33 (cautious). RSI daily at 56.47 (neutral). MACD histogram positive (377.62) but hourly strength fading. Chip stock rally (US/Asian semiconductors) provided BTC tailwind.",
+    "macro": "No CPI/PPI or FOMC in next 24h. Next FOMC Jul 28-29 (hawkish hold expected, no cuts in 2026). Strong labor market data released today caused hawkish Fed repricing, pulling BTC off session highs. Rate target: 3.5-3.75%.",
+    "etf_flows": "6 consecutive days of positive spot BTC ETF inflows (CoinGlass data). 2 consecutive weeks of net inflows - first time since May 2026. Institutional demand increasing.",
+    "resistance_support": "Key range: $65,488-$66,527. Overhead supply: $66,114 (daily pivot), $66,262 (upper BB), $66,145 (H1 EMA20). Support: $65,488 (S1), $64,061 (BB midline). BTC still ~$8,000 below 200-day MA.",
+    "regulatory": "CLARITY Act described as 'at the one-yard line' by Sec. Bessent. SEC neutral regulatory stance. Satsuma Technology liquidating 668 BTC (avg cost $113,186) - minor selling pressure. BTC Galaxy $5M Quantum Readiness Fund launched."
   },
-  "notes": "BTC $65.8K 소폭 하락, ETF 2주 순유입. FOMC(7/29) 앞 중립 관망",
-  "updated": "2026-07-22 13:00:00 UTC",
-  "valid_until": "2026-07-22 17:00:00 UTC"
+  "notes": "반도체 랠리+ETF 유입, 노동지표 매파 우려. 중립 관망 유지",
+  "updated": "2026-07-22 18:06:29 UTC",
+  "valid_until": "2026-07-22 22:06:29 UTC"
 }
