@@ -1,42 +1,30 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
-  "btc_price_usd": 65858,
+  "confidence": 0.35,
+  "btc_price_usd": 65820,
   "key_events_next_24h": [
     {
-      "name": "Bitcoin ETF Daily Flow Report (6th consecutive positive day)",
-      "time": "2026-07-22 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "US-Iran War Geopolitical Risk (ongoing volatility)",
-      "time": "2026-07-23 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "CLARITY Act legislative progress possible",
-      "time": "2026-07-23 15:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Pre-FOMC positioning risk (FOMC Jul 28-29)",
+      "name": "Pre-FOMC positioning (FOMC Jul 28-29 rate decision)",
       "time": "2026-07-23 18:00 UTC",
-      "impact": "low",
+      "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "Bitcoin spot ETF daily flow report",
+      "time": "2026-07-23 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$65,858 (Jul 22, 18:06 UTC). Opened $66,508 but pulled back to $65,556 mid-morning. Two-week high intraday before retracement. Jul recovery: $58,278 (Jul 1) -> $66,527 recent high.",
-    "sentiment": "Neutral/Cautious. Fear & Greed Index at 33 (cautious). RSI daily at 56.47 (neutral). MACD histogram positive (377.62) but hourly strength fading. Chip stock rally (US/Asian semiconductors) provided BTC tailwind.",
-    "macro": "No CPI/PPI or FOMC in next 24h. Next FOMC Jul 28-29 (hawkish hold expected, no cuts in 2026). Strong labor market data released today caused hawkish Fed repricing, pulling BTC off session highs. Rate target: 3.5-3.75%.",
-    "etf_flows": "6 consecutive days of positive spot BTC ETF inflows (CoinGlass data). 2 consecutive weeks of net inflows - first time since May 2026. Institutional demand increasing.",
-    "resistance_support": "Key range: $65,488-$66,527. Overhead supply: $66,114 (daily pivot), $66,262 (upper BB), $66,145 (H1 EMA20). Support: $65,488 (S1), $64,061 (BB midline). BTC still ~$8,000 below 200-day MA.",
-    "regulatory": "CLARITY Act described as 'at the one-yard line' by Sec. Bessent. SEC neutral regulatory stance. Satsuma Technology liquidating 668 BTC (avg cost $113,186) - minor selling pressure. BTC Galaxy $5M Quantum Readiness Fund launched."
+    "trend": "BTC ~$65,820 (Jul 23). Opened Jul 22 at $66,508 but closed lower around $65,556. Price in a tight range $64,000-$66,500 for past week. Monthly recovery from $58,278 (Jul 1) stalling near $66k resistance.",
+    "sentiment": "Neutral/Cautious. Mixed signals: 6 consecutive days of positive ETF inflows (bullish) vs on-chain metrics not confirming trend reversal (bearish). Standard Chartered renewed $100k year-end target. Top buyers at $75k-$126k in loss zone.",
+    "macro": "No CPI/PPI or FOMC in next 24h. CPI for June already released July 14 (softer, bullish). FOMC Jul 28-29 next major event (hawkish hold expected at 3.50-3.75%, no 2026 cuts priced). Low event risk today.",
+    "etf_flows": "6 consecutive positive ETF inflow days as of July 22. First 2 consecutive weeks of inflows since May 2026. Institutional demand recovering. However, historical $4.13B ETF outflows still a headwind.",
+    "resistance_support": "Key range: $64,000-$66,500. Overhead resistance: $66,500 (recent high), $66,263 (upper BB). Support: $65,000 (psychological), $64,000 (weekly low). BTC still well below 200-day MA.",
+    "regulatory": "SEC has 3 crypto rulemaking items on 2026 agenda (crypto asset sales, custody, market structure). CLARITY Act progress possible. No immediate SEC BTC ETF decisions expected."
   },
-  "notes": "반도체 랠리+ETF 유입, 노동지표 매파 우려. 중립 관망 유지",
-  "updated": "2026-07-22 18:06:29 UTC",
-  "valid_until": "2026-07-22 22:06:29 UTC"
+  "notes": "혼조세, $66k 저항, ETF 유입 vs 온체인 약세, FOMC 7/29 대기",
+  "updated": "2026-07-23 05:00:00 UTC",
+  "valid_until": "2026-07-23 09:00:00 UTC"
 }
