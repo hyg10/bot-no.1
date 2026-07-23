@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 65555,
+  "confidence": 0.45,
+  "btc_price_usd": 65054,
   "key_events_next_24h": [
     {
       "name": "Bitcoin spot ETF daily flow report",
@@ -10,21 +10,21 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "FOMC Rate Decision (July 28-29, pre-meeting caution)",
+      "name": "FOMC Rate Decision pre-meeting positioning (Jul 28-29)",
       "time": "2026-07-29 18:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$65,555 (-0.60% 24h). Live price from Crypto.com: bid/ask $65,555.97/$65,555.98. 24h high $66,396, low $65,347. Rangebound $64k-$66.8k after 13% recovery from July lows. Month-to-date +7.78% from $60,800 July open.",
-    "sentiment": "Cautious/Neutral. Positive: 6 consecutive days of ETF inflows (iShares +$164M), Standard Chartered reiterated $100k year-end target. Negative: Fear & Greed index at 29 (Fear zone), top buyers at $75k-$126k still underwater, price lost steam after opening higher Jul 22. Mixed H2 2026 outlooks.",
-    "macro": "No major macro releases today (Jul 23) or Jul 24. FOMC meeting Jul 28-29 next key event (~89% probability rate hold). June CPI released Jul 14 showed 3.5% YoY / core 2.6% YoY - above Fed 2% target keeping pressure on. Next CPI is Aug 12. Low macro event risk in next 24h but FOMC shadow looms.",
-    "etf_flows": "6 consecutive days positive inflows. iShares Bitcoin Trust +$164M recently. Second consecutive week of inflows - first back-to-back weeks since May 2026. Institutional demand recovering but market cap $1.33T vs prior ATH zone suggests range caution.",
-    "resistance_support": "Key range: $64,000-$66,800. Resistance: $66,396 (24h high). Support: $65,000 (psychological), $64,000 (July low zone). Short-squeeze rebound from oversold; trend strength weak per ADX.",
-    "regulatory": "CLARITY Act progressing. No immediate SEC BTC ETF decisions in next 24h. Low regulatory risk today."
+    "trend": "BTC ~$65,054 (-1.36% intraday). Opened $66,081, slipped to $65,054 by 9:22am ET. Consolidating in $65K-$66.8K range after July mid-month rally. Month-to-date from $60,800 open still positive.",
+    "sentiment": "Neutral/cautious. Positive: ETF inflows continuing (iShares Bitcoin Trust +$164M recent session, Ark 21Shares and Grayscale Mini Trust also positive), Japan reclassified crypto as financial assets reducing taxes, 17 vs 15 bullish/bearish technical indicators (slight bullish edge). Negative: BTC slipped below $65K today, oil prices surging (risk-off), CLARITY Act stalled in Congress, BitMEX shutdown adding negative tone.",
+    "macro": "Quiet macro calendar for next 24h (Jul 23-24). No CPI/PPI releases until Aug 12-13. FOMC meeting Jul 28-29 next major event (~89% probability hold). June CPI was -0.4% MoM, 12-month PPI +5.5% - mixed signals for Fed path. No crypto ETF SEC decisions expected in next 24h.",
+    "etf_flows": "Positive inflows continuing. iShares Bitcoin Trust +$164M recently. Institutional demand recovering. Multiple consecutive days positive - supporting price floor near $64K-$65K.",
+    "resistance_support": "Resistance: $66,000-$66,800 (recent highs). Support: $65,000 (psychological), $63,500-$64,500 (EMA zone). EMA50 acting as dynamic support. Positive RSI divergence forming after oversold levels.",
+    "regulatory": "CLARITY Act stalled in Congress - bearish for near-term regulatory clarity. Japan crypto reclassification as financial assets - bullish structural. No immediate SEC crypto ETF decisions. Low regulatory event risk in next 24h."
   },
-  "notes": "BTC $65,555 횡보, 공포지수 29, FOMC 관망세",
-  "updated": "2026-07-23 12:07:00 UTC",
-  "valid_until": "2026-07-23 16:07:00 UTC"
+  "notes": "BTC $65K 횡보, 오늘 -1.4%, ETF 유입 지속, FOMC 관망",
+  "updated": "2026-07-23 18:06:40 UTC",
+  "valid_until": "2026-07-23 22:06:40 UTC"
 }
