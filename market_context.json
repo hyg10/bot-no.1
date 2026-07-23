@@ -1,30 +1,24 @@
 {
   "regime": "neutral",
-  "confidence": 0.35,
+  "confidence": 0.45,
   "btc_price_usd": 65820,
   "key_events_next_24h": [
-    {
-      "name": "Pre-FOMC positioning (FOMC Jul 28-29 rate decision)",
-      "time": "2026-07-23 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
     {
       "name": "Bitcoin spot ETF daily flow report",
       "time": "2026-07-23 20:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$65,820 (Jul 23). Opened Jul 22 at $66,508 but closed lower around $65,556. Price in a tight range $64,000-$66,500 for past week. Monthly recovery from $58,278 (Jul 1) stalling near $66k resistance.",
-    "sentiment": "Neutral/Cautious. Mixed signals: 6 consecutive days of positive ETF inflows (bullish) vs on-chain metrics not confirming trend reversal (bearish). Standard Chartered renewed $100k year-end target. Top buyers at $75k-$126k in loss zone.",
-    "macro": "No CPI/PPI or FOMC in next 24h. CPI for June already released July 14 (softer, bullish). FOMC Jul 28-29 next major event (hawkish hold expected at 3.50-3.75%, no 2026 cuts priced). Low event risk today.",
-    "etf_flows": "6 consecutive positive ETF inflow days as of July 22. First 2 consecutive weeks of inflows since May 2026. Institutional demand recovering. However, historical $4.13B ETF outflows still a headwind.",
-    "resistance_support": "Key range: $64,000-$66,500. Overhead resistance: $66,500 (recent high), $66,263 (upper BB). Support: $65,000 (psychological), $64,000 (weekly low). BTC still well below 200-day MA.",
-    "regulatory": "SEC has 3 crypto rulemaking items on 2026 agenda (crypto asset sales, custody, market structure). CLARITY Act progress possible. No immediate SEC BTC ETF decisions expected."
+    "trend": "BTC ~$65,820 (-0.89% 24h). Opened Jul 22 at $66,508 but lost steam, closed near $65,557. Weekly +4.03% but short-term momentum cooling near $65k-$66.5k range. Monthly recovery from $58,278 (Jul 1) stalling at $66k resistance.",
+    "sentiment": "Neutral/Cautiously Bullish. Positive: 6 consecutive days of ETF inflows, second consecutive week of positive inflows (first time since May), Standard Chartered reaffirmed $100k year-end target. Negative: On-chain metrics don't confirm trend reversal, top buyers at $75k-$126k in loss zone, falling spot/futures volumes.",
+    "macro": "No CPI/PPI or major releases today (Jul 23). June CPI released Jul 14 (softer, -0.4% MoM, +3.5% YoY - bullish). FOMC Jul 28-29 next key event (~89% probability of rate hold). Low macro event risk today.",
+    "etf_flows": "Positive for 6 consecutive days. iShares Bitcoin Trust gained ~$164M yesterday; Ark 21Shares and Grayscale Mini Trust also saw notable inflows. Second consecutive week of inflows - first since May 2026. Institutional demand recovering but total $4.13B historical outflows still a headwind.",
+    "resistance_support": "Key range: $64,000-$66,500. Resistance: $66,500 (recent high). Support: $65,000 (psychological), $64,000 (weekly low). Market consensus target: $100k year-end (Standard Chartered).",
+    "regulatory": "CLARITY Act progressing. No immediate SEC BTC ETF decisions expected in next 24h. Low regulatory event risk today."
   },
-  "notes": "혼조세, $66k 저항, ETF 유입 vs 온체인 약세, FOMC 7/29 대기",
-  "updated": "2026-07-23 05:00:00 UTC",
-  "valid_until": "2026-07-23 09:00:00 UTC"
+  "notes": "혼조세, $66k 저항, ETF 유입 6일 연속, FOMC 7/29 대기",
+  "updated": "2026-07-23 06:00:00 UTC",
+  "valid_until": "2026-07-23 10:00:00 UTC"
 }
