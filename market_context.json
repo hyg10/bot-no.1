@@ -1,7 +1,7 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "btc_price_usd": 64988,
+  "btc_price_usd": 65030,
   "key_events_next_24h": [
     {
       "name": "US Initial Jobless Claims (weekly)",
@@ -20,17 +20,23 @@
       "time": "2026-07-24 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Meeting Begins (rate decision July 29 14:00 ET)",
+      "time": "2026-07-28 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC $64,988 (-1.07% in 24h). Consolidating in $64,900-$65,200 zone. CLARITY Act stall + Nasdaq -2% weigh on sentiment. Standard Chartered maintains $100K year-end target.",
-    "sentiment": "Cautious/mixed. ETF inflow streak of 7 days ended with today's risk-off. CLARITY Act stalled in Senate on three interlocking disputes — blocking 7-9 Democratic votes needed for 60-vote threshold. Jack Mallers resigned from Twenty One Capital. Crypto.com reached $20B valuation (Citadel +$400M). BTC buyers who entered $75K-$126K range are now realizing losses, adding overhead resistance.",
-    "macro": "Nasdaq Composite fell >2% Wednesday. Oil prices surging. Risk-off tone. FOMC July 28-29 upcoming — markets now pricing ~33% chance of rate hike (hawkish shift vs prior ~11%). Inflation at 3.7%, well above 2% target. Jobless Claims today (13:30 UTC) is the main data point in next 24h.",
-    "etf_flows": "7-day inflow streak (Jul 14-23, ~$981M total) ended. Modest outflows now resuming. ETF floor support near $64K-$65K still intact but momentum fading.",
+    "trend": "BTC $65,030 (-1.80% in 24h). Consolidating in $64,900-$65,200 zone. CLARITY Act stall + Nasdaq -2% weigh on sentiment. ETF 7-day inflow streak ended with risk-off tone.",
+    "sentiment": "Cautious/mixed. ETF inflow streak of 7 days ended. CLARITY Act stalled in Senate on three interlocking disputes — blocking 7-9 Democratic votes needed for 60-vote threshold. Crypto.com reached $20B valuation (Citadel +$400M). BTC buyers who entered $75K-$126K range now realizing losses, adding overhead resistance. Analysts note near-term outlook is uncertain.",
+    "macro": "Nasdaq Composite fell >2% Wednesday. Oil prices surging. Risk-off tone. FOMC July 28-29 upcoming — markets pricing ~33% chance of rate hike (hawkish shift vs prior ~11%). Inflation at 3.7%, well above 2% target. Jobless Claims today (13:30 UTC) is the main data point in next 24h. No CPI/PPI until mid-August.",
+    "etf_flows": "7-day inflow streak (Jul 14-23, ~$981M total) ended. ETF floor support near $64K-$65K still intact but momentum fading. Bank of NY Mellon piloting tokenized Treasuries — bullish for institutional adoption longer term.",
     "resistance_support": "Resistance: $66,000-$66,400. Support: $64,500-$65,000. Break below $64,500 would target $63,500 ahead of FOMC.",
-    "regulatory": "CLARITY Act stalled with August 10 final deadline (20 working days from Jul 13). SEC added 3 crypto rulemaking items to 2026 agenda. No BTC ETF SEC decisions expected next 24h. FOMC rate hike risk ~33% is bearish tail risk for crypto next week."
+    "regulatory": "CLARITY Act stalled with August 10 final deadline (20 working days from Jul 13). Senate passage odds declining per July 23 reports. SEC added 3 crypto rulemaking items to 2026 agenda. No BTC ETF SEC decisions expected next 24h. FOMC rate hike risk ~33% is bearish tail risk for crypto next week."
   },
   "notes": "나스닥 -2%·CLARITY법 불발, BTC $65k 횡보 중립 유지",
-  "updated": "2026-07-24 06:06:34 UTC",
-  "valid_until": "2026-07-24 10:06:34 UTC"
+  "updated": "2026-07-24 10:15:00 UTC",
+  "valid_until": "2026-07-24 14:15:00 UTC"
 }
