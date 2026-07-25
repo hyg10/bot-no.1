@@ -1,30 +1,36 @@
 {
-  "regime": "bearish",
-  "confidence": 0.60,
-  "btc_price_usd": 64034,
+  "regime": "neutral",
+  "confidence": 0.42,
+  "btc_price_usd": 64284.4,
   "key_events_next_24h": [
     {
-      "name": "No major US macro releases (weekend)",
-      "time": "2026-07-25 00:00 UTC",
+      "name": "Weekend - No major US macro data releases",
+      "time": "2026-07-25 18:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting Begins (rate decision July 29 14:00 ET)",
+      "name": "Crypto Clarity Act - Odds of passing fell, legislative uncertainty",
+      "time": "2026-07-26 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Meeting Begins (rate decision July 29 14:00 ET) - pre-meeting caution",
       "time": "2026-07-28 14:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,034 on July 25, down 1.3% in 24h. Market cap fell 1.1% to $2.28T. Structurally below long-term EMAs — bearish bias maintained. Bitcoin dominance 56.4%.",
-    "sentiment": "Fear & Greed Index 27 (Fear zone). Weekly +4% but short-term momentum cooling after $65,471 resistance rejection. On-chain: falling spot/futures volumes, low blockchain activity — caution warranted.",
-    "macro": "June CPI: -0.4% MoM, +3.5% YoY (released July 14). June PPI: +5.5% YoY (elevated). FOMC July 28-29; rate decision July 29 ~14:00 ET. CME FedWatch: ~63% hold. Higher oil prices and tariff policy raising inflation expectations, pushing Treasury yields higher — luring institutional flows away from risk assets.",
-    "etf_flows": "Spot BTC ETF: $225M net outflows on July 24, reversing prior 7-day inflow streak. Previous week totaled $1.2B inflows (Jul 14-23), but momentum stalled on macro headwinds. June was worst month on record (-$4.5B). Goldman Sachs new BTC ETF registration pending.",
-    "resistance_support": "Resistance: $65,500-$67,500. Support: $63,500-$64,500. Below $63,500 targets $61,000. FOMC on July 28-29 is dominant near-term risk event.",
-    "regulatory": "CLARITY Act — Senate GOP new draft released, odds of passage fell (July 23). No BTC ETF SEC decisions expected in next 24h. SEC SEC promised 'neutral' approach to crypto ETFs going forward."
+    "trend": "BTC $64,284 at 18:06 UTC (live Crypto.com). 24h range $63,742-$64,358 - extremely tight (<1%). Stabilizing after yesterday -1.6% drop. Consolidation at support zone.",
+    "sentiment": "Fear & Greed Index 27-35 (Fear territory). Multiple index sources show 27-45 range. On-chain: falling spot/futures volumes, low blockchain activity - caution but no panic selling.",
+    "macro": "June CPI: -0.4% MoM, +3.5% YoY (released July 14). FOMC July 28-29; rate decision July 29 ~14:00 ET. CME FedWatch: ~63% hold, no cut expected. Higher oil prices and tariff policy raising inflation expectations, Treasury yields elevated - institutional caution on risk assets.",
+    "etf_flows": "Spot BTC ETF: $225M net outflows on July 24, reversing prior 7-day inflow streak (+$999M). Weekend = no ETF flows. Institutional flow resumes Monday July 27.",
+    "resistance_support": "Resistance: $64,500 / $65,500-$67,500. Support: $63,500-$63,742 (today low). Tight consolidation band. FOMC July 28-29 is dominant risk event.",
+    "regulatory": "CLARITY Act - Senate GOP new draft, odds of passage fell (July 23). Standard Chartered maintains $100K year-end 2026 BTC target."
   },
-  "notes": "공포지수 27, ETF 유출 재개, 국채금리 상승, FOMC 7/28 대기 하락압력",
-  "updated": "2026-07-25 09:00:00 UTC",
-  "valid_until": "2026-07-25 13:00:00 UTC"
+  "notes": "BTC $64,284 주말 횡보, 공포지수 30, ETF유출, FOMC(7/29) 앞두고 관망",
+  "updated": "2026-07-25 18:07:00 UTC",
+  "valid_until": "2026-07-25 22:07:00 UTC"
 }
