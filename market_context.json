@@ -1,42 +1,30 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 65030,
+  "confidence": 0.55,
+  "btc_price_usd": 64900,
   "key_events_next_24h": [
     {
-      "name": "US Initial Jobless Claims (weekly)",
-      "time": "2026-07-24 13:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "CLARITY Act Senate - ongoing stall (3 disputes, 60-vote threshold)",
-      "time": "2026-07-24 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
       "name": "Bitcoin Spot ETF Daily Flow Report",
-      "time": "2026-07-25 02:00 UTC",
+      "time": "2026-07-26 02:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting Begins (rate decision July 29 14:00 ET)",
+      "name": "FOMC Meeting Begins (Day 1 of 2, rate decision July 29)",
       "time": "2026-07-28 14:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
   "market_summary": {
-    "trend": "BTC $65,030 (-0.95% in 24h). Session low $64,600, brief break below $65k. Head & shoulders pattern on 3-day chart — bearish technical setup. Support zone $64,500-$65,000.",
-    "sentiment": "Fear & Greed index dropped to 28 (Fear zone). ETF 7-day inflow streak ended with $225.2M outflows July 24. DeFi surging +9.8% while BTC/ETH declining — capital rotating out of large-cap crypto. Jack Mallers resigned from Twenty One Capital (Three-way merger collapse). BTC buyers at $75K-$126K realizing losses, overhead resistance heavy.",
-    "macro": "US-Tehran geopolitical tensions renewed. Oil prices rising -> higher inflation expectations -> higher Treasury yields -> risk-off. Nasdaq fell >2% Wed. FOMC July 28-29: ~33% rate hike probability (hawkish shift). No CPI until Aug 12; GDP/PCE due July 30. Higher yields reduce appeal of non-yielding assets like BTC.",
-    "etf_flows": "$225.2M net outflows July 24 (ended 7-day inflow streak totaling ~$981M). June 2026 was worst ETF month ever with $4.06B redemptions. ETF floor support near $64,500 still intact but momentum clearly fading.",
-    "resistance_support": "Resistance: $66,000-$66,400. Support: $64,500-$65,000. Break below $64,500 targets $63,500 ahead of FOMC. Head & shoulders neckline ~$64,500.",
-    "regulatory": "CLARITY Act stalled — Senate passage odds declining per July 23 reports, August 10 deadline approaching. FOMC hawkish risk (~33% hike) is key tail risk for crypto next week. No BTC ETF SEC decisions expected next 24h."
+    "trend": "BTC ~$64,900 (-1.9% in 24h). ETH -2.5% to $1,882. BTC failed to reclaim $70k consolidation zone — structural weakness persists. Weekly bounce +3.8% but broader June decline was -14%.",
+    "sentiment": "Fear & Greed index 26 (Fear zone, near lowest in July). Whale wallets continue distributing while retail accumulates — bearish divergence. Long-term holders accumulating at current levels provides floor support, but spot/futures volumes declining and blockchain activity subdued.",
+    "macro": "No CPI/PPI releases July 25 (June CPI already released July 14: -0.4% MoM, +3.5% YoY — softer than expected). FOMC July 28-29, rate decision July 29 14:00 ET; current rate 3.5-3.75%. Market watching for hold vs cut signal. Japan reclassified crypto as 'financial assets' with reduced taxes — long-term bullish for Asian demand.",
+    "etf_flows": "ETF inflows paused; market digesting after earlier outflow streak in June (worst ETF month on record: ~$4B redemptions). Goldman Sachs filed new BTC ETF registration in April 2026 — regulatory pipeline growing but no near-term SEC decisions expected.",
+    "resistance_support": "Resistance: $66,000-$66,500. Support: $64,500. Below $64,500 targets $63,000-$63,500 ahead of FOMC. No strong recovery catalyst in next 24h.",
+    "regulatory": "CLARITY Act still stalled in Senate. No BTC ETF SEC decisions expected next 24h. Japan crypto tax reform positive long-term. FOMC July 29 is key macro risk event — current rate 3.5-3.75%, market pricing hold."
   },
-  "notes": "ETF유출·지정학·헤숄더패턴으로 BTC 하락압력 뚜렷",
-  "updated": "2026-07-24 10:30:00 UTC",
-  "valid_until": "2026-07-24 14:30:00 UTC"
+  "notes": "BTC 64k대 하락, 공포지수 26, FOMC 7/29 앞두고 관망세",
+  "updated": "2026-07-25 06:00:00 UTC",
+  "valid_until": "2026-07-25 10:00:00 UTC"
 }
