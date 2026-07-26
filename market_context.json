@@ -1,14 +1,8 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 64144.0,
+  "confidence": 0.5,
+  "btc_price_usd": 64238.0,
   "key_events_next_24h": [
-    {
-      "name": "FOMC Meeting Begins (rate decision July 29 14:00 ET) - pre-meeting caution",
-      "time": "2026-07-28 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
     {
       "name": "Bitcoin spot ETF daily flow report (Monday resumption)",
       "time": "2026-07-27 00:00 UTC",
@@ -20,17 +14,23 @@
       "time": "2026-07-27 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Meeting Begins (rate decision July 29 14:00 ET)",
+      "time": "2026-07-28 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC $64,144 today (24h range $63,767-$64,216 - tight <1%). Down ~1.6% from Thursday open. Consolidating below $64,500 resistance. Narrow band suggests wait-and-see mode.",
-    "sentiment": "Fear & Greed Index 27 (Fear territory, July 25). Multiple index sources: 27-45 range. Bearish flow pressure from $225M ETF outflows Thursday. Weekend = no institutional ETF flow.",
-    "macro": "June CPI: -0.4% MoM, +3.5% YoY. FOMC July 28-29; rate decision July 29 ~14:00 ET; market consensus = hold at 3.50%-3.75%. Higher oil and tariff policy raised inflation expectations, Treasury yields elevated - institutional rotation away from risk assets.",
-    "etf_flows": "Spot BTC ETF: $225M net outflows July 24 (Thursday). Institutional flow resumes Monday July 27. Continued outflows would add bearish pressure.",
-    "resistance_support": "Resistance: $64,216 (today high) / $64,500 / $65,500. Support: $63,767 (today low) / $63,500. FOMC July 28-29 dominant risk event.",
-    "regulatory": "SEC preparing unified ETF framework (60-day comment period, through Sep 2026). Crypto Clarity Act odds fell (July 23). Standard Chartered maintains $100K year-end 2026 target."
+    "trend": "BTC ~$64,238 today (sources: $63,965-$64,507 range). Down ~1.6% from Thursday open ($65,047). Retreated from $65K on higher Treasury yields and $225M ETF outflows (Jul 24). Mid-July recovery from lows holds but momentum weakening.",
+    "sentiment": "Fear & Greed Index ~27 (Fear territory, Jul 25). ETF outflows $225M on Jul 24 signal institutional caution. Weekend = no ETF flow. Clarity Act odds fell Jul 23 - additional bearish pressure.",
+    "macro": "June CPI: -0.4% MoM, +3.5% YoY (released Jul 14). FOMC Jul 28-29; rate decision Jul 29 ~14:00 ET; consensus = hold at 3.50%-3.75%. Higher oil + tariff policy raised inflation expectations, Treasury yields elevated - institutions rotating away from risk.",
+    "etf_flows": "Spot BTC ETF: $225M net outflows Jul 24 (Thu). Institutional flow resumes Mon Jul 27. Continued outflows would add bearish pressure; reversal would signal recovery.",
+    "resistance_support": "Resistance: $64,500 / $65,000 / $65,500. Support: $63,500 / $63,000. FOMC Jul 28-29 is dominant risk event this week.",
+    "regulatory": "SEC preparing unified ETF framework (60-day comment period through Sep 2026). Goldman Sachs seeking SEC approval for new Bitcoin ETF. Standard Chartered maintains $100K year-end 2026 target."
   },
-  "notes": "BTC $64,144 횡보, 공포지수 27, FOMC 7/29 앞두고 관망세 지속",
-  "updated": "2026-07-26 07:30:00 UTC",
-  "valid_until": "2026-07-26 11:30:00 UTC"
+  "notes": "BTC $64,238 횡보, ETF 순유출·FOMC 대기로 단기 관망세",
+  "updated": "2026-07-26 06:06:46 UTC",
+  "valid_until": "2026-07-26 10:06:46 UTC"
 }
