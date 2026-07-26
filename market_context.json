@@ -1,36 +1,36 @@
 {
-  "regime": "neutral",
-  "confidence": 0.5,
-  "btc_price_usd": 64238.0,
+  "regime": "bearish",
+  "confidence": 0.55,
+  "btc_price_usd": 64318,
   "key_events_next_24h": [
     {
-      "name": "Bitcoin spot ETF daily flow report (Monday resumption)",
+      "name": "Spot BTC ETF daily flow report (Monday resumption)",
       "time": "2026-07-27 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "Crypto Clarity Act - legislative uncertainty continues",
-      "time": "2026-07-27 00:00 UTC",
+      "name": "US Consumer Confidence Index (Conference Board)",
+      "time": "2026-07-27 14:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting Begins (rate decision July 29 14:00 ET)",
-      "time": "2026-07-28 18:00 UTC",
+      "name": "FOMC Meeting Begins (rate decision July 29 18:00 UTC)",
+      "time": "2026-07-28 00:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,238 today (sources: $63,965-$64,507 range). Down ~1.6% from Thursday open ($65,047). Retreated from $65K on higher Treasury yields and $225M ETF outflows (Jul 24). Mid-July recovery from lows holds but momentum weakening.",
-    "sentiment": "Fear & Greed Index ~27 (Fear territory, Jul 25). ETF outflows $225M on Jul 24 signal institutional caution. Weekend = no ETF flow. Clarity Act odds fell Jul 23 - additional bearish pressure.",
-    "macro": "June CPI: -0.4% MoM, +3.5% YoY (released Jul 14). FOMC Jul 28-29; rate decision Jul 29 ~14:00 ET; consensus = hold at 3.50%-3.75%. Higher oil + tariff policy raised inflation expectations, Treasury yields elevated - institutions rotating away from risk.",
-    "etf_flows": "Spot BTC ETF: $225M net outflows Jul 24 (Thu). Institutional flow resumes Mon Jul 27. Continued outflows would add bearish pressure; reversal would signal recovery.",
-    "resistance_support": "Resistance: $64,500 / $65,000 / $65,500. Support: $63,500 / $63,000. FOMC Jul 28-29 is dominant risk event this week.",
-    "regulatory": "SEC preparing unified ETF framework (60-day comment period through Sep 2026). Goldman Sachs seeking SEC approval for new Bitcoin ETF. Standard Chartered maintains $100K year-end 2026 target."
+    "trend": "BTC ~$64,318 (range $63,767-$64,502 on Jul 26). Retreated from Jul 22 high of $66,872. Struggling to hold $64K after $225M ETF outflows on Jul 24 ended 7-session inflow streak.",
+    "sentiment": "Fear & Greed Index ~26 (Fear territory). Whales selling while retail buys. 'Buy the dip' social mentions very low — crowd not calling a bottom. Long-term holders accumulating, but near-term momentum weak.",
+    "macro": "FOMC Jul 28-29; rate decision Jul 29 at 18:00 UTC; consensus = hold at 3.50%-3.75%. Pre-FOMC uncertainty typically suppresses risk appetite. US Consumer Confidence due Jul 27.",
+    "etf_flows": "Spot BTC ETF: $225M net outflows Jul 24 — BlackRock IBIT led with $202.5M. Ended 7-session inflow streak. Monday flow resumption is key near-term signal.",
+    "resistance_support": "Resistance: $64,500 / $65,000 / $66,872 (Jul 22 high). Support: $63,500 / $63,000 / $60,000. FOMC Jul 29 is dominant risk event this week.",
+    "regulatory": "No new SEC BTC ETF decisions imminent. Goldman Sachs new BTC ETF application pending. Regulatory tailwinds remain structural positive for H2 2026."
   },
-  "notes": "BTC $64,238 횡보, ETF 순유출·FOMC 대기로 단기 관망세",
-  "updated": "2026-07-26 06:06:46 UTC",
-  "valid_until": "2026-07-26 10:06:46 UTC"
+  "notes": "ETF 순유출 $2.25억, 공포지수 26, FOMC 7/29 대기",
+  "updated": "2026-07-26 09:30:00 UTC",
+  "valid_until": "2026-07-26 13:30:00 UTC"
 }
