@@ -1,30 +1,36 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 65330,
+  "confidence": 0.55,
+  "btc_price_usd": 65358.92,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting Day 1 (rate decision July 29 18:00 UTC, hold 3.5-3.75% expected)",
+      "name": "FOMC Meeting Day 1",
       "time": "2026-07-28 14:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "US Senate CLARITY Act discussion (34% pass odds on Polymarket)",
+      "name": "FOMC Rate Decision (hold 3.5-3.75% expected, 70% prob; hike tail risk)",
+      "time": "2026-07-29 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US Senate CLARITY Act discussion (34% pass odds)",
       "time": "2026-07-28 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$65,330 on Jul 27. Slight recovery from Jul 24 low of $64,304. 24h range: $64,237-$65,461. Struggling to reclaim $66K on high Treasury yields.",
-    "sentiment": "Mixed/fragile. Spot BTC ETF net outflows ~$225M on Jul 24. Meme coins rallying +11% (retail returning). Long-term holders accumulating. FOMC uncertainty caps upside.",
-    "macro": "FOMC Jul 28-29; rate decision Jul 29 18:00 UTC; consensus = hold at 3.50%-3.75%. No dot-plot at this meeting. Pre-FOMC risk-off pressure. No CPI/PPI this week (next releases Aug 12-13).",
-    "etf_flows": "Spot BTC ETF: ~$225M net outflows Jul 24. Prior 7-session inflow streak ended. Monday flow resumption a key near-term catalyst.",
+    "trend": "BTC $65,358 on Jul 27 12:00 UTC. Up $901 from Jul 26 AM. Weekly +4.03%. Struggling to reclaim $66K on high Treasury yields. RSI 55.22 (neutral). 19 bullish vs 11 bearish TA signals.",
+    "sentiment": "Neutral/fragile. Spot BTC ETF net outflows ~$225M on Jul 24, breaking 7-session inflow streak. FOMC uncertainty caps upside. Long-term holders accumulating. Standard Chartered maintains $100K year-end target.",
+    "macro": "FOMC Jul 28-29; rate decision Jul 29 18:00 UTC; 70% hold at 3.50%-3.75%, ~30% hike tail risk (no cut). No dot-plot at this meeting. Pre-FOMC risk-off dominant. No CPI/PPI this week.",
+    "etf_flows": "Spot BTC ETF: ~$225M net outflows Jul 24. Prior 7-session $999M inflow streak ended. Outflows = short-term bearish signal.",
     "resistance_support": "Resistance: $65,500 / $66,000 / $66,900. Support: $64,200 / $63,500 / $63,000.",
-    "regulatory": "CLARITY Act Senate odds at 34% on Polymarket — regulatory headwind. Goldman Sachs Bitcoin Premium Income ETF application pending SEC approval. Standard Chartered maintains $100K year-end target."
+    "regulatory": "CLARITY Act Senate odds ~34% on Polymarket — regulatory headwind. Goldman Sachs BTC ETF application pending SEC approval. Standard Chartered maintains $100K year-end target."
   },
-  "notes": "FOMC 7/29 결정 대기, ETF 순유출 지속, 65K 박스권 횡보 중",
-  "updated": "2026-07-27 10:00:00 UTC",
-  "valid_until": "2026-07-27 14:00:00 UTC"
+  "notes": "FOMC 7/29 결정 대기, ETF 순유출 지속, 65K 박스권 중립",
+  "updated": "2026-07-27 12:06:46 UTC",
+  "valid_until": "2026-07-27 16:06:46 UTC"
 }
