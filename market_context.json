@@ -1,23 +1,11 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 64466,
+  "regime": "neutral",
+  "confidence": 0.4,
+  "btc_price_usd": 65330,
   "key_events_next_24h": [
     {
-      "name": "Spot BTC ETF daily flow report (Monday resumption)",
-      "time": "2026-07-27 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US Consumer Confidence Index (Conference Board)",
-      "time": "2026-07-27 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Meeting Begins (rate decision July 29 18:00 UTC, hold 3.5-3.75% expected)",
-      "time": "2026-07-28 00:00 UTC",
+      "name": "FOMC Meeting Day 1 (rate decision July 29 18:00 UTC, hold 3.5-3.75% expected)",
+      "time": "2026-07-28 14:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
@@ -29,14 +17,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,466 on Jul 26. Retreated from Jul 22 high of $66,900. Struggling to hold $65K after ETF outflow streak. Range: $63,500-$65,000.",
-    "sentiment": "Fear & Greed Index ~22 (Extreme Fear). ETF outflows ~$465M over last 2 days, ended prior 7-session inflow streak. Retail meme-coin buying returned but BTC momentum weak. Long-term holders accumulating at dip.",
-    "macro": "FOMC Jul 28-29; rate decision Jul 29 18:00 UTC; consensus = hold at 3.50%-3.75%. Pre-FOMC uncertainty suppresses risk appetite. No dot-plot at this meeting.",
-    "etf_flows": "Spot BTC ETF: ~$465M net outflows over Jul 24-25. BlackRock IBIT leading redemptions. Prior 7-session inflow streak ended. Monday flow resumption is key near-term catalyst.",
-    "resistance_support": "Resistance: $65,000 / $66,000 / $66,900 (Jul 22 high). Support: $63,500 / $63,000 / $60,000.",
-    "regulatory": "CLARITY Act Senate vote odds at 34% on Polymarket — regulatory uncertainty a headwind. No imminent SEC BTC ETF decisions. Goldman Sachs ETF application pending."
+    "trend": "BTC ~$65,330 on Jul 27. Slight recovery from Jul 24 low of $64,304. 24h range: $64,237-$65,461. Struggling to reclaim $66K on high Treasury yields.",
+    "sentiment": "Mixed/fragile. Spot BTC ETF net outflows ~$225M on Jul 24. Meme coins rallying +11% (retail returning). Long-term holders accumulating. FOMC uncertainty caps upside.",
+    "macro": "FOMC Jul 28-29; rate decision Jul 29 18:00 UTC; consensus = hold at 3.50%-3.75%. No dot-plot at this meeting. Pre-FOMC risk-off pressure. No CPI/PPI this week (next releases Aug 12-13).",
+    "etf_flows": "Spot BTC ETF: ~$225M net outflows Jul 24. Prior 7-session inflow streak ended. Monday flow resumption a key near-term catalyst.",
+    "resistance_support": "Resistance: $65,500 / $66,000 / $66,900. Support: $64,200 / $63,500 / $63,000.",
+    "regulatory": "CLARITY Act Senate odds at 34% on Polymarket — regulatory headwind. Goldman Sachs Bitcoin Premium Income ETF application pending SEC approval. Standard Chartered maintains $100K year-end target."
   },
-  "notes": "공포지수 22(극심), ETF 이틀 연속 유출, CLARITY법 불확실, FOMC 대기",
-  "updated": "2026-07-26 10:00:00 UTC",
-  "valid_until": "2026-07-26 14:00:00 UTC"
+  "notes": "FOMC 내일 결정 대기, 국채금리 상승 ETF유출, 중립 혼조세",
+  "updated": "2026-07-27 08:00:00 UTC",
+  "valid_until": "2026-07-27 12:00:00 UTC"
 }
