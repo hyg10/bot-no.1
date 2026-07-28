@@ -1,36 +1,30 @@
 {
   "regime": "neutral",
-  "confidence": 0.6,
-  "btc_price_usd": 65217.79,
+  "confidence": 0.55,
+  "btc_price_usd": 64900.00,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting Day 1",
-      "time": "2026-07-28 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Rate Decision (hold 3.50-3.75% expected, 84% prob)",
+      "name": "FOMC Rate Decision (hold expected, hawkish risk)",
       "time": "2026-07-29 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "Fed Chair Press Conference",
+      "name": "Fed Chair Powell Press Conference",
       "time": "2026-07-29 18:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC $65,217 on Jul 27 13:00 UTC. Up +1.16% (24h). Weekly +~1.6%. Holding mid-$60Ks defensively ahead of FOMC. RSI neutral. US-Iran ceasefire pause provided mild lift.",
-    "sentiment": "Cautious neutral. Fear & Greed Index = 30 (Fear zone). Market cap $2.3T (+1.7% 24h). ETF flows: 3 consecutive weeks of net inflows ($33.8M net last week), but intra-week volatility (outflows Jul 23-24). Institutional tentative return.",
-    "macro": "FOMC Jul 28-29; rate decision Jul 29 18:00 UTC. 84% probability of hold at 3.50-3.75% (no cut, no hike). Non-SEP meeting (no dot-plot). Range-bound trading expected unless surprise hawkish guidance. No CPI/PPI this week.",
-    "etf_flows": "Third consecutive weekly net inflows into spot BTC ETFs ($33.8M net for week). Intra-week volatility with $225M outflows on Jul 23-24 then recovery. Tentative institutional interest returning.",
-    "resistance_support": "Resistance: $65,500 / $66,000. Support: $64,200 / $63,500.",
-    "geopolitical": "US paused airstrikes on Iran — mild risk-on boost. Elevated Treasury yields still capping upside."
+    "trend": "BTC ~$64,900 on Jul 28. Up +0.4% (24h). Consolidating mid-$60Ks in wait-and-see mode ahead of FOMC Day 2 decision. RSI ~55 (neutral). Bullish engulfing on weekly TF, but momentum fragile.",
+    "sentiment": "Cautious neutral. Fear sentiment persists despite recent gains. Market cap $2.3T (+1.7% 24h). BTC ETF outflows $225M on Jul 24 broke weeklong $999M inflow streak — institutional caution returning ahead of FOMC.",
+    "macro": "FOMC Jul 28-29; rate decision Jul 29 18:00 UTC. Hold widely expected. Risk: hawkish surprise (rising Treasury yields, inflation concerns) could push BTC toward $58K-59K. Softer tone = relief rally to mid-$60Ks. No CPI/PPI this week.",
+    "etf_flows": "BTC ETF: $225M outflows on Jul 24, breaking a week of $999M net inflows. Net cautious as FOMC approaches. Standard Chartered maintains $100K year-end target.",
+    "resistance_support": "Resistance: $65,500 / $66,000. Support: $64,200 / $63,500 / $58,000.",
+    "geopolitical": "Easing Middle East tensions and lower oil prices = mild risk-on support. Higher US Treasury yields still capping upside. Rising US debt = potential long-term BTC tailwind."
   },
-  "notes": "FOMC 동결 기대(84%), BTC $65K 지지, Fear 30 관망세",
-  "updated": "2026-07-27 13:15:00 UTC",
-  "valid_until": "2026-07-27 17:15:00 UTC"
+  "notes": "FOMC 결정일 대기, BTC $65K 횡보, ETF 자금유출 우려",
+  "updated": "2026-07-28 07:00:00 UTC",
+  "valid_until": "2026-07-28 11:00:00 UTC"
 }
