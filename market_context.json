@@ -1,19 +1,19 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 63450.10,
+  "regime": "bearish",
+  "confidence": 0.65,
+  "btc_price_usd": 63900.0,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Jul 28-29, hold expected at 3.50-3.75%)",
+      "name": "FOMC Rate Decision (64.6% hold / 35.4% hike at 3.50-3.75%)",
       "time": "2026-07-29 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "Fed Chair Powell Press Conference",
+      "name": "Fed Chair Warsh Press Conference",
       "time": "2026-07-29 18:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
       "name": "Microsoft & Meta Earnings Reports",
@@ -29,14 +29,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC $63,450 on Jul 28 12:06 UTC, down -2.57% (24h). Range $62,996-$65,663. Crypto market cap $2.26T (-1.6% 24h). BTC dominance 56%. OI: 6,044 BTC.",
-    "sentiment": "Neutral-cautious. Fear index 29 (fear zone). 30/32 technical indicators bearish (RSI 47.68 neutral, MACD declining). Market in wait-and-see mode ahead of FOMC Day 2 decision tomorrow.",
-    "macro": "FOMC Day 2 decision tomorrow Jul 29 18:00 UTC. Rate held at 3.50-3.75% expected. Hawkish surprise = risk-off pressure toward $58-60K. Dovish hold = relief rally toward $65-66K. GDP+PCE release Jul 30 also key.",
-    "etf_flows": "BTC ETF inflows recovering in July after record June outflows of $4.5B. Week of Jul 13: ~$1.2B net inflows. Morgan Stanley filed for spot BTC ETF. SEC now taking 'neutral' stance on crypto ETFs.",
-    "resistance_support": "Resistance: $64,200 / $65,500 / $65,663 (24h high). Support: $62,996 (24h low) / $62,000 / $58,000.",
-    "geopolitical": "Easing geopolitical tensions slightly positive. US Treasury yields elevated, capping crypto upside. No major geopolitical escalations."
+    "trend": "BTC ~$63,900 on Jul 28 18:06 UTC, down -2.82% (24h). Slipped below $64K on FOMC uncertainty and global tech sell-off. $615M total liquidations in 24h. Support at $63,458 being tested.",
+    "sentiment": "Bearish short-term. BTC below $64K, crypto market cap down 1.6%. Crypto Clarity Act shelved by US Senate. FOMC Day 1 underway with hawkish Fed Chair Warsh. 35.4% chance of 25bps rate hike tomorrow.",
+    "macro": "FOMC Day 2 decision tomorrow Jul 29 18:00 UTC. Rate hold expected (64.6%) but 35.4% hike risk is elevated. Hawkish Warsh tone weighing on risk assets. Hike scenario = BTC toward $60K. Hold+dovish = relief rally to $65-66K.",
+    "etf_flows": "BTC ETF inflows recovering in July. Week of Jul 13: ~$1.2B net inflows. Outflows ahead of FOMC creating near-term headwinds. Morgan Stanley spot BTC ETF filing pending.",
+    "resistance_support": "Resistance: $64,200 / $65,500. Support: $63,458 (key) / $62,000 / $60,000 (psychological).",
+    "geopolitical": "US Senate shelved Crypto Clarity Act (bearish regulatory news). Global tech sell-off adding pressure. No major geopolitical escalations."
   },
-  "notes": "FOMC 결정 대기(7/29 18:00UTC), BTC $63,450 하방압력",
-  "updated": "2026-07-28 12:10:00 UTC",
-  "valid_until": "2026-07-28 16:10:00 UTC"
+  "notes": "FOMC금리결정 대기(29일), 크립토법안 지연, BTC $63K 지지선 테스트 중",
+  "updated": "2026-07-28 18:06:33 UTC",
+  "valid_until": "2026-07-28 22:06:33 UTC"
 }
