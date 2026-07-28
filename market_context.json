@@ -1,30 +1,42 @@
 {
-  "regime": "neutral",
-  "confidence": 0.55,
-  "btc_price_usd": 64900.00,
+  "regime": "bearish",
+  "confidence": 0.60,
+  "btc_price_usd": 63173.00,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (hold expected, hawkish risk)",
+      "name": "FOMC Rate Decision (Jul 28-29, hold expected 65.3% prob)",
       "time": "2026-07-29 18:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
       "name": "Fed Chair Powell Press Conference",
       "time": "2026-07-29 18:30 UTC",
       "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Microsoft & Meta Earnings Reports",
+      "time": "2026-07-29 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US Q2 GDP Advance Estimate + PCE Index",
+      "time": "2026-07-30 12:30 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,900 on Jul 28. Up +0.4% (24h). Consolidating mid-$60Ks in wait-and-see mode ahead of FOMC Day 2 decision. RSI ~55 (neutral). Bullish engulfing on weekly TF, but momentum fragile.",
-    "sentiment": "Cautious neutral. Fear sentiment persists despite recent gains. Market cap $2.3T (+1.7% 24h). BTC ETF outflows $225M on Jul 24 broke weeklong $999M inflow streak — institutional caution returning ahead of FOMC.",
-    "macro": "FOMC Jul 28-29; rate decision Jul 29 18:00 UTC. Hold widely expected. Risk: hawkish surprise (rising Treasury yields, inflation concerns) could push BTC toward $58K-59K. Softer tone = relief rally to mid-$60Ks. No CPI/PPI this week.",
-    "etf_flows": "BTC ETF: $225M outflows on Jul 24, breaking a week of $999M net inflows. Net cautious as FOMC approaches. Standard Chartered maintains $100K year-end target.",
-    "resistance_support": "Resistance: $65,500 / $66,000. Support: $64,200 / $63,500 / $58,000.",
-    "geopolitical": "Easing Middle East tensions and lower oil prices = mild risk-on support. Higher US Treasury yields still capping upside. Rising US debt = potential long-term BTC tailwind."
+    "trend": "BTC ~$63,173 on Jul 28, down -2.82% (24h). Broke below $64K support. Crypto market cap $2.26T (-1.6% 24h). Volume $65.7B. BTC dominance 56%.",
+    "sentiment": "Bearish. Fear index 29 (fear zone). Broad market decline with -1.6% in 24h. Bitcoin and Ethereum both falling. DeFi sector weakened. Cautious institutional behavior ahead of FOMC decision.",
+    "macro": "FOMC Day 1 of 2 meeting today (Jul 28-29). Rate decision Jul 29 18:00 UTC. 65.3% prob of no change at 3.50-3.75%. Hawkish risk: persistent inflation above 2% PCE for 5 years, rising Sept hike odds (82%). Softer June CPI/PPI data supports hold. GDP+PCE on Jul 30.",
+    "etf_flows": "Prior ETF inflow streak broken. Institutional caution ahead of FOMC. Market pricing uncertainty with hawkish Fed commentary risk post-decision.",
+    "resistance_support": "Resistance: $64,200 / $65,500. Support: $63,000 / $61,000 / $58,000.",
+    "geopolitical": "No major geopolitical escalations. US Treasury yields elevated — capping crypto upside. Persistent inflation debate continues."
   },
-  "notes": "FOMC 결정일 대기, BTC $65K 횡보, ETF 자금유출 우려",
-  "updated": "2026-07-28 07:00:00 UTC",
-  "valid_until": "2026-07-28 11:00:00 UTC"
+  "notes": "FOMC회의 진행중, BTC -2.8% 하락, 공포지수29, 약세관망",
+  "updated": "2026-07-28 08:30:00 UTC",
+  "valid_until": "2026-07-28 12:30:00 UTC"
 }
