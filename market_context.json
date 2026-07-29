@@ -1,7 +1,7 @@
 {
   "regime": "bearish",
   "confidence": 0.70,
-  "btc_price_usd": 63442.0,
+  "btc_price_usd": 63807.0,
   "key_events_next_24h": [
     {
       "name": "FOMC Rate Decision (Federal Reserve - Day 2)",
@@ -29,7 +29,7 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$63,442 on Jul 29 05:00 UTC, down -2.82% (24h). Opened at $63,707 on Jul 28, slid further overnight. Market cap down 2.70% to $1.27T. Support at $63,000 being approached.",
+    "trend": "BTC ~$63,807 on Jul 29 06:00 UTC, down -2.5% (24h). Opened at $63,707 on Jul 28, partial recovery overnight. Market cap ~$1.26T. Support at $63,000 being tested.",
     "sentiment": "Bearish. Fear & Greed index at 29 (Fear). Crypto market cap -1.6% to -2.7% in 24h. BTC ETF inflow streak ended as Fed rate concerns mount. DeFi weakening. Institutional selling pressure elevated.",
     "macro": "FOMC Day 2 decision TODAY Jul 29 18:00 UTC. Market pricing hold (majority) but hike risk remains. Hawkish Fed Chair Warsh tone. Higher oil prices + new tariffs raising inflation expectations, pushing Treasury yields up, reducing risk appetite. $225M BTC ETF net outflows on Jul 24 (latest data).",
     "etf_flows": "BTC ETF inflow streak ended (Bloomberg Jul 27). $4.13B cumulative outflows in 2026. July saw brief recovery (mid-month) but reversed on FOMC uncertainty. Net outflows Jul 23-24: ~$465M. Institutional hedging dominant.",
@@ -37,6 +37,6 @@
     "geopolitical": "US Senate Crypto Clarity Act stalled (bearish regulatory sentiment). Nasdaq Composite fell >2%, Magnificent Seven tumbled. Oil prices soared. Global risk-off environment."
   },
   "notes": "연준 금리결정 대기(오늘 18:00UTC), BTC 약세·공포지수 29, ETF 유출 재개",
-  "updated": "2026-07-29 05:00:00 UTC",
-  "valid_until": "2026-07-29 09:00:00 UTC"
+  "updated": "2026-07-29 06:06:09 UTC",
+  "valid_until": "2026-07-29 10:06:09 UTC"
 }
