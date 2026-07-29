@@ -1,6 +1,6 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
+  "confidence": 0.45,
   "btc_price_usd": 64363.0,
   "key_events_next_24h": [
     {
@@ -29,14 +29,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,363 on Jul 29 09:15 ET, up +0.31% (24h). Recovered from $63,807 earlier. Market cap ~$2.28T (+0.4%). Weekly still weak but stabilizing post-FOMC.",
-    "sentiment": "Neutral-to-cautious. FOMC held rates 3.50-3.75% (12-0 vote, Warsh first meeting) - removes main bearish catalyst. ETF outflow streak: $11.6M net outflow Jul 27 (BlackRock, Fidelity). Corporate accumulation continues (Hyperscale Data: 1,106 BTC = $71.7M). Retail fear persists, institutional mixed.",
-    "macro": "FOMC RESOLVED: Rates held at 3.50-3.75% (5th consecutive hold). 70% probability priced in, materialized. Warsh press conference at 18:30 UTC (tone key for next move). Q2 GDP + PCE due Jul 30 12:30 UTC - high impact. Crypto Clarity Act stalled in Senate (regulatory uncertainty).",
-    "etf_flows": "7-session inflow streak broken Jul 27: $11.6M net outflow (BlackRock + Fidelity led). Jul 28 data pending. Institutional sentiment: cautious but corporate treasuries still buying (Hyperscale +1,106 BTC).",
-    "resistance_support": "Resistance: $64,500 / $65,500. Support: $63,000 (tested) / $62,000 / $60,000.",
-    "geopolitical": "Crypto Clarity Act stalled (bearish). No rate hike removes pressure. Higher yields persisting. Oil elevated. Mixed macro backdrop for risk assets."
+    "trend": "BTC ~$64,363 on Jul 29, up +0.31% (24h) but down -3.78% on week. Range-bound $62,500-$65,500. Technical signals: 9 bearish / 4 bullish / 10 neutral.",
+    "sentiment": "Neutral with slight bearish lean. FOMC held rates 3.50-3.75% (5th consecutive hold) - main near-term uncertainty resolved. ETF outflow streak resumed ($11.6M net outflow Jul 27, BlackRock/Fidelity). Corporate accumulation continues (Hyperscale Data: 1,106 BTC = $71.7M). BTC down ~49% from $126K ATH (Oct 2025).",
+    "macro": "FOMC RESOLVED: Rates held 3.50-3.75% (12-0 vote). Warsh press conference at 18:30 UTC - tone key for next move. Q2 GDP + PCE due Jul 30 12:30 UTC - high impact. War with Iran risk elevating oil prices and geopolitical uncertainty. Crypto Clarity Act stalled in Senate.",
+    "etf_flows": "7-session inflow streak broken Jul 27: $11.6M net outflow. $27.4M net inflow over prior week overall. Institutional cautious; corporate treasuries still accumulating.",
+    "resistance_support": "Resistance: $64,500 / $65,500. Support: $63,000 / $62,000 / $60,000.",
+    "geopolitical": "Iran conflict risk (elevated oil prices). Crypto regulatory uncertainty (Clarity Act stalled). Higher US Treasury yields persisting. Mixed macro backdrop."
   },
-  "notes": "연준 금리동결 확인, 단기 불확실성 해소·ETF유출 지속",
-  "updated": "2026-07-29 19:30:00 UTC",
-  "valid_until": "2026-07-29 23:30:00 UTC"
+  "notes": "연준 금리동결 확인, 주간-3.78%, 이란리스크·ETF유출 중립",
+  "updated": "2026-07-29 13:00:00 UTC",
+  "valid_until": "2026-07-29 17:00:00 UTC"
 }
