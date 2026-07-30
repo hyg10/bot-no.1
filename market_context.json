@@ -1,14 +1,8 @@
 {
   "regime": "neutral",
-  "confidence": 0.50,
-  "btc_price_usd": 64000.0,
+  "confidence": 0.45,
+  "btc_price_usd": 63889.0,
   "key_events_next_24h": [
-    {
-      "name": "US Q2 GDP Advance Estimate + June PCE Inflation",
-      "time": "2026-07-30 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
     {
       "name": "Coinbase Q2 Earnings",
       "time": "2026-07-30 20:30 UTC",
@@ -26,17 +20,23 @@
       "time": "2026-07-31 08:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Employment Cost Index Q2 2026 (BLS)",
+      "time": "2026-07-31 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,000 on Jul 30, weekly -3.93%. Failed to hold $70K consolidation. Range-bound $62,500-$65,500. Long-term holders accumulating; short-term structure weak.",
-    "sentiment": "Neutral with bearish tilt. FOMC held rates 3.50-3.75% (9-3 vote, Jul 29) - in-line with expectations but 3 hawkish dissenters wanted a hike, adding uncertainty. Bitcoin ETFs net $4.84B outflow for 2026. ETFs lost $11.64M on Jul 27. Strategy holds 843,775 BTC at ~$63.69B avg cost.",
-    "macro": "FOMC RESOLVED: Rates held 3.50-3.75%, 3 dissenters hawkish. Q2 GDP Advance + June PCE due today 12:30 UTC - high impact, potential BTC mover. If PCE elevated, rate-hike odds increase (bearish). Coinbase & Strategy Q2 earnings today after close. Monthly Deribit options expiry Jul 31 08:00 UTC.",
-    "etf_flows": "Net $4.84B outflow for 2026. Jul 27: $11.64M net outflow (BTC), +$9.23M ETH. Mixed institutional signals.",
+    "trend": "BTC ~$63,889 on Jul 30. Failed to hold $70K consolidation. Range-bound $62,500-$65,500. Fear index 29 (Fear zone). Weekly structure weak.",
+    "sentiment": "Neutral-to-bearish. FOMC held rates 3.50-3.75% (9-3 vote, Jul 29) - in-line but 3 hawkish dissenters (Hammack/Kashkari/Logan) add rate-hike tail risk. Bitcoin ETFs cumulative $4.84B net outflow for 2026. Market cap -1.6% in 24h. BTC dominance 56%.",
+    "macro": "FOMC RESOLVED Jul 29: Rates held 3.50-3.75%. Hawkish minority risk persists. Coinbase & Strategy Q2 earnings today after US close. ECI Q2 2026 Jul 31 12:30 UTC. Monthly Deribit options expiry Jul 31 08:00 UTC.",
+    "etf_flows": "Cumulative net $4.84B outflow for 2026 (narrowed from $5.4B in early July). Mixed institutional signals.",
     "resistance_support": "Resistance: $65,000 / $67,000. Support: $63,000 / $62,000 / $60,000.",
-    "geopolitical": "Middle East conflict (elevated oil/uncertainty per Fed statement). SEC 'neutral' crypto ETF stance. Rate-hike tail risk from hawkish FOMC minority."
+    "geopolitical": "SEC crypto enforcement stance cautious (Peirce Jul 22 statement). Rate-hike tail risk from hawkish FOMC minority. Easing geopolitical tensions / lower oil mildly supportive."
   },
-  "notes": "연준 금리동결, PCE·GDP 오늘 발표. BTC 주간-4%, 중립",
-  "updated": "2026-07-30 10:00:00 UTC",
-  "valid_until": "2026-07-30 14:00:00 UTC"
+  "notes": "FOMC 금리동결 완료, 매파 3명 이견. BTC $63.9K 약세, ETF 순유출",
+  "updated": "2026-07-30 15:00:00 UTC",
+  "valid_until": "2026-07-30 19:00:00 UTC"
 }
