@@ -1,42 +1,42 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 64363.0,
+  "confidence": 0.50,
+  "btc_price_usd": 64000.0,
   "key_events_next_24h": [
     {
-      "name": "Fed Chair Warsh Press Conference (post-FOMC hold 3.50-3.75%)",
-      "time": "2026-07-29 18:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Microsoft & Meta Earnings Reports",
-      "time": "2026-07-29 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US Q2 GDP Advance Estimate + PCE Index",
+      "name": "US Q2 GDP Advance Estimate + June PCE Inflation",
       "time": "2026-07-30 12:30 UTC",
       "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Coinbase Q2 Earnings",
+      "time": "2026-07-30 20:30 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Spot BTC ETF Daily Flow Data (prior day: $11.6M net outflow)",
-      "time": "2026-07-30 12:00 UTC",
+      "name": "Strategy (MicroStrategy) Q2 Earnings",
+      "time": "2026-07-30 20:30 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Deribit Monthly BTC/ETH Options Expiry",
+      "time": "2026-07-31 08:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,363 on Jul 29, up +0.31% (24h) but down -3.78% on week. Range-bound $62,500-$65,500. Technical signals: 9 bearish / 4 bullish / 10 neutral.",
-    "sentiment": "Neutral with slight bearish lean. FOMC held rates 3.50-3.75% (5th consecutive hold) - main near-term uncertainty resolved. ETF outflow streak resumed ($11.6M net outflow Jul 27, BlackRock/Fidelity). Corporate accumulation continues (Hyperscale Data: 1,106 BTC = $71.7M). BTC down ~49% from $126K ATH (Oct 2025).",
-    "macro": "FOMC RESOLVED: Rates held 3.50-3.75% (12-0 vote). Warsh press conference at 18:30 UTC - tone key for next move. Q2 GDP + PCE due Jul 30 12:30 UTC - high impact. War with Iran risk elevating oil prices and geopolitical uncertainty. Crypto Clarity Act stalled in Senate.",
-    "etf_flows": "7-session inflow streak broken Jul 27: $11.6M net outflow. $27.4M net inflow over prior week overall. Institutional cautious; corporate treasuries still accumulating.",
-    "resistance_support": "Resistance: $64,500 / $65,500. Support: $63,000 / $62,000 / $60,000.",
-    "geopolitical": "Iran conflict risk (elevated oil prices). Crypto regulatory uncertainty (Clarity Act stalled). Higher US Treasury yields persisting. Mixed macro backdrop."
+    "trend": "BTC ~$64,000 on Jul 30, weekly -3.93%. Failed to hold $70K consolidation. Range-bound $62,500-$65,500. Long-term holders accumulating; short-term structure weak.",
+    "sentiment": "Neutral with bearish tilt. FOMC held rates 3.50-3.75% (9-3 vote, Jul 29) - in-line with expectations but 3 hawkish dissenters wanted a hike, adding uncertainty. Bitcoin ETFs net $4.84B outflow for 2026. ETFs lost $11.64M on Jul 27. Strategy holds 843,775 BTC at ~$63.69B avg cost.",
+    "macro": "FOMC RESOLVED: Rates held 3.50-3.75%, 3 dissenters hawkish. Q2 GDP Advance + June PCE due today 12:30 UTC - high impact, potential BTC mover. If PCE elevated, rate-hike odds increase (bearish). Coinbase & Strategy Q2 earnings today after close. Monthly Deribit options expiry Jul 31 08:00 UTC.",
+    "etf_flows": "Net $4.84B outflow for 2026. Jul 27: $11.64M net outflow (BTC), +$9.23M ETH. Mixed institutional signals.",
+    "resistance_support": "Resistance: $65,000 / $67,000. Support: $63,000 / $62,000 / $60,000.",
+    "geopolitical": "Middle East conflict (elevated oil/uncertainty per Fed statement). SEC 'neutral' crypto ETF stance. Rate-hike tail risk from hawkish FOMC minority."
   },
-  "notes": "연준 금리동결 확인, 주간-3.78%, 이란리스크·ETF유출 중립",
-  "updated": "2026-07-29 13:00:00 UTC",
-  "valid_until": "2026-07-29 17:00:00 UTC"
+  "notes": "연준 금리동결, PCE·GDP 오늘 발표. BTC 주간-4%, 중립",
+  "updated": "2026-07-30 10:00:00 UTC",
+  "valid_until": "2026-07-30 14:00:00 UTC"
 }
