@@ -1,8 +1,14 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 63889.0,
+  "confidence": 0.4,
+  "btc_price_usd": 64493.0,
   "key_events_next_24h": [
+    {
+      "name": "White House Digital Asset Policy Report",
+      "time": "2026-07-30 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
     {
       "name": "Coinbase Q2 Earnings",
       "time": "2026-07-30 20:30 UTC",
@@ -29,14 +35,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$63,889 on Jul 30. Failed to hold $70K consolidation. Range-bound $62,500-$65,500. Fear index 29 (Fear zone). Weekly structure weak.",
-    "sentiment": "Neutral-to-bearish. FOMC held rates 3.50-3.75% (9-3 vote, Jul 29) - in-line but 3 hawkish dissenters (Hammack/Kashkari/Logan) add rate-hike tail risk. Bitcoin ETFs cumulative $4.84B net outflow for 2026. Market cap -1.6% in 24h. BTC dominance 56%.",
-    "macro": "FOMC RESOLVED Jul 29: Rates held 3.50-3.75%. Hawkish minority risk persists. Coinbase & Strategy Q2 earnings today after US close. ECI Q2 2026 Jul 31 12:30 UTC. Monthly Deribit options expiry Jul 31 08:00 UTC.",
-    "etf_flows": "Cumulative net $4.84B outflow for 2026 (narrowed from $5.4B in early July). Mixed institutional signals.",
-    "resistance_support": "Resistance: $65,000 / $67,000. Support: $63,000 / $62,000 / $60,000.",
-    "geopolitical": "SEC crypto enforcement stance cautious (Peirce Jul 22 statement). Rate-hike tail risk from hawkish FOMC minority. Easing geopolitical tensions / lower oil mildly supportive."
+    "trend": "BTC ~$64,493 on Jul 30 AM. Range-bound $62,500-$65,500 for the week. Weekly -3.78%. Fear index 29 (Fear zone). ETF outflows $526M+ over 4 days.",
+    "sentiment": "Neutral-to-bearish. FOMC held rates 3.50-3.75% (9-3 vote, Jul 29) - broadly expected but 3 hawkish dissenters (Hammack/Kashkari/Logan) add rate-hike tail risk. Markets price in two 25bps hikes remaining in 2026. BTC recovering slightly from $63,327 low.",
+    "macro": "FOMC RESOLVED Jul 29: Rates held 3.50-3.75%. White House crypto policy report expected Jul 30 (strategic BTC reserve among proposals). Coinbase & Strategy Q2 earnings Jul 30 after US close. ECI Q2 2026 Jul 31 12:30 UTC. Deribit options expiry Jul 31 08:00 UTC ($66K max pain).",
+    "etf_flows": "Spot ETF net outflows ~$526M in last 4 days. Higher Treasury yields and tariff inflation fears reducing institutional risk appetite for crypto.",
+    "resistance_support": "Resistance: $65,500 / $67,000. Support: $63,000 / $62,000 / $60,000.",
+    "geopolitical": "Higher oil prices and new tariff policies raised inflation expectations. Middle East conflict cited by Fed as source of elevated uncertainty. Easing geopolitical tensions partially offsetting."
   },
-  "notes": "FOMC 금리동결 완료, 매파 3명 이견. BTC $63.9K 약세, ETF 순유출",
-  "updated": "2026-07-30 15:00:00 UTC",
-  "valid_until": "2026-07-30 19:00:00 UTC"
+  "notes": "연준 동결 완료, ETF 유출, 백악관 암호화 정책 보고서 대기 중",
+  "updated": "2026-07-30 11:30:00 UTC",
+  "valid_until": "2026-07-30 15:30:00 UTC"
 }
