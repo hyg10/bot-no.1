@@ -1,7 +1,7 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 64641,
+  "regime": "neutral",
+  "confidence": 0.40,
+  "btc_price_usd": 65023,
   "key_events_next_24h": [
     {
       "name": "Deribit Monthly BTC/ETH Options Expiry ($66K max pain)",
@@ -20,17 +20,23 @@
       "time": "2026-07-31 23:59 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "US Nonfarm Payrolls (NFP) August 2026",
+      "time": "2026-08-01 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,641 on Jul 31. 24h range $63,251-$64,979. Weekly -3.78%. Below 50d SMA $66,277 and 200d SMA $74,526. BTC ~$53K below year-ago price (~$117K Jul 2025). Short-term consolidation $63K-$65K.",
-    "sentiment": "Bearish. FOMC held rates 3.50-3.75% (9-3 vote, Jul 29) with 3 hawkish dissenters (Hammack/Kashkari/Logan) raising rate-hike tail risk. Post-FOMC $401M in crypto liquidations. ETF outflows reversed 7-session inflow streak ($11.6M net outflow Jul 27). BTC trades below key moving averages. Monthly close day adds downward technical pressure.",
-    "macro": "FOMC RESOLVED Jul 29: Rates held 3.50-3.75% — no cut. ECI Q2 data due Jul 31 12:30 UTC. Next CPI Aug 12, NFP Aug 7. Goldman Sachs Bitcoin ETF decision delayed to Aug 21. SEC Regulation Crypto proposal on July agenda (bullish long-term). White House Digital Asset Policy Report released Jul 30.",
-    "etf_flows": "Spot ETF net outflow $11.6M on Jul 27 (BlackRock + Fidelity led). Monthly July ETF inflows ~$205M — well below prior months. Elevated Treasury yields and rate-hike tail risk reducing institutional crypto appetite.",
-    "resistance_support": "Resistance: $65,500 / $67,000 / $66,277 (50d SMA). Support: $63,000 / $62,000 / $60,000.",
-    "geopolitical": "Easing US-Iran tensions provide mild macro relief. Oil prices falling reduces inflation fears slightly. However, 3 Fed dissents signal hawkish risk still present."
+    "trend": "BTC ~$65,023 on Jul 31, up +2.09% in 24h. July range $58K-$65K. Short-term bounce after post-FOMC dip. Technical signals split: 15 bullish vs 14 bearish indicators. RSI 14d at 50.42 (neutral).",
+    "sentiment": "Mixed/neutral. Fear & Greed Index at 28 (Fear zone). BTC +2.09% today driven by Fed rate-hold relief rally. DeFi rebounded +2.6% after Jul 30 drop of -11.5%. Crypto market cap $2.3T (+1.4%). However Fear & Greed remains suppressed and BTC still below key SMAs.",
+    "macro": "FOMC RESOLVED Jul 29: Rates held 3.50-3.75% (3 hawkish dissenters). Post-Fed relief rally underway. ECI Q2 due today 12:30 UTC. NFP due Aug 1 — key catalyst for direction. Next CPI Aug 12. Goldman Sachs BTC ETF decision delayed to Aug 21.",
+    "etf_flows": "ETF outflows reversed prior 7-session inflow streak. July ETF net flows modestly positive overall (~$205M) but declining. Hawkish Fed dissents weigh on institutional appetite.",
+    "resistance_support": "Resistance: $65,500 / $66,277 (50d SMA) / $67,000. Support: $63,000 / $62,000 / $60,000.",
+    "geopolitical": "Easing US-Iran tensions reduce geopolitical risk premium slightly. Oil down, reducing inflation fears. 3 Fed dissents remain a hawkish tail risk."
   },
-  "notes": "FOMC 금리 동결, 3인 인상 반대. BTC 이평선 하방 하락 국면.",
-  "updated": "2026-07-31 00:07:07 UTC",
-  "valid_until": "2026-07-31 04:07:07 UTC"
+  "notes": "연준 동결 후 BTC 2% 반등, 공포지수 28. NFP 앞두고 중립.",
+  "updated": "2026-07-31 06:07:13 UTC",
+  "valid_until": "2026-07-31 10:07:13 UTC"
 }
