@@ -1,16 +1,10 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 65023,
+  "confidence": 0.50,
+  "btc_price_usd": 63875,
   "key_events_next_24h": [
     {
-      "name": "Deribit Monthly BTC/ETH Options Expiry ($66K max pain)",
-      "time": "2026-07-31 08:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Employment Cost Index Q2 2026 (BLS)",
+      "name": "Employment Cost Index Q2 2026 (BLS) - IMMINENT",
       "time": "2026-07-31 12:30 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
@@ -29,14 +23,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$65,023 on Jul 31, up +2.09% in 24h. July range $58K-$65K. Short-term bounce after post-FOMC dip. Technical signals split: 15 bullish vs 14 bearish indicators. RSI 14d at 50.42 (neutral).",
-    "sentiment": "Mixed/neutral. Fear & Greed Index at 28 (Fear zone). BTC +2.09% today driven by Fed rate-hold relief rally. DeFi rebounded +2.6% after Jul 30 drop of -11.5%. Crypto market cap $2.3T (+1.4%). However Fear & Greed remains suppressed and BTC still below key SMAs.",
-    "macro": "FOMC RESOLVED Jul 29: Rates held 3.50-3.75% (3 hawkish dissenters). Post-Fed relief rally underway. ECI Q2 due today 12:30 UTC. NFP due Aug 1 — key catalyst for direction. Next CPI Aug 12. Goldman Sachs BTC ETF decision delayed to Aug 21.",
-    "etf_flows": "ETF outflows reversed prior 7-session inflow streak. July ETF net flows modestly positive overall (~$205M) but declining. Hawkish Fed dissents weigh on institutional appetite.",
+    "trend": "BTC ~$63,875 on Jul 31 (12:06 UTC), -$618 from Jul 30 highs. Jul 30 Fed hold drove rally to $64,838; partial reversal today. Monthly range $58K-$65K. Technical signals split; RSI ~50 (neutral).",
+    "sentiment": "Mixed/cautious. Fear & Greed Index at 28 (Fear zone). Global crypto market cap $2.3T (+1.4%). BTC dominance 56.3%. Post-FOMC relief rally partly faded. ECI Q2 due in minutes (12:30 UTC) — inflation data could increase Fed hawkishness.",
+    "macro": "FOMC Jul 28-29: Rates held 3.50-3.75%, 3 hawkish dissenters. ECI Q2 imminent (12:30 UTC today). NFP Aug 1 is next major catalyst. Next CPI Aug 12. Goldman Sachs BTC ETF decision delayed to Aug 21. No FOMC until Sep 15-16.",
+    "etf_flows": "Spot BTC ETFs saw $225M net outflows earlier in month; flows mixed but modestly positive for July overall. Hawkish Fed tone suppresses institutional appetite.",
     "resistance_support": "Resistance: $65,500 / $66,277 (50d SMA) / $67,000. Support: $63,000 / $62,000 / $60,000.",
-    "geopolitical": "Easing US-Iran tensions reduce geopolitical risk premium slightly. Oil down, reducing inflation fears. 3 Fed dissents remain a hawkish tail risk."
+    "geopolitical": "Easing US-Iran tensions reduce risk premium slightly. Oil down, reducing inflation fears. 3 Fed hawkish dissenters remain key tail risk for crypto."
   },
-  "notes": "연준 동결 후 BTC 2% 반등, 공포지수 28. NFP 앞두고 중립.",
-  "updated": "2026-07-31 06:07:13 UTC",
-  "valid_until": "2026-07-31 10:07:13 UTC"
+  "notes": "ECI 발표 임박, NFP 내일. BTC $64K, 공포지수 28로 중립.",
+  "updated": "2026-07-31 12:06:44 UTC",
+  "valid_until": "2026-07-31 16:06:44 UTC"
 }
