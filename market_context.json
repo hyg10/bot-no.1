@@ -1,26 +1,8 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 64704.0,
+  "regime": "bearish",
+  "confidence": 0.65,
+  "btc_price_usd": 64641,
   "key_events_next_24h": [
-    {
-      "name": "White House Digital Asset Policy Report (expected today)",
-      "time": "2026-07-30 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Coinbase Q2 Earnings",
-      "time": "2026-07-30 20:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Strategy (MicroStrategy) Q2 Earnings",
-      "time": "2026-07-30 20:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
     {
       "name": "Deribit Monthly BTC/ETH Options Expiry ($66K max pain)",
       "time": "2026-07-31 08:00 UTC",
@@ -32,17 +14,23 @@
       "time": "2026-07-31 12:30 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "July Monthly Candle Close",
+      "time": "2026-07-31 23:59 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,704 on Jul 30. Range-bound $62,500-$65,500 for the week. Weekly -3.78%. ETF outflows $526M+ over 4 days. Up +1.3% in last 24h recovering from $63,327 low.",
-    "sentiment": "Neutral. FOMC held rates 3.50-3.75% (9-3 vote, Jul 29) - expected but 3 hawkish dissenters (Hammack/Kashkari/Logan) add rate-hike tail risk. Post-FOMC relief rally partially offset by persistent ETF outflows. Amplify Fairlead Tactical Bitcoin ETF approved by Cboe Jul 28; Goldman Sachs Bitcoin ETF delayed to Aug 21.",
-    "macro": "FOMC RESOLVED Jul 29: Rates held 3.50-3.75%. No CPI/PPI releases in next 24h (next CPI Aug 12, PPI Aug 13). White House crypto policy report expected Jul 30. Coinbase & Strategy Q2 earnings Jul 30 after US close. ECI Q2 release Jul 31 12:30 UTC. Deribit options expiry Jul 31.",
-    "etf_flows": "Spot ETF net outflows $11.6M on Jul 27 alone (BlackRock + Fidelity led). Cumulative ~$526M over 4 days. Elevated Treasury yields and tariff-driven inflation fears reducing institutional crypto appetite.",
-    "resistance_support": "Resistance: $65,500 / $67,000. Support: $63,000 / $62,000 / $60,000.",
-    "geopolitical": "Easing Middle East tensions and lower energy prices providing mild bullish tailwind. Fed cited geopolitical uncertainty as ongoing inflation risk."
+    "trend": "BTC ~$64,641 on Jul 31. 24h range $63,251-$64,979. Weekly -3.78%. Below 50d SMA $66,277 and 200d SMA $74,526. BTC ~$53K below year-ago price (~$117K Jul 2025). Short-term consolidation $63K-$65K.",
+    "sentiment": "Bearish. FOMC held rates 3.50-3.75% (9-3 vote, Jul 29) with 3 hawkish dissenters (Hammack/Kashkari/Logan) raising rate-hike tail risk. Post-FOMC $401M in crypto liquidations. ETF outflows reversed 7-session inflow streak ($11.6M net outflow Jul 27). BTC trades below key moving averages. Monthly close day adds downward technical pressure.",
+    "macro": "FOMC RESOLVED Jul 29: Rates held 3.50-3.75% — no cut. ECI Q2 data due Jul 31 12:30 UTC. Next CPI Aug 12, NFP Aug 7. Goldman Sachs Bitcoin ETF decision delayed to Aug 21. SEC Regulation Crypto proposal on July agenda (bullish long-term). White House Digital Asset Policy Report released Jul 30.",
+    "etf_flows": "Spot ETF net outflow $11.6M on Jul 27 (BlackRock + Fidelity led). Monthly July ETF inflows ~$205M — well below prior months. Elevated Treasury yields and rate-hike tail risk reducing institutional crypto appetite.",
+    "resistance_support": "Resistance: $65,500 / $67,000 / $66,277 (50d SMA). Support: $63,000 / $62,000 / $60,000.",
+    "geopolitical": "Easing US-Iran tensions provide mild macro relief. Oil prices falling reduces inflation fears slightly. However, 3 Fed dissents signal hawkish risk still present."
   },
-  "notes": "연준 동결 소화 중, ETF 유출 지속, 백악관 정책 보고서 대기",
-  "updated": "2026-07-30 11:45:00 UTC",
-  "valid_until": "2026-07-30 15:45:00 UTC"
+  "notes": "FOMC 금리 동결, 3인 인상 반대. BTC 이평선 하방 하락 국면.",
+  "updated": "2026-07-31 00:07:07 UTC",
+  "valid_until": "2026-07-31 04:07:07 UTC"
 }
