@@ -1,14 +1,8 @@
 {
-  "regime": "bearish",
-  "confidence": 0.62,
-  "btc_price_usd": 62700,
+  "regime": "neutral",
+  "confidence": 0.42,
+  "btc_price_usd": 62879.5,
   "key_events_next_24h": [
-    {
-      "name": "July Monthly Candle Close",
-      "time": "2026-07-31 23:59 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
     {
       "name": "US Nonfarm Payrolls (NFP) August 2026",
       "time": "2026-08-01 12:30 UTC",
@@ -20,17 +14,29 @@
       "time": "2026-08-01 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "August Seasonal Weakness (Historical: -7.87% median, red every year 2022-2025)",
+      "time": "2026-08-01 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Goldman Sachs BTC ETF approval decision pending (delayed to Aug 21)",
+      "time": "2026-08-21 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$62,700 on Jul 31 (~14:00 UTC), down from $64,724 open, -1.3% to -3.1% intraday. $10B BTC/ETH options expired on Deribit today — post-expiry selling pressure. Monthly range $58K-$65K. Equities diverging bullishly (Nasdaq +1.23%, Kospi +15%) while BTC slides.",
-    "sentiment": "Bearish for August. Fear & Greed Index ~28 (Fear zone). BTC dominance 56.3%. $60K put options now the top trade on Deribit as traders hedge August downside. CoinDesk: 'mood swings bearish for August.' Broad crypto market cap $2.3T.",
-    "macro": "FOMC Jul 28-29 concluded: rates held 3.50-3.75%, 3 hawkish dissenters. ECI Q2 released at 12:30 UTC today (data pending impact). NFP Aug 1 is next major catalyst. Next CPI Aug 12. Goldman Sachs BTC ETF decision delayed to Aug 21. FOMC minutes Aug 19 at 18:00 UTC. No FOMC until Sep 15-16.",
-    "etf_flows": "Goldman Sachs Bitcoin Premium Income ETF (filed Apr 2026) approval delayed to Aug 21. Broader spot BTC ETF flows mixed; hawkish Fed tone suppresses institutional appetite.",
-    "resistance_support": "Resistance: $64,000 / $65,500 / $67,000. Support: $62,000 / $60,000 (key put strike) / $58,000.",
-    "options_expiry": "$10B BTC+ETH options expired on Deribit today (Jul 31). Post-expiry environment typically reduces near-term volatility but selling pressure from gamma unwind may persist."
+    "trend": "BTC $62,879 at 00:06 UTC Aug 1 — down -3.00% (24h). 24h range: $62,363–$65,360. Price below 20-day MA, trading inside descending channel after rejection at upper boundary. July closed green (3rd consecutive year), but August historically the weakest month (-7.87% median).",
+    "sentiment": "Mixed. Bullish/bearish comment ratio at 2.23:1 (most positive of 2026 per Santiment), yet ETF flows remain net negative. Market in cautious-optimism phase following extreme fear in earlier 2026. Fear-to-optimism shift driven by institutional adoption and regulatory clarity.",
+    "macro": "FOMC concluded Jul 28-29: rates held at 3.50-3.75% (3 hawkish dissenters). Next FOMC: Sep 15-16. CPI next: Sep 11. NFP TODAY Aug 1 at 12:30 UTC is the next major catalyst — strong print = hawkish pressure on BTC, weak print = dovish relief. Goldman Sachs spot BTC ETF decision delayed to Aug 21. Strategy (MicroStrategy) reported $8.22B net Q2 loss on BTC holdings (Jul 30).",
+    "macro_regime": "Rates-sensitive environment. Crypto ETFs smoothing institutional flows but macro conditions now drive more of the direction. BTC correlated more with risk assets.",
+    "resistance_support": "Resistance: $63,500 / $65,000 / $65,500. Support: $62,000–$62,363 (24h low) / $60,000 / $58,000.",
+    "nfp_watch": "NFP at 12:30 UTC today is the key event in next 12h. Strong jobs = hawkish Fed tone reinforced = bearish for BTC. Weak jobs = dovish pivot bets = bullish for BTC. Current rate: 3.50-3.75% with 3 hawks."
   },
-  "notes": "BTC $62.7K로 하락, $60K 풋옵션 집중, 8월 약세 전망 우세",
-  "updated": "2026-07-31 14:00:00 UTC",
-  "valid_until": "2026-07-31 18:00:00 UTC"
+  "notes": "NFP 발표 전 관망, BTC -3% 하락, 8월 약세 시즌 진입",
+  "updated": "2026-08-01 00:06:25 UTC",
+  "valid_until": "2026-08-01 04:06:25 UTC"
 }
