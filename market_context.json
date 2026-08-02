@@ -1,42 +1,16 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 62667,
-  "key_events_next_24h": [
-    {
-      "name": "Weekend low-liquidity session (Sat-Sun, no major US macro releases)",
-      "time": "2026-08-01 18:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "ISM Manufacturing PMI",
-      "time": "2026-08-03 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US Nonfarm Payrolls NFP",
-      "time": "2026-08-07 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Goldman Sachs BTC ETF approval decision pending",
-      "time": "2026-08-21 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    }
-  ],
+  "confidence": 0.70,
+  "btc_price_usd": 62700,
+  "key_events_next_24h": [],
   "market_summary": {
-    "trend": "BTC ~$62,667 as of 18:06 UTC Aug 1 (Saturday). Down ~3.2% from recent high. Price in descending channel, range today $62,556-$63,173. Fear & Greed Index at 25 (Extreme Fear). August historically the worst BTC month (-7.87% median, red 2022-2025). Seasonal weakness projected to target $58,000-$62,000.",
-    "sentiment": "Bearish. Fear & Greed at 25 (Extreme Fear). BTC dominance at 56%. Market down 3.25%+ in last 24h across major crypto assets. Analysts project $58K-$62K as likely bottom range for August. Technical indicators 87% bearish.",
-    "macro": "FOMC concluded Jul 28-29: rates held at 3.50-3.75% (3 hawkish dissenters). Next FOMC: Sep 15-16. Today is Saturday — no US economic releases. Key upcoming: ISM PMI Aug 3 (Monday), NFP Aug 7 (Friday), CPI Aug 12 (Wednesday). Goldman Sachs spot BTC ETF decision still pending (Aug 21 est). SEC delayed Truth Social BTC ETF to Sep 18.",
-    "macro_regime": "Rates-sensitive environment. BTC correlated with risk assets. Hawkish Fed tone (3 dissenters at Jul FOMC) applying pressure. Weekend session = lower liquidity = elevated volatility risk. August seasonal headwinds dominant.",
+    "trend": "BTC ~$62,700 as of 00:06 UTC Aug 2. Price in descending channel below 20-day and 50-day EMAs. Down from $93,000+ at start of 2026. August historically worst BTC month (-7.87% median). Seasonal weakness projects $58K-$62K target.",
+    "sentiment": "Bearish. Record bearish sentiment. Former support at $63,200 now acting as resistance. Descending channel intact. Technical indicators majority bearish.",
+    "macro": "FOMC concluded Jul 28-29: rates held at 3.50-3.75% (3 hawkish dissenters). Next FOMC: Sep 15-16. No major US economic releases in next 24h. Key upcoming: ISM PMI Aug 3 14:00 UTC, NFP Aug 7 12:30 UTC, CPI Aug 12, PPI Aug 13. Goldman Sachs spot BTC ETF decision pending (est. Aug 21). SEC Truth Social BTC ETF delayed to Sep 18.",
     "resistance_support": "Resistance: $63,200 / $65,000 / $65,500. Support: $62,500 / $60,000 / $58,000.",
-    "nfp_watch": "Next major catalyst: NFP Aug 7 at 12:30 UTC. Strong jobs = hawkish pressure bearish for BTC. Weak jobs = dovish pivot bets bullish for BTC. Current Fed rate: 3.50-3.75%."
+    "macro_regime": "Rates-sensitive environment. Hawkish Fed tone (3 dissenters at Jul FOMC) applying pressure. No major macro catalysts in next 24h. August seasonal headwinds dominant."
   },
-  "notes": "공포지수 25(극도의 공포), BTC 62.7K, 8월 계절적 약세 진입",
-  "updated": "2026-08-01 18:06:22 UTC",
-  "valid_until": "2026-08-01 22:06:22 UTC"
+  "notes": "BTC $62.7K 하강채널. 8월 계절적 약세. 24h 이벤트 없음.",
+  "updated": "2026-08-02 00:06:15 UTC",
+  "valid_until": "2026-08-02 04:06:15 UTC"
 }
