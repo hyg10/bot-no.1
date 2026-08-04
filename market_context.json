@@ -1,10 +1,10 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
+  "confidence": 0.42,
   "btc_price_usd": 63700,
   "key_events_next_24h": [
     {
-      "name": "Coldcard Hardware Wallet Exploit - ongoing (sell pressure receding)",
+      "name": "Coldcard Hardware Wallet Exploit - sell pressure receding",
       "time": "2026-08-04 00:00 UTC",
       "impact": "low",
       "expected_direction": "bearish"
@@ -16,20 +16,32 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "US Treasury Yields (ongoing headwind for risk assets)",
-      "time": "2026-08-04 13:30 UTC",
+      "name": "Crypto Clarity Act congressional progress uncertainty",
+      "time": "2026-08-04 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "No FOMC this week (next: Sep 15-16, 2026)",
+      "name": "Iran geopolitical de-escalation (partial)",
+      "time": "2026-08-04 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "No FOMC this week (next: Sep 15-16, held 3.50-3.75%)",
       "time": "N/A",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "NFP Non-Farm Payrolls - approaching macro risk",
+      "name": "NFP Non-Farm Payrolls",
       "time": "2026-08-07 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "CPI Release July 2026",
+      "time": "2026-08-12 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
@@ -41,14 +53,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$63,500-64,160 (Aug 4, ~09:45 UTC). +1.6% in 24h, highest since Jul 31. Recovering from exploit/Strategy sell-off. Resistance $63,514 EMA cluster and $64,567. Support $62,000/$61,400.",
-    "sentiment": "Extreme fear but price recovering. ETF flows negative (~4,000 BTC net outflow this week after July inflows). Strategy sales receding. Coldcard exploit (ongoing, sell pressure fading). Not panic selling - thin volume on pullback. ADA outperforming as rare altcoin standout.",
-    "macro": "Fed held rates 3.50-3.75% (Jul 29 FOMC). No FOMC/CPI in next 24h. Next major risk: NFP Aug 7, CPI Aug 12, PPI Aug 13, FOMC Sep 15-16. US Senate delayed Digital Asset Market Clarity Act (briefly cooled institutional expectations). Goldman Sachs new spot BTC ETF application filed.",
-    "resistance_support": "Resistance: $63,514 / $64,160 / $64,567 / $67,400. Support: $62,500 / $62,000 / $61,400.",
-    "catalysts_negative": "Extreme fear sentiment. ETF net outflows ~4,000 BTC this week. Coldcard exploit ongoing (exchange inflows). Rising Treasury yields headwind. August historically weak month for BTC. Senate delayed Digital Asset Act.",
-    "catalysts_positive": "BTC +1.6% recovery today. Strategy sales receding. Goldman Sachs spot BTC ETF pending (~Aug 21). Rate-cut expectations building for Sep FOMC. No panic selling observed. Price holding above $62,000 support."
+    "trend": "BTC ~$63,525-63,942 (Aug 4, ~12:00 UTC). +0.7-1.0% in 24h. Recovering from Coldcard exploit and Strategy sell-off. Resistance $64,160. Support $62,000.",
+    "sentiment": "Extreme Fear index at 25. Market cap $2.27T. ETF net outflows ~4,000 BTC this week after July inflows. Strategy sales and Coldcard exploit pressure receding. Not panic selling - thin volume pullback. ADA outperforming.",
+    "macro": "Fed held rates 3.50-3.75% (Jul 29 FOMC). No FOMC in August. Next risks: NFP Aug 7, CPI Aug 12, PPI Aug 13, FOMC Sep 15-16. Clarity Act summer recess passage in doubt. Goldman Sachs spot BTC ETF pending ~Aug 21.",
+    "resistance_support": "Resistance: $63,900 / $64,160 / $64,567 / $67,400. Support: $62,500 / $62,000 / $61,400.",
+    "catalysts_negative": "Extreme Fear (25). ETF net outflows ~4,000 BTC this week. AI-assisted swap hack (suspended). Clarity Act delayed. August historically weak. Geopolitical Iran tensions.",
+    "catalysts_positive": "BTC +1% recovery today. Coldcard/Strategy pressure receding. Iran de-escalation announced. Goldman Sachs ETF pending. Rate-cut expectations for Sep FOMC. Price holding $62k support."
   },
-  "notes": "BTC 63,700달러 소폭 반등. ETF유출·공포지수 여전. 8/7 NFP 주목",
-  "updated": "2026-08-04 09:45:00 UTC",
-  "valid_until": "2026-08-04 13:45:00 UTC"
+  "notes": "극도공포(25), ETF순유출, 이란완화 혼재. 8/7 NFP 주목",
+  "updated": "2026-08-04 12:00:00 UTC",
+  "valid_until": "2026-08-04 16:00:00 UTC"
 }
