@@ -1,30 +1,24 @@
 {
   "regime": "bearish",
-  "confidence": 0.58,
+  "confidence": 0.65,
   "btc_price_usd": 62700,
   "key_events_next_24h": [
     {
-      "name": "BTC ETF Daily Flows Update (ongoing outflows)",
-      "time": "2026-08-03 21:00 UTC",
+      "name": "Coldcard Hardware Wallet Exploit - Day 5 (exchange inflow pressure)",
+      "time": "2026-08-04 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "US Treasury Yields Rising (ongoing pressure on risk assets)",
-      "time": "2026-08-03 13:30 UTC",
+      "name": "BTC ETF Daily Flows Update (ongoing net outflows)",
+      "time": "2026-08-04 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "Iran Geopolitical Risk (US paused airstrikes, situation fluid)",
-      "time": "2026-08-04 00:00 UTC",
+      "name": "US Treasury Yields (ongoing headwind for risk assets)",
+      "time": "2026-08-04 13:30 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Coldcard Hardware Wallet Security Fallout (exchange inflow pressure)",
-      "time": "2026-08-04 00:00 UTC",
-      "impact": "low",
       "expected_direction": "bearish"
     },
     {
@@ -41,14 +35,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$62,700 (Aug 3, ~13:00 UTC). Opened at $63,497 (+1.2% vs Sunday), then reversed lower to $62,643 by mid-morning. Price action: range-bound $62,000-$63,500. Technical resistance at $63,514 (EMA cluster); break above targets $67,400. Support at $62,000/$61,400.",
-    "sentiment": "Bearish/Fear. Crypto Fear & Greed Index: 25-28 (Extreme Fear). BTC failed to hold $65K range; ETF outflows and cautious macro sentiment pushing short-term forecasts lower. Coldcard hardware wallet flaw triggered small-holder exchange deposits (selling pressure). Whales betting against recovery. August historically BTC's worst month.",
-    "macro": "Fed held rates at 3.50-3.75% (July meeting). No FOMC until Sep 16, 2026. CPI ~4.2% YoY (May) — above 2% target. No high-impact macro release in next 24h. Rising Treasury yields headwind for crypto. NFP Aug 7 (high risk event). Jackson Hole Aug 27-29. Goldman ETF decision ~Aug 21 (major bullish catalyst if approved).",
+    "trend": "BTC ~$62,500-63,000 (Aug 4, ~07:00 UTC). Range-bound $62,000-$63,500. Technical resistance at $63,500 EMA cluster; break above targets $67,400. Support at $62,000/$61,400. BTC flirting with $64K ceiling.",
+    "sentiment": "Bearish. ETF flows turned negative; CME open interest back at 2023 levels. Coldcard hardware wallet exploit (Day 5) drives small-holder exchange inflows. Stalled participation rather than forced selling. Investors showing elevated fear not full risk-on conviction.",
+    "macro": "Fed held rates at 3.50-3.75% (July 29 meeting). No FOMC in August; next meeting Sep 15-16, 2026. CPI scheduled Aug 12; PPI Aug 13; NFP Aug 7. No high-impact macro in next 24h. Rising US Treasury yields headwind for crypto.",
     "resistance_support": "Resistance: $63,500 / $64,567 / $65,000 / $67,400. Support: $62,000 / $61,400 / $59,070.",
-    "catalysts_negative": "Fear & Greed 25-28 (Extreme Fear). August worst seasonal month for BTC. Rising US Treasury yields. ETF net outflows. Hardware wallet security scare (exchange inflows). No crypto legislation progress. Hawkish Fed (no 2026 cuts expected). Geopolitical uncertainty (Iran).",
-    "catalysts_positive": "Goldman Sachs spot BTC ETF pending ~Aug 21 (major catalyst). US-Iran de-escalation announced Sunday. BTC bounced from weekend lows. Institutional BTC accumulation structurally intact. Rate-cut expectations building for Sep 16 FOMC."
+    "catalysts_negative": "ETF net outflows. CME OI at 2023 lows. Hardware wallet exploit (sell pressure). Rising Treasury yields. August historically -10% avg for BTC. Stalled institutional participation.",
+    "catalysts_positive": "Goldman Sachs spot BTC ETF pending ~Aug 21 (major catalyst). No panic selling - orderly decline. Rate-cut expectations building for Sep 16 FOMC. BTC holding above $62,000 support."
   },
-  "notes": "공포지수 25, ETF순유출, 8월 계절적 하락압력",
-  "updated": "2026-08-03 13:30:00 UTC",
-  "valid_until": "2026-08-03 17:30:00 UTC"
+  "notes": "ETF순유출·CME미결제감소·하드웨어지갑해킹 5일째·약세 지속",
+  "updated": "2026-08-04 07:00:00 UTC",
+  "valid_until": "2026-08-04 11:00:00 UTC"
 }
