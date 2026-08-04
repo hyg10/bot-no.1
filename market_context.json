@@ -1,19 +1,25 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 62700,
+  "confidence": 0.62,
+  "btc_price_usd": 62450,
   "key_events_next_24h": [
     {
-      "name": "Coldcard Hardware Wallet Exploit - Day 5 (exchange inflow pressure)",
+      "name": "Coldcard Hardware Wallet Exploit - Day 5 (ongoing exchange inflow pressure)",
       "time": "2026-08-04 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "BTC ETF Daily Flows Update (ongoing net outflows)",
+      "name": "BTC ETF Daily Flows Update (ongoing net outflows trend)",
       "time": "2026-08-04 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "SEC Truth Social BTC ETF Decision (postponed to Sept 18 - no decision today)",
+      "time": "2026-08-04 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
       "name": "US Treasury Yields (ongoing headwind for risk assets)",
@@ -22,7 +28,7 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "NFP (Non-Farm Payrolls)",
+      "name": "NFP (Non-Farm Payrolls) - Friday Aug 7",
       "time": "2026-08-07 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
@@ -35,14 +41,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$62,500-63,000 (Aug 4, ~07:00 UTC). Range-bound $62,000-$63,500. Technical resistance at $63,500 EMA cluster; break above targets $67,400. Support at $62,000/$61,400. BTC flirting with $64K ceiling.",
-    "sentiment": "Bearish. ETF flows turned negative; CME open interest back at 2023 levels. Coldcard hardware wallet exploit (Day 5) drives small-holder exchange inflows. Stalled participation rather than forced selling. Investors showing elevated fear not full risk-on conviction.",
-    "macro": "Fed held rates at 3.50-3.75% (July 29 meeting). No FOMC in August; next meeting Sep 15-16, 2026. CPI scheduled Aug 12; PPI Aug 13; NFP Aug 7. No high-impact macro in next 24h. Rising US Treasury yields headwind for crypto.",
-    "resistance_support": "Resistance: $63,500 / $64,567 / $65,000 / $67,400. Support: $62,000 / $61,400 / $59,070.",
-    "catalysts_negative": "ETF net outflows. CME OI at 2023 lows. Hardware wallet exploit (sell pressure). Rising Treasury yields. August historically -10% avg for BTC. Stalled institutional participation.",
-    "catalysts_positive": "Goldman Sachs spot BTC ETF pending ~Aug 21 (major catalyst). No panic selling - orderly decline. Rate-cut expectations building for Sep 16 FOMC. BTC holding above $62,000 support."
+    "trend": "BTC ~$62,300-62,600 (Aug 4, 08:00 UTC). Down 0.87-1.30% in 24h. Range-bound $62,000-$63,500. Technical resistance at $63,514 EMA cluster; break above targets $67,400. Support at $62,000/$61,400.",
+    "sentiment": "Bearish. ETF flows negative (bled $265M on Jul 31). CME open interest back at 2023 levels. Strategy (MicroStrategy) idle 5th week. Coldcard hardware wallet exploit (Day 5) drives small-holder exchange inflows. Stalled participation, not panic selling. Fear & Greed: elevated fear zone.",
+    "macro": "Fed held rates at 3.50-3.75% (Jul 29 meeting). No FOMC/CPI in next 24h. NFP Aug 7 is next major macro risk. CPI Aug 12; PPI Aug 13; next FOMC Sep 15-16. SEC postponed Truth Social BTC ETF to Sept 18. Rising US Treasury yields headwind for crypto.",
+    "resistance_support": "Resistance: $63,514 / $64,567 / $65,000 / $67,400. Support: $62,000 / $61,400 / $59,981.",
+    "catalysts_negative": "ETF net outflows ($265M Jul 31). CME OI at 2023 lows. Hardware wallet exploit day 5 (sell pressure). Rising Treasury yields. August historically worst month for BTC (-10% avg). Strategy idle 5 weeks. SEC postponed Truth Social ETF.",
+    "catalysts_positive": "Goldman Sachs spot BTC ETF pending (~Aug 21, major catalyst if approved). No panic selling - orderly decline. Rate-cut expectations building for Sep FOMC. BTC holding $62,000 support. Institutional attention gradually returning to quality assets."
   },
-  "notes": "ETF순유출·CME미결제감소·하드웨어지갑해킹 5일째·약세 지속",
-  "updated": "2026-08-04 07:00:00 UTC",
-  "valid_until": "2026-08-04 11:00:00 UTC"
+  "notes": "BTC 62,450달러, ETF순유출·하드웨어지갑해킹 5일째 약세 지속",
+  "updated": "2026-08-04 08:00:00 UTC",
+  "valid_until": "2026-08-04 12:00:00 UTC"
 }
