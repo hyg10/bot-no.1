@@ -1,25 +1,19 @@
 {
-  "regime": "bearish",
-  "confidence": 0.62,
-  "btc_price_usd": 62450,
+  "regime": "neutral",
+  "confidence": 0.40,
+  "btc_price_usd": 63700,
   "key_events_next_24h": [
     {
-      "name": "Coldcard Hardware Wallet Exploit - Day 5 (ongoing exchange inflow pressure)",
+      "name": "Coldcard Hardware Wallet Exploit - ongoing (sell pressure receding)",
       "time": "2026-08-04 00:00 UTC",
-      "impact": "medium",
+      "impact": "low",
       "expected_direction": "bearish"
     },
     {
-      "name": "BTC ETF Daily Flows Update (ongoing net outflows trend)",
+      "name": "BTC ETF Daily Flows Update (net outflows ~4000 BTC this week)",
       "time": "2026-08-04 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
-    },
-    {
-      "name": "SEC Truth Social BTC ETF Decision (postponed to Sept 18 - no decision today)",
-      "time": "2026-08-04 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
     },
     {
       "name": "US Treasury Yields (ongoing headwind for risk assets)",
@@ -28,27 +22,33 @@
       "expected_direction": "bearish"
     },
     {
-      "name": "NFP (Non-Farm Payrolls) - Friday Aug 7",
+      "name": "No FOMC this week (next: Sep 15-16, 2026)",
+      "time": "N/A",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "NFP Non-Farm Payrolls - approaching macro risk",
       "time": "2026-08-07 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "Goldman Sachs Spot BTC ETF Approval Decision (approx.)",
+      "name": "Goldman Sachs Spot BTC ETF Approval Decision (pending ~Aug 21)",
       "time": "2026-08-21 00:00 UTC",
       "impact": "high",
       "expected_direction": "bullish"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$62,300-62,600 (Aug 4, 08:00 UTC). Down 0.87-1.30% in 24h. Range-bound $62,000-$63,500. Technical resistance at $63,514 EMA cluster; break above targets $67,400. Support at $62,000/$61,400.",
-    "sentiment": "Bearish. ETF flows negative (bled $265M on Jul 31). CME open interest back at 2023 levels. Strategy (MicroStrategy) idle 5th week. Coldcard hardware wallet exploit (Day 5) drives small-holder exchange inflows. Stalled participation, not panic selling. Fear & Greed: elevated fear zone.",
-    "macro": "Fed held rates at 3.50-3.75% (Jul 29 meeting). No FOMC/CPI in next 24h. NFP Aug 7 is next major macro risk. CPI Aug 12; PPI Aug 13; next FOMC Sep 15-16. SEC postponed Truth Social BTC ETF to Sept 18. Rising US Treasury yields headwind for crypto.",
-    "resistance_support": "Resistance: $63,514 / $64,567 / $65,000 / $67,400. Support: $62,000 / $61,400 / $59,981.",
-    "catalysts_negative": "ETF net outflows ($265M Jul 31). CME OI at 2023 lows. Hardware wallet exploit day 5 (sell pressure). Rising Treasury yields. August historically worst month for BTC (-10% avg). Strategy idle 5 weeks. SEC postponed Truth Social ETF.",
-    "catalysts_positive": "Goldman Sachs spot BTC ETF pending (~Aug 21, major catalyst if approved). No panic selling - orderly decline. Rate-cut expectations building for Sep FOMC. BTC holding $62,000 support. Institutional attention gradually returning to quality assets."
+    "trend": "BTC ~$63,500-64,160 (Aug 4, ~09:45 UTC). +1.6% in 24h, highest since Jul 31. Recovering from exploit/Strategy sell-off. Resistance $63,514 EMA cluster and $64,567. Support $62,000/$61,400.",
+    "sentiment": "Extreme fear but price recovering. ETF flows negative (~4,000 BTC net outflow this week after July inflows). Strategy sales receding. Coldcard exploit (ongoing, sell pressure fading). Not panic selling - thin volume on pullback. ADA outperforming as rare altcoin standout.",
+    "macro": "Fed held rates 3.50-3.75% (Jul 29 FOMC). No FOMC/CPI in next 24h. Next major risk: NFP Aug 7, CPI Aug 12, PPI Aug 13, FOMC Sep 15-16. US Senate delayed Digital Asset Market Clarity Act (briefly cooled institutional expectations). Goldman Sachs new spot BTC ETF application filed.",
+    "resistance_support": "Resistance: $63,514 / $64,160 / $64,567 / $67,400. Support: $62,500 / $62,000 / $61,400.",
+    "catalysts_negative": "Extreme fear sentiment. ETF net outflows ~4,000 BTC this week. Coldcard exploit ongoing (exchange inflows). Rising Treasury yields headwind. August historically weak month for BTC. Senate delayed Digital Asset Act.",
+    "catalysts_positive": "BTC +1.6% recovery today. Strategy sales receding. Goldman Sachs spot BTC ETF pending (~Aug 21). Rate-cut expectations building for Sep FOMC. No panic selling observed. Price holding above $62,000 support."
   },
-  "notes": "BTC 62,450달러, ETF순유출·하드웨어지갑해킹 5일째 약세 지속",
-  "updated": "2026-08-04 08:00:00 UTC",
-  "valid_until": "2026-08-04 12:00:00 UTC"
+  "notes": "BTC 63,700달러 소폭 반등. ETF유출·공포지수 여전. 8/7 NFP 주목",
+  "updated": "2026-08-04 09:45:00 UTC",
+  "valid_until": "2026-08-04 13:45:00 UTC"
 }
