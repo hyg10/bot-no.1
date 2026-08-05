@@ -1,22 +1,16 @@
 {
-  "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 63700,
+  "regime": "bearish",
+  "confidence": 0.60,
+  "btc_price_usd": 63900,
   "key_events_next_24h": [
     {
-      "name": "No major macro releases scheduled today (Aug 5, 2026)",
-      "time": "2026-08-05 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Bitcoin ETF Daily Flow Data (recent week: net outflows ~4,000 BTC / ~$250M)",
+      "name": "BTC ETF Daily Flow Data (recent week: net outflows ~4,000 BTC / ~$250M)",
       "time": "2026-08-05 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "NFP Non-Farm Payrolls (approaching, 48h away)",
+      "name": "NFP Non-Farm Payrolls (Aug 7 - 48h away, key rate cut catalyst)",
       "time": "2026-08-07 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
@@ -34,10 +28,16 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "CPI Release July 2026",
+      "name": "CPI Release July 2026 (inflation data)",
       "time": "2026-08-12 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "PPI Release July 2026",
+      "time": "2026-08-13 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     },
     {
       "name": "Goldman Sachs Spot BTC ETF Approval Decision (pending ~Aug 21)",
@@ -47,14 +47,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$63,500-63,900 (Aug 4-5). Consolidating in $58K-$65K range for 5+ weeks. Failed to reclaim $65K resistance. ETF weekly flows turned net negative (~-4,000 BTC). Down ~50% from $126K October 2025 peak.",
-    "sentiment": "Extreme Fear (estimated ~25). Mixed signals: institutional adoption growing but ETF flows turned to outflows. Market feels 'bullish yet uncertain'. AI-assisted hack (Boltz/Coldcard pressure) receding. Futures open interest at 2-month high suggesting leveraged positioning ahead of NFP.",
-    "macro": "Fed held at 3.50-3.75% (Jul 29 FOMC). Higher-for-longer environment. No August FOMC meeting. Key upcoming: NFP Aug 7, CPI Aug 12, PPI Aug 13, FOMC Sep 15-16. CLARITY Act Senate recess deadline Aug 7 - passage outcome unclear. Goldman Sachs spot ETF decision pending ~Aug 21.",
-    "resistance_support": "Resistance: $64,160 / $65,000 / $67,400. Support: $62,500 / $62,000 / $58,000.",
-    "catalysts_negative": "ETF net outflows ~4,000 BTC this week. Extreme Fear (~25). Higher-for-longer Fed rates. BTC -50% from ATH. August historically weak for crypto. CLARITY Act passage uncertain. Geopolitical residual risk.",
-    "catalysts_positive": "Price holding $62K support (5+ weeks). CLARITY Act could pass Aug 7 (bullish catalyst). Goldman Sachs ETF approval pending. Futures OI rising suggests positioning for potential breakout. Rate cuts expected Sep FOMC if NFP weak. Iran de-escalation ongoing."
+    "trend": "BTC ~$63,900 (Aug 4-5 UTC). Ranging $62,200-$64,200 for 5+ weeks. Failed to reclaim $65K resistance after July recovery from $58K low. Down ~49% from $126K October 2025 peak. Coldcard hack pressure receding.",
+    "sentiment": "Extreme Fear (Fear & Greed = 25). Mixed: security concerns from Coldcard exploit fading, Strategy (MicroStrategy) BTC sales receding, DEX activity surging (Uniswap V3 +54%, Fluid +101%). BTC dominance 56.57%. Iran de-escalation slight relief.",
+    "macro": "Fed held at 3.50-3.75% (Jul 29 FOMC). Futures pricing 60% chance of September rate hike (bearish for crypto). No August FOMC. Key upcoming: NFP Aug 7, CPI Aug 12, PPI Aug 13, FOMC Sep 15-16. Goldman Sachs spot ETF decision pending ~Aug 21. CLARITY Act Senate deadline Aug 7.",
+    "resistance_support": "Resistance: $64,200 / $65,500 / $67,000. Support: $62,200 / $61,000 / $60,000 / $58,000.",
+    "catalysts_negative": "Sep rate hike 60% priced in. ETF net outflows ~4,000 BTC this week. Extreme Fear (25). BTC -49% from ATH. August historically weak. Coldcard security fallout lingering. Higher-for-longer macro.",
+    "catalysts_positive": "Price holding $62.2K support. Coldcard/Strategy concerns fading. CLARITY Act could pass Aug 7. Goldman Sachs ETF approval pending. DEX on-chain activity surging. Iran de-escalation. Rate cuts possible Sep if NFP weak."
   },
-  "notes": "극도공포(25), ETF순유출, NFP·CLARITY법 8/7 주시",
-  "updated": "2026-08-05 07:00:00 UTC",
-  "valid_until": "2026-08-05 11:00:00 UTC"
+  "notes": "극도공포(25), 9월 금리인상 60%, $62K-$64K 박스권",
+  "updated": "2026-08-05 08:00:00 UTC",
+  "valid_until": "2026-08-05 12:00:00 UTC"
 }
