@@ -1,23 +1,23 @@
 {
-  "regime": "neutral",
-  "confidence": 0.42,
-  "btc_price_usd": 64600,
+  "regime": "bearish",
+  "confidence": 0.55,
+  "btc_price_usd": 64808,
   "key_events_next_24h": [
     {
-      "name": "US July Non-Farm Payrolls",
+      "name": "US July Non-Farm Payrolls (Jobs Report)",
       "time": "2026-08-07 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Iran-US Hormuz Strait Negotiations (de-escalation ongoing)",
-      "time": "2026-08-06 ongoing",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "bearish"
     },
     {
       "name": "BTC ETF Daily Flow Data (Aug 5: +$211M, BlackRock IBIT +$170M)",
       "time": "2026-08-06 21:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Iran-US Hormuz Strait Negotiations (de-escalation ongoing)",
+      "time": "2026-08-06 ongoing",
       "impact": "medium",
       "expected_direction": "bullish"
     },
@@ -29,14 +29,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,600 (Aug 6 08:00 UTC). Up +1.08% in 24h. Ranging $62,200-$65,000 zone for 5+ weeks. Attempting to break $65K resistance. Mild upward bias, consolidating.",
-    "sentiment": "Extreme Fear (Fear & Greed = 25). ETF inflows POSITIVE: +$211M Aug 5 (BlackRock IBIT +$170M). Geopolitical relief: US-Iran Hormuz de-escalation talks progressing, oil prices falling. BTC correlated ~58% with Dow Jones. DEX on-chain activity still elevated. Total crypto market cap ~$2.2T.",
-    "macro": "Fed held at 3.50-3.75% (Jul 29 FOMC, 9-3 vote with 3 dissents favoring hike). No August FOMC. Key upcoming: NFP Aug 7 (HIGH IMPACT), CPI Aug 12, PPI Aug 13, FOMC Sep 15-16. Goldman Sachs spot ETF decision pending ~Aug 21. CLARITY Act Senate vote stalled (Polymarket: ~13% pass probability this year).",
+    "trend": "BTC ~$64,808 (Aug 6 06:08 UTC). Up +0.82% in 24h. Ranging $62,200-$65,500 zone. Attempting to reclaim $65K resistance. Mild upward bias, broadly consolidating.",
+    "sentiment": "Extreme Fear (Fear & Greed = 25). ETF inflows POSITIVE: +$211M Aug 5 (BlackRock IBIT +$170M). DeFi market crashed -38.7% in 24h - major risk-off signal. Stablecoin activity -5% in 24h. Total crypto market cap ~$2.29T, trading volume $57B. BTC correlated ~58% with Dow Jones. Coldcard firmware exploit - 1,816 BTC ($114M) stolen from 5,200+ wallets.",
+    "macro": "Fed held at 3.50-3.75% (Jul 29 FOMC). No August FOMC. KEY UPCOMING: NFP Aug 7 12:30 UTC (HIGH IMPACT - strong job numbers could signal hawkish Fed, bearish for BTC), CPI Aug 12, PPI Aug 13, FOMC Sep 15-16. American Reserve Modernization Act (ARMA) introduced - BTC strategic reserve bill, no immediate price impact. Goldman Sachs spot ETF decision pending ~Aug 21.",
     "resistance_support": "Resistance: $65,000 / $65,500 / $67,000. Support: $63,000 / $62,200 / $61,000.",
-    "catalysts_negative": "Extreme Fear index (25). Higher-for-longer Fed (3.50-3.75%). Three FOMC dissents signal potential Sep rate hike. CLARITY Act legislative stall weighing on institutional confidence.",
-    "catalysts_positive": "ETF inflows +$211M on Aug 5, BlackRock IBIT leading. Hormuz de-escalation supports risk-on. Price holding above $63K support. BTC up +1% on day. Goldman Sachs ETF approval pending."
+    "catalysts_negative": "Extreme Fear index (25). DeFi -38.7% signals broad market risk-off. Stablecoins -5% (outflows). Coldcard security exploit shakes hardware wallet trust. NFP tomorrow - strong reading = hawkish Fed risk. Fed 3 dissents in July (wanted hike). CLARITY Act stalled.",
+    "catalysts_positive": "ETF inflows +$211M on Aug 5, BlackRock IBIT leading. Hormuz de-escalation supports risk-on. BTC holding above $63K support. Goldman Sachs ETF pending. ARMA long-term positive."
   },
-  "notes": "NFP 내일 발표 주목, ETF 유입 긍정, 공포지수25 극단공포",
-  "updated": "2026-08-06 08:00:00 UTC",
-  "valid_until": "2026-08-06 12:00:00 UTC"
+  "notes": "극도공포(25), DeFi-38.7% 폭락, 내일 NFP 발표 경계",
+  "updated": "2026-08-06 06:08:00 UTC",
+  "valid_until": "2026-08-06 10:08:00 UTC"
 }
