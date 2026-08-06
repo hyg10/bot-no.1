@@ -1,7 +1,7 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 64808,
+  "regime": "neutral",
+  "confidence": 0.4,
+  "btc_price_usd": 64510,
   "key_events_next_24h": [
     {
       "name": "US July Non-Farm Payrolls (Jobs Report)",
@@ -29,14 +29,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,808 (Aug 6 06:08 UTC). Up +0.82% in 24h. Ranging $62,200-$65,500 zone. Attempting to reclaim $65K resistance. Mild upward bias, broadly consolidating.",
-    "sentiment": "Extreme Fear (Fear & Greed = 25). ETF inflows POSITIVE: +$211M Aug 5 (BlackRock IBIT +$170M). DeFi market crashed -38.7% in 24h - major risk-off signal. Stablecoin activity -5% in 24h. Total crypto market cap ~$2.29T, trading volume $57B. BTC correlated ~58% with Dow Jones. Coldcard firmware exploit - 1,816 BTC ($114M) stolen from 5,200+ wallets.",
-    "macro": "Fed held at 3.50-3.75% (Jul 29 FOMC). No August FOMC. KEY UPCOMING: NFP Aug 7 12:30 UTC (HIGH IMPACT - strong job numbers could signal hawkish Fed, bearish for BTC), CPI Aug 12, PPI Aug 13, FOMC Sep 15-16. American Reserve Modernization Act (ARMA) introduced - BTC strategic reserve bill, no immediate price impact. Goldman Sachs spot ETF decision pending ~Aug 21.",
+    "trend": "BTC ~$64,510 (Aug 6 12:00 UTC). Up +0.82% in 24h. Range $62,200-$65,500. Consolidating below $65K resistance. Mixed: BTC holding vs. broader crypto weakness.",
+    "sentiment": "Extreme Fear (Fear & Greed ~25). ETF inflows POSITIVE: +$211M Aug 5 (BlackRock IBIT +$170M). DeFi market -38.7% in 24h, major risk-off signal. Stablecoin activity -5% in 24h. Total crypto market cap ~$2.29T, volume $57B. BTC dominance 56.5%. BTC-Dow correlation 58%. Coldcard firmware exploit: 1,816 BTC ($114M) stolen from 5,200+ wallets.",
+    "macro": "Fed held at 3.50-3.75% (Jul 29 FOMC). 3 dissenters wanted +25bps hike. No August FOMC. KEY: NFP Aug 7 12:30 UTC (HIGH IMPACT - strong payrolls = hawkish risk = bearish BTC). CPI Aug 12, PPI Aug 13, FOMC Sep 15-16. ARMA bill: Treasury authorized to buy up to 200K BTC/year for 5 years targeting 1M BTC reserve. Goldman Sachs spot ETF decision pending ~Aug 21.",
     "resistance_support": "Resistance: $65,000 / $65,500 / $67,000. Support: $63,000 / $62,200 / $61,000.",
-    "catalysts_negative": "Extreme Fear index (25). DeFi -38.7% signals broad market risk-off. Stablecoins -5% (outflows). Coldcard security exploit shakes hardware wallet trust. NFP tomorrow - strong reading = hawkish Fed risk. Fed 3 dissents in July (wanted hike). CLARITY Act stalled.",
-    "catalysts_positive": "ETF inflows +$211M on Aug 5, BlackRock IBIT leading. Hormuz de-escalation supports risk-on. BTC holding above $63K support. Goldman Sachs ETF pending. ARMA long-term positive."
+    "catalysts_negative": "Extreme Fear index (~25). DeFi -38.7% signals broad risk-off. Stablecoins -5% (outflows). Coldcard exploit shakes hardware wallet trust. NFP tomorrow - strong jobs = hawkish Fed risk. Fed 3 dissenters in July (wanted hike). CLARITY Act stalled in Senate.",
+    "catalysts_positive": "ETF inflows +$211M on Aug 5, BlackRock IBIT leading. BTC holding above $63K support and up +0.82% today. Hormuz de-escalation supports risk-on sentiment. Goldman Sachs ETF pending (bullish). ARMA long-term positive for BTC demand."
   },
-  "notes": "극도공포(25), DeFi-38.7% 폭락, 내일 NFP 발표 경계",
-  "updated": "2026-08-06 06:08:00 UTC",
-  "valid_until": "2026-08-06 10:08:00 UTC"
+  "notes": "혼조세: BTC소폭상승·DeFi폭락·NFP대기 중립유지",
+  "updated": "2026-08-06 12:00:00 UTC",
+  "valid_until": "2026-08-06 16:00:00 UTC"
 }
