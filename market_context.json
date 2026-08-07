@@ -1,36 +1,36 @@
 {
-  "regime": "bearish",
+  "regime": "neutral",
   "confidence": 0.55,
-  "btc_price_usd": 64744,
+  "btc_price_usd": 65143,
   "key_events_next_24h": [
     {
-      "name": "US July NFP (Nonfarm Payrolls, Unemployment Rate, Avg Hourly Earnings)",
-      "time": "2026-08-07 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
+      "name": "US July NFP released - missed expectations (bullish for rate cut odds)",
+      "time": "2026-08-07 13:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     },
     {
-      "name": "BTC Spot ETF Daily Flow Data (BlackRock IBIT leading +$626M/3days)",
+      "name": "BTC Spot ETF Daily Flow Data (week total ~$754M inflows)",
       "time": "2026-08-07 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "No FOMC scheduled (next: Sep 15-16 2026)",
+      "name": "No FOMC scheduled (next: Sep 15-16 2026); CPI Aug 12, PPI Aug 14",
       "time": "2026-08-08 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,744 (Aug 7 2026). -0.25% in 24h. Stalling below $65K resistance. Fear & Greed Index: 25 (Extreme Fear). BTC below EMA200 ($73,388) by ~13%. Daily momentum negative.",
-    "sentiment": "Bearish. Fear & Greed at extreme fear (25). BTC below all major daily MAs including EMA200. Daily structure favors caution. BUT ETF inflows remain positive (IBIT +$626M/3days). ADP jobs report missed - soft labor outlook. US-Iran Hormuz talks progressing; oil -4%, easing inflation pressure.",
-    "macro": "NFP release today Aug 7 12:30 UTC - primary catalyst for next 12h. Fed held 3.50-3.75% at July 29 meeting (3-way dissent from Hammack/Kashkari/Logan). Higher-for-longer environment. ADP miss raises odds of soft NFP print. Next FOMC: Sep 15-16. CPI Aug 12, PPI Aug 13, FOMC minutes Aug 19. Oil -4% on Hormuz diplomacy reduces inflation pressure slightly.",
-    "resistance_support": "Resistance: $65,000 / $66,800-$67,000. Support: $63,000-$63,898 / $62,500. 50-day EMA: ~$64,587. EMA200: $73,388 (BTC far below).",
-    "catalysts_positive": "Spot BTC ETF inflows +$626M over 3 days. Oil -4% on Iran-US Hormuz diplomacy easing inflation fears. Goldman Sachs ETF application pending SEC. Bitcoin holding $64K floor.",
-    "catalysts_negative": "Fear & Greed index at 25 (Extreme Fear). BTC ~13% below EMA200 - structural bearish. Daily momentum negative. Fed higher-for-longer (3.50-3.75%). Coldcard firmware exploit security concerns. NFP outcome unknown. CLARITY Act stalled in Senate."
+    "trend": "BTC ~$65,143 (Aug 7 2026). +0.6% from open. Recovering after NFP miss. Fear & Greed: 29 (Fear, improved from 25). BTC below EMA200 ($73,388) by ~12%. Consolidating $62K-$66K range.",
+    "sentiment": "Neutral. Jobs report missed expectations -> mild bullish (Fed easing odds rise). Whale accumulation $1.2B. ETF inflows $754M this week. BUT: F&G still in Fear (29), BTC far below EMA200, upside implied vol at all-time low (~23%), CLARITY Act stalled in Senate. Range-bound momentum.",
+    "macro": "NFP missed today (Aug 7 13:30 UTC) -> bullish for risk assets as it raises rate cut odds. Fed held 3.50-3.75% at July 29 meeting. No FOMC in August. Next FOMC: Sep 15-16. CPI: Aug 12, PPI: Aug 14, FOMC minutes: Aug 19. Oil -4% on Hormuz diplomacy easing inflation. Higher-for-longer still baseline but NFP miss softens stance.",
+    "resistance_support": "Resistance: $65,000 / $66,800-$67,000. Support: $63,000-$63,898 / $62,500. 50-day EMA: ~$64,587. EMA200: $73,388 (BTC far below - structural bearish backdrop).",
+    "catalysts_positive": "NFP miss raises rate cut expectations. ETF inflows $754M/week (IBIT leading). Whale accumulation $1.2B. Oil -4% eases inflation fears. BTC holding $64K support floor.",
+    "catalysts_negative": "F&G at 29 (Fear). BTC ~12% below EMA200 - structural bearish. Upside implied vol at all-time low (23%) - bulls missing. CLARITY Act stalled in Senate. Bitcoin miners MARA/CLSK heavy losses. FOMC higher-for-longer baseline."
   },
-  "notes": "공포지수25 극도공포, EMA200 하회, NFP 발표 대기, ETF 유입 긍정",
-  "updated": "2026-08-07 10:30:00 UTC",
-  "valid_until": "2026-08-07 14:30:00 UTC"
+  "notes": "NFP 약세로 $65K 반등. 공포29, ETF유입 지속. 저항$67K",
+  "updated": "2026-08-07 14:00:00 UTC",
+  "valid_until": "2026-08-07 18:00:00 UTC"
 }
