@@ -1,16 +1,16 @@
 {
   "regime": "neutral",
-  "confidence": 0.65,
-  "btc_price_usd": 64382,
+  "confidence": 0.40,
+  "btc_price_usd": 64500,
   "key_events_next_24h": [
     {
-      "name": "US July NFP Reaction (released today, markets processing)",
+      "name": "US July Jobs Report (NFP, Unemployment Rate, Avg Hourly Earnings)",
       "time": "2026-08-07 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "BTC Spot ETF Daily Flow Data",
+      "name": "BTC Spot ETF Daily Flow Data (BlackRock IBIT leading +$626M/3days)",
       "time": "2026-08-07 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
@@ -23,14 +23,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,382 (Aug 7 2026). Down -0.69% in 24h. Range $64,000-$65,500. Consolidating below $65K resistance. Strong support at $63,000-$63,898.",
-    "sentiment": "Mixed. ETF inflows POSITIVE: +$626M over 3 days, strong institutional demand. But stagflation concerns returned after weak US manufacturing data. Coldcard firmware exploit unsettled self-custody holders ($114M at risk). BitMEX delisting BTC futures ahead of September shutdown. CLARITY Act stalled in Senate.",
-    "macro": "NFP released today Aug 7 (market still processing). No August FOMC. Next Fed rate decision: Sep 15-16, 2026. CPI Aug 12, PPI Aug 13, FOMC minutes Aug 19. July FOMC ended 9-3 (3 dissenters wanted hike). Dollar weaker but not driving BTC rally. Stagflation risk weighing on risk appetite.",
-    "resistance_support": "Resistance: $65,000 / $66,800-$67,000. Support: $63,898 / $63,000 / $62,500. 50-day EMA: $64,587.",
-    "catalysts_positive": "Spot BTC ETF inflows +$626M over 3 days (BlackRock IBIT leading). Dollar weakness supportive. BTC holding above $64K. Goldman Sachs ETF decision pending ~Aug 21.",
-    "catalysts_negative": "Stagflation fears after weak manufacturing data. Coldcard firmware exploit ($114M at risk, 5200+ wallets). BitMEX delisting BTC futures. CLARITY Act stalled. BTC/crypto correlation with defensive risk-off positioning."
+    "trend": "BTC ~$64,500 (Aug 7 2026). +0.2% in 24h. Consolidating below $65K resistance. Fear & Greed Index: 25 (Extreme Fear). Support at $63,000-$63,898.",
+    "sentiment": "Mixed. ETF inflows POSITIVE: +$626M over 3 days. Diplomatic progress US-Iran pushed oil -4%, easing inflation concerns. Block Inc Q2 BTC gross profit +31% YoY. BUT Fear & Greed at extreme fear (25). CLARITY Act stalled in Senate. Higher-for-longer Fed rate (3.50-3.75%) environment.",
+    "macro": "Jobs report due Aug 7 12:30 UTC (8:30 AM ET) - major catalyst. No August FOMC. Next Fed decision: Sep 16 2026. CPI Aug 12, PPI Aug 13, FOMC minutes Aug 19. Fed held 3.50-3.75% at July meeting. Softer dollar supportive but not driving BTC rally. Oil down 4% on Iran-US diplomacy.",
+    "resistance_support": "Resistance: $65,000 / $66,800-$67,000. Support: $63,898 / $63,000 / $62,500. 50-day EMA: ~$64,587.",
+    "catalysts_positive": "Spot BTC ETF inflows +$626M over 3 days. Oil prices -4% easing inflation fears. Dollar weaker. Bitcoin holding above $64K. Goldman Sachs ETF application pending.",
+    "catalysts_negative": "Fear & Greed index at 25 (Extreme Fear). CLARITY Act stalled in Senate. Fed higher-for-longer stance. Jobs report uncertainty. Coldcard firmware exploit security concerns."
   },
-  "notes": "BTC $64K 박스권 횡보, 스테그플레이션 우려+ETF 유입 혼조 중립",
-  "updated": "2026-08-07 07:00:00 UTC",
-  "valid_until": "2026-08-07 11:00:00 UTC"
+  "notes": "BTC $64.5K 횡보, 공포탐욕 25(극심한 공포), 고용지표 발표 예정, ETF 유입 긍정",
+  "updated": "2026-08-07 09:30:00 UTC",
+  "valid_until": "2026-08-07 13:30:00 UTC"
 }
