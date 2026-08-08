@@ -1,13 +1,13 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 64879,
+  "confidence": 0.45,
+  "btc_price_usd": 65300,
   "key_events_next_24h": [
     {
-      "name": "Weekend - No major US macro releases (thin liquidity)",
-      "time": "2026-08-08 12:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "Post-NFP Follow-Through (Jul NFP: -23K jobs, unemployment 4.1% - major miss)",
+      "time": "2026-08-08 13:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     },
     {
       "name": "BTC Spot ETF Daily Flow Data (weekend, limited reporting)",
@@ -16,21 +16,27 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "Upcoming: US CPI July 2026 (key Fed input, outside window)",
+      "name": "Goldman Sachs Bitcoin ETF SEC Filing - ongoing review",
+      "time": "2026-08-09 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Upcoming: US CPI July 2026 (key Fed input, outside 24h window)",
       "time": "2026-08-12 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC $64,879 at 12:09 UTC Aug 8. Pulled back -0.24% from prior session high ~$65,083. 24h range $64,471-$65,349. Trading just below $65,000 resistance. Weekend thin liquidity, consolidation likely.",
-    "sentiment": "Extreme Fear (F&G ~25). NFP-driven bounce (+1.3%) mostly priced in overnight. Short sellers $148M facing ongoing liquidation risk. ETF inflows remain structurally supportive. Mixed: technicals stabilizing but macro uncertainty persists.",
-    "macro": "No FOMC in August. Next Fed decision: Sep 15-16 2026. Rate at 3.50%-3.75%. Jul NFP badly missed (-23K vs +80K expected), unemployment 4.1%. Fed pause probability for Sep now ~56%. CPI Jul: Aug 12 (key next event). Jackson Hole late August.",
+    "trend": "BTC ~$65,300 as of Aug 8 afternoon UTC. Up ~0.8% in 24h. 24h range $64,100-$65,300. Bounced from weak July jobs report (-23K vs +80K expected). Testing $65,000-$65,350 resistance zone. Weekend thin liquidity.",
+    "sentiment": "Extreme Fear (F&G ~25 as of Aug 4). NFP-driven bounce (+~1.3%) partially priced in. Short sellers ~$148M facing ongoing liquidation risk. ETF inflows structurally supportive (Goldman Sachs ETF filing). Whale accumulation ($1.2B since Jul 29). Overall cautious but improving.",
+    "macro": "No FOMC in August. Next Fed decision: Sep 15-16 2026. Rate at 3.50%-3.75% (held Jul 29, most divided vote since 2016). Jul NFP badly missed (-23K vs +80K expected), unemployment 4.1%. Fed pause probability for Sep ~56%. CPI Jul: Aug 12 (next key event). FOMC minutes: Aug 19. Jackson Hole late August.",
     "resistance_support": "Resistance: $65,000-$65,350 / $66,800. Support: $64,100 / $63,900 / $63,000. 50-day EMA: ~$64,587.",
-    "catalysts_positive": "ETF inflows $754M/week (IBIT leading). Whale accumulation ongoing ($1.2B since Jul 29). Fed pause expectations raised by NFP miss. Oil -4% last week reduces stagflation risk.",
-    "catalysts_negative": "F&G index 25 (Extreme Fear). $65,000 resistance holding. BTC 48% below Oct 2025 ATH ($126,080). CLARITY Act stalled in Senate. Weekend illiquidity. BIP-110 PoW fork discussion adds protocol uncertainty."
+    "catalysts_positive": "Weak NFP raises Fed rate-cut hopes. ETF inflows robust ($754M/week, IBIT leading). Goldman Sachs Bitcoin ETF SEC filing. Whale accumulation ongoing. Oil prices lower reducing stagflation risk. BTC dominance 56.6% stable.",
+    "catalysts_negative": "F&G index ~25 (Extreme Fear). $65,000 resistance holding. BTC 48% below Oct 2025 ATH ($126,080). Digital Asset CLARITY Act stalled in Senate (delayed). Weekend illiquidity. August historically worst month for BTC seasonality."
   },
-  "notes": "65000 저항 소화 중, 주말 관망세. CPI(8/12) 전 중립",
-  "updated": "2026-08-08 12:10:00 UTC",
-  "valid_until": "2026-08-08 16:10:00 UTC"
+  "notes": "약한 고용지표 후 BTC 소폭 상승, 공포탐욕지수 25로 극심한 공포",
+  "updated": "2026-08-08 17:00:00 UTC",
+  "valid_until": "2026-08-08 21:00:00 UTC"
 }
