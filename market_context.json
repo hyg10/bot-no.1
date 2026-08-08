@@ -1,11 +1,11 @@
 {
-  "regime": "bullish",
-  "confidence": 0.55,
-  "btc_price_usd": 64940,
+  "regime": "neutral",
+  "confidence": 0.40,
+  "btc_price_usd": 64879,
   "key_events_next_24h": [
     {
-      "name": "Weekend - No major US macro releases scheduled",
-      "time": "2026-08-08 00:00 UTC",
+      "name": "Weekend - No major US macro releases (thin liquidity)",
+      "time": "2026-08-08 12:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
@@ -16,21 +16,21 @@
       "expected_direction": "bullish"
     },
     {
-      "name": "Upcoming: US CPI July (4 days - key Fed input)",
+      "name": "Upcoming: US CPI July 2026 (key Fed input, outside window)",
       "time": "2026-08-12 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,940 (Aug 8 2026). Holding above $64,100 support. Range $64,100-$65,300 since NFP miss on Aug 7. BTC still below EMA200 (~$73,388) by ~12%. Weekend low-volatility consolidation likely. Short sellers $148M facing liquidation pressure.",
-    "sentiment": "Cautiously bullish. Jul NFP badly missed (-23K vs +80K forecast) -> Fed pause at Sep 16 now 56% probability. Spot ETF inflows surge: $754M/week (IBIT/BlackRock leading), $500M+ in August alone. Whale wallets accumulated $1.2B BTC since Jul 29. BTC ETF institutional demand structurally strong. Fear & Greed Index ~25-29 (extreme fear) but technicals stabilizing. CLARITY Act stalled in Senate - regulatory uncertainty persists.",
-    "macro": "No FOMC in August. Next Fed decision: Sep 15-16 2026. Fed rate 3.50%-3.75%. NFP miss softens near-term hike risk (9-3 vote at Jul FOMC to hold; 3 dissenters wanted +25bp). Upcoming key dates: CPI Aug 12, PPI Aug 13-14, FOMC minutes Aug 19, Jackson Hole late August. Oil -4% last week (Hormuz easing) reduces stagflation concern.",
-    "resistance_support": "Resistance: $65,000-$65,300 / $66,800-$67,000. Support: $64,100 / $63,900 / $63,000. 50-day EMA: ~$64,587. EMA200: $73,388.",
-    "catalysts_positive": "NFP miss raises rate cut/pause expectations. ETF inflows $754M/week. Whale accumulation $1.2B. Oil -4% eases inflation fears. Goldman Sachs BTC ETF decision pending ~Aug 21. Short squeeze risk ($148M short exposure).",
-    "catalysts_negative": "F&G at 25-29 (Extreme Fear). BTC 12% below EMA200 (structural bearish). CLARITY Act stalled. Higher-for-longer Fed stance residual risk. Weekend thin liquidity. BTC 48% below Oct 2025 ATH ($126,080)."
+    "trend": "BTC $64,879 at 12:09 UTC Aug 8. Pulled back -0.24% from prior session high ~$65,083. 24h range $64,471-$65,349. Trading just below $65,000 resistance. Weekend thin liquidity, consolidation likely.",
+    "sentiment": "Extreme Fear (F&G ~25). NFP-driven bounce (+1.3%) mostly priced in overnight. Short sellers $148M facing ongoing liquidation risk. ETF inflows remain structurally supportive. Mixed: technicals stabilizing but macro uncertainty persists.",
+    "macro": "No FOMC in August. Next Fed decision: Sep 15-16 2026. Rate at 3.50%-3.75%. Jul NFP badly missed (-23K vs +80K expected), unemployment 4.1%. Fed pause probability for Sep now ~56%. CPI Jul: Aug 12 (key next event). Jackson Hole late August.",
+    "resistance_support": "Resistance: $65,000-$65,350 / $66,800. Support: $64,100 / $63,900 / $63,000. 50-day EMA: ~$64,587.",
+    "catalysts_positive": "ETF inflows $754M/week (IBIT leading). Whale accumulation ongoing ($1.2B since Jul 29). Fed pause expectations raised by NFP miss. Oil -4% last week reduces stagflation risk.",
+    "catalysts_negative": "F&G index 25 (Extreme Fear). $65,000 resistance holding. BTC 48% below Oct 2025 ATH ($126,080). CLARITY Act stalled in Senate. Weekend illiquidity. BIP-110 PoW fork discussion adds protocol uncertainty."
   },
-  "notes": "약한 고용보고서로 금리동결 기대 상승, ETF 유입·고래 매수 지속으로 단기 강세",
-  "updated": "2026-08-08 04:00:00 UTC",
-  "valid_until": "2026-08-08 08:00:00 UTC"
+  "notes": "65000 저항 소화 중, 주말 관망세. CPI(8/12) 전 중립",
+  "updated": "2026-08-08 12:10:00 UTC",
+  "valid_until": "2026-08-08 16:10:00 UTC"
 }
