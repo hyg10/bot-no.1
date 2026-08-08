@@ -1,6 +1,6 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.55,
   "btc_price_usd": 64940,
   "key_events_next_24h": [
     {
@@ -13,7 +13,7 @@
       "name": "BTC Spot ETF Daily Flow Data (weekend, limited reporting)",
       "time": "2026-08-08 20:00 UTC",
       "impact": "low",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     },
     {
       "name": "Upcoming: US CPI July (4 days - key Fed input)",
@@ -23,14 +23,14 @@
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,940 (Aug 8 2026). Slight pullback from Aug 7 high of $65,300. Range $64,100-$65,300 since NFP. BTC still below EMA200 (~$73,388) by ~12%. Support holding at $64,100. Weekend low-volatility consolidation likely.",
-    "sentiment": "Fear. Fear & Greed Index: 25 (Extreme Fear), pulled back from yesterday's 29. NFP miss (-23K vs +80K forecast, unemployment 4.1%) initially pushed BTC to $65,300 but gains partially faded. 56% market pricing Fed pause at Sep 16. ETF inflows remain positive ($754M/week). CLARITY Act stalled in Senate. Stagflation risks persist (oil elevated). Goldman Sachs BTC ETF pending ~Aug 21.",
-    "macro": "No FOMC in August. Next Fed decision: Sep 15-16 2026. Upcoming: CPI Aug 12, PPI Aug 14, FOMC minutes Aug 19, Jackson Hole late August. Fed rate 3.50%-3.75% (higher-for-longer baseline). NFP miss softens near-term hike risk. Oil prices elevated, stagflation concern lingers. Hormuz diplomacy easing (oil -4% last week). Higher-for-longer still structural headwind for risk assets.",
+    "trend": "BTC ~$64,940 (Aug 8 2026). Holding above $64,100 support. Range $64,100-$65,300 since NFP miss on Aug 7. BTC still below EMA200 (~$73,388) by ~12%. Weekend low-volatility consolidation likely. Short sellers $148M facing liquidation pressure.",
+    "sentiment": "Cautiously bullish. Jul NFP badly missed (-23K vs +80K forecast) -> Fed pause at Sep 16 now 56% probability. Spot ETF inflows surge: $754M/week (IBIT/BlackRock leading), $500M+ in August alone. Whale wallets accumulated $1.2B BTC since Jul 29. BTC ETF institutional demand structurally strong. Fear & Greed Index ~25-29 (extreme fear) but technicals stabilizing. CLARITY Act stalled in Senate - regulatory uncertainty persists.",
+    "macro": "No FOMC in August. Next Fed decision: Sep 15-16 2026. Fed rate 3.50%-3.75%. NFP miss softens near-term hike risk (9-3 vote at Jul FOMC to hold; 3 dissenters wanted +25bp). Upcoming key dates: CPI Aug 12, PPI Aug 13-14, FOMC minutes Aug 19, Jackson Hole late August. Oil -4% last week (Hormuz easing) reduces stagflation concern.",
     "resistance_support": "Resistance: $65,000-$65,300 / $66,800-$67,000. Support: $64,100 / $63,900 / $63,000. 50-day EMA: ~$64,587. EMA200: $73,388.",
-    "catalysts_positive": "NFP miss raises rate cut/pause expectations. ETF inflows $754M/week (IBIT/BlackRock leading). Whale accumulation $1.2B. Oil -4% eases inflation fears. Goldman Sachs BTC ETF decision pending ~Aug 21.",
-    "catalysts_negative": "F&G at 25 (Extreme Fear). BTC 12% below EMA200 (structural bearish). CLARITY Act stalled in Senate. Higher-for-longer Fed stance. Stagflation risk. Weekend thin liquidity. BTC 48% below Oct 2025 ATH ($126,080)."
+    "catalysts_positive": "NFP miss raises rate cut/pause expectations. ETF inflows $754M/week. Whale accumulation $1.2B. Oil -4% eases inflation fears. Goldman Sachs BTC ETF decision pending ~Aug 21. Short squeeze risk ($148M short exposure).",
+    "catalysts_negative": "F&G at 25-29 (Extreme Fear). BTC 12% below EMA200 (structural bearish). CLARITY Act stalled. Higher-for-longer Fed stance residual risk. Weekend thin liquidity. BTC 48% below Oct 2025 ATH ($126,080)."
   },
-  "notes": "F&G 25(극단공포), BTC $64.9K 횡보. CPI 8/12 대기, 무이벤트 주말",
-  "updated": "2026-08-08 02:00:00 UTC",
-  "valid_until": "2026-08-08 06:00:00 UTC"
+  "notes": "약한 고용보고서로 금리동결 기대 상승, ETF 유입·고래 매수 지속으로 단기 강세",
+  "updated": "2026-08-08 04:00:00 UTC",
+  "valid_until": "2026-08-08 08:00:00 UTC"
 }
