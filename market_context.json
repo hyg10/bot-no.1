@@ -1,42 +1,30 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 65300,
+  "confidence": 0.40,
+  "btc_price_usd": 64904,
   "key_events_next_24h": [
     {
-      "name": "Post-NFP Follow-Through (Jul NFP: -23K jobs, unemployment 4.1% - major miss)",
-      "time": "2026-08-08 13:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "BTC Spot ETF Daily Flow Data (weekend, limited reporting)",
-      "time": "2026-08-08 20:00 UTC",
-      "impact": "low",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Goldman Sachs Bitcoin ETF SEC Filing - ongoing review",
+      "name": "Weekend low-liquidity session (no major macro events scheduled today, Sunday Aug 9)",
       "time": "2026-08-09 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
-      "name": "Upcoming: US CPI July 2026 (key Fed input, outside 24h window)",
+      "name": "Upcoming: US July CPI Release (outside 24h window, key Fed input)",
       "time": "2026-08-12 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$65,300 as of Aug 8 afternoon UTC. Up ~0.8% in 24h. 24h range $64,100-$65,300. Bounced from weak July jobs report (-23K vs +80K expected). Testing $65,000-$65,350 resistance zone. Weekend thin liquidity.",
-    "sentiment": "Extreme Fear (F&G ~25 as of Aug 4). NFP-driven bounce (+~1.3%) partially priced in. Short sellers ~$148M facing ongoing liquidation risk. ETF inflows structurally supportive (Goldman Sachs ETF filing). Whale accumulation ($1.2B since Jul 29). Overall cautious but improving.",
-    "macro": "No FOMC in August. Next Fed decision: Sep 15-16 2026. Rate at 3.50%-3.75% (held Jul 29, most divided vote since 2016). Jul NFP badly missed (-23K vs +80K expected), unemployment 4.1%. Fed pause probability for Sep ~56%. CPI Jul: Aug 12 (next key event). FOMC minutes: Aug 19. Jackson Hole late August.",
-    "resistance_support": "Resistance: $65,000-$65,350 / $66,800. Support: $64,100 / $63,900 / $63,000. 50-day EMA: ~$64,587.",
-    "catalysts_positive": "Weak NFP raises Fed rate-cut hopes. ETF inflows robust ($754M/week, IBIT leading). Goldman Sachs Bitcoin ETF SEC filing. Whale accumulation ongoing. Oil prices lower reducing stagflation risk. BTC dominance 56.6% stable.",
-    "catalysts_negative": "F&G index ~25 (Extreme Fear). $65,000 resistance holding. BTC 48% below Oct 2025 ATH ($126,080). Digital Asset CLARITY Act stalled in Senate (delayed). Weekend illiquidity. August historically worst month for BTC seasonality."
+    "trend": "BTC ~$64,904 as of Aug 9 00:06 UTC (Crypto.com BTCUSD-PERP). 24h range tight: $64,774-$65,151. Consolidating after July 7-day gain of +3.6%. No directional momentum - sideways compression on Sunday.",
+    "sentiment": "Fear & Greed Index 29 (Fear). Retail sentiment bearish but institutional flows constructive. Spot BTC ETFs recorded 6 consecutive days of net inflows (BlackRock IBIT $111M on Aug 3). Goldman Sachs filed for new Bitcoin ETF. Whale accumulation ongoing. Overall: cautious but with underlying institutional support.",
+    "macro": "FOMC held at 3.50%-3.75% on Jul 29 (9-3 vote, most divided since 2016). July NFP badly missed (-23K actual vs +80K expected), unemployment 4.1%. Dovish lean from jobs data reduces rate-hike probability for Sep 15-16 FOMC. Next critical data: CPI Jul on Aug 12, PPI on Aug 13, FOMC minutes Aug 19. Strait of Hormuz negotiations ongoing (Iran), reducing oil/geopolitical risk.",
+    "resistance_support": "Resistance: $65,000-$65,150 / $66,800. Support: $64,774 / $63,900 / $62,000. 50-day EMA: ~$64,500.",
+    "catalysts_positive": "Weak NFP raises rate-cut/hold prospects. ETF inflows structurally supportive (6-day streak). Goldman Sachs Bitcoin ETF filing ongoing. Fed 9-3 vote signals internal dovish drift. Oil prices lower on Hormuz talks. BTC W-pattern on 4h forming, RSI improving. 7-day gain +3.6%.",
+    "catalysts_negative": "F&G index 29 (Fear zone). $65,000 resistance holding multiple attempts. Digital Asset CLARITY Act stalled in Senate. August historically weak seasonality for BTC. Weekend thin liquidity increases volatility risk. CPI Aug 12 outcome uncertain (could re-price Fed path)."
   },
-  "notes": "약한 고용지표 후 BTC 소폭 상승, 공포탐욕지수 25로 극심한 공포",
-  "updated": "2026-08-08 17:00:00 UTC",
-  "valid_until": "2026-08-08 21:00:00 UTC"
+  "notes": "공포탐욕 29(공포), ETF유입 6일 연속, CPI(8/12) 앞두고 중립",
+  "updated": "2026-08-09 00:10:00 UTC",
+  "valid_until": "2026-08-09 04:10:00 UTC"
 }
