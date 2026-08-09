@@ -1,30 +1,36 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "btc_price_usd": 64904,
+  "confidence": 0.4,
+  "btc_price_usd": 64762,
   "key_events_next_24h": [
     {
-      "name": "Weekend low-liquidity session (no major macro events scheduled today, Sunday Aug 9)",
-      "time": "2026-08-09 00:00 UTC",
+      "name": "Weekend low-liquidity session (Sunday Aug 9, no major macro scheduled)",
+      "time": "2026-08-09 06:09 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "Upcoming: US July CPI Release (outside 24h window, key Fed input)",
+      "name": "Upcoming: US July CPI Release (outside 24h window)",
       "time": "2026-08-12 12:30 UTC",
       "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Truth Social BTC ETF SEC decision delayed to Sep 18 (no near-term impact)",
+      "time": "2026-08-09 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
   "market_summary": {
-    "trend": "BTC ~$64,904 as of Aug 9 00:06 UTC (Crypto.com BTCUSD-PERP). 24h range tight: $64,774-$65,151. Consolidating after July 7-day gain of +3.6%. No directional momentum - sideways compression on Sunday.",
-    "sentiment": "Fear & Greed Index 29 (Fear). Retail sentiment bearish but institutional flows constructive. Spot BTC ETFs recorded 6 consecutive days of net inflows (BlackRock IBIT $111M on Aug 3). Goldman Sachs filed for new Bitcoin ETF. Whale accumulation ongoing. Overall: cautious but with underlying institutional support.",
-    "macro": "FOMC held at 3.50%-3.75% on Jul 29 (9-3 vote, most divided since 2016). July NFP badly missed (-23K actual vs +80K expected), unemployment 4.1%. Dovish lean from jobs data reduces rate-hike probability for Sep 15-16 FOMC. Next critical data: CPI Jul on Aug 12, PPI on Aug 13, FOMC minutes Aug 19. Strait of Hormuz negotiations ongoing (Iran), reducing oil/geopolitical risk.",
-    "resistance_support": "Resistance: $65,000-$65,150 / $66,800. Support: $64,774 / $63,900 / $62,000. 50-day EMA: ~$64,500.",
-    "catalysts_positive": "Weak NFP raises rate-cut/hold prospects. ETF inflows structurally supportive (6-day streak). Goldman Sachs Bitcoin ETF filing ongoing. Fed 9-3 vote signals internal dovish drift. Oil prices lower on Hormuz talks. BTC W-pattern on 4h forming, RSI improving. 7-day gain +3.6%.",
-    "catalysts_negative": "F&G index 29 (Fear zone). $65,000 resistance holding multiple attempts. Digital Asset CLARITY Act stalled in Senate. August historically weak seasonality for BTC. Weekend thin liquidity increases volatility risk. CPI Aug 12 outcome uncertain (could re-price Fed path)."
+    "trend": "BTC $64,762 as of 2026-08-09 06:09 UTC (Crypto.com live). 24h range: $64,680-$65,165. Down -0.30% on day. Consolidating below $65K resistance. July jobs report (Aug 7) badly missed (-23K vs +80K), briefly lifted BTC to $65,300 but failed to hold.",
+    "sentiment": "Fear & Greed Index 25 (Extreme Fear). Market broadly defensive. BTC dominance ~57%. Total crypto market ~$2.29T (~46% below Oct 2025 peak of $4.27T). Retail bearish, institutional positioning cautious.",
+    "macro": "FOMC held at 3.50%-3.75% on Jul 29 (higher-for-longer). Weak July NFP (-23K) reduces rate-hike odds for Sep 15-16 FOMC (~56% pause probability priced). Digital Asset Market Clarity Act postponed by Senate (regulatory uncertainty). No major macro releases in next 24h. Next key data: CPI Jul on Aug 12, PPI Aug 13, FOMC minutes Aug 19.",
+    "resistance_support": "Resistance: $65,000-$65,165 / $66,800. Support: $64,680 / $63,900 / $62,000.",
+    "catalysts_positive": "Weak NFP raises Fed pause odds. BTC holding $64K floor. 7-day gain still +2.8%.",
+    "catalysts_negative": "Fear & Greed 25 (Extreme Fear). $65K resistance rejected multiple times. Higher-for-longer Fed at 3.50-3.75%. Digital Asset Clarity Act stalled. August historically weak seasonality. BTC -49% from ATH $126,080. Weekend thin liquidity."
   },
-  "notes": "공포탐욕 29(공포), ETF유입 6일 연속, CPI(8/12) 앞두고 중립",
-  "updated": "2026-08-09 00:10:00 UTC",
-  "valid_until": "2026-08-09 04:10:00 UTC"
+  "notes": "공포지수 25(극도공포), BTC $64.7K 보합. 24시간 내 주요 이벤트 없음.",
+  "updated": "2026-08-09 06:09:00 UTC",
+  "valid_until": "2026-08-09 10:09:00 UTC"
 }
