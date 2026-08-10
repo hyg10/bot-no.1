@@ -1,30 +1,30 @@
 {
   "regime": "neutral",
   "confidence": 0.4,
-  "btc_price_usd": 65155,
+  "btc_price_usd": 65209,
   "key_events_next_24h": [
     {
-      "name": "US Regular Trading Session Open (Mon Aug 10)",
+      "name": "US Equity Market Open (Mon Aug 10)",
       "time": "2026-08-10 13:30 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "CPI Jul Release (3 days ahead - near-term risk)",
-      "time": "2026-08-12 12:30 UTC",
+      "name": "CPI Jul 2026 (3 days ahead - key risk event)",
+      "time": "2026-08-13 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
   "market_summary": {
-    "trend": "BTC $65,155 as of 2026-08-09 18:05 UTC (Crypto.com live). 24h range: $64,674-$65,252. Change: +0.13% (flat/slightly positive). Holding gains from Aug 7 post-NFP spike.",
-    "sentiment": "Fear & Greed Index 25 (Extreme Fear). BTC dominance ~57%. Market broadly defensive despite slight upward price drift. Retail bearish.",
-    "macro": "FOMC held rates at 3.50%-3.75% on Jul 29. Weak July NFP (-23K vs +80K expected) reduced rate-hike odds for Sep 16 FOMC (~56% pause probability). No major macro releases in next 24h. Next key data: CPI Jul on Aug 12 (08:30 ET), PPI Jul on Aug 13, FOMC next meeting Sep 16.",
-    "resistance_support": "Resistance: $65,252 / $66,800. Support: $64,674 / $63,900 / $62,000.",
-    "catalysts_positive": "Weak NFP raises Fed pause odds for Sep 16. BTC holding above $64.7K floor. Weekly +2.8%. Dovish rate expectations supportive of risk assets.",
-    "catalysts_negative": "Fear & Greed 25 (Extreme Fear). Higher-for-longer Fed at 3.50-3.75%. BTC -48% from ATH. Digital Asset Market Clarity Act delayed in Senate. Sunday/weekend thin liquidity."
+    "trend": "BTC $65,209 as of 2026-08-10 00:07 UTC. 24h range: $64,695-$65,234. Change: +0.37%. Holding gains from Aug 7 post-NFP spike. Above 50-day EMA ($64,587) but below 100-day EMA ($67,025) and 200-day EMA ($72,569).",
+    "sentiment": "Fear & Greed Index 25-30 (Extreme Fear). BTC dominance ~57%. Market broadly defensive despite slight price recovery. Technical indicators: 17 bullish vs 12 bearish signals.",
+    "macro": "FOMC held rates at 3.50%-3.75% on Jul 29 (5th consecutive hold). 3 FOMC members dissented for hike - hawkish bias. Weak July NFP (-23K) reduced Sep 16 hike odds. No major macro releases next 24h. CPI Jul due Aug 13, PPI Aug 14, FOMC next Sep 16.",
+    "resistance_support": "Resistance: $65,234 / $66,800 / $68,000. Support: $64,695 / $63,900 / $62,000.",
+    "catalysts_positive": "Weak NFP raises Fed pause odds for Sep 16. BTC holding above 50-day EMA. Weekly +2.8% recovery. Dovish rate expectations supportive of risk assets.",
+    "catalysts_negative": "Fear & Greed 25 (Extreme Fear). Fed hawkish 3 dissenting votes. BTC -48% from ATH ($126,080). Digital Asset Market Clarity Act delayed in Senate. Higher-for-longer 3.50-3.75% rate environment."
   },
-  "notes": "7월 고용 부진→연준 동결 기대, 공포지수 극단적공포(25)",
-  "updated": "2026-08-09 18:10:00 UTC",
-  "valid_until": "2026-08-09 22:10:00 UTC"
+  "notes": "공포지수 극단적공포(25), 50일EMA 근방 횡보, CPI 수요일 예정",
+  "updated": "2026-08-10 00:07:22 UTC",
+  "valid_until": "2026-08-10 04:07:22 UTC"
 }
