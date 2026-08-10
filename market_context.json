@@ -1,30 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
-  "btc_price_usd": 65003,
+  "confidence": 0.42,
   "key_events_next_24h": [
     {
-      "name": "US Equity Market Open (Mon Aug 10 PM)",
-      "time": "2026-08-10 13:30 UTC",
-      "impact": "low",
+      "name": "US CPI (July) - approaching in ~2 days",
+      "time": "2026-08-12 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US PPI (July)",
+      "time": "2026-08-13 12:30 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "CPI Jul 2026 - key risk (Wed Aug 12)",
-      "time": "2026-08-12 08:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
+      "name": "Fed FOMC Minutes (July meeting, 9-3 hold vote)",
+      "time": "2026-08-19 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "market_summary": {
-    "trend": "BTC $65,003 as of 2026-08-10 11:30 UTC. Down slightly from earlier $65,209. Price holding above 50-day EMA (~$64,587) but -48% from ATH $126,080 (Oct 2025). Sideways consolidation since post-NFP spike on Aug 7.",
-    "sentiment": "Fear & Greed Index 25 (Extreme Fear). BTC dominance ~57%. Market broadly defensive. Quantum computing security warning circulating. BTCPay Server exploit patched.",
-    "macro": "Fed held at 3.50%-3.75% (Jun 17 meeting). Hawkish tone: no cuts expected in 2026. Weak Jul NFP (-23K vs +80K expected) slightly reduces Sep 16 hike odds. CPI due Aug 12, PPI Aug 13. Next FOMC Sep 16. No FOMC this week.",
-    "resistance_support": "Resistance: $65,300 / $66,800 / $68,000. Support: $64,695 / $63,900 / $62,000.",
-    "catalysts_positive": "Weak Jul NFP raises Fed pause odds. BTC holding above 50-day EMA. Weekly +2.8% recovery from recent lows.",
-    "catalysts_negative": "Fear & Greed 25 (Extreme Fear). Fed hawkish 3.50-3.75% rate hold. BTC -48% from ATH. CLARITY Act Senate vote delayed to Sep 14. Strategy (MicroStrategy) sold 1,638 BTC. Quantum security warnings."
-  },
-  "notes": "극심한 공포(25), BTC $65k 횡보, CLARITY법 9월로 연기, 연준 금리 동결",
-  "updated": "2026-08-10 11:30:00 UTC",
-  "valid_until": "2026-08-10 15:30:00 UTC"
+  "notes": "BTC $65K대 레인지 횡보, CPI 대기 중 관망 우세",
+  "updated": "2026-08-10 12:00:00 UTC",
+  "valid_until": "2026-08-10 16:00:00 UTC"
 }
