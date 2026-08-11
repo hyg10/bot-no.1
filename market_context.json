@@ -1,17 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 63883.4,
+  "confidence": 0.35,
   "key_events_next_24h": [
     {
-      "name": "US CPI July 2026 (Consumer Price Index)",
+      "name": "US CPI July 2026 Release",
       "time": "2026-08-12 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral",
-      "note": "Expected +3.42% YoY / +0.09% MoM. Hot print = bearish, soft print = bullish"
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "US PPI July 2026 Release",
+      "time": "2026-08-13 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "CPI발표 대기, BTC $63,883 조정(-1.94%). 공포지수 25 극단적 공포",
-  "updated": "2026-08-11 00:15:00 UTC",
-  "valid_until": "2026-08-11 04:15:00 UTC"
+  "notes": "공포지수 25, BTC $64K 지지, CPI 발표 앞두고 방향 불명확",
+  "updated": "2026-08-11 06:00:00 UTC",
+  "valid_until": "2026-08-11 10:00:00 UTC"
 }
