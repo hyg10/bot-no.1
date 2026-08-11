@@ -1,21 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.35,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "US CPI July 2026 Release",
+      "name": "US CPI July 2026 (BLS Release)",
       "time": "2026-08-12 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "US PPI July 2026 Release",
-      "time": "2026-08-13 12:30 UTC",
-      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수 25, BTC $64K 지지, CPI 발표 앞두고 방향 불명확",
-  "updated": "2026-08-11 06:00:00 UTC",
-  "valid_until": "2026-08-11 10:00:00 UTC"
+  "notes": "BTC $64K대 혼조세. CPI 발표(8/12) 앞두고 관망",
+  "updated": "2026-08-11 12:11:00 UTC",
+  "valid_until": "2026-08-11 16:11:00 UTC"
 }
