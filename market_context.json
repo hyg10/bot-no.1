@@ -1,21 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.35,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "US CPI July 2026 (BLS)",
+      "name": "US CPI (July 2026)",
       "time": "2026-08-12 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "US PPI July 2026 (BLS)",
+      "name": "US PPI (July 2026)",
       "time": "2026-08-13 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "SEC Open Meeting on Crypto Regulations",
+      "time": "2026-08-14 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "CPI 발표 앞두고 혼조세, 고래 축적 vs 기관 매도",
-  "updated": "2026-08-12 00:07:07 UTC",
-  "valid_until": "2026-08-12 04:07:07 UTC"
+  "notes": "CPI 발표 앞두고 관망세, $65K 저항 압박, 혼조 신호",
+  "updated": "2026-08-12 08:00:00 UTC",
+  "valid_until": "2026-08-12 12:00:00 UTC"
 }
