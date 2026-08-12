@@ -1,15 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.5,
+  "confidence": 0.35,
   "key_events_next_24h": [
     {
-      "name": "US July CPI Report",
+      "name": "US CPI July 2026 (BLS)",
       "time": "2026-08-12 12:30 UTC",
       "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "US PPI July 2026 (BLS)",
+      "time": "2026-08-13 12:30 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $63,500 부근 하락. CPI 발표 앞두고 관망세, ETF 유출",
-  "updated": "2026-08-11 18:10:00 UTC",
-  "valid_until": "2026-08-11 22:10:00 UTC"
+  "notes": "CPI 발표 앞두고 혼조세, 고래 축적 vs 기관 매도",
+  "updated": "2026-08-12 00:07:07 UTC",
+  "valid_until": "2026-08-12 04:07:07 UTC"
 }
