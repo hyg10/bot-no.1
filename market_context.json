@@ -1,27 +1,16 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
+  "confidence": 0.4,
+  "btc_price_usd": 64295.29,
   "key_events_next_24h": [
     {
-      "name": "US CPI (July 2026)",
+      "name": "US CPI July BLS Release",
       "time": "2026-08-12 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "US PPI (July 2026)",
-      "time": "2026-08-13 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "SEC Open Meeting on Crypto Regulations",
-      "time": "2026-08-14 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "CPI 발표 앞두고 관망세, $65K 저항 압박, 혼조 신호",
-  "updated": "2026-08-12 08:00:00 UTC",
-  "valid_until": "2026-08-12 12:00:00 UTC"
+  "notes": "CPI 발표 임박(12:30UTC), 극도공포(25), $64K대 관망세",
+  "updated": "2026-08-12 12:13:40 UTC",
+  "valid_until": "2026-08-12 16:13:40 UTC"
 }
