@@ -1,27 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.42,
+  "regime": "bearish",
+  "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "US PPI July 2026 Release (BLS)",
+      "name": "US PPI July 2026",
       "time": "2026-08-13 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "impact": "high",
+      "expected_direction": "neutral"
     },
     {
       "name": "US Retail Sales July 2026",
       "time": "2026-08-14 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "SEC Open Meeting - Regulation Crypto Proposal",
-      "time": "2026-08-14 14:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "SEC 규제안·PPI 주목, BTC $63.7K 보합, 공포지수 극단적공포",
-  "updated": "2026-08-13 12:40:55 UTC",
-  "valid_until": "2026-08-13 16:40:55 UTC"
+  "notes": "모든 시간대 하락세, PPI 발표·중동 긴장 지속으로 약세 우세",
+  "updated": "2026-08-13 12:00:00 UTC",
+  "valid_until": "2026-08-13 16:00:00 UTC"
 }
