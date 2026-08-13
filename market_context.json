@@ -1,21 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "US July CPI Release (YoY 3.4% vs 3.4% expected)",
-      "time": "2026-08-12 12:30 UTC",
+      "name": "US PPI (July 2026)",
+      "time": "2026-08-13 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "SEC Open Meeting: Crypto Regulation Easing",
+      "name": "US Retail Sales (July 2026)",
+      "time": "2026-08-14 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "SEC Open Meeting on Crypto Regulations",
       "time": "2026-08-14 14:00 UTC",
-      "impact": "high",
+      "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "CPI 예상치 부합, 고용 악화로 연준 인하 기대. 공포지수 25(극단적 공포)",
-  "updated": "2026-08-12 07:00:00 UTC",
-  "valid_until": "2026-08-12 11:00:00 UTC"
+  "notes": "CPI 양호로 소폭반등, PPI발표 대기, 유가상승 변수로 혼조세",
+  "updated": "2026-08-13 06:00:00 UTC",
+  "valid_until": "2026-08-13 10:00:00 UTC"
 }
