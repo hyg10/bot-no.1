@@ -1,27 +1,27 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
+  "regime": "neutral",
+  "confidence": 0.42,
   "key_events_next_24h": [
     {
-      "name": "US PPI (July)",
+      "name": "US PPI July 2026 Release (BLS)",
       "time": "2026-08-13 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "impact": "medium",
+      "expected_direction": "bullish"
     },
     {
-      "name": "US Initial Jobless Claims",
-      "time": "2026-08-13 12:30 UTC",
+      "name": "US Retail Sales July 2026",
+      "time": "2026-08-14 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Minutes (Jul 28-29 meeting)",
-      "time": "2026-08-19 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "name": "SEC Open Meeting - Regulation Crypto Proposal",
+      "time": "2026-08-14 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "극단적공포(25), 기술지표27개 약세, PPI·실업청구 12:30발표",
-  "updated": "2026-08-13 06:34:13 UTC",
-  "valid_until": "2026-08-13 10:34:13 UTC"
+  "notes": "SEC 규제안·PPI 주목, BTC $63.7K 보합, 공포지수 극단적공포",
+  "updated": "2026-08-13 12:40:55 UTC",
+  "valid_until": "2026-08-13 16:40:55 UTC"
 }
