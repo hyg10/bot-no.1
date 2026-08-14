@@ -1,15 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.40,
+  "regime": "bearish",
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
       "name": "US Retail Sales (July)",
       "time": "2026-08-14 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Geopolitical risk - Strait of Hormuz / Middle East",
+      "time": "2026-08-14 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $63.2K 하락 -0.91%, 극단적 공포, 소매판매 발표 대기",
-  "updated": "2026-08-14 06:43:00 UTC",
-  "valid_until": "2026-08-14 10:43:00 UTC"
+  "notes": "모든 이평선 하향, 공포지수 29, 지정학적 불안 지속",
+  "updated": "2026-08-14 12:35:00 UTC",
+  "valid_until": "2026-08-14 16:35:00 UTC"
 }
