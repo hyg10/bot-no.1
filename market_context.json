@@ -1,21 +1,15 @@
 {
-  "regime": "bearish",
-  "confidence": 0.6,
+  "regime": "neutral",
+  "confidence": 0.35,
   "key_events_next_24h": [
-    {
-      "name": "US PPI July 2026",
-      "time": "2026-08-13 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
     {
       "name": "US Retail Sales July 2026",
       "time": "2026-08-14 12:30 UTC",
-      "impact": "medium",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "모든 시간대 하락세, PPI 발표·중동 긴장 지속으로 약세 우세",
-  "updated": "2026-08-13 12:00:00 UTC",
-  "valid_until": "2026-08-13 16:00:00 UTC"
+  "notes": "극단적 공포지수(25), BTC 하락세. 소매판매 발표 대기",
+  "updated": "2026-08-14 00:38:00 UTC",
+  "valid_until": "2026-08-14 04:38:00 UTC"
 }
