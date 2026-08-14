@@ -1,15 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.35,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "US Retail Sales July 2026",
+      "name": "US Retail Sales (July)",
       "time": "2026-08-14 12:30 UTC",
-      "impact": "high",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "극단적 공포지수(25), BTC 하락세. 소매판매 발표 대기",
-  "updated": "2026-08-14 00:38:00 UTC",
-  "valid_until": "2026-08-14 04:38:00 UTC"
+  "notes": "BTC $63.2K 하락 -0.91%, 극단적 공포, 소매판매 발표 대기",
+  "updated": "2026-08-14 06:43:00 UTC",
+  "valid_until": "2026-08-14 10:43:00 UTC"
 }
