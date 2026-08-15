@@ -1,21 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "SEC Regulation Crypto Framework vote outcome (scheduled Aug 14, outcome pending)",
+      "name": "SEC Crypto Tokenization Regulatory Uncertainty (ongoing)",
       "time": "2026-08-15 12:00 UTC",
-      "impact": "high",
+      "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "Spot BTC ETF daily flow report",
-      "time": "2026-08-15 20:00 UTC",
+      "name": "US Senate Clarity Act Delay (ongoing)",
+      "time": "2026-08-15 12:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Minutes Release",
+      "time": "2026-08-19 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $62,998 ETF순유출·유가상승·채권금리 상승으로 단기 약세",
-  "updated": "2026-08-15 06:35:00 UTC",
-  "valid_until": "2026-08-15 10:35:00 UTC"
+  "notes": "극심한 공포(25), SEC·규제 불확실성, 가격 하락 추세",
+  "updated": "2026-08-15 12:35:00 UTC",
+  "valid_until": "2026-08-15 16:35:00 UTC"
 }
