@@ -1,27 +1,10 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
-    {
-      "name": "US Retail Sales (July)",
-      "time": "2026-08-14 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "SEC Open Meeting - Crypto Capital Raising Rules",
-      "time": "2026-08-14 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Bank of Japan (BoJ) Hawkish Rate Signals",
-      "time": "2026-08-14 ongoing",
-      "impact": "high",
-      "expected_direction": "bearish"
-    }
+    {"name": "FOMC Minutes (Jul 28-29 meeting)", "time": "2026-08-19 18:00 UTC", "impact": "high", "expected_direction": "bearish"}
   ],
-  "notes": "공포지수29, BoJ 긴축 우려, 전 이평선 하방 - 약세 지속",
-  "updated": "2026-08-14 11:00:00 UTC",
-  "valid_until": "2026-08-14 15:00:00 UTC"
+  "notes": "BTC $63K대 횡보, 주간 하락세, 24h 내 주요 이벤트 없음",
+  "updated": "2026-08-15 00:33:00 UTC",
+  "valid_until": "2026-08-15 04:33:00 UTC"
 }
