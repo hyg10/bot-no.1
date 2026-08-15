@@ -1,27 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.60,
+  "regime": "neutral",
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "SEC Crypto Tokenization Regulatory Uncertainty (ongoing)",
-      "time": "2026-08-15 12:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US Senate Clarity Act Delay (ongoing)",
-      "time": "2026-08-15 12:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Minutes Release",
-      "time": "2026-08-19 14:00 UTC",
-      "impact": "medium",
+      "name": "Post-CPI/PPI consolidation (data released Aug 12-13)",
+      "time": "2026-08-15 18:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Fed commentary / FOMC September hike risk monitoring",
+      "time": "2026-08-16 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "극심한 공포(25), SEC·규제 불확실성, 가격 하락 추세",
-  "updated": "2026-08-15 12:35:00 UTC",
-  "valid_until": "2026-08-15 16:35:00 UTC"
+  "notes": "BTC $62K-66K 횡보, CPI 완화에도 9월 FOMC 인상 우려로 중립",
+  "updated": "2026-08-15 18:00:00 UTC",
+  "valid_until": "2026-08-15 22:00:00 UTC"
 }
