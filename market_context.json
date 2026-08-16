@@ -2,20 +2,10 @@
   "regime": "neutral",
   "confidence": 0.55,
   "key_events_next_24h": [
-    {
-      "name": "No major scheduled macro events (FOMC next Sep 15-16, CPI/PPI next Sep 10)",
-      "time": "2026-08-16 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "SEC Truth Social Bitcoin ETF decision postponed to Sep 18",
-      "time": "2026-09-18 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    }
+    {"name": "No major scheduled macro releases (CPI/PPI already released Aug 12-13)", "time": "2026-08-16 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
+    {"name": "FOMC Minutes (Jul 28-29 meeting) - upcoming in 3 days", "time": "2026-08-19 18:00 UTC", "impact": "medium", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $63,012, 레인지 중립, 24h 거시 이벤트 없음, 관망 국면",
-  "updated": "2026-08-16 00:33:00 UTC",
-  "valid_until": "2026-08-16 04:33:00 UTC"
+  "notes": "BTC $63k 박스권, RSI 45, 규제 불확실성, 중립 심리",
+  "updated": "2026-08-16 06:33:32 UTC",
+  "valid_until": "2026-08-16 10:33:32 UTC"
 }
