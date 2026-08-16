@@ -1,11 +1,27 @@
 {
-  "regime": "neutral",
+  "regime": "bearish",
   "confidence": 0.55,
   "key_events_next_24h": [
-    {"name": "No major scheduled macro releases (CPI/PPI already released Aug 12-13)", "time": "2026-08-16 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
-    {"name": "FOMC Minutes (Jul 28-29 meeting) - upcoming in 3 days", "time": "2026-08-19 18:00 UTC", "impact": "medium", "expected_direction": "neutral"}
+    {
+      "name": "SEC 3x BTC/ETH ETF public comment period (Cboe SR-CboeBZX-2026-065)",
+      "time": "2026-08-16 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "No FOMC meeting (next: September 2026)",
+      "time": "2026-08-16 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "No CPI/PPI release (July data already released Aug 12-13)",
+      "time": "2026-08-16 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "BTC $63k 박스권, RSI 45, 규제 불확실성, 중립 심리",
-  "updated": "2026-08-16 06:33:32 UTC",
-  "valid_until": "2026-08-16 10:33:32 UTC"
+  "notes": "BTC $63K대 하락세, ETF $3.9억 유출, 주간·월간 추세 모두 약세",
+  "updated": "2026-08-16 06:00:00 UTC",
+  "valid_until": "2026-08-16 10:00:00 UTC"
 }
