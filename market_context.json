@@ -3,19 +3,19 @@
   "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "Wyoming Blockchain Symposium / SALT at Jackson Hole (Day 1)",
-      "time": "2026-08-17 14:00 UTC",
-      "impact": "medium",
+      "name": "Cboe 3x Bitcoin/Ether ETF SEC Comment Period (ongoing)",
+      "time": "2026-08-18 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "Ongoing Middle East (Strait of Hormuz) Geopolitical Risk",
-      "time": "2026-08-17 00:00 UTC",
-      "impact": "medium",
+      "name": "FOMC Minutes Release (Jul 28-29 meeting)",
+      "time": "2026-08-19 18:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "공포지수 35, BTC $63.5K 약세 횡보. 잭슨홀·중동 리스크 주시.",
-  "updated": "2026-08-17 06:35:00 UTC",
-  "valid_until": "2026-08-17 10:35:00 UTC"
+  "notes": "공포지수 27, 주간 -3%, $64k 저항선 돌파 실패, 약세 지속",
+  "updated": "2026-08-17 12:40:38 UTC",
+  "valid_until": "2026-08-17 16:40:38 UTC"
 }
