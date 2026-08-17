@@ -3,19 +3,19 @@
   "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "FOMC Minutes Release (Jul 28-29 meeting) — approaching",
-      "time": "2026-08-19 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "Wyoming Blockchain Symposium / SALT at Jackson Hole (Day 1)",
+      "time": "2026-08-17 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     },
     {
-      "name": "US Digital Asset Bill — Senate recess, no action until Sep",
+      "name": "Ongoing Middle East (Strait of Hormuz) Geopolitical Risk",
       "time": "2026-08-17 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $63k 부근 하락세, Fear지수 35, 단기 약세 우위",
-  "updated": "2026-08-17 00:33:23 UTC",
-  "valid_until": "2026-08-17 04:33:23 UTC"
+  "notes": "공포지수 35, BTC $63.5K 약세 횡보. 잭슨홀·중동 리스크 주시.",
+  "updated": "2026-08-17 06:35:00 UTC",
+  "valid_until": "2026-08-17 10:35:00 UTC"
 }
