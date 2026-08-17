@@ -1,15 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
+  "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "Middle East Geopolitical Tension (Ongoing)",
-      "time": "2026-08-16 00:00 UTC",
-      "impact": "medium",
+      "name": "FOMC Minutes Release (Jul 28-29 meeting) — approaching",
+      "time": "2026-08-19 18:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "US Digital Asset Bill — Senate recess, no action until Sep",
+      "time": "2026-08-17 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $63K 약세, EMA 하향 돌파, FOMC 의사록(8/19) 대기",
-  "updated": "2026-08-16 09:00:00 UTC",
-  "valid_until": "2026-08-16 13:00:00 UTC"
+  "notes": "BTC $63k 부근 하락세, Fear지수 35, 단기 약세 우위",
+  "updated": "2026-08-17 00:33:23 UTC",
+  "valid_until": "2026-08-17 04:33:23 UTC"
 }
