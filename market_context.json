@@ -1,21 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
+  "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "Cboe 3x Bitcoin/Ether ETF SEC Comment Period (ongoing)",
+      "name": "No major macro event scheduled (FOMC next Sep 16, CPI next Sep 11)",
       "time": "2026-08-18 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Minutes Release (Jul 28-29 meeting)",
-      "time": "2026-08-19 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "Goldman Sachs: September Fed rate hike very unlikely (soft CPI)",
+      "time": "2026-08-17 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "공포지수 27, 주간 -3%, $64k 저항선 돌파 실패, 약세 지속",
-  "updated": "2026-08-17 12:40:38 UTC",
-  "valid_until": "2026-08-17 16:40:38 UTC"
+  "notes": "BTC 63,400달러, 주간 -3%, 공포지수 35(공포), 약세 추세 지속",
+  "updated": "2026-08-17 18:33:44 UTC",
+  "valid_until": "2026-08-17 22:33:44 UTC"
 }
