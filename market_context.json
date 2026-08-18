@@ -1,12 +1,15 @@
 {
-  "regime": "bearish",
+  "regime": "neutral",
   "confidence": 0.55,
   "key_events_next_24h": [
-    {"name": "No FOMC meeting scheduled", "time": "2026-09-16 18:00 UTC", "impact": "low", "expected_direction": "neutral"},
-    {"name": "No CPI release scheduled", "time": "2026-09-11 12:30 UTC", "impact": "low", "expected_direction": "neutral"},
-    {"name": "Thin Monday open liquidity", "time": "2026-08-18 13:30 UTC", "impact": "medium", "expected_direction": "neutral"}
+    {
+      "name": "FOMC July 28-29 Meeting Minutes Release",
+      "time": "2026-08-19 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    }
   ],
-  "notes": "공포지수 35, 단기 약세. MA 하방, 기관 매수 대기",
-  "updated": "2026-08-18 06:33:52 UTC",
-  "valid_until": "2026-08-18 10:33:52 UTC"
+  "notes": "BTC $64K 반등, 공포지수 35, 내일 FOMC 의사록 발표 예정",
+  "updated": "2026-08-18 10:00:00 UTC",
+  "valid_until": "2026-08-18 14:00:00 UTC"
 }
