@@ -1,21 +1,15 @@
 {
-  "regime": "bearish",
-  "confidence": 0.6,
+  "regime": "neutral",
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "No major macro event scheduled (FOMC next Sep 16, CPI next Sep 11)",
-      "time": "2026-08-18 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Goldman Sachs: September Fed rate hike very unlikely (soft CPI)",
-      "time": "2026-08-17 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "FOMC Minutes Release (July 28-29 Meeting)",
+      "time": "2026-08-19 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC 63,400달러, 주간 -3%, 공포지수 35(공포), 약세 추세 지속",
-  "updated": "2026-08-17 18:33:44 UTC",
-  "valid_until": "2026-08-17 22:33:44 UTC"
+  "notes": "ETF 유입 긍정적, FOMC 의사록 발표 대기, 가격 횡보 중",
+  "updated": "2026-08-18 08:00:00 UTC",
+  "valid_until": "2026-08-18 12:00:00 UTC"
 }
