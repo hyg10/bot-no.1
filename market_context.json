@@ -1,27 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "White House Crypto Meeting (Trump + Coinbase/Ripple/Kraken + SEC/CFTC, CLARITY Act)",
-      "time": "2026-08-19 14:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "FOMC Minutes Release (July 28-29 meeting, 9-3 hold vote, 3 hawkish dissenters)",
+      "name": "FOMC Minutes Release (July 28-29 Meeting)",
       "time": "2026-08-19 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "CFTC Innovation Advisory Committee - Crypto Regulatory Evolution session",
-      "time": "2026-08-20 14:00 UTC",
+      "name": "White House Crypto Regulatory Meeting",
+      "time": "2026-08-19 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "BTC Spot ETF Daily Flow Report",
+      "time": "2026-08-19 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "백악관 암호화폐 회의+FOMC의사록, 방향 불확실",
-  "updated": "2026-08-19 12:34:22 UTC",
-  "valid_until": "2026-08-19 16:34:22 UTC"
+  "notes": "BTC $64K 횡보, FOMC 의사록 매파 리스크, ETF 유입 긍정적",
+  "updated": "2026-08-19 18:33:58 UTC",
+  "valid_until": "2026-08-19 22:33:58 UTC"
 }
