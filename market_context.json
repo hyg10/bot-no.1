@@ -1,21 +1,27 @@
 {
-  "regime": "bearish",
-  "confidence": 0.62,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "FOMC Minutes (July 28-29 meeting)",
+      "name": "FOMC Meeting Minutes Release (Jul 28-29)",
       "time": "2026-08-19 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Q2 GDP Second Estimate",
-      "time": "2026-08-26 12:30 UTC",
+      "name": "White House Crypto Executives Meeting (Trump + Coinbase/Ripple/Kraken)",
+      "time": "2026-08-19 17:00 UTC",
       "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "EIA Weekly Crude Oil Inventories",
+      "time": "2026-08-19 14:30 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "공포지수 35, BTC $63k 약세, FOMC의사록 매파 전망으로 하락압력",
-  "updated": "2026-08-19 00:33:52 UTC",
-  "valid_until": "2026-08-19 04:33:52 UTC"
+  "notes": "FOMC의사록 공개 예정, 공포지수 35, BTC $64K 박스권",
+  "updated": "2026-08-19 06:33:31 UTC",
+  "valid_until": "2026-08-19 10:33:31 UTC"
 }
