@@ -1,21 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.5,
+  "regime": "bearish",
+  "confidence": 0.62,
   "key_events_next_24h": [
     {
-      "name": "Trump White House Crypto Meeting (Coinbase, Ripple, SEC, CFTC)",
-      "time": "2026-08-19 17:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "FOMC Minutes Release (July 28-29, rates held at 3.5-3.75%)",
+      "name": "FOMC Minutes (July 28-29 meeting)",
       "time": "2026-08-19 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "Q2 GDP Second Estimate",
+      "time": "2026-08-26 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $64,200 반등, 중립(53). 트럼프회의+FOMC의사록 혼재",
-  "updated": "2026-08-18 09:30:00 UTC",
-  "valid_until": "2026-08-18 13:30:00 UTC"
+  "notes": "공포지수 35, BTC $63k 약세, FOMC의사록 매파 전망으로 하락압력",
+  "updated": "2026-08-19 00:33:52 UTC",
+  "valid_until": "2026-08-19 04:33:52 UTC"
 }
