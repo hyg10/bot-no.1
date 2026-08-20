@@ -3,25 +3,19 @@
   "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "FOMC Minutes Release (July 28-29 Meeting)",
-      "time": "2026-08-19 18:00 UTC",
-      "impact": "high",
+      "name": "SEC Regulation Crypto Assets (proposed framework)",
+      "time": "2026-08-18 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "FOMC Minutes (July 28-29 meeting, 3 hawkish dissents)",
+      "time": "2026-08-19 14:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
-    },
-    {
-      "name": "White House Crypto Regulatory Meeting",
-      "time": "2026-08-19 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "BTC Spot ETF Daily Flow Report",
-      "time": "2026-08-19 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $64K 횡보, FOMC 의사록 매파 리스크, ETF 유입 긍정적",
-  "updated": "2026-08-19 18:33:58 UTC",
-  "valid_until": "2026-08-19 22:33:58 UTC"
+  "notes": "SEC 규제 호재vs FOMC 매파 이견·이란 불확실성, BTC $64-70k 박스",
+  "updated": "2026-08-20 00:33:53 UTC",
+  "valid_until": "2026-08-20 04:33:53 UTC"
 }
