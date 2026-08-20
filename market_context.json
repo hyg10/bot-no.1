@@ -1,27 +1,27 @@
 {
   "regime": "bullish",
-  "confidence": 0.65,
+  "confidence": 0.7,
   "key_events_next_24h": [
     {
-      "name": "SEC Regulation Crypto Assets Proposal (ongoing)",
-      "time": "2026-08-20 00:00 UTC",
+      "name": "US July CPI release (window)",
+      "time": "2026-08-20 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Clarity Act congressional momentum",
+      "time": "2026-08-20 18:00 UTC",
       "impact": "high",
       "expected_direction": "bullish"
     },
     {
-      "name": "Spot BTC ETF inflow momentum (largest in 3.5 months: $517M on Aug 19)",
-      "time": "2026-08-20 00:00 UTC",
+      "name": "Continued spot BTC ETF flows",
+      "time": "2026-08-20 20:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
-    },
-    {
-      "name": "FOMC next meeting (no action until Sep 15-16; rates held at 3.5-3.75%)",
-      "time": "2026-09-15 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $72K 돌파, SEC규제 명확화+ETF유입 강세. RSI 과매수 주의",
-  "updated": "2026-08-20 10:20:00 UTC",
-  "valid_until": "2026-08-20 14:20:00 UTC"
+  "notes": "숏스퀴즈+Clarity Act 랠리, ETF 유입 강세",
+  "updated": "2026-08-20 15:00:00 UTC",
+  "valid_until": "2026-08-20 19:00:00 UTC"
 }
