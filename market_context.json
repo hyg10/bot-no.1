@@ -1,21 +1,33 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.62,
   "key_events_next_24h": [
     {
-      "name": "SEC Regulation Crypto Assets (proposed framework)",
-      "time": "2026-08-18 00:00 UTC",
-      "impact": "medium",
+      "name": "White House Crypto Executive Follow-up (Coinbase, Payward, Blockchain.com + SEC/CFTC)",
+      "time": "2026-08-20 ongoing",
+      "impact": "high",
       "expected_direction": "bullish"
     },
     {
-      "name": "FOMC Minutes (July 28-29 meeting, 3 hawkish dissents)",
-      "time": "2026-08-19 14:00 UTC",
+      "name": "Trump BTC Purchase Signal — Market Reaction Continuation",
+      "time": "2026-08-20 ongoing",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "FOMC Minutes (released Aug 19) — hawkish lean, 3 dissents for +25bps",
+      "time": "2026-08-19 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "SEC Proposed Crypto Regulation Announcement",
+      "time": "2026-08-19 ongoing",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "SEC 규제 호재vs FOMC 매파 이견·이란 불확실성, BTC $64-70k 박스",
-  "updated": "2026-08-20 00:33:53 UTC",
-  "valid_until": "2026-08-20 04:33:53 UTC"
+  "notes": "트럼프 BTC 매수 시사 후 $70K 돌파, 규제 명확화 기대 상승",
+  "updated": "2026-08-20 06:33:44 UTC",
+  "valid_until": "2026-08-20 10:33:44 UTC"
 }
