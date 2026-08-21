@@ -1,28 +1,15 @@
 {
   "regime": "bullish",
-  "confidence": 0.65,
-  "btc_price_usd": 75619.65,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "No major FOMC/CPI/PPI scheduled",
-      "time": "2026-08-21 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Continued ETF inflow momentum (post $517M Aug 19 surge)",
-      "time": "2026-08-21 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "White House crypto executive meeting (unconfirmed timing)",
-      "time": "2026-08-21 18:00 UTC",
-      "impact": "medium",
+      "name": "Jackson Hole Symposium - Fed Chair Powell Keynote",
+      "time": "2026-08-22 14:00 UTC",
+      "impact": "high",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $75.6K, ETF 유입↑, SEC 규제 호재, 단기 강세",
-  "updated": "2026-08-21 06:34:00 UTC",
-  "valid_until": "2026-08-21 10:34:00 UTC"
+  "notes": "BTC $77K 돌파, ETF $6억 유입. 잭슨홀 파월 연설 주의",
+  "updated": "2026-08-21 05:00:00 UTC",
+  "valid_until": "2026-08-21 09:00:00 UTC"
 }
