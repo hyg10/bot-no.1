@@ -1,27 +1,22 @@
 {
   "regime": "bullish",
-  "confidence": 0.7,
+  "confidence": 0.65,
+  "btc_price_usd": 73826.5,
   "key_events_next_24h": [
     {
-      "name": "US July CPI release (window)",
-      "time": "2026-08-20 12:30 UTC",
+      "name": "Deribit BTC/ETH Weekly Options Expiry",
+      "time": "2026-08-21 08:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US Initial Jobless Claims",
+      "time": "2026-08-21 13:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "Clarity Act congressional momentum",
-      "time": "2026-08-20 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Continued spot BTC ETF flows",
-      "time": "2026-08-20 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "숏스퀴즈+Clarity Act 랠리, ETF 유입 강세",
-  "updated": "2026-08-20 15:00:00 UTC",
-  "valid_until": "2026-08-20 19:00:00 UTC"
+  "notes": "숏스퀴즈로 6주 박스권 돌파. 실매수 부족 주의",
+  "updated": "2026-08-21 00:35:00 UTC",
+  "valid_until": "2026-08-21 04:35:00 UTC"
 }
