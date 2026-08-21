@@ -1,22 +1,28 @@
 {
   "regime": "bullish",
   "confidence": 0.65,
-  "btc_price_usd": 73826.5,
+  "btc_price_usd": 75619.65,
   "key_events_next_24h": [
     {
-      "name": "Deribit BTC/ETH Weekly Options Expiry",
-      "time": "2026-08-21 08:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "name": "No major FOMC/CPI/PPI scheduled",
+      "time": "2026-08-21 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
-      "name": "US Initial Jobless Claims",
-      "time": "2026-08-21 13:30 UTC",
+      "name": "Continued ETF inflow momentum (post $517M Aug 19 surge)",
+      "time": "2026-08-21 14:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "White House crypto executive meeting (unconfirmed timing)",
+      "time": "2026-08-21 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "숏스퀴즈로 6주 박스권 돌파. 실매수 부족 주의",
-  "updated": "2026-08-21 00:35:00 UTC",
-  "valid_until": "2026-08-21 04:35:00 UTC"
+  "notes": "BTC $75.6K, ETF 유입↑, SEC 규제 호재, 단기 강세",
+  "updated": "2026-08-21 06:34:00 UTC",
+  "valid_until": "2026-08-21 10:34:00 UTC"
 }
