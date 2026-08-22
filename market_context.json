@@ -1,6 +1,6 @@
 {
   "regime": "bullish",
-  "confidence": 0.72,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
       "name": "Jackson Hole Fed Symposium (ongoing)",
@@ -9,13 +9,19 @@
       "expected_direction": "neutral"
     },
     {
-      "name": "CLARITY Act legislative monitoring",
-      "time": "2026-08-22 20:00 UTC",
+      "name": "Trump Clarity Act push / White House crypto summit",
+      "time": "2026-08-22 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Goldman Sachs Bitcoin ETF SEC review (pending)",
+      "time": "2026-08-23 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC 주간 +24% 급등, CLARITY Act·규제 명확화 기대로 강세",
-  "updated": "2026-08-22 06:33:23 UTC",
-  "valid_until": "2026-08-22 10:33:23 UTC"
+  "notes": "BTC 주간+24% 급등, 규제명확화·ETF기대 강세, 공포탐욕77",
+  "updated": "2026-08-22 10:42:00 UTC",
+  "valid_until": "2026-08-22 14:42:00 UTC"
 }
