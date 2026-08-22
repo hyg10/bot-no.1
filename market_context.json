@@ -1,33 +1,27 @@
 {
   "regime": "bullish",
-  "confidence": 0.65,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "Trump crypto legislation push (ongoing)",
-      "time": "2026-08-21 00:00 UTC",
+      "name": "Bitcoin CLARITY Act momentum (Trump Congressional push)",
+      "time": "2026-08-22 00:00 UTC",
       "impact": "high",
       "expected_direction": "bullish"
     },
     {
-      "name": "SEC proposed crypto asset regulation framework",
-      "time": "2026-08-19 00:00 UTC",
+      "name": "US Spot BTC ETF daily flow report",
+      "time": "2026-08-22 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "US Treasury long-term debt buyback announcement",
-      "time": "2026-08-21 00:00 UTC",
+      "name": "Jackson Hole Economic Symposium (Aug 27-29 preview coverage)",
+      "time": "2026-08-22 14:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "No FOMC meeting (next: Sep 15-16, rate held 3.50-3.75%)",
-      "time": "N/A",
-      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "재무부 매입·SEC 규제·ETF 급증으로 BTC 급등, RSI 84 과매수 주의",
-  "updated": "2026-08-21 18:00:00 UTC",
-  "valid_until": "2026-08-21 22:00:00 UTC"
+  "notes": "CLARITY법안·ETF유입으로 BTC $77K 급등, 강세 지속 예상",
+  "updated": "2026-08-22 10:00:00 UTC",
+  "valid_until": "2026-08-22 14:00:00 UTC"
 }
