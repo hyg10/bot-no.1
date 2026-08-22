@@ -1,27 +1,21 @@
 {
   "regime": "bullish",
-  "confidence": 0.75,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "Bitcoin CLARITY Act momentum (Trump Congressional push)",
-      "time": "2026-08-22 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "US Spot BTC ETF daily flow report",
-      "time": "2026-08-22 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Jackson Hole Economic Symposium (Aug 27-29 preview coverage)",
+      "name": "Jackson Hole Fed Symposium (ongoing)",
       "time": "2026-08-22 14:00 UTC",
-      "impact": "medium",
+      "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "CLARITY Act legislative monitoring",
+      "time": "2026-08-22 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "CLARITY법안·ETF유입으로 BTC $77K 급등, 강세 지속 예상",
-  "updated": "2026-08-22 10:00:00 UTC",
-  "valid_until": "2026-08-22 14:00:00 UTC"
+  "notes": "BTC 주간 +24% 급등, CLARITY Act·규제 명확화 기대로 강세",
+  "updated": "2026-08-22 06:33:23 UTC",
+  "valid_until": "2026-08-22 10:33:23 UTC"
 }
