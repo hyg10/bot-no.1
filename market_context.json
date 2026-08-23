@@ -1,21 +1,11 @@
 {
   "regime": "bullish",
-  "confidence": 0.65,
+  "confidence": 0.6,
   "key_events_next_24h": [
-    {
-      "name": "FOMC July 2026 Meeting Minutes Release",
-      "time": "2026-08-24 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Clarity Act Congress - Trump pressure ongoing (no floor vote scheduled)",
-      "time": "2026-08-23 ongoing",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    }
+    {"name": "CLARITY Act Congressional Push (ongoing)", "time": "2026-08-23 00:00 UTC", "impact": "high", "expected_direction": "bullish"},
+    {"name": "SEC Crypto Regulatory Framework (announced Aug 18)", "time": "2026-08-23 00:00 UTC", "impact": "medium", "expected_direction": "bullish"}
   ],
-  "notes": "트럼프 명확성법+SEC 규제 호재로 BTC 주간+19% 강세, 당일 소폭 조정",
-  "updated": "2026-08-23 06:35:00 UTC",
-  "valid_until": "2026-08-23 10:35:00 UTC"
+  "notes": "트럼프 CLARITY법·SEC 규제 호재로 BTC 63K→78K 급등, 단기 조정 중",
+  "updated": "2026-08-23 06:00:00 UTC",
+  "valid_until": "2026-08-23 10:00:00 UTC"
 }
