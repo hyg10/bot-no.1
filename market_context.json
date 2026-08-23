@@ -3,19 +3,19 @@
   "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "US Spot BTC ETF daily flow report",
-      "time": "2026-08-22 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "Weekend low-liquidity session",
+      "time": "2026-08-23 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
-      "name": "Trump CLARITY Act congressional push (ongoing)",
-      "time": "2026-08-22 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "ETH Network Release (minor)",
+      "time": "2026-08-24 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "트럼프 CLARITY법 지지로 BTC 주간 22% 급등, ETF 유입 강세",
-  "updated": "2026-08-22 18:35:00 UTC",
-  "valid_until": "2026-08-22 22:35:00 UTC"
+  "notes": "BTC +22% 주간 랠리, CLARITY법·재무부 채권매입 강세",
+  "updated": "2026-08-23 00:33:00 UTC",
+  "valid_until": "2026-08-23 04:33:00 UTC"
 }
