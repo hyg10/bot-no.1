@@ -1,11 +1,8 @@
 {
   "regime": "bullish",
-  "confidence": 0.6,
-  "key_events_next_24h": [
-    {"name": "CLARITY Act Congressional Push (ongoing)", "time": "2026-08-23 00:00 UTC", "impact": "high", "expected_direction": "bullish"},
-    {"name": "SEC Crypto Regulatory Framework (announced Aug 18)", "time": "2026-08-23 00:00 UTC", "impact": "medium", "expected_direction": "bullish"}
-  ],
-  "notes": "트럼프 CLARITY법·SEC 규제 호재로 BTC 63K→78K 급등, 단기 조정 중",
-  "updated": "2026-08-23 06:00:00 UTC",
-  "valid_until": "2026-08-23 10:00:00 UTC"
+  "confidence": 0.70,
+  "key_events_next_24h": [],
+  "notes": "트럼프 CLARITY법·SEC규제 호재로 BTC 주간 22% 급등, 강세 지속",
+  "updated": "2026-08-23 08:00:00 UTC",
+  "valid_until": "2026-08-23 12:00:00 UTC"
 }
