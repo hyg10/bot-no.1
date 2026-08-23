@@ -1,21 +1,21 @@
 {
   "regime": "bullish",
-  "confidence": 0.75,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Weekend low-liquidity session",
-      "time": "2026-08-23 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "FOMC July 2026 Meeting Minutes Release",
+      "time": "2026-08-24 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     },
     {
-      "name": "ETH Network Release (minor)",
-      "time": "2026-08-24 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "Clarity Act Congress - Trump pressure ongoing (no floor vote scheduled)",
+      "time": "2026-08-23 ongoing",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC +22% 주간 랠리, CLARITY법·재무부 채권매입 강세",
-  "updated": "2026-08-23 00:33:00 UTC",
-  "valid_until": "2026-08-23 04:33:00 UTC"
+  "notes": "트럼프 명확성법+SEC 규제 호재로 BTC 주간+19% 강세, 당일 소폭 조정",
+  "updated": "2026-08-23 06:35:00 UTC",
+  "valid_until": "2026-08-23 10:35:00 UTC"
 }
