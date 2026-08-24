@@ -1,21 +1,21 @@
 {
   "regime": "bullish",
-  "confidence": 0.65,
+  "confidence": 0.70,
   "key_events_next_24h": [
     {
-      "name": "Jackson Hole Symposium (Day 1)",
+      "name": "Jackson Hole Fed Chair Warsh Speech",
       "time": "2026-08-24 14:00 UTC",
-      "impact": "medium",
+      "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "US Consumer Confidence Index (Aug)",
-      "time": "2026-08-25 14:00 UTC",
+      "name": "US Q2 GDP Second Estimate",
+      "time": "2026-08-26 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC 22% 급등 후 소폭 조정. 클래리티법 기대감·잭슨홀 대기",
-  "updated": "2026-08-24 09:00:00 UTC",
-  "valid_until": "2026-08-24 13:00:00 UTC"
+  "notes": "규제 명확성+백악관 서밋으로 BTC 급등. 잭슨홀 변동성 주의.",
+  "updated": "2026-08-24 12:35:00 UTC",
+  "valid_until": "2026-08-24 16:35:00 UTC"
 }
