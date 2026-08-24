@@ -1,21 +1,27 @@
 {
   "regime": "bullish",
-  "confidence": 0.70,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Jackson Hole Fed Chair Warsh Speech",
-      "time": "2026-08-24 14:00 UTC",
+      "name": "Jackson Hole - Fed Chair Warsh Speech (Jackson Hole Symposium)",
+      "time": "2026-08-28 14:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "US Q2 GDP Second Estimate",
+      "name": "Q2 GDP Second Estimate (Advance: +1.5% annualized)",
       "time": "2026-08-26 12:30 UTC",
       "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Core PCE Inflation (July) - Fed preferred gauge",
+      "time": "2026-08-29 12:30 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "규제 명확성+백악관 서밋으로 BTC 급등. 잭슨홀 변동성 주의.",
-  "updated": "2026-08-24 12:35:00 UTC",
-  "valid_until": "2026-08-24 16:35:00 UTC"
+  "notes": "BTC 주간 +22% 급등(RSI 82 과매수). 잭슨홀 연준 매파 리스크",
+  "updated": "2026-08-24 18:35:54 UTC",
+  "valid_until": "2026-08-24 22:35:54 UTC"
 }
