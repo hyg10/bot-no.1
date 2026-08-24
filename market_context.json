@@ -1,27 +1,21 @@
 {
   "regime": "bullish",
-  "confidence": 0.78,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "No major scheduled macro events (quiet calendar)",
-      "time": "2026-08-24 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US Q2 GDP Second Estimate (upcoming, ~48h away)",
-      "time": "2026-08-26 12:30 UTC",
+      "name": "Jackson Hole Symposium (Day 1)",
+      "time": "2026-08-24 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "CLARITY Act Congressional momentum (ongoing)",
-      "time": "2026-08-24 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
+      "name": "US Consumer Confidence Index (Aug)",
+      "time": "2026-08-25 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "트럼프 CLARITY Act+재무부 채권매입으로 BTC 주간 +22% 급등",
-  "updated": "2026-08-24 00:33:00 UTC",
-  "valid_until": "2026-08-24 04:33:00 UTC"
+  "notes": "BTC 22% 급등 후 소폭 조정. 클래리티법 기대감·잭슨홀 대기",
+  "updated": "2026-08-24 09:00:00 UTC",
+  "valid_until": "2026-08-24 13:00:00 UTC"
 }
