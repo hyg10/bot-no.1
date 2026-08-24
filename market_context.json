@@ -1,8 +1,27 @@
 {
   "regime": "bullish",
-  "confidence": 0.70,
-  "key_events_next_24h": [],
-  "notes": "트럼프 CLARITY법·SEC규제 호재로 BTC 주간 22% 급등, 강세 지속",
-  "updated": "2026-08-23 08:00:00 UTC",
-  "valid_until": "2026-08-23 12:00:00 UTC"
+  "confidence": 0.78,
+  "key_events_next_24h": [
+    {
+      "name": "No major scheduled macro events (quiet calendar)",
+      "time": "2026-08-24 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US Q2 GDP Second Estimate (upcoming, ~48h away)",
+      "time": "2026-08-26 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "CLARITY Act Congressional momentum (ongoing)",
+      "time": "2026-08-24 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    }
+  ],
+  "notes": "트럼프 CLARITY Act+재무부 채권매입으로 BTC 주간 +22% 급등",
+  "updated": "2026-08-24 00:33:00 UTC",
+  "valid_until": "2026-08-24 04:33:00 UTC"
 }
