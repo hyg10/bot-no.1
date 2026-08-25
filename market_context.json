@@ -1,21 +1,27 @@
 {
   "regime": "bullish",
-  "confidence": 0.72,
+  "confidence": 0.70,
   "key_events_next_24h": [
     {
-      "name": "US Consumer Confidence (Conference Board)",
+      "name": "Consumer Confidence Index (Conference Board)",
       "time": "2026-08-25 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Jackson Hole Economic Symposium begins (Fed Chair Warsh keynote Aug 28)",
-      "time": "2026-08-27 09:00 UTC",
+      "name": "GDP Q2 Final + PCE Inflation (US)",
+      "time": "2026-08-26 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Fed Chair Warsh Speech (Jackson Hole Symposium)",
+      "time": "2026-08-26 14:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC 3개월 최고가 돌파, ETF 7일 연속 유입, 규제 긍정 신호",
-  "updated": "2026-08-25 12:35:00 UTC",
-  "valid_until": "2026-08-25 16:35:00 UTC"
+  "notes": "BTC 3개월 최고가 $81K 돌파, ETF 유입 $209M, CLARITY법안 기대감",
+  "updated": "2026-08-25 18:33:00 UTC",
+  "valid_until": "2026-08-25 22:33:00 UTC"
 }
