@@ -3,25 +3,25 @@
   "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "US Q2 GDP 2nd Estimate (BEA)",
+      "name": "PCE Inflation Data (July 2026)",
+      "time": "2026-08-26 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Q2 GDP Second Estimate",
       "time": "2026-08-26 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "BTC $80,000 Resistance Test",
-      "time": "2026-08-25 ongoing",
+      "name": "Jackson Hole Symposium begins (Warsh speech Aug 28)",
+      "time": "2026-08-27 14:00 UTC",
       "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Goldman Sachs Bitcoin ETF SEC Review (ongoing)",
-      "time": "2026-08-25 ongoing",
-      "impact": "low",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC 22% 주간 급등, ETF 유입 강세, 클라리티법 기대감",
-  "updated": "2026-08-25 00:35:00 UTC",
-  "valid_until": "2026-08-25 04:35:00 UTC"
+  "notes": "BTC $80K 돌파, ETF 유입 강세, 잭슨홀 앞두고 관망",
+  "updated": "2026-08-25 08:00:00 UTC",
+  "valid_until": "2026-08-25 12:00:00 UTC"
 }
