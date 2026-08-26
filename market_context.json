@@ -1,21 +1,22 @@
 {
   "regime": "bullish",
-  "confidence": 0.65,
+  "confidence": 0.70,
+  "btc_price_usd": 79217,
   "key_events_next_24h": [
     {
-      "name": "Jackson Hole Symposium Begins (Aug 27-29)",
-      "time": "2026-08-27 09:00 UTC",
+      "name": "Jackson Hole Fed Summit - Rate Guidance Speech",
+      "time": "2026-08-26 14:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     },
     {
-      "name": "PCE Inflation Data Released (July, already out)",
-      "time": "2026-08-26 12:30 UTC",
+      "name": "CLARITY Act (Sept 15 cloture vote) - Market Anticipation",
+      "time": "2026-08-26 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $78,580. ETF유입 강세, 잭슨홀 연설 앞두고 변동성 주의",
-  "updated": "2026-08-26 00:33:00 UTC",
-  "valid_until": "2026-08-26 04:33:00 UTC"
+  "notes": "BTC $79K 돌파, ETF 유입 강세, 잭슨홀 연준 발언 주목, 강세장 유지",
+  "updated": "2026-08-26 06:33:49 UTC",
+  "valid_until": "2026-08-26 10:33:49 UTC"
 }
