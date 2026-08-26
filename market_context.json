@@ -1,22 +1,27 @@
 {
-  "regime": "bullish",
-  "confidence": 0.70,
-  "btc_price_usd": 79217,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "Jackson Hole Fed Summit - Rate Guidance Speech",
-      "time": "2026-08-26 14:00 UTC",
+      "name": "US PCE Inflation Data (Fed target measure)",
+      "time": "2026-08-27 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Jackson Hole Symposium - Fed Chair Warsh Keynote",
+      "time": "2026-08-28 14:00 UTC",
       "impact": "high",
       "expected_direction": "bullish"
     },
     {
-      "name": "CLARITY Act (Sept 15 cloture vote) - Market Anticipation",
-      "time": "2026-08-26 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "US Building Permits",
+      "time": "2026-08-26 12:30 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $79K 돌파, ETF 유입 강세, 잭슨홀 연준 발언 주목, 강세장 유지",
-  "updated": "2026-08-26 06:33:49 UTC",
-  "valid_until": "2026-08-26 10:33:49 UTC"
+  "notes": "BTC $79K 저항, PCE·잭슨홀 대기 관망세, 주간 +22%",
+  "updated": "2026-08-26 12:30:00 UTC",
+  "valid_until": "2026-08-26 16:30:00 UTC"
 }
