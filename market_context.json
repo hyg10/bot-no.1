@@ -1,27 +1,27 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "US PCE Inflation Data (Fed target measure)",
-      "time": "2026-08-27 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Jackson Hole Symposium - Fed Chair Warsh Keynote",
-      "time": "2026-08-28 14:00 UTC",
+      "name": "US PCE Inflation (Jul 2026)",
+      "time": "2026-08-26 12:30 UTC",
       "impact": "high",
       "expected_direction": "bullish"
     },
     {
-      "name": "US Building Permits",
+      "name": "US GDP Q2 Second Estimate",
+      "time": "2026-08-26 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US Building Permits (Jul 2026)",
       "time": "2026-08-26 12:30 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $79K 저항, PCE·잭슨홀 대기 관망세, 주간 +22%",
-  "updated": "2026-08-26 12:30:00 UTC",
-  "valid_until": "2026-08-26 16:30:00 UTC"
+  "notes": "BTC 80K 돌파, 주간 22% 급등, ETF 대규모 유입, PCE 발표 주목",
+  "updated": "2026-08-26 07:00:00 UTC",
+  "valid_until": "2026-08-26 11:00:00 UTC"
 }
