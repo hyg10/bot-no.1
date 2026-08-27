@@ -1,15 +1,21 @@
 {
   "regime": "bullish",
-  "confidence": 0.65,
+  "confidence": 0.70,
   "key_events_next_24h": [
     {
-      "name": "Fed Chair Warsh Speech (week of Aug 24-28)",
+      "name": "Jackson Hole Economic Policy Symposium (Day 1) - Fed Chair Powell speech possible",
       "time": "2026-08-27 14:00 UTC",
-      "impact": "medium",
+      "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Bitcoin ETF Daily Flow Data (BlackRock iShares, Fidelity, etc.)",
+      "time": "2026-08-27 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $78K, ETF 유입 강세, 주간 25% 급등. 과매수 주의",
-  "updated": "2026-08-27 00:33:36 UTC",
-  "valid_until": "2026-08-27 04:33:36 UTC"
+  "notes": "잭슨홀 심포지엄 진행 중. ETF 순유입 강세. $80k 저항선",
+  "updated": "2026-08-27 06:34:32 UTC",
+  "valid_until": "2026-08-27 10:34:32 UTC"
 }
