@@ -1,21 +1,28 @@
 {
   "regime": "bullish",
-  "confidence": 0.55,
+  "confidence": 0.6,
+  "btc_price_usd": 79700,
   "key_events_next_24h": [
     {
-      "name": "Jackson Hole: Fed Chair Warsh Keynote Speech",
-      "time": "2026-08-28 13:00 UTC",
+      "name": "PCE Inflation Data Release",
+      "time": "2026-08-27 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "Jackson Hole Symposium Day 2 (Panel Sessions)",
+      "name": "Jackson Hole Symposium: Fed Chair Keynote",
+      "time": "2026-08-27 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Jackson Hole Day 2 Panels",
       "time": "2026-08-28 12:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "잭슨홀 워시 연설 대기. ETF유입 강세, BTC +25% 상승. 매파시 $75.5K 하락 리스크.",
-  "updated": "2026-08-27 07:00:00 UTC",
-  "valid_until": "2026-08-27 11:00:00 UTC"
+  "notes": "BTC $7.9만 유지, ETF 8일 연속 유입. PCE+잭슨홀 오늘 예정.",
+  "updated": "2026-08-27 11:30:00 UTC",
+  "valid_until": "2026-08-27 15:30:00 UTC"
 }
