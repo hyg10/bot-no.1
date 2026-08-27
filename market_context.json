@@ -1,27 +1,15 @@
 {
   "regime": "bullish",
-  "confidence": 0.72,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US PCE Inflation (Jul 2026)",
-      "time": "2026-08-26 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "US GDP Q2 Second Estimate",
-      "time": "2026-08-26 12:30 UTC",
+      "name": "Fed Chair Warsh Speech (week of Aug 24-28)",
+      "time": "2026-08-27 14:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US Building Permits (Jul 2026)",
-      "time": "2026-08-26 12:30 UTC",
-      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC 80K 돌파, 주간 22% 급등, ETF 대규모 유입, PCE 발표 주목",
-  "updated": "2026-08-26 07:00:00 UTC",
-  "valid_until": "2026-08-26 11:00:00 UTC"
+  "notes": "BTC $78K, ETF 유입 강세, 주간 25% 급등. 과매수 주의",
+  "updated": "2026-08-27 00:33:36 UTC",
+  "valid_until": "2026-08-27 04:33:36 UTC"
 }
