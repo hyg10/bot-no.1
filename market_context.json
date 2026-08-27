@@ -1,21 +1,21 @@
 {
   "regime": "bullish",
-  "confidence": 0.70,
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "Jackson Hole Economic Policy Symposium (Day 1) - Fed Chair Powell speech possible",
-      "time": "2026-08-27 14:00 UTC",
+      "name": "Jackson Hole: Fed Chair Warsh Keynote Speech",
+      "time": "2026-08-28 13:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "Bitcoin ETF Daily Flow Data (BlackRock iShares, Fidelity, etc.)",
-      "time": "2026-08-27 20:00 UTC",
+      "name": "Jackson Hole Symposium Day 2 (Panel Sessions)",
+      "time": "2026-08-28 12:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "잭슨홀 심포지엄 진행 중. ETF 순유입 강세. $80k 저항선",
-  "updated": "2026-08-27 06:34:32 UTC",
-  "valid_until": "2026-08-27 10:34:32 UTC"
+  "notes": "잭슨홀 워시 연설 대기. ETF유입 강세, BTC +25% 상승. 매파시 $75.5K 하락 리스크.",
+  "updated": "2026-08-27 07:00:00 UTC",
+  "valid_until": "2026-08-27 11:00:00 UTC"
 }
