@@ -1,33 +1,21 @@
 {
   "regime": "bullish",
-  "confidence": 0.70,
+  "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "Spot BTC ETF Daily Flow Report",
-      "time": "2026-08-28 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "US Equity Market Open (NYSE/NASDAQ)",
-      "time": "2026-08-28 13:30 UTC",
-      "impact": "medium",
+      "name": "Fed Chair Warsh Jackson Hole Remarks",
+      "time": "2026-08-28 14:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "Clarity Act Congressional Update",
-      "time": "2026-08-28 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "FOMC Next Meeting (September)",
+      "name": "FOMC Next Meeting (September 15-16) - Rate Hold Expected",
       "time": "2026-09-16 18:00 UTC",
-      "impact": "high",
+      "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $80k 3개월 고점, ETF 9일 연속 유입, 극단적 탐욕",
-  "updated": "2026-08-28 09:00:00 UTC",
-  "valid_until": "2026-08-28 13:00:00 UTC"
+  "notes": "BTC $80K 돌파 후 조정. 잭슨홀 연설 대기. ETF 매수세 지속",
+  "updated": "2026-08-28 11:30:00 UTC",
+  "valid_until": "2026-08-28 15:30:00 UTC"
 }
