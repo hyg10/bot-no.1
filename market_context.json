@@ -1,27 +1,27 @@
 {
   "regime": "bullish",
-  "confidence": 0.70,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "Bitcoin eCash Hard Fork (ongoing)",
-      "time": "2026-08-28 00:00 UTC",
+      "name": "Spot BTC ETF Daily Flow Report",
+      "time": "2026-08-28 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "US Equity Market Open (NYSE/NASDAQ)",
+      "time": "2026-08-28 13:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Jackson Hole Fed Summit (closing remarks)",
-      "time": "2026-08-28 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Next FOMC Rate Decision",
-      "time": "2026-09-15 18:00 UTC",
+      "name": "FOMC Next Meeting (September)",
+      "time": "2026-09-16 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $80,500 돌파, ETF 강한 유입, 상승 모멘텀 지속",
-  "updated": "2026-08-28 00:35:00 UTC",
-  "valid_until": "2026-08-28 04:35:00 UTC"
+  "notes": "ETF 8일 순유입·트럼프 친코인 정책·$79,843 강세",
+  "updated": "2026-08-28 06:36:00 UTC",
+  "valid_until": "2026-08-28 10:36:00 UTC"
 }
