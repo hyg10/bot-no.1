@@ -1,10 +1,21 @@
 {
-  "regime": "bullish",
-  "confidence": 0.6,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
-    {"name": "No major scheduled events", "time": "2026-08-29 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "Jackson Hole Aftermath - Warsh Hawkish Remarks Digestion",
+      "time": "2026-08-29 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Next Meeting (September 15-16) - Rate Hold Expected",
+      "time": "2026-09-16 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "매크로 강세, 주간 +24%, $81k 고점 후 단기 조정 중",
-  "updated": "2026-08-29 06:30:00 UTC",
-  "valid_until": "2026-08-29 10:30:00 UTC"
+  "notes": "워시 의장 매파 발언에 BTC $77K대, ETF 유입으로 하락 제한",
+  "updated": "2026-08-29 06:00:00 UTC",
+  "valid_until": "2026-08-29 10:00:00 UTC"
 }
