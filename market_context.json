@@ -1,21 +1,10 @@
 {
-  "regime": "neutral",
-  "confidence": 0.55,
+  "regime": "bullish",
+  "confidence": 0.6,
   "key_events_next_24h": [
-    {
-      "name": "U.S. Inflation Overhang (Higher-for-Longer Fed Risk)",
-      "time": "2026-08-29 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC ETF Institutional Inflows (Ongoing)",
-      "time": "2026-08-29 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    }
+    {"name": "No major scheduled events", "time": "2026-08-29 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $78K~$80K 박스권, RSI과매수(79), ETF유입 지속, 인플레 우려",
-  "updated": "2026-08-29 00:33:47 UTC",
-  "valid_until": "2026-08-29 04:33:47 UTC"
+  "notes": "매크로 강세, 주간 +24%, $81k 고점 후 단기 조정 중",
+  "updated": "2026-08-29 06:30:00 UTC",
+  "valid_until": "2026-08-29 10:30:00 UTC"
 }
