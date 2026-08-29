@@ -1,21 +1,21 @@
 {
-  "regime": "bullish",
-  "confidence": 0.6,
+  "regime": "neutral",
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "Fed Chair Warsh Jackson Hole Remarks",
-      "time": "2026-08-28 14:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Next Meeting (September 15-16) - Rate Hold Expected",
-      "time": "2026-09-16 18:00 UTC",
+      "name": "U.S. Inflation Overhang (Higher-for-Longer Fed Risk)",
+      "time": "2026-08-29 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "BTC ETF Institutional Inflows (Ongoing)",
+      "time": "2026-08-29 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC $80K 돌파 후 조정. 잭슨홀 연설 대기. ETF 매수세 지속",
-  "updated": "2026-08-28 11:30:00 UTC",
-  "valid_until": "2026-08-28 15:30:00 UTC"
+  "notes": "BTC $78K~$80K 박스권, RSI과매수(79), ETF유입 지속, 인플레 우려",
+  "updated": "2026-08-29 00:33:47 UTC",
+  "valid_until": "2026-08-29 04:33:47 UTC"
 }
