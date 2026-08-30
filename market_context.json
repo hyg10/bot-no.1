@@ -1,27 +1,27 @@
 {
-  "regime": "neutral",
-  "confidence": 0.55,
+  "regime": "bullish",
+  "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "Fed Warsh Jackson Hole 매파 여진 지속",
+      "name": "No major macro releases scheduled (FOMC: Sep 16, CPI: Sep 11)",
       "time": "2026-08-30 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
-      "name": "8월 월말 포트폴리오 리밸런싱",
-      "time": "2026-08-31 00:00 UTC",
+      "name": "Chicago PMI (Aug) - end-of-month release",
+      "time": "2026-08-31 13:45 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Bitcoin ETF 순유입 동향 (9일 연속 매수)",
-      "time": "2026-08-30 21:00 UTC",
+      "name": "BTC Spot ETF daily flow data (US market open Mon)",
+      "time": "2026-08-31 14:30 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     }
   ],
-  "notes": "Warsh 매파 발언으로 금리인상 확률 68%, ETF 유입은 강세 지지",
-  "updated": "2026-08-30 00:35:00 UTC",
-  "valid_until": "2026-08-30 04:35:00 UTC"
+  "notes": "BTC $78K대, ETF 9일 유입 강세, Fed 매파 발언으로 단기 조정",
+  "updated": "2026-08-30 06:33:32 UTC",
+  "valid_until": "2026-08-30 10:33:32 UTC"
 }
