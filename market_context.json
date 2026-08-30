@@ -1,21 +1,27 @@
 {
-  "regime": "bearish",
-  "confidence": 0.62,
+  "regime": "neutral",
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "Jackson Hole - Continued Fed Speeches (Warsh hawkish tone)",
-      "time": "2026-08-29 14:00 UTC",
+      "name": "Fed Warsh Jackson Hole 매파 여진 지속",
+      "time": "2026-08-30 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "CME Options Expiry Aftermath - Reduced Hedging Buffer",
-      "time": "2026-08-29 08:00 UTC",
+      "name": "8월 월말 포트폴리오 리밸런싱",
+      "time": "2026-08-31 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Bitcoin ETF 순유입 동향 (9일 연속 매수)",
+      "time": "2026-08-30 21:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "워시 잭슨홀 연설 9월 금리인상 시사(68%), BTC 3.8% 급락 중",
-  "updated": "2026-08-29 05:30:00 UTC",
-  "valid_until": "2026-08-29 09:30:00 UTC"
+  "notes": "Warsh 매파 발언으로 금리인상 확률 68%, ETF 유입은 강세 지지",
+  "updated": "2026-08-30 00:35:00 UTC",
+  "valid_until": "2026-08-30 04:35:00 UTC"
 }
