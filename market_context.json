@@ -1,27 +1,21 @@
 {
-  "regime": "bullish",
-  "confidence": 0.6,
+  "regime": "neutral",
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "No major macro releases scheduled (FOMC: Sep 16, CPI: Sep 11)",
-      "time": "2026-08-30 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "US Spot Bitcoin ETF Daily Flow Report",
+      "time": "2026-08-30 17:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     },
     {
-      "name": "Chicago PMI (Aug) - end-of-month release",
-      "time": "2026-08-31 13:45 UTC",
+      "name": "Fed Warsh Jackson Hole Hawkish Fallout (risk-off sentiment)",
+      "time": "2026-08-30 13:30 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "BTC Spot ETF daily flow data (US market open Mon)",
-      "time": "2026-08-31 14:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $78K대, ETF 9일 유입 강세, Fed 매파 발언으로 단기 조정",
-  "updated": "2026-08-30 06:33:32 UTC",
-  "valid_until": "2026-08-30 10:33:32 UTC"
+  "notes": "잭슨홀 매파 발언 후 BTC $80K 이탈, $77K-$78K 지지선 테스트 중",
+  "updated": "2026-08-30 12:33:45 UTC",
+  "valid_until": "2026-08-30 16:33:45 UTC"
 }
