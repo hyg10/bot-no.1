@@ -1,21 +1,21 @@
 {
-  "regime": "bullish",
-  "confidence": 0.65,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "Month-end / Q3 start rebalancing flows",
-      "time": "2026-08-31 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "name": "Fed Chair Warsh hawkish stance (ongoing impact)",
+      "time": "2026-08-31 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     },
     {
-      "name": "US Nonfarm Payrolls (Aug data) - Sep 4",
-      "time": "2026-09-04 12:30 UTC",
+      "name": "Next FOMC Meeting (September 17)",
+      "time": "2026-09-17 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $78K 상승세, 탐욕 67, ETF 유입, $81K 저항 주의",
-  "updated": "2026-08-31 08:15:00 UTC",
-  "valid_until": "2026-08-31 12:15:00 UTC"
+  "notes": "$80K 돌파 후 매파 연준 발언으로 하락, 단기 혼조세",
+  "updated": "2026-08-31 08:00:00 UTC",
+  "valid_until": "2026-08-31 12:00:00 UTC"
 }
