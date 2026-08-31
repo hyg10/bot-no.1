@@ -1,21 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.42,
   "key_events_next_24h": [
     {
-      "name": "Jackson Hole Summit concludes (Fed policy commentary)",
-      "time": "2026-08-30 18:00 UTC",
+      "name": "Jackson Hole 매파 여파 지속 (Fed Warsh 발언)",
+      "time": "2026-08-28 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US Spot Bitcoin ETF 주간 유입 모니터링",
+      "time": "2026-08-31 20:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "September FOMC rate decision (Sep 15-16 preview / positioning)",
-      "time": "2026-08-30 20:00 UTC",
-      "impact": "medium",
+      "name": "Next FOMC Meeting (no decision today)",
+      "time": "2026-09-16 18:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF유입 혼조, $80K 저항, FOMC앞 관망세",
-  "updated": "2026-08-30 05:50:00 UTC",
-  "valid_until": "2026-08-30 09:50:00 UTC"
+  "notes": "BTC 78K, 잭슨홀 매파 후 80K 저항, ETF 유입 혼조세",
+  "updated": "2026-08-31 00:33:04 UTC",
+  "valid_until": "2026-08-31 04:33:04 UTC"
 }
