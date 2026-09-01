@@ -1,15 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.50,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "No major macro releases (CPI Sep 11, FOMC Sep 15-16)",
+      "name": "No major macro releases scheduled (next key: CPI/PPI Sep 10, FOMC Sep 15-16)",
       "time": "2026-09-01 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "8월 24% 급등 후 $79k 횡보, Fed 금리인상 우려로 혼조",
-  "updated": "2026-09-01 06:00:00 UTC",
-  "valid_until": "2026-09-01 10:00:00 UTC"
+  "notes": "연준 매파 발언으로 BTC $78K 하락, 혼조세 지속",
+  "updated": "2026-09-01 12:40:00 UTC",
+  "valid_until": "2026-09-01 16:40:00 UTC"
 }
