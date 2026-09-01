@@ -1,8 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
-  "key_events_next_24h": [],
-  "notes": "8월 24% 급등 후 $78K 횡보. 연준 금리인상 우려로 상승 제한, 중립 유지",
-  "updated": "2026-09-01 00:33:00 UTC",
-  "valid_until": "2026-09-01 04:33:00 UTC"
+  "confidence": 0.50,
+  "key_events_next_24h": [
+    {
+      "name": "No major macro releases (CPI Sep 11, FOMC Sep 15-16)",
+      "time": "2026-09-01 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
+  ],
+  "notes": "8월 24% 급등 후 $79k 횡보, Fed 금리인상 우려로 혼조",
+  "updated": "2026-09-01 06:00:00 UTC",
+  "valid_until": "2026-09-01 10:00:00 UTC"
 }
