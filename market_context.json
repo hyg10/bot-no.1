@@ -1,28 +1,28 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 77456,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Fed Rate Hike Expectation (66% probability, 25bps)",
+      "name": "No major data releases (CPI/PPI/NFP not scheduled)",
+      "time": "2026-09-02 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "FOMC Meeting (Sep 15-16) - Rate hike fear building (40% probability of +25bps)",
       "time": "2026-09-16 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Employment Situation Report",
-      "time": "2026-09-04 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "CPI August 2026 Release",
-      "time": "2026-09-11 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "Fed 금리인상(66%) 우려로 BTC $79K->$77K 하락, 단기 약세",
-  "updated": "2026-09-02 07:00:00 UTC",
-  "valid_until": "2026-09-02 11:00:00 UTC"
+  "notes": "이란 분쟁 재발·Fed 금리인상 우려로 BTC 하락세. $76K 지지선 주시",
+  "updated": "2026-09-02 11:30:00 UTC",
+  "valid_until": "2026-09-02 15:30:00 UTC",
+  "btc_price_usd": 76800,
+  "fear_greed_index": 63,
+  "sources": [
+    "Yahoo Finance - crypto prices tumble as Iran war reignites",
+    "CME FedWatch - 40% probability +25bps Sep 2026 FOMC",
+    "Milkroad Fear & Greed Index"
+  ]
 }
