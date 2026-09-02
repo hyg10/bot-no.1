@@ -1,29 +1,12 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.62,
   "key_events_next_24h": [
-    {
-      "name": "ISM Manufacturing PMI (Aug 2026)",
-      "time": "2026-09-01 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Fed Rate Hike Expectations (66.4% prob 25bps, FOMC Sept 15-16)",
-      "time": "2026-09-02 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    }
+    {"name": "No major macro releases", "time": "2026-09-02 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
+    {"name": "CPI Inflation Report (upcoming)", "time": "2026-09-11 12:30 UTC", "impact": "high", "expected_direction": "neutral"},
+    {"name": "FOMC Meeting & Rate Decision (upcoming)", "time": "2026-09-16 18:00 UTC", "impact": "high", "expected_direction": "neutral"}
   ],
-  "notes": "인플레이션 우려·Fed 금리인상 전망으로 혼조, $77K 지지선",
-  "updated": "2026-09-01 18:33:00 UTC",
-  "valid_until": "2026-09-01 22:33:00 UTC",
-  "price_snapshot": {
-    "btc_usd": 77800,
-    "range_low": 77165,
-    "range_high": 78839,
-    "fear_greed_index": 69,
-    "24h_market_change_pct": 1.7
-  },
-  "context_summary": "BTC trading $77.6K-$78.8K. Fear&Greed=69 (Greed) but structural bearish. ETF outflows 10 consecutive days ($2.97B since May 15). Fed rate hike 66.4% prob for Sept 16 FOMC. Bond rout pressuring risk assets. BTC had +25% in August, now consolidating at key $77K support. Mixed signals -> neutral regime."
+  "notes": "BTC 주간 23% 급등 후 소폭 조정. ETF 수요 강세. 9월 변동성 주의.",
+  "updated": "2026-09-02 00:35:00 UTC",
+  "valid_until": "2026-09-02 04:35:00 UTC"
 }
