@@ -1,12 +1,28 @@
 {
-  "regime": "bullish",
-  "confidence": 0.62,
+  "regime": "bearish",
+  "confidence": 0.55,
+  "btc_price_usd": 77456,
   "key_events_next_24h": [
-    {"name": "No major macro releases", "time": "2026-09-02 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
-    {"name": "CPI Inflation Report (upcoming)", "time": "2026-09-11 12:30 UTC", "impact": "high", "expected_direction": "neutral"},
-    {"name": "FOMC Meeting & Rate Decision (upcoming)", "time": "2026-09-16 18:00 UTC", "impact": "high", "expected_direction": "neutral"}
+    {
+      "name": "Fed Rate Hike Expectation (66% probability, 25bps)",
+      "time": "2026-09-16 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Employment Situation Report",
+      "time": "2026-09-04 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "CPI August 2026 Release",
+      "time": "2026-09-11 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    }
   ],
-  "notes": "BTC 주간 23% 급등 후 소폭 조정. ETF 수요 강세. 9월 변동성 주의.",
-  "updated": "2026-09-02 00:35:00 UTC",
-  "valid_until": "2026-09-02 04:35:00 UTC"
+  "notes": "Fed 금리인상(66%) 우려로 BTC $79K->$77K 하락, 단기 약세",
+  "updated": "2026-09-02 07:00:00 UTC",
+  "valid_until": "2026-09-02 11:00:00 UTC"
 }
