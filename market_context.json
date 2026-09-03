@@ -3,13 +3,13 @@
   "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "US Nonfarm Payrolls (NFP) Sep 2026",
+      "name": "US Non-Farm Payrolls (August Jobs Report)",
       "time": "2026-09-04 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "이란 전쟁위기+Fed 금리인상 우려, BTC 지지선 테스트 중",
-  "updated": "2026-09-03 00:33:32 UTC",
-  "valid_until": "2026-09-03 04:33:32 UTC"
+  "notes": "Fed 금리인상 기대로 BTC 하락세, 기관 매수가 지지선 역할",
+  "updated": "2026-09-03 06:33:24 UTC",
+  "valid_until": "2026-09-03 10:33:24 UTC"
 }
