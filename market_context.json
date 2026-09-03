@@ -1,27 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
+  "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "US NFP Jobs Report (pre-event caution, releases Sep 4)",
+      "name": "US Nonfarm Payrolls (NFP) Sep 2026",
       "time": "2026-09-04 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Rate Decision - 66% probability of +25bps hike (Sep 16)",
-      "time": "2026-09-16 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US CPI August Report (Sep 11, 5 days before FOMC)",
-      "time": "2026-09-11 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "연준 금리 인상 66% 확률, BTC $77K로 하락. 인플레 우려 지속",
-  "updated": "2026-09-02 14:00:00 UTC",
-  "valid_until": "2026-09-02 18:00:00 UTC"
+  "notes": "이란 전쟁위기+Fed 금리인상 우려, BTC 지지선 테스트 중",
+  "updated": "2026-09-03 00:33:32 UTC",
+  "valid_until": "2026-09-03 04:33:32 UTC"
 }
