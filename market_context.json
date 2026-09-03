@@ -1,15 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "US August Non-Farm Payrolls (NFP)",
+      "name": "US August Non-Farm Payrolls (Jobs Report)",
       "time": "2026-09-04 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "기관매수·ETF유입 긍정, MACD음전환·9월계절성약세 주의",
-  "updated": "2026-09-03 12:36:00 UTC",
-  "valid_until": "2026-09-03 16:36:00 UTC"
+  "notes": "BTC $80,974 기술적 강세구조, 내일 고용지표 앞두고 변동성 주의",
+  "updated": "2026-09-03 18:00:00 UTC",
+  "valid_until": "2026-09-03 22:00:00 UTC"
 }
