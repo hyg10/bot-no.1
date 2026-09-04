@@ -1,21 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.4,
+  "regime": "bullish",
+  "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "US August NFP / Jobs Report",
+      "name": "US August NFP Jobs Report",
       "time": "2026-09-04 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "Fed Rate Hike Odds (CME FedWatch 66.4% for +25bp)",
+      "name": "Fed Governor statements on rate hold possibility",
       "time": "2026-09-04 ongoing",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "NFP 발표 앞두고 BTC $80,700 유지, 연준 금리인상 우려로 불확실성",
-  "updated": "2026-09-04 06:34:00 UTC",
-  "valid_until": "2026-09-04 10:34:00 UTC"
+  "notes": "ETF $2.17억 유입, 기관매수 강세. NFP 발표 후 변동성 주의. CPI(9/11), FOMC(9/16) 대기.",
+  "updated": "2026-09-04 12:35:51 UTC",
+  "valid_until": "2026-09-04 16:35:51 UTC"
 }
