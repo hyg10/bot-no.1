@@ -1,15 +1,12 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.62,
   "key_events_next_24h": [
-    {
-      "name": "US August Non-Farm Payrolls (Jobs Report)",
-      "time": "2026-09-04 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    }
+    {"name": "Nonfarm Payrolls (US Jobs Report)", "time": "2026-09-04 12:30 UTC", "impact": "high", "expected_direction": "bearish"},
+    {"name": "FOMC Meeting (Sep 15-16) - Rate Hike Risk", "time": "2026-09-16 18:00 UTC", "impact": "high", "expected_direction": "bearish"},
+    {"name": "US CPI Inflation Release", "time": "2026-09-11 12:30 UTC", "impact": "high", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $80,974 기술적 강세구조, 내일 고용지표 앞두고 변동성 주의",
-  "updated": "2026-09-03 18:00:00 UTC",
-  "valid_until": "2026-09-03 22:00:00 UTC"
+  "notes": "기관 매수·ETF 유입 강세, 연준 금리결정 주시 (9/16)",
+  "updated": "2026-09-04 00:35:00 UTC",
+  "valid_until": "2026-09-04 04:35:00 UTC"
 }
