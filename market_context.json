@@ -1,21 +1,15 @@
 {
-  "regime": "bullish",
-  "confidence": 0.6,
+  "regime": "neutral",
+  "confidence": 0.5,
   "key_events_next_24h": [
     {
-      "name": "US August NFP Jobs Report",
-      "time": "2026-09-04 12:30 UTC",
-      "impact": "high",
+      "name": "No major macro events scheduled",
+      "time": "2026-09-04 18:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "Fed Governor statements on rate hold possibility",
-      "time": "2026-09-04 ongoing",
-      "impact": "medium",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "ETF $2.17억 유입, 기관매수 강세. NFP 발표 후 변동성 주의. CPI(9/11), FOMC(9/16) 대기.",
-  "updated": "2026-09-04 12:35:51 UTC",
-  "valid_until": "2026-09-04 16:35:51 UTC"
+  "notes": "Fed 금리동결 신호로 BTC 반등, 채권수익률·ETF 유출 혼재 관망",
+  "updated": "2026-09-04 18:20:00 UTC",
+  "valid_until": "2026-09-04 22:20:00 UTC"
 }
