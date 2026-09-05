@@ -1,15 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.5,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "No major macro events scheduled",
-      "time": "2026-09-04 18:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "No major macro events (next event: US CPI)",
+      "time": "2026-09-11 08:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Rate Decision (66% chance +25bps hike)",
+      "time": "2026-09-16 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "Fed 금리동결 신호로 BTC 반등, 채권수익률·ETF 유출 혼재 관망",
-  "updated": "2026-09-04 18:20:00 UTC",
-  "valid_until": "2026-09-04 22:20:00 UTC"
+  "notes": "BTC $79,683(-2%), Fed 금리인상 66% 확률, 혼조세",
+  "updated": "2026-09-05 00:35:00 UTC",
+  "valid_until": "2026-09-05 04:35:00 UTC"
 }
