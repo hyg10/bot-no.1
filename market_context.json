@@ -1,35 +1,27 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "No major scheduled macro events",
+      "name": "No major macro releases (weekend)",
       "time": "2026-09-05 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "PPI Release (Aug 2026) - upcoming",
-      "time": "2026-09-10 08:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "CPI Release (Aug 2026) - upcoming",
-      "time": "2026-09-11 08:30 UTC",
+      "name": "US CPI Inflation Report",
+      "time": "2026-09-11 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Rate Decision - upcoming",
+      "name": "FOMC Rate Decision",
       "time": "2026-09-16 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "연준 금리인상 우려로 $81K 반락, 기관 매수세 지속, 단기 중립",
-  "btc_price_usd": 79662.5,
-  "fear_greed_index": 61,
-  "updated": "2026-09-05 06:33:00 UTC",
-  "valid_until": "2026-09-05 10:33:00 UTC"
+  "notes": "BTC $81K 돌파, ETF 유입 $217M, 연준 금리 동결 기대감 강화",
+  "updated": "2026-09-05 12:33:46 UTC",
+  "valid_until": "2026-09-05 16:33:46 UTC"
 }
