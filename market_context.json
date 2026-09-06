@@ -1,21 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.50,
   "key_events_next_24h": [
     {
-      "name": "CPI Data Release (August 2026, expected this week)",
-      "time": "2026-09-06 12:30 UTC",
+      "name": "FOMC Rate Decision (Sep 15-16 preview)",
+      "time": "2026-09-16 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC ETF Daily Flow Update",
-      "time": "2026-09-06 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "BTC 8만달러 횡보, ETF유입 강세 vs 연준인상 우려 혼재",
-  "updated": "2026-09-06 06:34:28 UTC",
-  "valid_until": "2026-09-06 10:34:28 UTC"
+  "notes": "BTC $79,500 횡보, 연준 금리인상 우려(66%) 속 관망세",
+  "updated": "2026-09-06 12:33:52 UTC",
+  "valid_until": "2026-09-06 16:33:52 UTC"
 }
