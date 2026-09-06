@@ -1,8 +1,21 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "key_events_next_24h": [],
-  "notes": "BTC $79.9K 보합, 저항선 돌파 시도 중. CPI/FOMC 대기 무드",
-  "updated": "2026-09-06 00:35:00 UTC",
-  "valid_until": "2026-09-06 04:35:00 UTC"
+  "key_events_next_24h": [
+    {
+      "name": "CPI Data Release (August 2026, expected this week)",
+      "time": "2026-09-06 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "BTC ETF Daily Flow Update",
+      "time": "2026-09-06 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    }
+  ],
+  "notes": "BTC 8만달러 횡보, ETF유입 강세 vs 연준인상 우려 혼재",
+  "updated": "2026-09-06 06:34:28 UTC",
+  "valid_until": "2026-09-06 10:34:28 UTC"
 }
