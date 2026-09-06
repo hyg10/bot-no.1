@@ -1,15 +1,12 @@
 {
   "regime": "neutral",
-  "confidence": 0.50,
+  "confidence": 0.45,
   "key_events_next_24h": [
-    {
-      "name": "FOMC Rate Decision (Sep 15-16 preview)",
-      "time": "2026-09-16 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    }
+    {"name": "August CPI Release", "time": "2026-09-11 12:30 UTC", "impact": "high", "expected_direction": "bearish"},
+    {"name": "FOMC Meeting Day 1", "time": "2026-09-15 00:00 UTC", "impact": "medium", "expected_direction": "neutral"},
+    {"name": "FOMC Rate Decision", "time": "2026-09-16 18:00 UTC", "impact": "high", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $79,500 횡보, 연준 금리인상 우려(66%) 속 관망세",
-  "updated": "2026-09-06 12:33:52 UTC",
-  "valid_until": "2026-09-06 16:33:52 UTC"
+  "notes": "BTC $80K 저항선 횡보, CPI·FOMC 앞두고 관망 지속",
+  "updated": "2026-09-06 18:33:00 UTC",
+  "valid_until": "2026-09-06 22:33:00 UTC"
 }
