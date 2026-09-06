@@ -1,21 +1,8 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "key_events_next_24h": [
-    {
-      "name": "No major macro releases (FOMC Sep 15-16, CPI/PPI Sep 10)",
-      "time": "2026-09-06 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Fed officials potential remarks / bond market monitoring",
-      "time": "2026-09-05 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    }
-  ],
-  "notes": "BTC $80K 회복, 연준 동결 기대. 인플레 우려 혼재 중립",
-  "updated": "2026-09-05 18:30:00 UTC",
-  "valid_until": "2026-09-05 22:30:00 UTC"
+  "key_events_next_24h": [],
+  "notes": "BTC $79.9K 보합, 저항선 돌파 시도 중. CPI/FOMC 대기 무드",
+  "updated": "2026-09-06 00:35:00 UTC",
+  "valid_until": "2026-09-06 04:35:00 UTC"
 }
