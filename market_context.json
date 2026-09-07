@@ -1,27 +1,8 @@
 {
-  "regime": "bullish",
-  "confidence": 0.55,
-  "key_events_next_24h": [
-    {
-      "name": "BTC $80K Resistance Zone",
-      "time": "2026-09-07 12:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US CPI Release (Aug 2026)",
-      "time": "2026-09-11 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Rate Decision",
-      "time": "2026-09-16 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    }
-  ],
-  "notes": "8월 25% 급등 후 $80K 저항선 횡보. ETF 유입 강세, CPI·FOMC 대기",
-  "updated": "2026-09-07 08:00:00 UTC",
-  "valid_until": "2026-09-07 12:00:00 UTC"
+  "regime": "neutral",
+  "confidence": 0.4,
+  "key_events_next_24h": [],
+  "notes": "BTC $79.8K 횡보, 금리인상 58% 우려. 9/11 CPI·9/16 FOMC 주시",
+  "updated": "2026-09-07 06:00:00 UTC",
+  "valid_until": "2026-09-07 10:00:00 UTC"
 }
