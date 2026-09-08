@@ -1,27 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bearish",
+  "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "No major scheduled macro events",
-      "time": "2026-09-08 06:30 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US CPI August release",
-      "time": "2026-09-11 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC rate decision",
+      "name": "Fed Rate Hike Expectations (66.4% probability 25bp hike Sep 16)",
       "time": "2026-09-16 18:00 UTC",
       "impact": "high",
-      "expected_direction": "bullish"
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US CPI Inflation Report",
+      "time": "2026-09-11 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "8만달러 지지 공방, CPI/FOMC 앞두고 관망세 지속",
-  "updated": "2026-09-08 06:35:00 UTC",
-  "valid_until": "2026-09-08 10:35:00 UTC"
+  "notes": "BTC $78.5K, 강한 고용지표로 금리인상 우려. ETF 유입 지지선 존재.",
+  "updated": "2026-09-08 12:33:00 UTC",
+  "valid_until": "2026-09-08 16:33:00 UTC"
 }
