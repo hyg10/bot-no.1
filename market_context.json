@@ -1,15 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.42,
   "key_events_next_24h": [
     {
-      "name": "US Markets Closed (Labor Day - observance ended, normal trading)",
-      "time": "2026-09-07 13:30 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "FOMC September Meeting (upcoming Sep 15-16)",
+      "time": "2026-09-15 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US CPI Inflation Report (September)",
+      "time": "2026-09-11 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $80K 저항선 공방, CPI(9/11)·FOMC(9/16) 앞두고 관망",
-  "updated": "2026-09-07 09:30:00 UTC",
-  "valid_until": "2026-09-07 13:30:00 UTC"
+  "notes": "연준 금리인상(66%) 우려로 BTC $79k 횡보, ETF 유입은 긍정적",
+  "updated": "2026-09-08 06:00:00 UTC",
+  "valid_until": "2026-09-08 10:00:00 UTC"
 }
