@@ -1,37 +1,27 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bearish",
+  "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "No major US macro releases (quiet window)",
-      "time": "2026-09-08 00:00 UTC",
+      "name": "No major scheduled US releases today (Sept 9)",
+      "time": "2026-09-09 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "US CPI August Report (upcoming - Sep 11)",
+      "name": "US CPI August 2026 (BLS release, 48h ahead)",
       "time": "2026-09-11 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Rate Decision (Sep 16, 57% hike probability)",
+      "name": "FOMC Rate Decision - 58% odds of 25bp hike",
       "time": "2026-09-16 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "미-이란 분쟁·FOMC 앞두고 관망세, $80K 저항 실패",
-  "updated": "2026-09-08 12:00:00 UTC",
-  "valid_until": "2026-09-08 16:00:00 UTC",
-  "context": {
-    "btc_price_usd": 78370,
-    "price_change_24h_pct": -1.55,
-    "fear_greed_index": 69,
-    "fear_greed_label": "Greed",
-    "key_resistance": 82000,
-    "key_support": 78000,
-    "etf_flows_note": "ETF outflows $236M on Sep 1 (largest since Jul 31); Aug was best ETF month of 2026",
-    "macro_note": "US-Iran conflict ongoing, strong jobs report + rising yields = bearish pressure. Fed quiet period through Sep 17."
-  }
+  "notes": "연준 금리인상 우려(58%)로 BTC 하락, $77.5K-$79K 레인지 횡보",
+  "updated": "2026-09-09 00:35:00 UTC",
+  "valid_until": "2026-09-09 04:35:00 UTC"
 }
