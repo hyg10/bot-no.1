@@ -1,27 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.60,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "No major scheduled US releases today (Sept 9)",
-      "time": "2026-09-09 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US CPI August 2026 (BLS release, 48h ahead)",
+      "name": "US CPI August (BLS release)",
       "time": "2026-09-11 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Rate Decision - 58% odds of 25bp hike",
+      "name": "FOMC Meeting (Sep 15-16, rate decision Sep 16)",
       "time": "2026-09-16 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "연준 금리인상 우려(58%)로 BTC 하락, $77.5K-$79K 레인지 횡보",
-  "updated": "2026-09-09 00:35:00 UTC",
-  "valid_until": "2026-09-09 04:35:00 UTC"
+  "notes": "BTC $79K 박스권, FOMC 금리인상 우려로 중립, CPI 9/11 주목",
+  "updated": "2026-09-09 05:00:00 UTC",
+  "valid_until": "2026-09-09 09:00:00 UTC"
 }
