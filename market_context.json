@@ -1,24 +1,30 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "US CPI Inflation Report (August 2026)",
+      "name": "US August CPI Data Release",
       "time": "2026-09-11 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting (Sep 15-16) - Pre-meeting positioning",
-      "time": "2026-09-10 14:00 UTC",
+      "name": "FOMC Meeting Start (Sep 15-16 Decision Window)",
+      "time": "2026-09-15 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US-Iran Geopolitical Tensions (Ongoing)",
+      "time": "2026-09-10 12:33 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "CPI 발표 앞두고 관망세, 금리 인상 우려로 $78K 횡보",
-  "updated": "2026-09-10 06:33:34 UTC",
-  "valid_until": "2026-09-10 10:33:34 UTC",
-  "btc_price_usd": 78100,
+  "notes": "CPI 발표 대기, $78K 지지 테스트. 단기 중립, 변동성 주의",
+  "updated": "2026-09-10 12:33:37 UTC",
+  "valid_until": "2026-09-10 16:33:37 UTC",
+  "btc_price_usd": 77971,
   "fear_greed_index": 69,
-  "market_summary": "BTC ~$78K, down 1% in 24h. CPI release tomorrow (Sep 11) is high-impact. Strong jobs data and rising Treasury yields reviving Fed rate-hike bets. Greed sentiment (69) but price below $80K resistance. Sep 15-16 FOMC meeting approaching. Neutral regime due to CPI uncertainty."
+  "summary": "BTC near $78K, down 1.6% daily but up 21.9% over 30 days. MACD bearish crossover with $80K resistance holding. CPI release on Sep 11 is the key catalyst - hot print could trigger rate hike expectations at Sep 15-16 FOMC. ETF had $120M outflow on Sep 9 but 3-week inflow trend intact. US-Iran conflict adding risk-off pressure. Neutral regime with downside bias pending CPI."
 }
