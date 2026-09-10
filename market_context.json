@@ -1,29 +1,24 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
+  "regime": "neutral",
+  "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Conflict Ongoing (Geopolitical Risk)",
-      "time": "2026-09-10 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Fed Rate Hike Watch (FOMC Sept 15-16, ~56% hike probability)",
-      "time": "2026-09-10 14:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "August CPI Data Release (pre-FOMC catalyst)",
+      "name": "US CPI Inflation Report (August 2026)",
       "time": "2026-09-11 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Meeting (Sep 15-16) - Pre-meeting positioning",
+      "time": "2026-09-10 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "미국-이란 분쟁·매파 연준으로 BTC $78K대 하락 중",
-  "updated": "2026-09-10 08:00:00 UTC",
-  "valid_until": "2026-09-10 12:00:00 UTC",
-  "btc_price_ref": 78741,
-  "source_summary": "BTC ~$78.7K, down 1.6% daily. US-Iran conflict, strong jobs report dampening rate cut hopes. Fed ~56% rate hike probability for Sept 15-16 FOMC. BTC consolidating $77.5K-$82.2K range."
+  "notes": "CPI 발표 앞두고 관망세, 금리 인상 우려로 $78K 횡보",
+  "updated": "2026-09-10 06:33:34 UTC",
+  "valid_until": "2026-09-10 10:33:34 UTC",
+  "btc_price_usd": 78100,
+  "fear_greed_index": 69,
+  "market_summary": "BTC ~$78K, down 1% in 24h. CPI release tomorrow (Sep 11) is high-impact. Strong jobs data and rising Treasury yields reviving Fed rate-hike bets. Greed sentiment (69) but price below $80K resistance. Sep 15-16 FOMC meeting approaching. Neutral regime due to CPI uncertainty."
 }
