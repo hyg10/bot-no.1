@@ -1,21 +1,29 @@
 {
-  "regime": "neutral",
-  "confidence": 0.5,
+  "regime": "bearish",
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Fed Rate Hike Probability Elevated (60%+)",
-      "time": "2026-09-09 00:00 UTC",
+      "name": "US-Iran Conflict Ongoing (Geopolitical Risk)",
+      "time": "2026-09-10 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Bitcoin Liquid Network Exploit - Ongoing Sentiment Drag",
-      "time": "2026-09-09 00:00 UTC",
-      "impact": "medium",
+      "name": "Fed Rate Hike Watch (FOMC Sept 15-16, ~56% hike probability)",
+      "time": "2026-09-10 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "August CPI Data Release (pre-FOMC catalyst)",
+      "time": "2026-09-11 12:30 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "연준 금리인상 우려 60%, BTC $79K 박스권, 9월 계절성 약세",
-  "updated": "2026-09-09 08:30:00 UTC",
-  "valid_until": "2026-09-09 12:30:00 UTC"
+  "notes": "미국-이란 분쟁·매파 연준으로 BTC $78K대 하락 중",
+  "updated": "2026-09-10 08:00:00 UTC",
+  "valid_until": "2026-09-10 12:00:00 UTC",
+  "btc_price_ref": 78741,
+  "source_summary": "BTC ~$78.7K, down 1.6% daily. US-Iran conflict, strong jobs report dampening rate cut hopes. Fed ~56% rate hike probability for Sept 15-16 FOMC. BTC consolidating $77.5K-$82.2K range."
 }
