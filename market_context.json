@@ -1,27 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.6,
+  "confidence": 0.62,
   "key_events_next_24h": [
     {
-      "name": "US CPI (August) Data Release",
-      "time": "2026-09-10 12:30 UTC",
+      "name": "US CPI Inflation Report (August 2026)",
+      "time": "2026-09-11 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US-Iran Geopolitical Tensions (ongoing)",
-      "time": "2026-09-10 00:00 UTC",
+      "name": "FOMC Meeting Preparation (Sep 15-16)",
+      "time": "2026-09-11 18:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Meeting (Sep 15-16) Rate Decision Anticipation",
-      "time": "2026-09-16 18:00 UTC",
-      "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "CPI 발표·미이란 갈등 베어리시, FOMC 9/16 금리 결정 대기",
-  "updated": "2026-09-10 10:00:00 UTC",
-  "valid_until": "2026-09-10 14:00:00 UTC"
+  "notes": "BTC $78K대, 인플레·미이란전쟁·FOMC금리인상 우려로 약세",
+  "updated": "2026-09-11 08:00:00 UTC",
+  "valid_until": "2026-09-11 12:00:00 UTC"
 }
