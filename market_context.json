@@ -1,21 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US CPI Inflation Report (August 2026)",
+      "name": "US CPI August 2026 Release",
       "time": "2026-09-11 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Meeting Preparation (Sep 15-16)",
-      "time": "2026-09-11 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $78K대, 인플레·미이란전쟁·FOMC금리인상 우려로 약세",
-  "updated": "2026-09-11 08:00:00 UTC",
-  "valid_until": "2026-09-11 12:00:00 UTC"
+  "notes": "BTC $77K 하락, CPI 발표·FOMC 금리인상 우려로 단기 약세",
+  "updated": "2026-09-11 04:30:00 UTC",
+  "valid_until": "2026-09-11 08:30:00 UTC"
 }
