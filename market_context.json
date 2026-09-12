@@ -1,21 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "US PPI (Producer Price Index) September 2026",
+      "name": "US PPI Inflation (August 2026)",
       "time": "2026-09-12 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Pre-FOMC Blackout Period - Fed silent until Sep 16 rate decision",
-      "time": "2026-09-12 00:00 UTC",
-      "impact": "medium",
+      "name": "FOMC Meeting Begins (Sep 15-16)",
+      "time": "2026-09-15 00:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $80K 이탈 후 $77K대, 금리인상 우려·CPI 이후 하락압력",
-  "updated": "2026-09-12 08:00:00 UTC",
-  "valid_until": "2026-09-12 12:00:00 UTC"
+  "notes": "FOMC 금리인상 우려(60%), CPI 충격 후 BTC $77K대 하락세",
+  "updated": "2026-09-12 05:00:00 UTC",
+  "valid_until": "2026-09-12 09:00:00 UTC"
 }
