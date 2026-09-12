@@ -1,30 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "US PPI (August 2026)",
-      "time": "2026-09-12 08:30 UTC",
-      "impact": "medium",
+      "name": "US PPI (Producer Price Index) September 2026",
+      "time": "2026-09-12 12:30 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting (Sep 15-16) - Rate Hike Watch",
-      "time": "2026-09-16 18:00 UTC",
-      "impact": "high",
+      "name": "Pre-FOMC Blackout Period - Fed silent until Sep 16 rate decision",
+      "time": "2026-09-12 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "CPI 예상 상회, 금리인상 확률 85%. BTC $77K~79K 하방 압력. FOMC 9/16 주목",
-  "updated": "2026-09-11 14:30:00 UTC",
-  "valid_until": "2026-09-11 18:30:00 UTC",
-  "btc_price_approx": 78500,
-  "source_summary": {
-    "price_range_24h": "76535-79450",
-    "weekly_change_pct": -6.0,
-    "cpi_core_mom": "0.3% (above 0.2% forecast)",
-    "cpi_core_yoy": "2.4% (as expected)",
-    "fed_hike_probability": "85%",
-    "fear_greed_index": 70
-  }
+  "notes": "BTC $80K 이탈 후 $77K대, 금리인상 우려·CPI 이후 하락압력",
+  "updated": "2026-09-12 08:00:00 UTC",
+  "valid_until": "2026-09-12 12:00:00 UTC"
 }
