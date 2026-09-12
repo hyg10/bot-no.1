@@ -1,27 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.6,
+  "regime": "neutral",
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Military Conflict - Oil near $100/bbl",
+      "name": "No major scheduled macro releases",
       "time": "2026-09-12 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
-      "name": "US PPI Inflation Aug 2026 (likely ~12:30 UTC)",
-      "time": "2026-09-12 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Rate Decision Sep 16 (rate hike risk elevated)",
-      "time": "2026-09-16 18:00 UTC",
+      "name": "FOMC Meeting Begins (Sep 15-16) - approaching",
+      "time": "2026-09-15 14:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "미-이란 전쟁·연준 금리인상 우려로 BTC 하락 압력. FOMC 9/16.",
-  "updated": "2026-09-12 12:33:00 UTC",
-  "valid_until": "2026-09-12 16:33:00 UTC"
+  "notes": "CPI 예상치 부합, 코어 소폭 상회. FOMC 금리인상 85% 확률로 관망세",
+  "updated": "2026-09-12 18:33:00 UTC",
+  "valid_until": "2026-09-12 22:33:00 UTC"
 }
