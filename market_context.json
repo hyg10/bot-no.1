@@ -1,21 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
+  "regime": "neutral",
+  "confidence": 0.38,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting Day 1 (Sep 15-16 rate decision)",
-      "time": "2026-09-15 08:00 UTC",
+      "name": "FOMC Meeting Day 1 (rate hike 66% odds for Sep 16 decision)",
+      "time": "2026-09-15 14:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "CLARITY Act crypto regulation vote (US Senate)",
-      "time": "2026-09-15 14:00 UTC",
+      "name": "CLARITY Act Senate Vote (crypto regulation)",
+      "time": "2026-09-15 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $77,268 수준. FOMC(9/16) 앞두고 관망세, 하락 추세 주의.",
-  "updated": "2026-09-13 12:00:00 UTC",
-  "valid_until": "2026-09-13 16:00:00 UTC"
+  "notes": "Fed 금리인상 확률 66%로 하방압력. ETF 유입은 지지. 횡보 구간.",
+  "updated": "2026-09-13 06:33:15 UTC",
+  "valid_until": "2026-09-13 10:33:15 UTC"
 }
