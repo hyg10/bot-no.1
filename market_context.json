@@ -1,21 +1,16 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
+  "confidence": 0.55,
+  "btc_price_usd": 79204.1,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting Day 1 Convenes",
-      "time": "2026-09-15 13:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Rate Decision & Dot Plot (Sep 16)",
-      "time": "2026-09-16 18:00 UTC",
+      "name": "FOMC Rate Decision (Fed expected to hike for first time since 2023)",
+      "time": "2026-09-16 19:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $77K대, FOMC 9/16 금리결정 대기, 단기 하락압력 우세",
-  "updated": "2026-09-14 07:35:00 UTC",
-  "valid_until": "2026-09-14 11:35:00 UTC"
+  "notes": "FOMC 금리인상 임박·미이란갈등으로 변동성 주의",
+  "updated": "2026-09-14 18:34:00 UTC",
+  "valid_until": "2026-09-14 22:34:00 UTC"
 }
