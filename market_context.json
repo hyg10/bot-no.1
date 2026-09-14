@@ -1,21 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
+  "regime": "neutral",
+  "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "FOMC 2-Day Meeting Begins (Rate Decision Sep 16)",
-      "time": "2026-09-15 14:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "FOMC Meeting Day 1 Convenes",
+      "time": "2026-09-15 13:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     },
     {
-      "name": "US Senate CLARITY Act Vote (Crypto Regulation)",
-      "time": "2026-09-15 18:00 UTC",
-      "impact": "medium",
+      "name": "FOMC Rate Decision & Dot Plot (Sep 16)",
+      "time": "2026-09-16 18:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 금리인상 확률 60%+, BTC $77K로 하락. 단기 약세",
-  "updated": "2026-09-14 09:30:00 UTC",
-  "valid_until": "2026-09-14 13:30:00 UTC"
+  "notes": "BTC $77K대, FOMC 9/16 금리결정 대기, 단기 하락압력 우세",
+  "updated": "2026-09-14 07:35:00 UTC",
+  "valid_until": "2026-09-14 11:35:00 UTC"
 }
