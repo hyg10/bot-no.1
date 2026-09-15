@@ -1,21 +1,13 @@
 {
-  "regime": "neutral",
-  "confidence": 0.40,
+  "regime": "bearish",
+  "confidence": 0.62,
   "key_events_next_24h": [
-    {
-      "name": "FOMC Rate Decision - Sep 2026 (25bps hike, 93% probability)",
-      "time": "2026-09-16 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Fed Chair Warsh Press Conference",
-      "time": "2026-09-16 18:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    }
+    {"name": "CLARITY Act Senate Cloture Vote", "time": "2026-09-15 18:15 UTC", "impact": "high", "expected_direction": "neutral"},
+    {"name": "Retail Sales (Aug 2026)", "time": "2026-09-16 12:30 UTC", "impact": "medium", "expected_direction": "neutral"},
+    {"name": "FOMC Rate Decision (Sep)", "time": "2026-09-16 18:00 UTC", "impact": "high", "expected_direction": "bearish"},
+    {"name": "US House Strategic BTC Reserve Bill Review", "time": "2026-09-16 14:00 UTC", "impact": "medium", "expected_direction": "bullish"}
   ],
-  "notes": "9/16 FOMC 금리인상(93%) 예정, 오늘 +3% 랠리 혼조세",
-  "updated": "2026-09-15 12:33:36 UTC",
-  "valid_until": "2026-09-15 16:33:36 UTC"
+  "notes": "FOMC 금리인상 우려+CLARITY법안 투표로 1억달러 청산, BTC $77k 하락",
+  "updated": "2026-09-15 09:00:00 UTC",
+  "valid_until": "2026-09-15 13:00:00 UTC"
 }
