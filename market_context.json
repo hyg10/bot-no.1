@@ -1,21 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "U.S. Senate CLARITY Act Procedural Vote (60-vote threshold)",
-      "time": "2026-09-15 16:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "name": "FOMC Rate Decision - Sep 2026 (25bps hike, 93% probability)",
+      "time": "2026-09-16 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Interest Rate Decision - Rate Hike Expected (3.5-3.75% range)",
-      "time": "2026-09-16 18:00 UTC",
+      "name": "Fed Chair Warsh Press Conference",
+      "time": "2026-09-16 18:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "FOMC 금리인상 임박, CLARITY법안 통과가능성 낮아 관망세",
-  "updated": "2026-09-15 09:00:00 UTC",
-  "valid_until": "2026-09-15 13:00:00 UTC"
+  "notes": "9/16 FOMC 금리인상(93%) 예정, 오늘 +3% 랠리 혼조세",
+  "updated": "2026-09-15 12:33:36 UTC",
+  "valid_until": "2026-09-15 16:33:36 UTC"
 }
