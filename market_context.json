@@ -1,16 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.55,
-  "btc_price_usd": 79204.1,
+  "regime": "bearish",
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Fed expected to hike for first time since 2023)",
-      "time": "2026-09-16 19:00 UTC",
+      "name": "FOMC Rate Decision (Fed Rate Hike Expected)",
+      "time": "2026-09-16 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "CLARITY Act Senate Motion to Proceed (Crypto Regulation Vote)",
+      "time": "2026-09-15 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "FOMC 금리인상 임박·미이란갈등으로 변동성 주의",
-  "updated": "2026-09-14 18:34:00 UTC",
-  "valid_until": "2026-09-14 22:34:00 UTC"
+  "notes": "FOMC 금리인상 87% 확률, BTC $81.2K서 $78.5K로 하락. 규제법 투표 혼재",
+  "updated": "2026-09-15 08:00:00 UTC",
+  "valid_until": "2026-09-15 12:00:00 UTC"
 }
