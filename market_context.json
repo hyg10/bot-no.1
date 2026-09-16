@@ -1,27 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US Retail Sales (Aug 2026)",
-      "time": "2026-09-16 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Rate Decision - 25bps hike (93% probability)",
-      "time": "2026-09-16 19:00 UTC",
+      "name": "Fed Powell Press Conference (post-FOMC)",
+      "time": "2026-09-16 18:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Fed Chair Press Conference / Dot Plot",
-      "time": "2026-09-16 19:30 UTC",
+      "name": "FOMC Rate Decision (already released, hawkish)",
+      "time": "2026-09-16 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "연준 금리 인상(+25bp) 임박, CLARITY법 부결로 하락 압력",
-  "updated": "2026-09-16 10:10:00 UTC",
-  "valid_until": "2026-09-16 14:10:00 UTC"
+  "notes": "FOMC 금리인상 확인, BTC -1.6% 하락. 파월 회견 진행 중, 추가 변동성 주의.",
+  "updated": "2026-09-16 18:33:16 UTC",
+  "valid_until": "2026-09-16 22:33:16 UTC"
 }
