@@ -1,21 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "FOMC Federal Reserve Rate Decision",
-      "time": "2026-09-16 18:00 UTC",
+      "name": "US Retail Sales (Aug 2026)",
+      "time": "2026-09-16 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "FOMC Rate Decision - 25bps hike (93% probability)",
+      "time": "2026-09-16 19:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Fed Chair Warsh Press Conference & Dot Plot",
-      "time": "2026-09-16 18:30 UTC",
+      "name": "Fed Chair Press Conference / Dot Plot",
+      "time": "2026-09-16 19:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "연준금리인상 86%예상, BTC $76.8K 약세, 규제 불확실",
-  "updated": "2026-09-16 06:33:54 UTC",
-  "valid_until": "2026-09-16 10:33:54 UTC"
+  "notes": "연준 금리 인상(+25bp) 임박, CLARITY법 부결로 하락 압력",
+  "updated": "2026-09-16 10:10:00 UTC",
+  "valid_until": "2026-09-16 14:10:00 UTC"
 }
