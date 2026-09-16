@@ -3,19 +3,19 @@
   "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Sep 16) + Dot Plot",
+      "name": "FOMC Federal Reserve Rate Decision",
       "time": "2026-09-16 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Fed Chair Warsh Press Conference",
+      "name": "Fed Chair Warsh Press Conference & Dot Plot",
       "time": "2026-09-16 18:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "FOMC 금리인상 78% 확률, BTC 하락세, 레크템버 약세",
-  "updated": "2026-09-16 11:00:00 UTC",
-  "valid_until": "2026-09-16 15:00:00 UTC"
+  "notes": "연준금리인상 86%예상, BTC $76.8K 약세, 규제 불확실",
+  "updated": "2026-09-16 06:33:54 UTC",
+  "valid_until": "2026-09-16 10:33:54 UTC"
 }
