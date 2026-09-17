@@ -1,27 +1,27 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "Post-FOMC market digestion (Fed hiked +25bps to 3.75-4.00% on Sept 16)",
+      "name": "Post-FOMC market digestion (Fed hiked 25bps to 3.75-4.00%)",
       "time": "2026-09-17 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US Clarity Act Senate failure (49-50 vote, crypto regulatory setback)",
-      "time": "2026-09-16 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "US House Strategic Bitcoin Reserve Bill (committee approved)",
+      "time": "2026-09-17 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     },
     {
-      "name": "Middle East geopolitical risk (Saudi pipeline attack, oil +11%)",
+      "name": "Senate Clarity Act failure (crypto regulation stalled)",
       "time": "2026-09-17 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "연준 금리 25bp 인상, 규제법안 부결로 하락세 지속",
-  "updated": "2026-09-17 06:35:00 UTC",
-  "valid_until": "2026-09-17 10:35:00 UTC"
+  "notes": "연준 금리 인상 후 BTC 반등, 규제 불확실성 지속",
+  "updated": "2026-09-17 12:33:24 UTC",
+  "valid_until": "2026-09-17 16:33:24 UTC"
 }
