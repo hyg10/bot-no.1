@@ -1,21 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.42,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "BoE MPC Minutes",
-      "time": "2026-09-17 08:30 UTC",
-      "impact": "low",
+      "name": "Post-FOMC market digestion (Fed hiked +25bps to 3.75-4.00% on Sept 16)",
+      "time": "2026-09-17 00:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Post-FOMC Aftermath (Sep 16 rate decision)",
+      "name": "US Clarity Act Senate failure (49-50 vote, crypto regulatory setback)",
+      "time": "2026-09-16 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Middle East geopolitical risk (Saudi pipeline attack, oil +11%)",
       "time": "2026-09-17 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "FOMC 금리인상 우려+ETF자금유출+렉템버 약세, $75K 지지",
-  "updated": "2026-09-17 00:33:33 UTC",
-  "valid_until": "2026-09-17 04:33:33 UTC"
+  "notes": "연준 금리 25bp 인상, 규제법안 부결로 하락세 지속",
+  "updated": "2026-09-17 06:35:00 UTC",
+  "valid_until": "2026-09-17 10:35:00 UTC"
 }
