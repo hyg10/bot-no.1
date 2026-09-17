@@ -1,21 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.42,
   "key_events_next_24h": [
     {
-      "name": "Fed Powell Press Conference (post-FOMC)",
-      "time": "2026-09-16 18:30 UTC",
-      "impact": "high",
+      "name": "BoE MPC Minutes",
+      "time": "2026-09-17 08:30 UTC",
+      "impact": "low",
       "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Rate Decision (already released, hawkish)",
-      "time": "2026-09-16 18:00 UTC",
-      "impact": "high",
+      "name": "Post-FOMC Aftermath (Sep 16 rate decision)",
+      "time": "2026-09-17 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "FOMC 금리인상 확인, BTC -1.6% 하락. 파월 회견 진행 중, 추가 변동성 주의.",
-  "updated": "2026-09-16 18:33:16 UTC",
-  "valid_until": "2026-09-16 22:33:16 UTC"
+  "notes": "FOMC 금리인상 우려+ETF자금유출+렉템버 약세, $75K 지지",
+  "updated": "2026-09-17 00:33:33 UTC",
+  "valid_until": "2026-09-17 04:33:33 UTC"
 }
