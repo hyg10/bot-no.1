@@ -1,15 +1,36 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
+  "confidence": 0.45,
+  "btc_price_usd": 76429,
   "key_events_next_24h": [
     {
-      "name": "Fed Powell Commentary / FOMC Follow-up",
-      "time": "2026-09-18 18:00 UTC",
+      "name": "880 BTC Coinbase transfer monitoring",
+      "time": "2026-09-18 12:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "BTC resistance retest $77K-$78K",
+      "time": "2026-09-18 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 금리인상+규제법 부결 후 77K 지지 확인 중",
-  "updated": "2026-09-18 07:30:00 UTC",
-  "valid_until": "2026-09-18 11:30:00 UTC"
+  "notes": "연준 금리인상 후 BTC $76K 횡보, 규제 불확실성 지속",
+  "updated": "2026-09-18 12:00:00 UTC",
+  "valid_until": "2026-09-18 16:00:00 UTC",
+  "context": {
+    "fear_greed_index": 56,
+    "fear_greed_label": "Greed",
+    "btc_24h_change_pct": 0.30,
+    "fed_rate": "3.75-4.00% (hiked +25bps on Sep 16)",
+    "recent_events": [
+      "Senate failed to advance major US crypto regulation bill",
+      "BTC rejected near $81K resistance, consolidating",
+      "880 BTC moved to Coinbase (~$68M) - potential sell pressure",
+      "Capital B bought ~$29M BTC for corporate treasury",
+      "DeFi market cap up 6.3% to $77.6B",
+      "BTC ETF net outflows $462M (Sep 8-11) after hot CPI"
+    ]
+  }
 }
