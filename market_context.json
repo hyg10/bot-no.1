@@ -3,19 +3,13 @@
   "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "Fed Rate Hike Aftermath (25bps to 3.75-4.0%)",
-      "time": "2026-09-16 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC Market Digesting Fed Decision",
-      "time": "2026-09-18 12:00 UTC",
+      "name": "Fed Powell Commentary / FOMC Follow-up",
+      "time": "2026-09-18 18:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "Fed 25bp 인상 후 혼조세. 공포탐욕지수 69(탐욕), 7일 -2.18%",
-  "updated": "2026-09-18 00:33:00 UTC",
-  "valid_until": "2026-09-18 04:33:00 UTC"
+  "notes": "FOMC 금리인상+규제법 부결 후 77K 지지 확인 중",
+  "updated": "2026-09-18 07:30:00 UTC",
+  "valid_until": "2026-09-18 11:30:00 UTC"
 }
