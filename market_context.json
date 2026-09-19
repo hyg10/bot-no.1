@@ -1,15 +1,27 @@
 {
-  "regime": "bullish",
-  "confidence": 0.65,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "Fed Rate Hike Aftermath (25bps raised Sep 16)",
-      "time": "2026-09-18 00:00 UTC",
+      "name": "Fed Rate Hike Aftermath (Sept 15-16 FOMC +25bps to 3.75-4.00%)",
+      "time": "2026-09-19 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "CLARITY Act Senate Rejection (regulatory uncertainty)",
+      "time": "2026-09-19 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "SEC Tokenized Stock Innovation Exemption (blockchain approval)",
+      "time": "2026-09-19 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "연준 25bp 인상 후 BTC $80k 회복, 공포탐욕 61 탐욕",
-  "updated": "2026-09-18 14:50:00 UTC",
-  "valid_until": "2026-09-18 18:50:00 UTC"
+  "notes": "Fed 금리 인상 후 BTC $80K 반등. CLARITY Act 부결로 규제 불확실성 지속.",
+  "updated": "2026-09-19 08:00:00 UTC",
+  "valid_until": "2026-09-19 12:00:00 UTC"
 }
