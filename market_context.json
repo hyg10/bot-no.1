@@ -1,23 +1,39 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "FOMC Sep 15-16 결과 반영 중 (25bps 인상 완료)",
-      "time": "2026-09-16 18:00 UTC",
-      "impact": "medium",
+      "name": "Digital Asset Market Clarity Act (failed Senate vote 49-50 on Sep 16)",
+      "time": "2026-09-16 14:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Fed 연설자 발언 리스크 (다음 FOMC 10월 예정)",
-      "time": "2026-09-20 18:00 UTC",
-      "impact": "low",
+      "name": "SEC Regulation Crypto Assets comment period (ongoing, due Oct 20)",
+      "time": "2026-10-20 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Next FOMC Meeting (rate decision expected)",
+      "time": "2026-10-28 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "볼륨 급감(-41%), MACD 약화. EMA 구조 상승 유지하나 모멘텀 둔화",
-  "btc_price_usd": 81247,
-  "fear_greed_index": 71,
-  "updated": "2026-09-20 06:00:00 UTC",
-  "valid_until": "2026-09-20 10:00:00 UTC"
+  "notes": "클래리티법 부결 후 회복, 기술 강세 유지. $81.7k 저항 테스트 중",
+  "updated": "2026-09-20 18:35:00 UTC",
+  "valid_until": "2026-09-20 22:35:00 UTC",
+  "price_snapshot": {
+    "btc_usd": 81246,
+    "24h_high": 81507,
+    "24h_low": 80091,
+    "24h_change_pct": -0.17,
+    "7d_change_pct": 5.29
+  },
+  "analysis": {
+    "technical": "Bullish — BTC above 20-EMA ($77.6k), 50-EMA ($74.3k), 200-EMA ($72.4k). Resistance $81,711, support $80,814.",
+    "fundamental": "Mixed — Clarity Act legislative defeat bearish, but institutional buying drove recovery from $75k. Fed hiked +25bps Sep 16 (first since 2023), now at 3.75-4.00%.",
+    "sentiment": "Neutral-to-cautious. Twitter 35.8% bullish vs 13% bearish. Market absorbing macro headwinds."
+  }
 }
