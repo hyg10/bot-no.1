@@ -1,33 +1,21 @@
 {
-  "regime": "bullish",
-  "confidence": 0.70,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "No major macro events scheduled",
-      "time": "2026-09-19 00:00 UTC",
-      "impact": "low",
+      "name": "Deribit Quarterly BTC/ETH Options Expiry (approaching)",
+      "time": "2026-09-25 08:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "US Spot BTC ETF daily flow data release",
-      "time": "2026-09-19 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "SEC Fiscal Year End - regulatory risk window",
+      "time": "2026-09-30 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "SEC 혁신면제·ETF 유입 호조로 BTC 6% 급등, 강세장",
-  "updated": "2026-09-19 18:33:11 UTC",
-  "valid_until": "2026-09-19 22:33:11 UTC",
-  "price_snapshot": {
-    "btc_usd": 81256,
-    "change_24h_pct": 6.0
-  },
-  "context_summary": {
-    "btc_price": "$81,256 (+6% on day)",
-    "sec_news": "SEC approved innovation exemption on Sep 18, allowing tokenized stock trading on public blockchains - regulatory clarity boost",
-    "etf_flows": "Spot BTC ETF inflows ~$160M on Sep 17; $3.52B net inflows during August",
-    "macro": "FOMC hiked 25bps on Sep 16 (12-0 vote) - already priced in. Next FOMC: Oct 27-28. Next CPI: Oct 13.",
-    "short_liquidations": "~$250M short liquidations during rally - forced covering adds momentum",
-    "market_cap": "$2.78T total crypto market cap"
-  }
+  "notes": "FOMC 금리인상(3.75-4%) 후 반등, EMA 강세 MACD 모멘텀 약화 혼조세",
+  "updated": "2026-09-20 00:35:00 UTC",
+  "valid_until": "2026-09-20 04:35:00 UTC"
 }
