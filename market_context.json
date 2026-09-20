@@ -3,19 +3,19 @@
   "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "Deribit Quarterly BTC/ETH Options Expiry (approaching)",
+      "name": "No major macro events - FOMC concluded Sep 15-16 (rate hike +25bp)",
+      "time": "2026-09-20 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Deribit Quarterly BTC/ETH Options Expiry (approaching Sep 25)",
       "time": "2026-09-25 08:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "SEC Fiscal Year End - regulatory risk window",
-      "time": "2026-09-30 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 금리인상(3.75-4%) 후 반등, EMA 강세 MACD 모멘텀 약화 혼조세",
-  "updated": "2026-09-20 00:35:00 UTC",
-  "valid_until": "2026-09-20 04:35:00 UTC"
+  "notes": "FOMC인상 완료, EMA강세 vs MACD약화·단기조정 가능성",
+  "updated": "2026-09-20 06:34:11 UTC",
+  "valid_until": "2026-09-20 10:34:11 UTC"
 }
