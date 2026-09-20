@@ -1,21 +1,23 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "No major macro events - FOMC concluded Sep 15-16 (rate hike +25bp)",
-      "time": "2026-09-20 00:00 UTC",
+      "name": "FOMC Sep 15-16 결과 반영 중 (25bps 인상 완료)",
+      "time": "2026-09-16 18:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "Deribit Quarterly BTC/ETH Options Expiry (approaching Sep 25)",
-      "time": "2026-09-25 08:00 UTC",
-      "impact": "medium",
+      "name": "Fed 연설자 발언 리스크 (다음 FOMC 10월 예정)",
+      "time": "2026-09-20 18:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC인상 완료, EMA강세 vs MACD약화·단기조정 가능성",
-  "updated": "2026-09-20 06:34:11 UTC",
-  "valid_until": "2026-09-20 10:34:11 UTC"
+  "notes": "볼륨 급감(-41%), MACD 약화. EMA 구조 상승 유지하나 모멘텀 둔화",
+  "btc_price_usd": 81247,
+  "fear_greed_index": 71,
+  "updated": "2026-09-20 06:00:00 UTC",
+  "valid_until": "2026-09-20 10:00:00 UTC"
 }
