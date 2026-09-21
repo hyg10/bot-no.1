@@ -1,21 +1,27 @@
 {
   "regime": "bullish",
-  "confidence": 0.60,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "SEC Conditional Exemption Window Opens (Tokenized Stocks on Blockchain)",
-      "time": "2026-09-22 00:00 UTC",
+      "name": "NY Fed President Williams speech (US Treasury Market Conference)",
+      "time": "2026-09-22 13:00 UTC",
       "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Messari Mainnet NYC Conference (Day 1)",
+      "time": "2026-09-22 14:00 UTC",
+      "impact": "low",
       "expected_direction": "bullish"
     },
     {
-      "name": "No major FOMC/CPI/PPI scheduled (next FOMC Oct 27-28)",
-      "time": "2026-09-22 00:00 UTC",
+      "name": "0G Token Unlock (12.87% circulating supply)",
+      "time": "2026-09-22 12:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $84K 돌파, 단기 저항 소화 중. Fed 인상 선반영, 단기 강세",
-  "updated": "2026-09-21 06:00:00 UTC",
-  "valid_until": "2026-09-21 10:00:00 UTC"
+  "notes": "BTC $84K 돌파, 30% 반등. 10월 Fed 추가 인상 우려 상존",
+  "updated": "2026-09-21 18:33:35 UTC",
+  "valid_until": "2026-09-21 22:33:35 UTC"
 }
