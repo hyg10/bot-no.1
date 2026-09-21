@@ -1,34 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.55,
+  "regime": "bullish",
+  "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "Fed Speakers (multiple, ~10 this week)",
-      "time": "2026-09-21 14:00 UTC",
+      "name": "SEC Conditional Exemption Window Opens (Tokenized Stocks on Blockchain)",
+      "time": "2026-09-22 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "bullish"
     },
     {
-      "name": "FOMC Rate Hike Aftermath (Sep 16 +25bps, 3.75-4.00%)",
-      "time": "2026-09-21 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "name": "No major FOMC/CPI/PPI scheduled (next FOMC Oct 27-28)",
+      "time": "2026-09-22 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "연준 금리인상 후 BTC $81K 유지, 레버리지 과다로 변동성 주의",
-  "updated": "2026-09-21 12:00:00 UTC",
-  "valid_until": "2026-09-21 16:00:00 UTC",
-  "btc_price_usd": 81092,
-  "btc_24h_range": {"low": 80155, "high": 81427},
-  "btc_24h_change_pct": -0.44,
-  "fear_greed_index": 70,
-  "sources": [
-    "BTC ~$81,092 (24h: -0.44%, range $80,155-$81,427, mktcap $1.63T)",
-    "Fear & Greed Index: 70 (Greed territory)",
-    "Derivatives/Spot volume ratio ~9:1 ($973B vs $106B) - high leverage fragility",
-    "FOMC Sep 15-16: +25bps to 3.75-4.00% (first hike since 2023) - bearish macro",
-    "Fidelity BTC ETF inflow $433M - bullish institutional demand",
-    "BTC resistance at $82K wall; support ~$80K",
-    "No CPI/PPI releases Sep 21-22; next major data Oct 15"
-  ]
+  "notes": "BTC $84K 돌파, 단기 저항 소화 중. Fed 인상 선반영, 단기 강세",
+  "updated": "2026-09-21 06:00:00 UTC",
+  "valid_until": "2026-09-21 10:00:00 UTC"
 }
