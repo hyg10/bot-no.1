@@ -1,25 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Trump-Xi Summit (positioning/risk-on flows)",
-      "time": "2026-09-22 18:00 UTC",
+      "name": "Multiple Fed Speaker Appearances (10+ this week)",
+      "time": "2026-09-22 14:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "US Treasury 10Y yield watch (near 5% pressure)",
-      "time": "2026-09-22 14:30 UTC",
+      "name": "BTC $85K-$87K Resistance Zone Test",
+      "time": "2026-09-22 12:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "연준 금리인상 후 BTC 87K 랠리, 공매도 청산. 중립 국면 유지.",
-  "updated": "2026-09-22 10:00:00 UTC",
-  "valid_until": "2026-09-22 14:00:00 UTC",
-  "btc_price_approx": 85000,
-  "fear_greed_index": 50,
-  "fear_greed_label": "neutral",
-  "sources_summary": "BTC rallied ~6-7% to $87,374 high (Sept 21), liquidating $262M shorts. Fed hiked to 3.75-4% on Sept 16 (absorbed well). Golden cross printed. ETF inflows strong. Fear/Greed at 50 neutral. Next FOMC: Oct 27-28."
+  "notes": "BTC +6.7% 상승, 87K 저항 돌파 시도. 나스닥 신고가, 강세 지속",
+  "updated": "2026-09-22 12:00:00 UTC",
+  "valid_until": "2026-09-22 16:00:00 UTC"
 }
