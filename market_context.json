@@ -1,21 +1,21 @@
 {
   "regime": "bullish",
-  "confidence": 0.65,
+  "confidence": 0.78,
   "key_events_next_24h": [
     {
-      "name": "Multiple Fed Speaker Appearances (10+ this week)",
-      "time": "2026-09-22 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "name": "Trump-Xi Summit (US-China diplomatic meeting)",
+      "time": "2026-09-23 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
     },
     {
-      "name": "BTC $85K-$87K Resistance Zone Test",
-      "time": "2026-09-22 12:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
+      "name": "No major scheduled macro data releases (CPI/PPI in October)",
+      "time": "2026-09-22 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC +6.7% 상승, 87K 저항 돌파 시도. 나스닥 신고가, 강세 지속",
-  "updated": "2026-09-22 12:00:00 UTC",
-  "valid_until": "2026-09-22 16:00:00 UTC"
+  "notes": "BTC $86K +6.5%, 공포탐욕 78, 대규모 숏스퀴즈, 미중 정상회담",
+  "updated": "2026-09-22 18:33:43 UTC",
+  "valid_until": "2026-09-22 22:33:43 UTC"
 }
