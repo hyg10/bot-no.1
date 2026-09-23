@@ -1,33 +1,16 @@
 {
   "regime": "bullish",
-  "confidence": 0.75,
-  "btc_price_usd": 86589,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Fed Speaker Schedule (post-FOMC week)",
-      "time": "2026-09-23 14:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "No major macro release (CPI next Oct 13, FOMC next Oct 28)",
-      "time": "2026-09-24 00:00 UTC",
-      "impact": "low",
+      "name": "FOMC Rate Hike Aftermath (25bps hike concluded, 12-0 vote)",
+      "time": "2026-09-23 18:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $86K대, ETF 대규모 유입, 공포탐욕 71, 강세 지속",
-  "market_summary": {
-    "fear_greed_index": 71,
-    "fear_greed_label": "Greed",
-    "bullish_sentiment_pct": 82.5,
-    "btc_24h_low": 85163,
-    "btc_24h_high": 87251,
-    "total_market_cap_trillion": 2.93,
-    "weekly_gain_pct": 24.8,
-    "etf_inflow_recent": "999M USD (Sep 21-22)",
-    "key_driver": "Record ETF inflows, US Treasury buyback program, institutional demand surge"
-  },
-  "updated": "2026-09-23 06:00:00 UTC",
-  "valid_until": "2026-09-23 10:00:00 UTC"
+  "notes": "ETF 역대 최대유입, 기관매수 강함. Fed 25bp 인상 부담",
+  "btc_price_usd": 86589,
+  "updated": "2026-09-23 12:33:44 UTC",
+  "valid_until": "2026-09-23 16:33:44 UTC"
 }
