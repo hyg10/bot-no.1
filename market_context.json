@@ -1,21 +1,37 @@
 {
   "regime": "bullish",
-  "confidence": 0.78,
+  "confidence": 0.75,
+  "btc_price_usd": 86624,
   "key_events_next_24h": [
     {
-      "name": "Trump-Xi Summit (US-China diplomatic meeting)",
+      "name": "No major macro events scheduled",
       "time": "2026-09-23 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
-      "name": "No major scheduled macro data releases (CPI/PPI in October)",
-      "time": "2026-09-22 00:00 UTC",
-      "impact": "low",
+      "name": "Next FOMC meeting (Oct 27-28) - Sep 16 hike already priced in (+25bps to 3.75%-4.00%)",
+      "time": "2026-10-27 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Next CPI release",
+      "time": "2026-10-13 08:30 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $86K +6.5%, 공포탐욕 78, 대규모 숏스퀴즈, 미중 정상회담",
-  "updated": "2026-09-22 18:33:43 UTC",
-  "valid_until": "2026-09-22 22:33:43 UTC"
+  "notes": "공포탐욕지수 78(극단적 탐욕), 숏스퀴즈 $648M, 상승세 지속",
+  "updated": "2026-09-23 06:00:00 UTC",
+  "valid_until": "2026-09-23 10:00:00 UTC",
+  "market_details": {
+    "fear_greed_index": 78,
+    "fear_greed_label": "Extreme Greed",
+    "24h_change_pct": 6.47,
+    "short_liquidations_24h_usd": 648000000,
+    "btc_weekly_close_above_50w_ma": true,
+    "dominant_driver": "short_squeeze + institutional_demand",
+    "altcoin_performance": "outperforming (NEAR+16%, AVAX+15%, SUI+10%)"
+  }
 }
