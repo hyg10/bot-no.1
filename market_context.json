@@ -1,15 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (post-FOMC drift)",
-      "time": "2026-09-24 00:00 UTC",
-      "impact": "low",
+      "name": "Bond yield pressure on risk assets (equities/crypto)",
+      "time": "2026-09-24 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "SEC crypto ETF options deadline approaching (Sept 27)",
+      "time": "2026-09-27 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $84K, ETF 평단가 하회, 펀딩 마이너스, Fed 금리인상 소화 중",
-  "updated": "2026-09-24 12:33:33 UTC",
-  "valid_until": "2026-09-24 16:33:33 UTC"
+  "notes": "BTC $84K로 하락, 채권금리 상승으로 리스크오프 심화",
+  "updated": "2026-09-24 18:33:53 UTC",
+  "valid_until": "2026-09-24 22:33:53 UTC"
 }
