@@ -1,21 +1,21 @@
 {
-  "regime": "bullish",
-  "confidence": 0.60,
+  "regime": "neutral",
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "Trump-Xi Summit",
-      "time": "2026-09-24 14:00 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
+      "name": "No major macro data releases scheduled",
+      "time": "2026-09-24 - 2026-09-25",
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
-      "name": "Deribit BTC/ETH Quarterly Options Expiry",
-      "time": "2026-09-25 08:00 UTC",
+      "name": "SEC crypto ETF options filing deadline (SR-ISE-2026-42)",
+      "time": "2026-09-27 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "neutral"
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "ETF 유입 강세, 트럼프-시진핑 회담 기대. 옵션 만기 변동 주의",
-  "updated": "2026-09-24 00:33:00 UTC",
-  "valid_until": "2026-09-24 04:33:00 UTC"
+  "notes": "Fed 금리인상 후 BTC $87K→$84K 조정, ETF 기록적 유입으로 하락 제한",
+  "updated": "2026-09-24 06:33:09 UTC",
+  "valid_until": "2026-09-24 10:33:09 UTC"
 }
