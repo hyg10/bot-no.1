@@ -1,21 +1,15 @@
 {
-  "regime": "neutral",
-  "confidence": 0.55,
+  "regime": "bearish",
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "No major macro data releases scheduled",
-      "time": "2026-09-24 - 2026-09-25",
+      "name": "No major macro events (post-FOMC drift)",
+      "time": "2026-09-24 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "SEC crypto ETF options filing deadline (SR-ISE-2026-42)",
-      "time": "2026-09-27 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
     }
   ],
-  "notes": "Fed 금리인상 후 BTC $87K→$84K 조정, ETF 기록적 유입으로 하락 제한",
-  "updated": "2026-09-24 06:33:09 UTC",
-  "valid_until": "2026-09-24 10:33:09 UTC"
+  "notes": "BTC $84K, ETF 평단가 하회, 펀딩 마이너스, Fed 금리인상 소화 중",
+  "updated": "2026-09-24 12:33:33 UTC",
+  "valid_until": "2026-09-24 16:33:33 UTC"
 }
