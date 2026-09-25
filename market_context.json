@@ -1,27 +1,11 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.55,
   "key_events_next_24h": [
-    {
-      "name": "BTC Major Options Expiry (~$142M+ notional, binary outcome risk)",
-      "time": "2026-09-25 08:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Thin support at $84K ($57M wall) — breakdown risk",
-      "time": "2026-09-25 12:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Sell walls at $88K ($103M) and $90K ($123M) — upside capped",
-      "time": "2026-09-25 12:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    }
+    {"name": "US Jobs Report (NFP)", "time": "2026-10-02 12:30 UTC", "impact": "high", "expected_direction": "neutral"},
+    {"name": "FOMC Next Meeting", "time": "2026-10-28 18:00 UTC", "impact": "high", "expected_direction": "neutral"}
   ],
-  "notes": "9/25 옵션 만기일, $84K 지지 얇음, 방향 불확실",
-  "updated": "2026-09-25 04:30:00 UTC",
-  "valid_until": "2026-09-25 08:30:00 UTC"
+  "notes": "BTC $84K 고점 근처, ETF 유입 증가, 연준 금리인상 부담",
+  "updated": "2026-09-25 13:00:00 UTC",
+  "valid_until": "2026-09-25 17:00:00 UTC"
 }
