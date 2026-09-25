@@ -1,15 +1,8 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "key_events_next_24h": [
-    {
-      "name": "No major scheduled macro events",
-      "time": "2026-09-25 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    }
-  ],
-  "notes": "BTC $84K 횡보, ETF유입(강세)vs금리인상(약세) 혼재",
-  "updated": "2026-09-25 00:32:42 UTC",
-  "valid_until": "2026-09-25 04:32:42 UTC"
+  "confidence": 0.50,
+  "key_events_next_24h": [],
+  "notes": "BTC $84K 일일 -2.4% 조정, 청산 $132M 급증. FOMC 다음달",
+  "updated": "2026-09-25 03:00:00 UTC",
+  "valid_until": "2026-09-25 07:00:00 UTC"
 }
