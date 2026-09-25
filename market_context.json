@@ -1,8 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.50,
-  "key_events_next_24h": [],
-  "notes": "BTC $84K 일일 -2.4% 조정, 청산 $132M 급증. FOMC 다음달",
-  "updated": "2026-09-25 03:00:00 UTC",
-  "valid_until": "2026-09-25 07:00:00 UTC"
+  "confidence": 0.45,
+  "key_events_next_24h": [
+    {
+      "name": "BTC Major Options Expiry (~$142M+ notional, binary outcome risk)",
+      "time": "2026-09-25 08:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Thin support at $84K ($57M wall) — breakdown risk",
+      "time": "2026-09-25 12:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Sell walls at $88K ($103M) and $90K ($123M) — upside capped",
+      "time": "2026-09-25 12:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    }
+  ],
+  "notes": "9/25 옵션 만기일, $84K 지지 얇음, 방향 불확실",
+  "updated": "2026-09-25 04:30:00 UTC",
+  "valid_until": "2026-09-25 08:30:00 UTC"
 }
