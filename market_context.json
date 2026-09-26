@@ -1,10 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.55,
   "key_events_next_24h": [
-    {"name": "No major macro events scheduled", "time": "2026-09-26 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "Fed Rate Hike 25bps (Already Concluded Sep 24)",
+      "time": "2026-09-24 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "No Major Macro Releases Next 24h",
+      "time": "2026-09-26 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "BTC $84K 횡보, 알트코인 시즌, ETF 순유입 전환, FOMC 이미 25bp 인상",
-  "updated": "2026-09-26 07:00:00 UTC",
-  "valid_until": "2026-09-26 11:00:00 UTC"
+  "notes": "ETF 28억달러 유입, EMA 강세구조. MACD 둔화, 저항선 주목",
+  "updated": "2026-09-26 06:00:00 UTC",
+  "valid_until": "2026-09-26 10:00:00 UTC"
 }
