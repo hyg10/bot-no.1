@@ -3,19 +3,13 @@
   "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "Fed Rate Hike 25bps (Already Concluded Sep 24)",
-      "time": "2026-09-24 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "No Major Macro Releases Next 24h",
-      "time": "2026-09-26 00:00 UTC",
+      "name": "No major macro events (JOLTS Sep 29, Next FOMC Oct 27-28)",
+      "time": "2026-09-29 14:00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 28억달러 유입, EMA 강세구조. MACD 둔화, 저항선 주목",
-  "updated": "2026-09-26 06:00:00 UTC",
-  "valid_until": "2026-09-26 10:00:00 UTC"
+  "notes": "ETF 유입 강세, 기관 매수 지속. 기술적 상승세 유지.",
+  "updated": "2026-09-26 18:33:20 UTC",
+  "valid_until": "2026-09-26 22:33:20 UTC"
 }
