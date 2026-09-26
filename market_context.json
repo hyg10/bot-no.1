@@ -1,11 +1,21 @@
 {
-  "regime": "bullish",
-  "confidence": 0.55,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
-    {"name": "US Jobs Report (NFP)", "time": "2026-10-02 12:30 UTC", "impact": "high", "expected_direction": "neutral"},
-    {"name": "FOMC Next Meeting", "time": "2026-10-28 18:00 UTC", "impact": "high", "expected_direction": "neutral"}
+    {
+      "name": "Fed Rate Hike Aftermath - Market Digestion",
+      "time": "2026-09-26 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Trump-Xi Summit Outcome Follow-through",
+      "time": "2026-09-26 12:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "BTC $84K 고점 근처, ETF 유입 증가, 연준 금리인상 부담",
-  "updated": "2026-09-25 13:00:00 UTC",
-  "valid_until": "2026-09-25 17:00:00 UTC"
+  "notes": "연준 금리인상 후 BTC 하락 조정, ETF 유입 지속으로 혼조세",
+  "updated": "2026-09-26 10:00:00 UTC",
+  "valid_until": "2026-09-26 14:00:00 UTC"
 }
