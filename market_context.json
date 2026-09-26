@@ -2,20 +2,9 @@
   "regime": "neutral",
   "confidence": 0.45,
   "key_events_next_24h": [
-    {
-      "name": "Fed Rate Hike Aftermath - Market Digestion",
-      "time": "2026-09-26 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Trump-Xi Summit Outcome Follow-through",
-      "time": "2026-09-26 12:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    }
+    {"name": "No major macro events scheduled", "time": "2026-09-26 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "연준 금리인상 후 BTC 하락 조정, ETF 유입 지속으로 혼조세",
-  "updated": "2026-09-26 10:00:00 UTC",
-  "valid_until": "2026-09-26 14:00:00 UTC"
+  "notes": "BTC $84K 횡보, 알트코인 시즌, ETF 순유입 전환, FOMC 이미 25bp 인상",
+  "updated": "2026-09-26 07:00:00 UTC",
+  "valid_until": "2026-09-26 11:00:00 UTC"
 }
