@@ -1,27 +1,15 @@
 {
-  "regime": "bullish",
-  "confidence": 0.65,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "Bitcoin ETF Inflows Streak (BlackRock IBIT - 6-day $2.8B streak)",
-      "time": "2026-09-27 00:00 UTC",
+      "name": "Q3 2026 Quarter End (Institutional Rebalancing Risk)",
+      "time": "2026-09-30 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Weekend Low-Volume Conditions",
-      "time": "2026-09-27 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Next FOMC Meeting (no decision until Oct 27-28)",
-      "time": "2026-10-27 14:00 UTC",
-      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $84K 주간 24.8% 급등, 기관 ETF 강세, 단기 과열 주의",
-  "updated": "2026-09-27 08:00:00 UTC",
-  "valid_until": "2026-09-27 12:00:00 UTC"
+  "notes": "BTC $84K 유지, 분기말 변동성, ETF 강세 유입으로 상방 잠재력",
+  "updated": "2026-09-27 06:30:00 UTC",
+  "valid_until": "2026-09-27 10:30:00 UTC"
 }
