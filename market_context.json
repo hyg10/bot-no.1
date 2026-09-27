@@ -1,15 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.42,
   "key_events_next_24h": [
     {
-      "name": "Q3 2026 Quarter End (Institutional Rebalancing Risk)",
-      "time": "2026-09-30 00:00 UTC",
+      "name": "JOLTS Job Openings Aug 2026",
+      "time": "2026-09-29 14:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $84K 유지, 분기말 변동성, ETF 강세 유입으로 상방 잠재력",
-  "updated": "2026-09-27 06:30:00 UTC",
-  "valid_until": "2026-09-27 10:30:00 UTC"
+  "notes": "BTC $84.5K 횡보, 그리드73, ETF유입 강세, 금리인상 부담",
+  "updated": "2026-09-27 07:00:00 UTC",
+  "valid_until": "2026-09-27 11:00:00 UTC"
 }
