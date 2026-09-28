@@ -1,10 +1,21 @@
 {
-  "regime": "bullish",
-  "confidence": 0.55,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
-    {"name": "JOLTS Job Openings (Aug 2026)", "time": "2026-09-29 14:00 UTC", "impact": "medium", "expected_direction": "neutral"}
+    {
+      "name": "US Spot Bitcoin ETF Daily Flow Report",
+      "time": "2026-09-28 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Weekend Low-Liquidity Session",
+      "time": "2026-09-28 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "BTC $84.8K, ETF순유입 7일간 $29.7억, 탐욕지수74, 가격 $84K대 횡보",
-  "updated": "2026-09-28 00:33:29 UTC",
-  "valid_until": "2026-09-28 04:33:29 UTC"
+  "notes": "ETF 주간 24억달러 유입, BTC $84K 횡보, 연준 금리인상 혼조",
+  "updated": "2026-09-28 06:34:32 UTC",
+  "valid_until": "2026-09-28 10:34:32 UTC"
 }
