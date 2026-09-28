@@ -1,11 +1,10 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.55,
   "key_events_next_24h": [
-    {"name": "US Nonfarm Payrolls (Oct 2)", "time": "2026-10-02 12:30 UTC", "impact": "high", "expected_direction": "bearish"},
-    {"name": "No major events in next 24h", "time": "2026-09-28 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {"name": "JOLTS Job Openings (Aug 2026)", "time": "2026-09-29 14:00 UTC", "impact": "medium", "expected_direction": "neutral"}
   ],
-  "notes": "연준 금리인상(3.75%) + ETF 유입 지속. 가격 $84K 박스권 횡보",
-  "updated": "2026-09-27 06:30:00 UTC",
-  "valid_until": "2026-09-27 10:30:00 UTC"
+  "notes": "BTC $84.8K, ETF순유입 7일간 $29.7억, 탐욕지수74, 가격 $84K대 횡보",
+  "updated": "2026-09-28 00:33:29 UTC",
+  "valid_until": "2026-09-28 04:33:29 UTC"
 }
