@@ -1,21 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.55,
+  "regime": "bearish",
+  "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "Korea Blockchain Week Seoul",
-      "time": "2026-09-29 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "bullish"
+      "name": "US-Iran Geopolitical Tension / Oil >$100/barrel",
+      "time": "2026-09-28 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     },
     {
-      "name": "US Housing/Durable Goods Data",
-      "time": "2026-09-29 14:00 UTC",
+      "name": "US GDP Q2 Final (pre-positioning, release Sept 30)",
+      "time": "2026-09-29 20:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "연준 금리인상(4%) 후 BTC 조정 중. 고용지표 앞두고 관망세",
-  "updated": "2026-09-28 07:00:00 UTC",
-  "valid_until": "2026-09-28 11:00:00 UTC"
+  "notes": "Fed 금리 4%인상·달러강세·유가급등으로 BTC 약세 압박",
+  "updated": "2026-09-28 12:00:00 UTC",
+  "valid_until": "2026-09-28 16:00:00 UTC"
 }
