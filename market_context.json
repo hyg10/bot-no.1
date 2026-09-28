@@ -1,21 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "US Spot Bitcoin ETF Daily Flow Report",
-      "time": "2026-09-28 20:00 UTC",
-      "impact": "medium",
+      "name": "Korea Blockchain Week Seoul",
+      "time": "2026-09-29 00:00 UTC",
+      "impact": "low",
       "expected_direction": "bullish"
     },
     {
-      "name": "Weekend Low-Liquidity Session",
-      "time": "2026-09-28 00:00 UTC",
-      "impact": "low",
+      "name": "US Housing/Durable Goods Data",
+      "time": "2026-09-29 14:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 주간 24억달러 유입, BTC $84K 횡보, 연준 금리인상 혼조",
-  "updated": "2026-09-28 06:34:32 UTC",
-  "valid_until": "2026-09-28 10:34:32 UTC"
+  "notes": "연준 금리인상(4%) 후 BTC 조정 중. 고용지표 앞두고 관망세",
+  "updated": "2026-09-28 07:00:00 UTC",
+  "valid_until": "2026-09-28 11:00:00 UTC"
 }
