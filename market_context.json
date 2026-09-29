@@ -1,21 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.42,
+  "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "US GDP Q3 2026 Preliminary",
-      "time": "2026-09-30 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US Personal Income & PCE Deflator",
-      "time": "2026-09-30 12:30 UTC",
-      "impact": "medium",
+      "name": "US Jobs Report (NFP) - Oct 2",
+      "time": "2026-10-02 12:30 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $83K 횡보, 탐욕74, ETF유입+, 내일GDP주의",
-  "updated": "2026-09-29 00:33:26 UTC",
-  "valid_until": "2026-09-29 04:33:26 UTC"
+  "notes": "BTC -1.14%, 혼조세. 연준 금리인상 지속 우려, 중립 신호",
+  "updated": "2026-09-29 10:00:00 UTC",
+  "valid_until": "2026-09-29 14:00:00 UTC"
 }
