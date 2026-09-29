@@ -1,21 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.60,
+  "regime": "neutral",
+  "confidence": 0.42,
   "key_events_next_24h": [
     {
-      "name": "US-Iran Geopolitical Tension / Oil >$100/barrel",
-      "time": "2026-09-28 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "US GDP Q3 2026 Preliminary",
+      "time": "2026-09-30 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     },
     {
-      "name": "US GDP Q2 Final (pre-positioning, release Sept 30)",
-      "time": "2026-09-29 20:00 UTC",
+      "name": "US Personal Income & PCE Deflator",
+      "time": "2026-09-30 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "Fed 금리 4%인상·달러강세·유가급등으로 BTC 약세 압박",
-  "updated": "2026-09-28 12:00:00 UTC",
-  "valid_until": "2026-09-28 16:00:00 UTC"
+  "notes": "BTC $83K 횡보, 탐욕74, ETF유입+, 내일GDP주의",
+  "updated": "2026-09-29 00:33:26 UTC",
+  "valid_until": "2026-09-29 04:33:26 UTC"
 }
