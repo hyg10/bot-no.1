@@ -1,15 +1,39 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "US Jobs Report (NFP) - Oct 2",
-      "time": "2026-10-02 12:30 UTC",
+      "name": "UK Crypto Licensing Window Opens",
+      "time": "2026-09-30 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "US Nonfarm Payrolls (Jobs Report)",
+      "time": "2026-10-02 08:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "FOMC Next Meeting",
+      "time": "2026-10-27 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC -1.14%, 혼조세. 연준 금리인상 지속 우려, 중립 신호",
-  "updated": "2026-09-29 10:00:00 UTC",
-  "valid_until": "2026-09-29 14:00:00 UTC"
+  "notes": "금리5.24%·유가$90+로 BTC압박, 그리드73 중립유지",
+  "updated": "2026-09-29 12:34:46 UTC",
+  "valid_until": "2026-09-29 16:34:46 UTC",
+  "btc_price_usd": 83979,
+  "fear_greed_index": 73,
+  "sources": [
+    "BTC ~$83,979 (CoinDesk, Sep 29 2026 03:56 EDT); down 3.49% weekly",
+    "10yr yield 5.24%, 30yr 5.55%; Brent/WTI >$90 (US-Iran war)",
+    "Fear & Greed Index: 73 (Greed, cooling from 74-78)",
+    "Total crypto market cap ~$2.86T",
+    "ETF weekly inflow only $6.2M (141-week low)",
+    "CLARITY Act cloture vote failed; market-structure legislation delayed to Q4",
+    "SEC advanced digital securities trading plan; $433M ETF inflow on announcement",
+    "Next FOMC: Oct 27-28 2026; Next NFP: Oct 2 2026"
+  ]
 }
