@@ -1,27 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.55,
+  "regime": "bullish",
+  "confidence": 0.70,
   "key_events_next_24h": [
     {
-      "name": "Bitcoin Spot ETF Daily Flow Data",
-      "time": "2026-09-29 16:00 UTC",
+      "name": "September Month-End Close",
+      "time": "2026-09-30 23:59:00 UTC",
       "impact": "medium",
       "expected_direction": "bullish"
     },
     {
-      "name": "US Consumer Confidence / Economic Releases",
-      "time": "2026-09-29 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Fed Rate Environment (4.0% target, Oct 27-28 next FOMC)",
-      "time": "2026-09-29 00:00 UTC",
+      "name": "FOMC Rate Decision (upcoming)",
+      "time": "2026-10-28 18:00:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "연준 4% 금리인상 여파로 변동성 확대, ETF 유입 지속 중립",
-  "updated": "2026-09-29 08:30:00 UTC",
-  "valid_until": "2026-09-29 12:30:00 UTC"
+  "notes": "BTC $84K 강보합, ETF 유입 급증, 분기 40%↑ 상승세 지속",
+  "updated": "2026-09-30 00:33:00 UTC",
+  "valid_until": "2026-09-30 04:33:00 UTC"
 }
