@@ -1,15 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "US Core PCE (Sep 2026)",
-      "time": "2026-09-30 12:30 UTC",
+      "name": "US Nonfarm Payrolls (September)",
+      "time": "2026-10-02 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "FOMC Meeting (Oct 27-28 window)",
+      "time": "2026-10-28 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "코어PCE 발표 앞두고 83K대 횡보 중, ETF 유입 8일 연속 지속",
-  "updated": "2026-09-30 09:30:00 UTC",
-  "valid_until": "2026-09-30 13:30:00 UTC"
+  "notes": "ETF 유입 8연속·강세, $84K 저항+NFP 대기로 중립",
+  "updated": "2026-09-30 09:00:00 UTC",
+  "valid_until": "2026-09-30 13:00:00 UTC"
 }
