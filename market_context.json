@@ -1,21 +1,15 @@
 {
-  "regime": "bullish",
-  "confidence": 0.70,
+  "regime": "neutral",
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "September Month-End Close",
-      "time": "2026-09-30 23:59:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "FOMC Rate Decision (upcoming)",
-      "time": "2026-10-28 18:00:00 UTC",
+      "name": "US Core PCE (Sep 2026)",
+      "time": "2026-09-30 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $84K 강보합, ETF 유입 급증, 분기 40%↑ 상승세 지속",
-  "updated": "2026-09-30 00:33:00 UTC",
-  "valid_until": "2026-09-30 04:33:00 UTC"
+  "notes": "코어PCE 발표 앞두고 83K대 횡보 중, ETF 유입 8일 연속 지속",
+  "updated": "2026-09-30 09:30:00 UTC",
+  "valid_until": "2026-09-30 13:30:00 UTC"
 }
