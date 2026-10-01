@@ -1,21 +1,27 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bullish",
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "US Employment Situation (Non-Farm Payrolls)",
-      "time": "2026-10-02 12:30 UTC",
-      "impact": "high",
+      "name": "No major macro releases scheduled (Oct 1-2)",
+      "time": "2026-10-01 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting Minutes Release",
+      "name": "FOMC Meeting Minutes release (Oct 7 upcoming)",
       "time": "2026-10-07 18:00 UTC",
       "impact": "medium",
-      "expected_direction": "bullish"
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "CPI September data release",
+      "time": "2026-10-14 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "PCE 하회로 단기 반등 후 플랫. ETF 유출 및 고용보고서 대기",
-  "updated": "2026-10-01 12:30:00 UTC",
-  "valid_until": "2026-10-01 16:30:00 UTC"
+  "notes": "PCE 인플레 하회 후 BTC 보합, 기술 지표 강세 우세",
+  "updated": "2026-10-01 18:33:43 UTC",
+  "valid_until": "2026-10-01 22:33:43 UTC"
 }
