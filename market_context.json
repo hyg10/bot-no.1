@@ -1,21 +1,40 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.4,
+  "btc_price_usd": 84000,
+  "price_range_24h": {
+    "high": 85518,
+    "low": 82951
+  },
   "key_events_next_24h": [
     {
-      "name": "US Employment Report (September 2026)",
+      "name": "US Nonfarm Payrolls (Sep 2026)",
       "time": "2026-10-02 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral",
+      "note": "Strong jobs = bearish (Fed hike risk); Weak jobs = bullish (Fed pause)"
     },
     {
-      "name": "FOMC Meeting Minutes Release",
-      "time": "2026-10-07 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "name": "FOMC Meeting (Oct 27-28)",
+      "time": "2026-10-28 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral",
+      "note": "Hold expected (62% odds). Rate at 3.75-4.00%. Hike probability 37%."
     }
   ],
-  "notes": "ETF유입 강세, 10월 Fed금리인상 50%확률로 상충. 고용지표 대기중",
-  "updated": "2026-10-01 00:33:14 UTC",
-  "valid_until": "2026-10-01 04:33:14 UTC"
+  "macro_context": {
+    "fed_rate_current": "3.75-4.00%",
+    "fomc_next_meeting": "2026-10-27 to 2026-10-28",
+    "fomc_hold_probability": 0.62,
+    "fomc_hike_probability": 0.37,
+    "us_10y_yield_pct": 5.17,
+    "oil_price_above_100": true,
+    "btc_weekly_change_pct": -3,
+    "btc_3month_change_pct": 44,
+    "btc_dominance_pct": 60,
+    "etf_inflows": "slowing"
+  },
+  "notes": "단기 약세 압력, NFP 발표 대기. 연준 10월 동결 유력.",
+  "updated": "2026-10-01 06:00:00 UTC",
+  "valid_until": "2026-10-01 10:00:00 UTC"
 }
