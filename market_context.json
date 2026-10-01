@@ -3,25 +3,19 @@
   "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "US Initial Jobless Claims",
-      "time": "2026-10-01 13:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "ISM Manufacturing PMI",
-      "time": "2026-10-01 15:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US Nonfarm Payrolls (Sep 2026)",
-      "time": "2026-10-02 13:30 UTC",
+      "name": "US Employment Report (September 2026)",
+      "time": "2026-10-02 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Meeting Minutes Release",
+      "time": "2026-10-07 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "ETF 9연속 유입, $84,500 저항 거절로 모멘텀 약화. 중립 관망세",
-  "updated": "2026-09-30 18:33:22 UTC",
-  "valid_until": "2026-09-30 22:33:22 UTC"
+  "notes": "ETF유입 강세, 10월 Fed금리인상 50%확률로 상충. 고용지표 대기중",
+  "updated": "2026-10-01 00:33:14 UTC",
+  "valid_until": "2026-10-01 04:33:14 UTC"
 }
