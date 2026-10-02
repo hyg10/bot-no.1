@@ -1,31 +1,21 @@
 {
   "regime": "bullish",
-  "confidence": 0.55,
-  "btc_price_usd": 86355,
-  "btc_24h_change_pct": 3.06,
+  "confidence": 0.62,
   "key_events_next_24h": [
     {
-      "name": "US Nonfarm Payrolls (September Jobs Report)",
-      "time": "2026-10-02 13:30 UTC",
+      "name": "US September NFP Jobs Report",
+      "time": "2026-10-02 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral",
-      "note": "Strong jobs data may weigh on rate cut hopes (bearish); weak data may accelerate cuts (bullish)"
+      "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting Minutes",
-      "time": "2026-10-07 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral",
-      "note": "Not within 24h; next scheduled FOMC decision Oct 27-28"
+      "name": "FOMC Meeting (Oct 27-28 preview sentiment)",
+      "time": "2026-10-02 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "market_signals": {
-    "citigroup_btc_target_usd": 113000,
-    "btc_open_interest_change": "+$2.3B bullish",
-    "10y_yield": "24-year high (risk-off headwind)",
-    "sec_action": "proposed new crypto custody rules (regulatory uncertainty)"
-  },
-  "notes": "BTC +3% 상승, NFP 발표 임박, 시티그룹 강세 전망",
-  "updated": "2026-10-02 12:33:31 UTC",
-  "valid_until": "2026-10-02 16:33:31 UTC"
+  "notes": "BTC $85.4K, +3.5% 상승. 공포탐욕 72. 씨티 $113K 목표. NFP 발표 주의",
+  "updated": "2026-10-02 13:00:00 UTC",
+  "valid_until": "2026-10-02 17:00:00 UTC"
 }
