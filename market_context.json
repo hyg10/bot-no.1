@@ -1,28 +1,31 @@
 {
-  "regime": "neutral",
-  "confidence": 0.5,
-  "btc_price_usd": 85000,
+  "regime": "bullish",
+  "confidence": 0.55,
+  "btc_price_usd": 86355,
+  "btc_24h_change_pct": 3.06,
   "key_events_next_24h": [
     {
-      "name": "US Jobs Report (September 2026)",
-      "time": "2026-10-02 12:30 UTC",
+      "name": "US Nonfarm Payrolls (September Jobs Report)",
+      "time": "2026-10-02 13:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Strong jobs data may raise Fed rate hike odds (currently 64%); could pressure BTC"
+      "expected_direction": "neutral",
+      "note": "Strong jobs data may weigh on rate cut hopes (bearish); weak data may accelerate cuts (bullish)"
+    },
+    {
+      "name": "FOMC Meeting Minutes",
+      "time": "2026-10-07 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral",
+      "note": "Not within 24h; next scheduled FOMC decision Oct 27-28"
     }
   ],
-  "notes": "미국 고용보고서 발표, 금리인상 64% 확률, BTC $85K 지지선 테스트",
-  "updated": "2026-10-02 07:00:00 UTC",
-  "valid_until": "2026-10-02 11:00:00 UTC",
-  "analysis_summary": {
-    "q3_gain": "+44%",
-    "fear_greed_index": 74,
-    "fear_greed_label": "Greed",
-    "10y_treasury_yield": "5.17%",
-    "etf_daily_inflow": "$134M (down from ~$1B)",
-    "fed_rate_hike_probability": "64%",
-    "macd_signal": "momentum deceleration",
-    "key_support": 85000,
-    "citigroup_target": 113000
-  }
+  "market_signals": {
+    "citigroup_btc_target_usd": 113000,
+    "btc_open_interest_change": "+$2.3B bullish",
+    "10y_yield": "24-year high (risk-off headwind)",
+    "sec_action": "proposed new crypto custody rules (regulatory uncertainty)"
+  },
+  "notes": "BTC +3% 상승, NFP 발표 임박, 시티그룹 강세 전망",
+  "updated": "2026-10-02 12:33:31 UTC",
+  "valid_until": "2026-10-02 16:33:31 UTC"
 }
