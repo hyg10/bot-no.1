@@ -1,21 +1,28 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
+  "confidence": 0.5,
+  "btc_price_usd": 85000,
   "key_events_next_24h": [
     {
-      "name": "US September Non-Farm Payrolls (NFP)",
+      "name": "US Jobs Report (September 2026)",
       "time": "2026-10-02 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC ETF Daily Flow (continued outflow risk)",
-      "time": "2026-10-02 20:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "bearish",
+      "note": "Strong jobs data may raise Fed rate hike odds (currently 64%); could pressure BTC"
     }
   ],
-  "notes": "BTC $84.6K, ETF유출전환·고금리압박, NFP발표(12:30UTC) 대기",
-  "updated": "2026-10-02 00:33:32 UTC",
-  "valid_until": "2026-10-02 04:33:32 UTC"
+  "notes": "미국 고용보고서 발표, 금리인상 64% 확률, BTC $85K 지지선 테스트",
+  "updated": "2026-10-02 07:00:00 UTC",
+  "valid_until": "2026-10-02 11:00:00 UTC",
+  "analysis_summary": {
+    "q3_gain": "+44%",
+    "fear_greed_index": 74,
+    "fear_greed_label": "Greed",
+    "10y_treasury_yield": "5.17%",
+    "etf_daily_inflow": "$134M (down from ~$1B)",
+    "fed_rate_hike_probability": "64%",
+    "macd_signal": "momentum deceleration",
+    "key_support": 85000,
+    "citigroup_target": 113000
+  }
 }
