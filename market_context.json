@@ -1,21 +1,23 @@
 {
-  "regime": "bullish",
-  "confidence": 0.62,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
-    {
-      "name": "US September NFP Jobs Report",
-      "time": "2026-10-02 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Meeting (Oct 27-28 preview sentiment)",
-      "time": "2026-10-02 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    }
+    {"name": "No major macro events scheduled", "time": "2026-10-03 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
+    {"name": "FOMC Meeting (next)", "time": "2026-10-27 00:00 UTC", "impact": "high", "expected_direction": "neutral"},
+    {"name": "September CPI Release", "time": "2026-10-14 12:30 UTC", "impact": "high", "expected_direction": "neutral"},
+    {"name": "Solana ETF SEC Deadline (Bitwise)", "time": "2026-10-16 00:00 UTC", "impact": "medium", "expected_direction": "bullish"}
   ],
-  "notes": "BTC $85.4K, +3.5% 상승. 공포탐욕 72. 씨티 $113K 목표. NFP 발표 주의",
-  "updated": "2026-10-02 13:00:00 UTC",
-  "valid_until": "2026-10-02 17:00:00 UTC"
+  "notes": "약한고용(29K)→단기강세, ETF유출+MACD약화→혼조, 추세주시",
+  "updated": "2026-10-03 05:00:00 UTC",
+  "valid_until": "2026-10-03 09:00:00 UTC",
+  "btc_price_approx": 85000,
+  "fear_greed_index": 74,
+  "sources": [
+    "Citigroup raised BTC target to $113K from $82K",
+    "BlackRock IBIT: $9.5M outflows; Fidelity FBTC: $125.6M withdrawals",
+    "US Sep jobs report: only 29K new jobs (weak) - crypto positive",
+    "BTC up ~1.6% on Oct 2, trading $84K-$87K range",
+    "Fear & Greed Index: 74 (Greed), MACD histogram turned negative",
+    "Next FOMC: Oct 27-28; Sep CPI: Oct 14; Sep PPI: Oct 15"
+  ]
 }
