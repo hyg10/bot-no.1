@@ -1,27 +1,8 @@
 {
   "regime": "bullish",
-  "confidence": 0.65,
-  "key_events_next_24h": [
-    {
-      "name": "September NFP Jobs Report (29K miss vs ~150K expected)",
-      "time": "2026-10-02 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "SEC approved 3x BTC/ETH ETP listing rule (Cboe BZX)",
-      "time": "2026-10-02 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bullish"
-    },
-    {
-      "name": "Next FOMC Meeting (no action expected before Oct 27-28)",
-      "time": "2026-10-27 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    }
-  ],
-  "notes": "약한 고용지표·시티 목표상향으로 BTC 단기 강세, ETF 유입 둔화 주의",
-  "updated": "2026-10-03 12:00:00 UTC",
-  "valid_until": "2026-10-03 16:00:00 UTC"
+  "confidence": 0.60,
+  "key_events_next_24h": [],
+  "notes": "약한 고용지표로 금리인상 우려 완화, 기관 자금유입 강세, 완만한 상승세",
+  "updated": "2026-10-03 18:35:00 UTC",
+  "valid_until": "2026-10-03 22:35:00 UTC"
 }
