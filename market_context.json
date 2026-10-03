@@ -2,10 +2,26 @@
   "regime": "bullish",
   "confidence": 0.65,
   "key_events_next_24h": [
-    {"name": "FOMC Minutes (Sep meeting)", "time": "2026-10-07 18:00 UTC", "impact": "medium", "expected_direction": "bullish"},
-    {"name": "Bitcoin Core 32.0 Release", "time": "2026-10-10 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "September NFP Jobs Report (29K miss vs ~150K expected)",
+      "time": "2026-10-02 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "SEC approved 3x BTC/ETH ETP listing rule (Cboe BZX)",
+      "time": "2026-10-02 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
+    },
+    {
+      "name": "Next FOMC Meeting (no action expected before Oct 27-28)",
+      "time": "2026-10-27 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "약한 고용보고서로 연준 금리인상 우려 완화, BTC $85K 지지 확인, 불장 지속",
-  "updated": "2026-10-03 05:30:00 UTC",
-  "valid_until": "2026-10-03 09:30:00 UTC"
+  "notes": "약한 고용지표·시티 목표상향으로 BTC 단기 강세, ETF 유입 둔화 주의",
+  "updated": "2026-10-03 12:00:00 UTC",
+  "valid_until": "2026-10-03 16:00:00 UTC"
 }
