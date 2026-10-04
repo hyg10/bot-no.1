@@ -1,33 +1,34 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "FOMC Minutes (Sep 15-16 meeting)",
-      "time": "2026-10-07 18:00 UTC",
+      "name": "US CPI (Consumer Price Index) Release",
+      "time": "2026-10-05 13:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "bearish",
+      "detail": "Forecast 3.6% vs prior 3.4% — higher-than-expected reading could push yields up and pressure risk assets"
     },
     {
-      "name": "US ISM Services PMI",
-      "time": "2026-10-07 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "name": "US PPI (Producer Price Index) Release",
+      "time": "2026-10-05 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral",
+      "detail": "Forecast 5.3% vs prior 5.4% — slightly lower forecast, mild positive if in-line"
     }
   ],
-  "notes": "연준 금리인상·ETF 유출, $85K 지지선 테스트 중립",
-  "updated": "2026-10-04 12:33:29 UTC",
-  "valid_until": "2026-10-04 16:33:29 UTC",
-  "price_snapshot": {
-    "btc_usd": 84875,
-    "24h_change_pct": 0.34,
-    "24h_high": 84996,
-    "24h_low": 83991
-  },
-  "signals": {
-    "etf_flows": "bearish",
-    "fed_policy": "bearish",
-    "institutional_sentiment": "bullish",
-    "technical": "neutral"
-  }
+  "notes": "CPI 발표 앞두고 혼조세, F&G 71 강세권이나 채권 금리 압박",
+  "btc_price_usd": 85000,
+  "fear_greed_index": 67,
+  "updated": "2026-10-04 18:33:58 UTC",
+  "valid_until": "2026-10-04 22:33:58 UTC",
+  "sources": [
+    "Fear & Greed Index: 71 (Bullish, cooling from 72 to 67)",
+    "BTC price range: $84,745-$85,436 across exchanges",
+    "Citigroup raised BTC target to $113,000",
+    "SEC approved 3x leveraged Bitcoin ETF on Oct 2",
+    "Best September BTC performance in over a decade with $2.5B ETF inflows",
+    "Next FOMC meeting: Oct 27-28 (not a near-term catalyst)",
+    "Rising bond yields/Treasury pressure holding back risk rally"
+  ]
 }
