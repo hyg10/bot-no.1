@@ -1,21 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.35,
   "key_events_next_24h": [
-    {
-      "name": "US CPI Inflation Data (Oct 5)",
-      "time": "2026-10-05 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US Industrial Production (Oct 5)",
-      "time": "2026-10-05 13:15 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    }
+    {"name": "No major macro events scheduled", "time": "2026-10-04 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
+    {"name": "September CPI Release (upcoming)", "time": "2026-10-14 12:30 UTC", "impact": "high", "expected_direction": "bearish"},
+    {"name": "FOMC Rate Decision", "time": "2026-10-28 18:00 UTC", "impact": "high", "expected_direction": "bearish"}
   ],
-  "notes": "BTC $84.8K, ETF유입 강세나 기술적 약세. CPI 발표 앞두고 중립",
-  "updated": "2026-10-04 00:33:00 UTC",
-  "valid_until": "2026-10-04 04:33:00 UTC"
+  "notes": "ETF 자금 유출, 시티그룹 목표가 상향, 혼조세 지속",
+  "updated": "2026-10-04 07:00:00 UTC",
+  "valid_until": "2026-10-04 11:00:00 UTC",
+  "price_snapshot": {
+    "btc_usd": 84900,
+    "change_30d_pct": 12.74,
+    "change_ytd_pct": -4.4
+  },
+  "signals": {
+    "bullish": ["Citigroup raised BTC target to $113K", "Lower Treasury yields", "Uptober seasonal narrative", "Short covering in derivatives"],
+    "bearish": ["ETF outflows: BlackRock -$9.5M, Fidelity -$125.6M", "RSI crossed below signal line", "Fed rate hike risk (3.75-4% target, inflation 3.4%)", "YTD performance -4.4%"]
+  }
 }
