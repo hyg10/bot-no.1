@@ -1,8 +1,21 @@
 {
-  "regime": "bullish",
-  "confidence": 0.60,
-  "key_events_next_24h": [],
-  "notes": "약한 고용지표로 금리인상 우려 완화, 기관 자금유입 강세, 완만한 상승세",
-  "updated": "2026-10-03 18:35:00 UTC",
-  "valid_until": "2026-10-03 22:35:00 UTC"
+  "regime": "neutral",
+  "confidence": 0.45,
+  "key_events_next_24h": [
+    {
+      "name": "US CPI Inflation Data (Oct 5)",
+      "time": "2026-10-05 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US Industrial Production (Oct 5)",
+      "time": "2026-10-05 13:15 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
+  ],
+  "notes": "BTC $84.8K, ETF유입 강세나 기술적 약세. CPI 발표 앞두고 중립",
+  "updated": "2026-10-04 00:33:00 UTC",
+  "valid_until": "2026-10-04 04:33:00 UTC"
 }
