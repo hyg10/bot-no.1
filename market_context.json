@@ -1,29 +1,43 @@
 {
-  "regime": "bullish",
-  "confidence": 0.60,
-  "btc_price_usd": 85200,
-  "key_events_next_24h": [],
-  "upcoming_events": [
+  "regime": "neutral",
+  "confidence": 0.4,
+  "key_events_next_24h": [
     {
-      "name": "Bitcoin Core 32.0 Release",
-      "time": "2026-10-10 00:00 UTC",
+      "name": "No major scheduled macro releases (Oct 5-6)",
+      "time": "2026-10-05 00:00 UTC",
       "impact": "low",
-      "expected_direction": "bullish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "US CPI (Sep 2026)",
-      "time": "2026-10-14 12:30 UTC",
+      "name": "Mt. Gox BTC distribution deadline (Oct 31 background risk)",
+      "time": "2026-10-31 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US CPI Release",
+      "time": "2026-10-14 08:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Rate Decision",
+      "name": "FOMC Rate Decision (64% hike probability)",
       "time": "2026-10-28 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "업토버 ETF 유입 강세, $87K 저항 근처 횡보 중",
-  "updated": "2026-10-05 00:33:31 UTC",
-  "valid_until": "2026-10-05 04:33:31 UTC"
+  "notes": "BTC $85K 보합, ETF유입 급감·연준 인상 우려로 혼조세",
+  "updated": "2026-10-05 06:34:13 UTC",
+  "valid_until": "2026-10-05 10:34:13 UTC",
+  "price_snapshot": 85563,
+  "fear_greed_index": 67,
+  "sources": {
+    "btc_price": "~$85,000-86,563 (Coinbase/CoinStats Oct 5 2026)",
+    "etf_aum": "$111B total US spot BTC ETF AUM, inflows collapsed to $134M/day",
+    "fed_hike_prob": "64% probability of Oct 28 rate hike, 10Y yield 5.17%",
+    "employment": "Sep jobs only 29K, unemployment 4.2% (weak)",
+    "technicals": "EMAs bullish stack, MACD histogram turned negative (-113.97)",
+    "geopolitical": "Iran war risk, Mt. Gox Oct 31 deadline"
+  }
 }
