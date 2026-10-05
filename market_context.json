@@ -1,33 +1,8 @@
 {
-  "regime": "neutral",
-  "confidence": 0.55,
-  "btc_price_usd": 86000,
-  "key_events_next_24h": [
-    {
-      "name": "FOMC Minutes Release (Sep 15-16 meeting)",
-      "time": "2026-10-07 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish",
-      "note": "First rate hike in 3 years; hawkish tone could pressure BTC"
-    },
-    {
-      "name": "CPI Inflation Report (September)",
-      "time": "2026-10-14 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral",
-      "note": "Key macro data; outside 24h window but major catalyst approaching"
-    }
-  ],
-  "market_summary": {
-    "fear_greed_index": 74,
-    "fear_greed_label": "Greed",
-    "btc_sentiment_ratio": 1.37,
-    "yearly_open_resistance": 87570,
-    "breakout_attempts_failed": 4,
-    "btc_etf_aum_growth_1m_usd_bn": 11,
-    "macd_signal": "negative_histogram_cooling_momentum"
-  },
-  "notes": "BTC $86K 횡보, $87.5K 저항 4회 실패, FOMC의사록 대기",
-  "updated": "2026-10-05 09:00:00 UTC",
-  "valid_until": "2026-10-05 13:00:00 UTC"
+  "regime": "bullish",
+  "confidence": 0.65,
+  "key_events_next_24h": [],
+  "notes": "BTC $86K대 회복, 탐욕지수 67. 10/28 FOMC 인상 불확실성 상존",
+  "updated": "2026-10-05 08:30:00 UTC",
+  "valid_until": "2026-10-05 12:30:00 UTC"
 }
