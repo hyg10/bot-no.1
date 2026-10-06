@@ -1,8 +1,29 @@
 {
   "regime": "bullish",
-  "confidence": 0.65,
-  "key_events_next_24h": [],
-  "notes": "BTC $86K대 회복, 탐욕지수 67. 10/28 FOMC 인상 불확실성 상존",
-  "updated": "2026-10-05 08:30:00 UTC",
-  "valid_until": "2026-10-05 12:30:00 UTC"
+  "confidence": 0.6,
+  "key_events_next_24h": [
+    {
+      "name": "No major macro releases scheduled (CPI Oct 14, FOMC Oct 27-28)",
+      "time": "2026-10-06 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Mt. Gox BTC distribution deadline approaching (Oct 31)",
+      "time": "2026-10-31 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC rate decision (47% hike / 53% hold probability)",
+      "time": "2026-10-28 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    }
+  ],
+  "notes": "BTC $86K 상승, ETF 유입 호조. 이란전쟁·FOMC 불확실성",
+  "btc_price_usd": 86400,
+  "fear_greed_index": 67,
+  "updated": "2026-10-06 00:33:30 UTC",
+  "valid_until": "2026-10-06 04:33:30 UTC"
 }
