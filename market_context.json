@@ -1,10 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
+  "confidence": 0.60,
   "key_events_next_24h": [
-    {"name": "No major scheduled macro events", "time": "2026-10-07 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "FOMC September Meeting Minutes Release",
+      "time": "2026-10-07 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Fed Rate Hike Probability ~47% for Oct 28 FOMC",
+      "time": "2026-10-08 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    }
   ],
-  "notes": "BTC $64K 약세, 고점 대비 -49%, F&G지수 42 중립",
-  "updated": "2026-10-07 12:33:00 UTC",
-  "valid_until": "2026-10-07 16:33:00 UTC"
+  "notes": "BTC -2.7% 하락, $83,318. ETF 순유출, FOMC 의사록 발표",
+  "updated": "2026-10-07 18:40:00 UTC",
+  "valid_until": "2026-10-07 22:40:00 UTC"
 }
