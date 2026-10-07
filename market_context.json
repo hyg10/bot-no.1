@@ -1,15 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "No major macro events today",
-      "time": "2026-10-07 00:00 UTC",
-      "impact": "low",
+      "name": "FOMC Minutes Release (Sep 15-16 Meeting)",
+      "time": "2026-10-07 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "CPI September (US)",
+      "time": "2026-10-14 12:30 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF유입 강세·Uptober기대, 단기조정중. CPI(10/14)·FOMC(10/28) 대기",
-  "updated": "2026-10-07 00:33:53 UTC",
-  "valid_until": "2026-10-07 04:33:53 UTC"
+  "notes": "BTC $85K권, $87K 저항 3회 거부. FOMC 의사록 오늘 발표. 혼조세.",
+  "updated": "2026-10-07 06:33:00 UTC",
+  "valid_until": "2026-10-07 10:33:00 UTC"
 }
