@@ -2,9 +2,14 @@
   "regime": "neutral",
   "confidence": 0.45,
   "key_events_next_24h": [
-    {"name": "No major macro events", "time": "2026-10-06 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "No major macro events today",
+      "time": "2026-10-07 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "BTC $82K 소폭 하락, ETF 유입 강세, Fear&Greed 57(탐욕), 단기 중립",
-  "updated": "2026-10-06 09:00:00 UTC",
-  "valid_until": "2026-10-06 13:00:00 UTC"
+  "notes": "ETF유입 강세·Uptober기대, 단기조정중. CPI(10/14)·FOMC(10/28) 대기",
+  "updated": "2026-10-07 00:33:53 UTC",
+  "valid_until": "2026-10-07 04:33:53 UTC"
 }
