@@ -1,21 +1,10 @@
 {
-  "regime": "neutral",
-  "confidence": 0.40,
+  "regime": "bearish",
+  "confidence": 0.55,
   "key_events_next_24h": [
-    {
-      "name": "FOMC Minutes Release (Sep 15-16 Meeting)",
-      "time": "2026-10-07 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "CPI September (US)",
-      "time": "2026-10-14 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    }
+    {"name": "No major scheduled macro events", "time": "2026-10-07 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $85K권, $87K 저항 3회 거부. FOMC 의사록 오늘 발표. 혼조세.",
-  "updated": "2026-10-07 06:33:00 UTC",
-  "valid_until": "2026-10-07 10:33:00 UTC"
+  "notes": "BTC $64K 약세, 고점 대비 -49%, F&G지수 42 중립",
+  "updated": "2026-10-07 12:33:00 UTC",
+  "valid_until": "2026-10-07 16:33:00 UTC"
 }
