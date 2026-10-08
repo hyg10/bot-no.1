@@ -1,15 +1,34 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 83262.30,
-  "price_change_24h_pct": -2.52,
-  "key_events_next_24h": [],
-  "upcoming_events": [
-    {"name": "CPI September 2026 (BLS)", "time": "2026-10-14 08:30 UTC", "impact": "high", "expected_direction": "neutral"},
-    {"name": "PPI September 2026 (BLS)", "time": "2026-10-15 08:30 UTC", "impact": "medium", "expected_direction": "neutral"},
-    {"name": "FOMC Rate Decision", "time": "2026-10-28 18:00 UTC", "impact": "high", "expected_direction": "neutral"}
+  "regime": "bearish",
+  "confidence": 0.55,
+  "btc_price_usd": 82585,
+  "key_events_next_24h": [
+    {
+      "name": "No major scheduled macro releases",
+      "time": "2026-10-08 to 2026-10-09",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US CPI (Sep 2026)",
+      "time": "2026-10-14 08:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US PPI (Sep 2026)",
+      "time": "2026-10-15 08:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Rate Decision",
+      "time": "2026-10-28 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    }
   ],
-  "notes": "BTC $83,262 (-2.5%), 무방향. 다음 이벤트 CPI 10/14",
-  "updated": "2026-10-08 00:33:00 UTC",
-  "valid_until": "2026-10-08 04:33:00 UTC"
+  "notes": "BTC $82.5K, FOMC 매파 여파, 단기 하락 압력",
+  "updated": "2026-10-08 06:33:33 UTC",
+  "valid_until": "2026-10-08 10:33:33 UTC"
 }
