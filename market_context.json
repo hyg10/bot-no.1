@@ -1,21 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "China CPI (September)",
-      "time": "2026-10-09 01:30 UTC",
-      "impact": "medium",
+      "name": "No major macro releases (quiet window)",
+      "time": "2026-10-09 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "University of Michigan Consumer Confidence",
-      "time": "2026-10-09 14:00 UTC",
-      "impact": "low",
+      "name": "CPI September 2026 (upcoming, not next 24h)",
+      "time": "2026-10-14 08:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Rate Decision",
+      "time": "2026-10-28 14:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $82.3K, ETF 대규모 순유출, 달러강세·유가상승 하방 압력",
-  "updated": "2026-10-08 12:40:00 UTC",
-  "valid_until": "2026-10-08 16:40:00 UTC"
+  "notes": "BTC $81.5K, -2.2% 일간 하락. CPI 10/14, FOMC 10/28 예정",
+  "updated": "2026-10-08 18:35:00 UTC",
+  "valid_until": "2026-10-08 22:35:00 UTC"
 }
