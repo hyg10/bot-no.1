@@ -1,34 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 82585,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "No major scheduled macro releases",
-      "time": "2026-10-08 to 2026-10-09",
-      "impact": "low",
+      "name": "China CPI (September)",
+      "time": "2026-10-09 01:30 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "US CPI (Sep 2026)",
-      "time": "2026-10-14 08:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US PPI (Sep 2026)",
-      "time": "2026-10-15 08:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Rate Decision",
-      "time": "2026-10-28 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "University of Michigan Consumer Confidence",
+      "time": "2026-10-09 14:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $82.5K, FOMC 매파 여파, 단기 하락 압력",
-  "updated": "2026-10-08 06:33:33 UTC",
-  "valid_until": "2026-10-08 10:33:33 UTC"
+  "notes": "BTC $82.3K, ETF 대규모 순유출, 달러강세·유가상승 하방 압력",
+  "updated": "2026-10-08 12:40:00 UTC",
+  "valid_until": "2026-10-08 16:40:00 UTC"
 }
