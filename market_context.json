@@ -1,10 +1,22 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bearish",
+  "confidence": 0.55,
+  "btc_price_usd": 83120,
   "key_events_next_24h": [
-    {"name": "No major scheduled macro events", "time": "2026-10-09 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "US CPI (Sep 2026)",
+      "time": "2026-10-14 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US PPI (Sep 2026)",
+      "time": "2026-10-15 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    }
   ],
-  "notes": "BTC $82,525 소폭 반등, CPI(10/14) 전 관망세, ETF 유입 견조",
-  "updated": "2026-10-09 06:34:00 UTC",
-  "valid_until": "2026-10-09 10:34:00 UTC"
+  "notes": "4일 연속 하락, ETF 유출, 국채금리 5.36%. 24h내 주요 이벤트 없음",
+  "updated": "2026-10-09 12:40:00 UTC",
+  "valid_until": "2026-10-09 16:40:00 UTC"
 }
