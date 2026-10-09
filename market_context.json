@@ -1,10 +1,10 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
+  "confidence": 0.45,
   "key_events_next_24h": [
-    {"name": "FOMC Meeting (Oct 27-28)", "time": "2026-10-28 14:00 UTC", "impact": "high", "expected_direction": "neutral"}
+    {"name": "No major scheduled macro events", "time": "2026-10-09 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $81,825, 일중 -1.7%, 탐욕지수70, 업토버 기대 혼재",
-  "updated": "2026-10-09 00:35:00 UTC",
-  "valid_until": "2026-10-09 04:35:00 UTC"
+  "notes": "BTC $82,525 소폭 반등, CPI(10/14) 전 관망세, ETF 유입 견조",
+  "updated": "2026-10-09 06:34:00 UTC",
+  "valid_until": "2026-10-09 10:34:00 UTC"
 }
