@@ -1,37 +1,16 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
-  "btc_price_usd": 82650,
+  "confidence": 0.40,
+  "btc_price_usd": 82791.4,
   "key_events_next_24h": [
     {
-      "name": "No major scheduled macro events",
-      "time": "2026-10-10 00:00 UTC",
+      "name": "No major macro releases (next: CPI Sep on Oct 14)",
+      "time": "2026-10-14 08:30 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "upcoming_events": [
-    {
-      "name": "US CPI September 2026 Release (BLS)",
-      "time": "2026-10-14 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Meeting (Rate Decision)",
-      "time": "2026-10-28 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    }
-  ],
-  "notes": "BTC $82,700 (-4.7% since 10/5), 지지선 붕괴, 중립 구간",
-  "updated": "2026-10-10 06:00:00 UTC",
-  "valid_until": "2026-10-10 10:00:00 UTC",
-  "sources": {
-    "btc_price": "CoinDesk/Coinbase ~$82,650 on Oct 10",
-    "sentiment": "Fear&Greed 70 (Greed) as of Oct 5, likely cooled",
-    "price_range": "Support ~$83,500 broken, next support ~$80K-$81K",
-    "macro": "Weak US jobs (29K vs 89K expected), FOMC Oct 27-28, CPI Oct 14",
-    "etf": "BTC ETF net inflows $2.39B for week ending Sep 25 (strong)"
-  }
+  "notes": "BTC 소폭 하락(-0.27%), 24시간내 주요 이벤트 없음, CPI 10월14일",
+  "updated": "2026-10-10 12:35:00 UTC",
+  "valid_until": "2026-10-10 16:35:00 UTC"
 }
