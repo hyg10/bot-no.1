@@ -1,36 +1,28 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 82470.71,
-  "price_range_24h": {
-    "low": 81324.83,
-    "high": 83545.69,
-    "change_pct": 1.21
-  },
+  "confidence": 0.40,
+  "btc_price_usd": 82502.5,
   "key_events_next_24h": [
     {
-      "name": "US CPI (Sep 2026) Release",
-      "time": "2026-10-14 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Hot print could revive Fed hike odds; PPI follows Oct 15"
+      "name": "No major macro events scheduled",
+      "time": "2026-10-10 to 2026-10-11",
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (Oct 27-28) - Upcoming",
-      "time": "2026-10-28 18:00 UTC",
+      "name": "US CPI Report (September 2026) - upcoming",
+      "time": "2026-10-14 08:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Fed raised to 3.75-4.00% in Sep; 15.5% odds of another 25bps hike"
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "FOMC Meeting (rate decision)",
+      "time": "2026-10-28 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "macro_backdrop": {
-    "fed_rate": "3.75-4.00%",
-    "last_move": "25bps hike on 2026-09-16",
-    "chair": "Kevin Warsh (hawkish)",
-    "oct_hike_odds_pct": 15.5,
-    "btc_vs_ath": "~35% below ATH ~$126K"
-  },
-  "notes": "BTC $82K대 횡보, FOMC 10/28, CPI 10/14 대기 중립 유지",
-  "updated": "2026-10-09 18:34:00 UTC",
-  "valid_until": "2026-10-09 22:34:00 UTC"
+  "notes": "BTC 82.5K 횡보, 다음 CPI 10/14, 큰 이벤트 없음",
+  "updated": "2026-10-10 00:33:00 UTC",
+  "valid_until": "2026-10-10 04:33:00 UTC"
 }
