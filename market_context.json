@@ -1,16 +1,18 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 82944,
-  "key_events_next_24h": [
+  "confidence": 0.38,
+  "btc_price_usd": 82911.79,
+  "key_events_next_24h": [],
+  "upcoming_events": [
     {
-      "name": "US CPI (Sep) Release",
+      "name": "US CPI September 2026",
       "time": "2026-10-14 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "bearish",
+      "note": "Hot print likely given elevated diesel/energy; hawkish reaction risk"
     },
     {
-      "name": "US PPI (Sep) Release",
+      "name": "US PPI September 2026",
       "time": "2026-10-15 12:30 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
@@ -19,10 +21,29 @@
       "name": "FOMC Rate Decision",
       "time": "2026-10-28 18:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral",
+      "note": "Committee projections imply 4.1% year-end rate; no cut expected"
     }
   ],
-  "notes": "BTC $82,944 횡보, 연준 매파적 신호, ETF 유입 강세, CPI 10/14 예정",
-  "updated": "2026-10-10 18:33:00 UTC",
-  "valid_until": "2026-10-10 22:33:00 UTC"
+  "market_summary": {
+    "btc_24h_range_low": 82476.86,
+    "btc_24h_range_high": 83107.92,
+    "btc_24h_change_pct": 0.48,
+    "key_bearish_factors": [
+      "Spot BTC ETF outflows ongoing",
+      "Rising US Treasury yields pressuring risk assets",
+      "~$2.4B in liquidations (mostly longs) in recent 36h",
+      "Crypto market cap shed ~$110B recently",
+      "Hawkish Fed backdrop: 4.1% year-end rate implied"
+    ],
+    "key_bullish_factors": [
+      "BTC held key support above $80,400",
+      "Slight positive momentum +0.48% today",
+      "Fidelity macro director sees BTC potentially bottomed",
+      "BTC recovered strongly from $62K low earlier in 2026"
+    ]
+  },
+  "notes": "ETF 자금유출·금리상승으로 하락압력, CPI 발표(10/14) 전 관망",
+  "updated": "2026-10-11 00:35:00 UTC",
+  "valid_until": "2026-10-11 04:35:00 UTC"
 }
