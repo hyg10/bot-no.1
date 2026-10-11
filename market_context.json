@@ -1,16 +1,27 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 83067.5,
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "No major scheduled macro events (CPI Oct 14, PPI Oct 15, FOMC end-Oct)",
-      "time": "2026-10-11 00:00 UTC",
-      "impact": "low",
+      "name": "US CPI September 2026 Release",
+      "time": "2026-10-14 08:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US PPI September 2026 Release",
+      "time": "2026-10-15 08:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "FOMC Meeting (rate decision)",
+      "time": "2026-10-28 18:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "10/7 급락 후 83K 횡보, 혼조 심리. 다음 24h 주요 일정 없음",
-  "updated": "2026-10-11 12:33:00 UTC",
-  "valid_until": "2026-10-11 16:33:00 UTC"
+  "notes": "BTC $83,773 횡보. CPI/PPI 예정, 방향성 불명확",
+  "updated": "2026-10-11 18:35:00 UTC",
+  "valid_until": "2026-10-11 22:35:00 UTC"
 }
