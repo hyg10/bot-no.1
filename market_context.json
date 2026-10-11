@@ -1,10 +1,16 @@
 {
-  "regime": "bullish",
-  "confidence": 0.55,
+  "regime": "neutral",
+  "confidence": 0.45,
+  "btc_price_usd": 83067.5,
   "key_events_next_24h": [
-    {"name": "No major macro releases scheduled", "time": "2026-10-11 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "No major scheduled macro events (CPI Oct 14, PPI Oct 15, FOMC end-Oct)",
+      "time": "2026-10-11 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "그리드지수 70 탐욕, ETF 순유입 강세, 업토버 분위기. CPI(14일) 경계.",
-  "updated": "2026-10-11 06:30:00 UTC",
-  "valid_until": "2026-10-11 10:30:00 UTC"
+  "notes": "10/7 급락 후 83K 횡보, 혼조 심리. 다음 24h 주요 일정 없음",
+  "updated": "2026-10-11 12:33:00 UTC",
+  "valid_until": "2026-10-11 16:33:00 UTC"
 }
