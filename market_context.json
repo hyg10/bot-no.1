@@ -1,22 +1,35 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 82972.90,
+  "confidence": 0.50,
   "key_events_next_24h": [
     {
-      "name": "US CPI Sep 2026 Release (T+~48h, pre-CPI uncertainty window active)",
-      "time": "2026-10-14 12:30 UTC",
-      "impact": "high",
+      "name": "No high-impact releases today (Oct 12)",
+      "time": "2026-10-12 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "US PPI Sep 2026 Release",
+      "name": "US CPI September 2026 (BLS)",
+      "time": "2026-10-14 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US PPI September 2026 (BLS)",
       "time": "2026-10-15 12:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "10/7 $400M 청산 후 공포 지속, CPI 앞두고 관망세",
-  "updated": "2026-10-12 12:35:00 UTC",
-  "valid_until": "2026-10-12 16:35:00 UTC"
+  "notes": "공포탐욕 70 탐욕구간. ETF유입 강세. 중반 횡보 중",
+  "updated": "2026-10-12 12:00:00 UTC",
+  "valid_until": "2026-10-12 16:00:00 UTC",
+  "meta": {
+    "btc_price_approx": 86700,
+    "greed_index": 70,
+    "btc_dominance_pct": 57.9,
+    "support": 84600,
+    "resistance": 89100,
+    "data_age_note": "Price data from Oct 4-5; no live feed available"
+  }
 }
