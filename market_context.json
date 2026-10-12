@@ -3,25 +3,13 @@
   "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "US CPI September 2026 Release",
-      "time": "2026-10-14 08:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US PPI September 2026 Release",
-      "time": "2026-10-15 08:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Meeting (rate decision)",
-      "time": "2026-10-28 18:00 UTC",
+      "name": "US September CPI Release",
+      "time": "2026-10-14 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $83,773 횡보. CPI/PPI 예정, 방향성 불명확",
-  "updated": "2026-10-11 18:35:00 UTC",
-  "valid_until": "2026-10-11 22:35:00 UTC"
+  "notes": "CPI 앞두고 $84k-$87k 박스권 횡보, 방향 불명확",
+  "updated": "2026-10-12 00:33:19 UTC",
+  "valid_until": "2026-10-12 04:33:19 UTC"
 }
