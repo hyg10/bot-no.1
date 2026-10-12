@@ -1,15 +1,22 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.4,
+  "btc_price_usd": 82972.90,
   "key_events_next_24h": [
     {
-      "name": "No major macro events scheduled (CPI due Oct 14)",
+      "name": "US CPI Sep 2026 Release (T+~48h, pre-CPI uncertainty window active)",
       "time": "2026-10-14 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "US PPI Sep 2026 Release",
+      "time": "2026-10-15 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $83,962 횡보권, 공탐지수70(탐욕), CPI 14일 대기",
-  "updated": "2026-10-12 06:35:00 UTC",
-  "valid_until": "2026-10-12 10:35:00 UTC"
+  "notes": "10/7 $400M 청산 후 공포 지속, CPI 앞두고 관망세",
+  "updated": "2026-10-12 12:35:00 UTC",
+  "valid_until": "2026-10-12 16:35:00 UTC"
 }
