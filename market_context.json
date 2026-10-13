@@ -3,13 +3,19 @@
   "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "US CPI September 2026 Release (BLS)",
+      "name": "US CPI October 2026",
       "time": "2026-10-14 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "US PPI October 2026",
+      "time": "2026-10-15 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "CPI발표 임박, BTC $83K 횡보, ETF유입 급감, 방향 불명확",
-  "updated": "2026-10-13 10:00:00 UTC",
-  "valid_until": "2026-10-13 14:00:00 UTC"
+  "notes": "CPI 발표 앞두고 관망, 연준 매파 기조, BTC 85k 횡보",
+  "updated": "2026-10-13 06:00:00 UTC",
+  "valid_until": "2026-10-13 10:00:00 UTC"
 }
