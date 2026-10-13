@@ -1,21 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "US CPI (September 2026)",
-      "time": "2026-10-14 08:30 UTC",
+      "name": "US CPI September 2026 Release (BLS)",
+      "time": "2026-10-14 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
-    },
-    {
-      "name": "US PPI (September 2026)",
-      "time": "2026-10-15 08:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
     }
   ],
-  "notes": "그리드 70, ETF유입 강세. 내일 CPI 발표로 변동성 주의",
-  "updated": "2026-10-13 06:00:00 UTC",
-  "valid_until": "2026-10-13 10:00:00 UTC"
+  "notes": "CPI발표 임박, BTC $83K 횡보, ETF유입 급감, 방향 불명확",
+  "updated": "2026-10-13 10:00:00 UTC",
+  "valid_until": "2026-10-13 14:00:00 UTC"
 }
