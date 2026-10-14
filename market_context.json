@@ -1,16 +1,22 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 83380,
+  "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "US CPI Data Release (September 2026)",
+      "name": "US CPI September 2026 (just released)",
       "time": "2026-10-14 12:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish",
+      "note": "Forecast 3.7% YoY vs 3.4% prior; actual result not yet confirmed"
+    },
+    {
+      "name": "US PPI September 2026",
+      "time": "2026-10-15 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "10월 ETF 순유출 $679M, CPI 발표 대기, $83k 지지선 테스트",
-  "updated": "2026-10-14 06:35:00 UTC",
-  "valid_until": "2026-10-14 10:35:00 UTC"
+  "notes": "BTC $83K, 공포탐욕56(중립), CPI발표직후 불확실, 고금리 하방압력",
+  "updated": "2026-10-14 12:33:00 UTC",
+  "valid_until": "2026-10-14 16:33:00 UTC"
 }
