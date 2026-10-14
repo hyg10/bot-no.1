@@ -1,21 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.60,
+  "regime": "neutral",
+  "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "US CPI Release (September)",
-      "time": "2026-10-14 08:30 UTC",
+      "name": "US CPI September (YoY) Release",
+      "time": "2026-10-14 12:30 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US PPI Release (September)",
-      "time": "2026-10-15 08:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
+      "name": "US PPI September Release",
+      "time": "2026-10-15 12:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "달러 강세·ETF 유출·CPI 발표 앞두고 약세. BTC $83k대",
-  "updated": "2026-10-13 18:33:45 UTC",
-  "valid_until": "2026-10-13 22:33:45 UTC"
+  "notes": "Uptober 강세+ETF유입, CPI발표 및 연준 매파 기조로 혼재",
+  "updated": "2026-10-14 00:33:00 UTC",
+  "valid_until": "2026-10-14 04:33:00 UTC"
 }
