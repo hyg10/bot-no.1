@@ -1,21 +1,28 @@
 {
   "regime": "bearish",
-  "confidence": 0.62,
+  "confidence": 0.55,
+  "btc_price_usd": 80867.70,
   "key_events_next_24h": [
     {
-      "name": "US PPI September 2026 Release",
+      "name": "US PPI (Sep 2026)",
       "time": "2026-10-15 12:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "Fed Speakers / Rate Path Commentary",
-      "time": "2026-10-15 14:00 UTC",
-      "impact": "medium",
+      "name": "FOMC Rate Decision",
+      "time": "2026-10-28 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Q3 GDP Advance + Core PCE",
+      "time": "2026-10-29 12:30 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $81,729 하락 2%. PPI발표·약한고용·FOMC 10/28 예정",
-  "updated": "2026-10-15 00:35:00 UTC",
-  "valid_until": "2026-10-15 04:35:00 UTC"
+  "notes": "BTC -3% 하락, 공포지수 34, PPI 발표 대기, FOMC 10/28 예정",
+  "updated": "2026-10-15 06:35:00 UTC",
+  "valid_until": "2026-10-15 10:35:00 UTC"
 }
