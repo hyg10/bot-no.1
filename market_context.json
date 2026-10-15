@@ -1,27 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.35,
   "key_events_next_24h": [
     {
-      "name": "US PPI (Sept 2026)",
-      "time": "2026-10-15 12:30 UTC",
+      "name": "PPI September 2026 Release",
+      "time": "2026-10-15 13:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US Retail Sales (Sept 2026)",
-      "time": "2026-10-15 12:30 UTC",
-      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Fed Speaker - Warsh at IMF",
-      "time": "2026-10-16 00:00 UTC",
+      "name": "Advance Retail Sales September 2026",
+      "time": "2026-10-15 13:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $83-87k 박스권, PPI 발표 주의, 공포탐욕 64(탐욕)",
-  "updated": "2026-10-15 08:00:00 UTC",
-  "valid_until": "2026-10-15 12:00:00 UTC"
+  "notes": "BTC 83k~84k 횡보, 'Uptober' 기대 약화, PPI 발표 변동성 주의",
+  "updated": "2026-10-15 18:33:00 UTC",
+  "valid_until": "2026-10-15 22:33:00 UTC"
 }
