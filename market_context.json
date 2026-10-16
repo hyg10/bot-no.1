@@ -1,21 +1,8 @@
 {
-  "regime": "bearish",
-  "confidence": 0.60,
-  "key_events_next_24h": [
-    {
-      "name": "FOMC Meeting (preview)",
-      "time": "2026-10-27 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "September CPI Released (already published)",
-      "time": "2026-10-14 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    }
-  ],
-  "notes": "CPI 3.7% 예상 초과, $80K 지지선 테스트, ETF 유출로 약세",
-  "updated": "2026-10-16 12:00:00 UTC",
-  "valid_until": "2026-10-16 16:00:00 UTC"
+  "regime": "neutral",
+  "confidence": 0.45,
+  "key_events_next_24h": [],
+  "notes": "BTC $82K 반등, CPI/PPI 예상치 상회 후 관망세, FOMC 10/28 대기",
+  "updated": "2026-10-16 12:33:00 UTC",
+  "valid_until": "2026-10-16 16:33:00 UTC"
 }
