@@ -1,27 +1,11 @@
 {
-  "regime": "bearish",
-  "confidence": 0.60,
+  "regime": "neutral",
+  "confidence": 0.40,
   "key_events_next_24h": [
-    {
-      "name": "US Spot Bitcoin ETF Daily Flow Report",
-      "time": "2026-10-17 16:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Strait of Hormuz Geopolitical Risk (US-Iran Tensions)",
-      "time": "2026-10-17 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Meeting (Next: Oct 27-28, outside 24h window)",
-      "time": "2026-10-27 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    }
+    {"name": "No major macro releases scheduled", "time": "2026-10-17 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
+    {"name": "FOMC Meeting (upcoming, not today)", "time": "2026-10-28 18:00 UTC", "impact": "high", "expected_direction": "neutral"}
   ],
-  "notes": "ETF 순유출 409M, 호르무즈 긴장으로 $81K 하락. 단기 약세",
-  "updated": "2026-10-17 12:35:00 UTC",
-  "valid_until": "2026-10-17 16:35:00 UTC"
+  "notes": "BTC $81.4K 보합세, 방향성 불명확, FOMC 10/28 대기 중",
+  "updated": "2026-10-17 18:35:00 UTC",
+  "valid_until": "2026-10-17 22:35:00 UTC"
 }
