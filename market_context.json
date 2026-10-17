@@ -1,21 +1,11 @@
 {
   "regime": "bearish",
-  "confidence": 0.6,
+  "confidence": 0.55,
   "key_events_next_24h": [
-    {
-      "name": "FOMC Meeting (upcoming Oct 28)",
-      "time": "2026-10-28 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC ETF Flow Watch (post-CPI risk-off)",
-      "time": "2026-10-17 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    }
+    {"name": "FOMC Meeting (upcoming, not today)", "time": "2026-10-27 18:00 UTC", "impact": "high", "expected_direction": "neutral"},
+    {"name": "No scheduled high-impact macro events in next 24h", "time": "2026-10-17 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "CPI 호조로 ETF 자금 유출, BTC $82K 반등 시도 중",
-  "updated": "2026-10-17 08:00:00 UTC",
-  "valid_until": "2026-10-17 12:00:00 UTC"
+  "notes": "BTC $81,481, 채굴원가($85k) 하회, 매크로 역풍, 중립→약세 전환",
+  "updated": "2026-10-17 06:35:00 UTC",
+  "valid_until": "2026-10-17 10:35:00 UTC"
 }
