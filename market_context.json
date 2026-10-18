@@ -1,24 +1,27 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
+  "regime": "bearish",
+  "confidence": 0.62,
   "key_events_next_24h": [
     {
-      "name": "No major macro releases scheduled (CPI Oct 14 / PPI Oct 15 already passed)",
+      "name": "Post-CPI market pressure (Sep CPI 3.7% YoY released Oct 15)",
       "time": "2026-10-18 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "impact": "high",
+      "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Rate Decision (upcoming, not within 24h)",
+      "name": "FOMC October meeting (end-of-month, rate hike risk elevated)",
       "time": "2026-10-28 18:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Spot Bitcoin ETF weekly flow data",
+      "time": "2026-10-18 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bullish"
     }
   ],
-  "notes": "중립 심리, BTC $81,741. FOMC 10일 후, 뚜렷한 방향성 없음",
-  "updated": "2026-10-18 06:35:00 UTC",
-  "valid_until": "2026-10-18 10:35:00 UTC",
-  "btc_price_usd": 81741.34,
-  "btc_24h_range": {"low": 80817.22, "high": 82092.66},
-  "btc_24h_change_pct": 0.18
+  "notes": "9월 CPI 3.7% 예상 상회, BTC $81k 하락. FOMC 금리인상 우려 지속",
+  "updated": "2026-10-18 12:32:55 UTC",
+  "valid_until": "2026-10-18 16:32:55 UTC"
 }
