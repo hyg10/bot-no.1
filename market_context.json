@@ -1,34 +1,24 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
-  "btc_price_usd": 81376.91,
   "key_events_next_24h": [
     {
-      "name": "No major macro releases (CPI was Oct 14, PPI Oct 15 already released)",
+      "name": "No major macro releases scheduled (CPI Oct 14 / PPI Oct 15 already passed)",
       "time": "2026-10-18 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (upcoming - Oct 27-28, decision Oct 28)",
+      "name": "FOMC Rate Decision (upcoming, not within 24h)",
       "time": "2026-10-28 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $81.4K, ETF 유출 $10억+, FOMC 10/28 앞두고 관망 분위기",
-  "market_data": {
-    "price": 81376.91,
-    "24h_high": 81667.94,
-    "24h_low": 80708.54,
-    "24h_change_pct": -0.17,
-    "volume_usd": 111584632,
-    "sma_20d": 83555,
-    "rsi_14d": 45.67,
-    "fear_greed_index": 55,
-    "etf_flows_24h": "-1B+ USD (outflows)",
-    "source": "Crypto.com live ticker + web search"
-  },
-  "updated": "2026-10-18 00:35:00 UTC",
-  "valid_until": "2026-10-18 04:35:00 UTC"
+  "notes": "중립 심리, BTC $81,741. FOMC 10일 후, 뚜렷한 방향성 없음",
+  "updated": "2026-10-18 06:35:00 UTC",
+  "valid_until": "2026-10-18 10:35:00 UTC",
+  "btc_price_usd": 81741.34,
+  "btc_24h_range": {"low": 80817.22, "high": 82092.66},
+  "btc_24h_change_pct": 0.18
 }
