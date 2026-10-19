@@ -1,11 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.5,
+  "confidence": 0.4,
   "key_events_next_24h": [
-    {"name": "FOMC Meeting (upcoming)", "time": "2026-10-27 14:00 UTC", "impact": "high", "expected_direction": "neutral"},
-    {"name": "No major scheduled releases in next 24h", "time": "2026-10-19 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "FOMC Meeting (Oct 27-28)",
+      "time": "2026-10-27 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "BTC $82,594 소폭상승, ETF자금유출, Fear&Greed 43 중립, 주요이벤트없음",
-  "updated": "2026-10-19 12:35:00 UTC",
-  "valid_until": "2026-10-19 16:35:00 UTC"
+  "notes": "BTC 83k대 횡보, FOMC 10/28 홀드 예상, CPI 3.7% 상승세",
+  "updated": "2026-10-19 00:00:00 UTC",
+  "valid_until": "2026-10-19 04:00:00 UTC"
 }
