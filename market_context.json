@@ -1,16 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 81138.74,
+  "regime": "neutral",
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting (Oct 27-28) - Approaching hawkish decision",
-      "time": "2026-10-28 18:00 UTC",
+      "name": "No major macro events scheduled",
+      "time": "2026-10-19 00:00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "FOMC Meeting (upcoming - Oct 27-28)",
+      "time": "2026-10-28 18:00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $81K 하락세, 연준 매파 기조, Uptober 미실현",
-  "updated": "2026-10-18 18:33:00 UTC",
-  "valid_until": "2026-10-18 22:33:00 UTC"
+  "notes": "BTC $83-86k 박스권 횡보, CPI 3.7% 상승, FOMC 10/28",
+  "updated": "2026-10-19 00:33:12 UTC",
+  "valid_until": "2026-10-19 04:33:12 UTC"
 }
