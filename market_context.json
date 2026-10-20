@@ -1,22 +1,8 @@
 {
-  "regime": "bearish",
-  "confidence": 0.6,
-  "btc_price_usd": 81615.68,
-  "key_events_next_24h": [
-    {
-      "name": "Fed Speaker Comments (this week)",
-      "time": "2026-10-20 14:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Rate Decision (upcoming)",
-      "time": "2026-10-28 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    }
-  ],
-  "notes": "BTC $81.6K 일봉 하락. 그리드지수 중립전환. FOMC 10/28 대기",
-  "updated": "2026-10-20 00:33:00 UTC",
-  "valid_until": "2026-10-20 04:33:00 UTC"
+  "regime": "neutral",
+  "confidence": 0.45,
+  "key_events_next_24h": [],
+  "notes": "ETF 유입 긍정적이나 매파적 연준과 FOMC 대기로 중립",
+  "updated": "2026-10-20 06:00:00 UTC",
+  "valid_until": "2026-10-20 10:00:00 UTC"
 }
