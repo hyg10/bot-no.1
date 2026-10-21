@@ -6,10 +6,10 @@
       "name": "FOMC Meeting (upcoming Oct 27-28)",
       "time": "2026-10-27 18:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $82-86k대, Fed 금리 인상 불확실성, 혼조세",
-  "updated": "2026-10-21 06:33:20 UTC",
-  "valid_until": "2026-10-21 10:33:20 UTC"
+  "notes": "중립 심리, 박스권 등락. FOMC 10/28 앞두고 관망세",
+  "updated": "2026-10-21 12:33:00 UTC",
+  "valid_until": "2026-10-21 16:33:00 UTC"
 }
