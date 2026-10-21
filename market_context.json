@@ -1,16 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
-  "key_events_next_24h": [],
-  "notes": "혼조세 지속, FOMC(10/28) 앞두고 관망. $83K 지지 유지",
-  "updated": "2026-10-21 00:35:00 UTC",
-  "valid_until": "2026-10-21 04:35:00 UTC",
-  "price_snapshot": {
-    "price": 83141.02,
-    "change_24h_pct": 1.99,
-    "high_24h": 83377.04,
-    "low_24h": 81091.41,
-    "source": "crypto.com",
-    "timestamp": "2026-10-21T00:33:20Z"
-  }
+  "confidence": 0.4,
+  "key_events_next_24h": [
+    {
+      "name": "FOMC Meeting (upcoming Oct 27-28)",
+      "time": "2026-10-27 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    }
+  ],
+  "notes": "BTC $82-86k대, Fed 금리 인상 불확실성, 혼조세",
+  "updated": "2026-10-21 06:33:20 UTC",
+  "valid_until": "2026-10-21 10:33:20 UTC"
 }
