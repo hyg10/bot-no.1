@@ -1,27 +1,16 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "key_events_next_24h": [
-    {
-      "name": "US Housing Starts (Oct)",
-      "time": "2026-10-21 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Flash PMI (US Manufacturing & Services)",
-      "time": "2026-10-21 13:45 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Meeting (Oct 27-28) - upcoming",
-      "time": "2026-10-28 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    }
-  ],
-  "notes": "웨지 이탈 후 횡보, ETF 유입 긍정적이나 방향성 불분명",
-  "updated": "2026-10-20 08:00:00 UTC",
-  "valid_until": "2026-10-20 12:00:00 UTC"
+  "confidence": 0.45,
+  "key_events_next_24h": [],
+  "notes": "혼조세 지속, FOMC(10/28) 앞두고 관망. $83K 지지 유지",
+  "updated": "2026-10-21 00:35:00 UTC",
+  "valid_until": "2026-10-21 04:35:00 UTC",
+  "price_snapshot": {
+    "price": 83141.02,
+    "change_24h_pct": 1.99,
+    "high_24h": 83377.04,
+    "low_24h": 81091.41,
+    "source": "crypto.com",
+    "timestamp": "2026-10-21T00:33:20Z"
+  }
 }
