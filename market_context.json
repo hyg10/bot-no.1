@@ -1,15 +1,11 @@
 {
   "regime": "neutral",
-  "confidence": 0.40,
+  "confidence": 0.45,
   "key_events_next_24h": [
-    {
-      "name": "FOMC Meeting (Day 1 of 2)",
-      "time": "2026-10-27 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    }
+    {"name": "US Bond Market - 10Y Treasury Yield Watch (~5.17%)", "time": "2026-10-22 13:00 UTC", "impact": "medium", "expected_direction": "bearish"},
+    {"name": "Crypto ETF Daily Flow Report", "time": "2026-10-22 18:00 UTC", "impact": "medium", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $84,752 +2.76%일중상승. 중립구간, FOMC 10/27-28 대기",
-  "updated": "2026-10-21 18:33:00 UTC",
-  "valid_until": "2026-10-21 22:33:00 UTC"
+  "notes": "BTC $84,183 박스권 횡보, RSI 54.4 중립, MACD 약세, 혼재 신호",
+  "updated": "2026-10-22 00:33:00 UTC",
+  "valid_until": "2026-10-22 04:33:00 UTC"
 }
