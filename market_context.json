@@ -1,16 +1,22 @@
 {
-  "regime": "neutral",
+  "regime": "bearish",
   "confidence": 0.55,
-  "btc_price_usd": 82505.7,
+  "btc_price_usd": 81754.32,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting (2-day, starts Oct 27) - Pre-meeting positioning",
-      "time": "2026-10-22 14:00 UTC",
-      "impact": "high",
+      "name": "No major macro releases scheduled",
+      "time": "2026-10-22 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "FOMC Rate Decision (upcoming Oct 28 - background pressure)",
+      "time": "2026-10-28 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $82,506 보합세. FOMC(10/27~28) 앞두고 관망. 지지 $82K, 저항 $83.5K",
-  "updated": "2026-10-22 06:34:00 UTC",
-  "valid_until": "2026-10-22 10:34:00 UTC"
+  "notes": "BTC $81,754 하락(-2.2%), FOMC 불확실성·약한 고용 약세 압력",
+  "updated": "2026-10-22 12:42:00 UTC",
+  "valid_until": "2026-10-22 16:42:00 UTC"
 }
