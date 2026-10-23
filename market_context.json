@@ -1,26 +1,15 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 81360.83,
-  "btc_24h_change_pct": -3.42,
-  "btc_24h_high": 84384.99,
-  "btc_24h_low": 80914.56,
+  "regime": "neutral",
+  "confidence": 0.35,
   "key_events_next_24h": [
     {
       "name": "FOMC Rate Decision (upcoming Oct 28)",
       "time": "2026-10-28 18:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish",
-      "note": "~47% chance of rate hike vs 53% hold - uncertainty is current headwind"
-    },
-    {
-      "name": "PCE Inflation + Q3 GDP Advance",
-      "time": "2026-10-29 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC -3.4% 하락, FOMC 금리인상 불확실성, 채굴비용 이하 거래 중",
-  "updated": "2026-10-23 00:33:00 UTC",
-  "valid_until": "2026-10-23 04:33:00 UTC"
+  "notes": "BTC $82k대 주간 하락, FOMC 28일 동결 가능성 80%",
+  "updated": "2026-10-23 10:00:00 UTC",
+  "valid_until": "2026-10-23 14:00:00 UTC"
 }
