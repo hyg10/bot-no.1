@@ -1,15 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.55,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "No major macro releases in next 24h (FOMC decision due Oct 28)",
+      "name": "FOMC Meeting Day 1 (Oct 27-28 window approaching)",
       "time": "2026-10-28 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "FOMC(10/28) 앞두고 관망세, BTC 8.1만달러 횡보 중",
-  "updated": "2026-10-23 12:35:00 UTC",
-  "valid_until": "2026-10-23 16:35:00 UTC"
+  "notes": "BTC $84K-87K 횡보. FOMC 10/28, 금리동결 불확실. 감성지수 56 중립",
+  "updated": "2026-10-23 18:33:42 UTC",
+  "valid_until": "2026-10-23 22:33:42 UTC"
 }
