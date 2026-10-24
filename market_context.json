@@ -1,15 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
+  "regime": "neutral",
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting (Oct 27-28 rate decision approaches)",
+      "name": "FOMC Meeting (decision Oct 28)",
       "time": "2026-10-28 18:00 UTC",
       "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "No major macro data releases scheduled Oct 24-25",
+      "time": "2026-10-24 00:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $80,785 하락세, FOMC 10/28 대기, 약세 심리",
-  "updated": "2026-10-24 12:33:00 UTC",
-  "valid_until": "2026-10-24 16:33:00 UTC"
+  "notes": "BTC $84K박스권, 공포탐욕56 중립, FOMC 28일 대기",
+  "updated": "2026-10-24 18:33:17 UTC",
+  "valid_until": "2026-10-24 22:33:17 UTC"
 }
