@@ -1,21 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.40,
+  "regime": "bearish",
+  "confidence": 0.6,
   "key_events_next_24h": [
     {
-      "name": "Ethereum Glamsterdam Hoodi Testnet Upgrade",
-      "time": "2026-10-26 17:42 UTC",
-      "impact": "low",
+      "name": "FOMC Meeting Day 1 (no decision)",
+      "time": "2026-10-27 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Meeting (Oct 27-28, decision Oct 28 14:00 ET / 19:00 UTC)",
-      "time": "2026-10-27 13:00 UTC",
+      "name": "Fed Rate Decision (FOMC Day 2)",
+      "time": "2026-10-28 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 대기 관망세, BTC $82-86K 박스권, 인플레 지속 금리인하 없음",
-  "updated": "2026-10-24 00:33:40 UTC",
-  "valid_until": "2026-10-24 04:33:40 UTC"
+  "notes": "BTC $80,690 하락세, ETF 유출 $635M, FOMC 10/28 금리결정 대기",
+  "updated": "2026-10-24 06:35:00 UTC",
+  "valid_until": "2026-10-24 10:35:00 UTC"
 }
