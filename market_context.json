@@ -1,22 +1,29 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 80894.71,
-  "key_events_next_24h": [
+  "regime": "bearish",
+  "confidence": 0.55,
+  "key_events_next_24h": [],
+  "upcoming_events": [
     {
-      "name": "FOMC Meeting Day 1 (Oct 27-28 meeting, decision Oct 28)",
-      "time": "2026-10-25 18:00 UTC",
+      "name": "FOMC Rate Decision (Oct 27-28 meeting)",
+      "time": "2026-10-28 19:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "Fed Rate Decision (FOMC, ~64% probability hold at 3.75-4.00%)",
-      "time": "2026-10-28 18:00 UTC",
-      "impact": "high",
+      "name": "US PCE Price Index (September)",
+      "time": "2026-10-29 12:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US Q3 GDP Advance Estimate",
+      "time": "2026-10-29 12:30 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 10/28결정 대기, BTC $80.9K 횡보 중립",
-  "updated": "2026-10-25 00:34:00 UTC",
-  "valid_until": "2026-10-25 04:34:00 UTC"
+  "btc_price_approx": 80800,
+  "notes": "BTC 50일선 이탈, ETF 순유출 지속, FOMC 인상 우려로 약세 우위",
+  "updated": "2026-10-25 06:33:24 UTC",
+  "valid_until": "2026-10-25 10:33:24 UTC"
 }
