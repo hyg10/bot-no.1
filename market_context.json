@@ -1,21 +1,22 @@
 {
   "regime": "neutral",
   "confidence": 0.45,
+  "btc_price_usd": 80894.71,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting (decision Oct 28)",
-      "time": "2026-10-28 18:00 UTC",
+      "name": "FOMC Meeting Day 1 (Oct 27-28 meeting, decision Oct 28)",
+      "time": "2026-10-25 18:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "No major macro data releases scheduled Oct 24-25",
-      "time": "2026-10-24 00:00 UTC",
-      "impact": "low",
+      "name": "Fed Rate Decision (FOMC, ~64% probability hold at 3.75-4.00%)",
+      "time": "2026-10-28 18:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $84K박스권, 공포탐욕56 중립, FOMC 28일 대기",
-  "updated": "2026-10-24 18:33:17 UTC",
-  "valid_until": "2026-10-24 22:33:17 UTC"
+  "notes": "FOMC 10/28결정 대기, BTC $80.9K 횡보 중립",
+  "updated": "2026-10-25 00:34:00 UTC",
+  "valid_until": "2026-10-25 04:34:00 UTC"
 }
