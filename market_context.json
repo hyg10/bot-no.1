@@ -2,28 +2,7 @@
   "regime": "bearish",
   "confidence": 0.55,
   "key_events_next_24h": [],
-  "upcoming_events": [
-    {
-      "name": "FOMC Rate Decision (Oct 27-28 meeting)",
-      "time": "2026-10-28 19:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US PCE Price Index (September)",
-      "time": "2026-10-29 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US Q3 GDP Advance Estimate",
-      "time": "2026-10-29 12:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    }
-  ],
-  "btc_price_approx": 80800,
-  "notes": "BTC 50일선 이탈, ETF 순유출 지속, FOMC 인상 우려로 약세 우위",
-  "updated": "2026-10-25 06:33:24 UTC",
-  "valid_until": "2026-10-25 10:33:24 UTC"
+  "notes": "Fed 매파 기조, BTC $82K 부근 약세. 10/28 FOMC 앞 관망",
+  "updated": "2026-10-25 12:33:30 UTC",
+  "valid_until": "2026-10-25 16:33:30 UTC"
 }
