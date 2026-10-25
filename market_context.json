@@ -1,8 +1,19 @@
 {
   "regime": "bearish",
   "confidence": 0.55,
-  "key_events_next_24h": [],
-  "notes": "Fed 매파 기조, BTC $82K 부근 약세. 10/28 FOMC 앞 관망",
-  "updated": "2026-10-25 12:33:30 UTC",
-  "valid_until": "2026-10-25 16:33:30 UTC"
+  "current_price_usd": 80575.63,
+  "price_24h_high": 80933.13,
+  "price_24h_low": 79996.04,
+  "price_24h_change_pct": 0.37,
+  "key_events_next_24h": [
+    {
+      "name": "FOMC Meeting (Oct 27-28) - Rate Decision in ~48h",
+      "time": "2026-10-27 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    }
+  ],
+  "notes": "BTC 월간 8% 하락세, FOMC(27-28일) 앞두고 불확실성 고조",
+  "updated": "2026-10-25 18:35:00 UTC",
+  "valid_until": "2026-10-25 22:35:00 UTC"
 }
