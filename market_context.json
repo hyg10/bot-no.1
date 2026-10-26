@@ -1,19 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
-  "current_price_usd": 80575.63,
-  "price_24h_high": 80933.13,
-  "price_24h_low": 79996.04,
-  "price_24h_change_pct": 0.37,
+  "regime": "neutral",
+  "confidence": 0.35,
   "key_events_next_24h": [
     {
-      "name": "FOMC Meeting (Oct 27-28) - Rate Decision in ~48h",
-      "time": "2026-10-27 18:00 UTC",
+      "name": "FOMC Meeting Begins (2-day session Oct 27-28)",
+      "time": "2026-10-27 14:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC Rate Decision & Press Conference",
+      "time": "2026-10-28 18:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC 월간 8% 하락세, FOMC(27-28일) 앞두고 불확실성 고조",
-  "updated": "2026-10-25 18:35:00 UTC",
-  "valid_until": "2026-10-25 22:35:00 UTC"
+  "notes": "FOMC 10/28 결정 대기, BTC $83k대 중립. 인플레 3.7% 경계",
+  "updated": "2026-10-26 00:33:21 UTC",
+  "valid_until": "2026-10-26 04:33:21 UTC"
 }
