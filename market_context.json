@@ -1,15 +1,21 @@
 {
-  "regime": "bearish",
-  "confidence": 0.60,
+  "regime": "neutral",
+  "confidence": 0.35,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (October 27-28 Meeting)",
+      "name": "FOMC Rate Decision (Oct 27-28 meeting)",
       "time": "2026-10-28 18:00 UTC",
       "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "PCE Price Index (September 2026)",
+      "time": "2026-10-29 12:30 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "연준 금리 결정 앞두고 BTC 2% 하락, 약세 지속",
-  "updated": "2026-10-27 00:33:30 UTC",
-  "valid_until": "2026-10-27 04:33:30 UTC"
+  "notes": "FOMC 결정 임박, 금리인상 47% 확률. BTC $81k대 보합, 중립 심리",
+  "updated": "2026-10-27 06:32:53 UTC",
+  "valid_until": "2026-10-27 10:32:53 UTC"
 }
