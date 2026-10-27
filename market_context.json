@@ -1,21 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
+  "confidence": 0.60,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Fed, expected hold at 3.75-4.00%)",
-      "time": "2026-10-28 19:00 UTC",
+      "name": "FOMC Rate Decision (October 27-28 Meeting)",
+      "time": "2026-10-28 18:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Bank of Canada Rate Decision",
-      "time": "2026-10-28 14:00 UTC",
-      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC ATH 대비 -33% 약세, FOMC 앞두고 불확실성 고조",
-  "updated": "2026-10-26 18:33:08 UTC",
-  "valid_until": "2026-10-26 22:33:08 UTC"
+  "notes": "연준 금리 결정 앞두고 BTC 2% 하락, 약세 지속",
+  "updated": "2026-10-27 00:33:30 UTC",
+  "valid_until": "2026-10-27 04:33:30 UTC"
 }
