@@ -1,21 +1,15 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
+  "regime": "neutral",
+  "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Oct 28)",
-      "time": "2026-10-28 19:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Fed Chair Press Conference",
-      "time": "2026-10-28 19:30 UTC",
+      "name": "FOMC Rate Decision (Oct Meeting)",
+      "time": "2026-10-28 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 금리결정 내일, BTC $80K 지지선 테스트 중. 10월 -4%",
-  "updated": "2026-10-27 12:54:00 UTC",
-  "valid_until": "2026-10-27 16:54:00 UTC"
+  "notes": "FOMC 내일 금리결정, ETF 유출 지속, BTC $80K대 횡보",
+  "updated": "2026-10-27 06:00:00 UTC",
+  "valid_until": "2026-10-27 10:00:00 UTC"
 }
