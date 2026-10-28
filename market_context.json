@@ -1,28 +1,37 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 80811.84,
+  "confidence": 0.35,
+  "btc_price_usd": 80747.22,
+  "btc_24h_change_pct": 0.43,
+  "btc_24h_high": 81821.28,
+  "btc_24h_low": 79878.67,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Fed)",
-      "time": "2026-10-28 18:00 UTC",
+      "name": "FOMC Rate Decision",
+      "time": "2026-10-28 19:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "Fed Chair Press Conference",
-      "time": "2026-10-28 18:30 UTC",
+      "name": "FOMC Press Conference (Chair)",
+      "time": "2026-10-28 19:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     },
     {
-      "name": "ECB Policy Press Conference",
-      "time": "2026-10-29 12:45 UTC",
+      "name": "Core PCE (Sep)",
+      "time": "2026-10-29 13:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "ECB Rate Decision",
+      "time": "2026-10-29 12:15 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 금리 결정 당일, 시장 불확실성 높음. BTC ~$80,800",
-  "updated": "2026-10-28 06:35:00 UTC",
-  "valid_until": "2026-10-28 10:35:00 UTC"
+  "notes": "FOMC 6시간 후 발표, BTC $80,747 횡보. 변동성 주의",
+  "updated": "2026-10-28 12:49:16 UTC",
+  "valid_until": "2026-10-28 16:49:16 UTC"
 }
