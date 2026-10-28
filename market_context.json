@@ -1,15 +1,21 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
+  "confidence": 0.35,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (Oct Meeting)",
+      "name": "FOMC Rate Decision (October 2026)",
       "time": "2026-10-28 18:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Fed Chair Press Conference",
+      "time": "2026-10-28 18:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 내일 금리결정, ETF 유출 지속, BTC $80K대 횡보",
-  "updated": "2026-10-27 06:00:00 UTC",
-  "valid_until": "2026-10-27 10:00:00 UTC"
+  "notes": "FOMC 결정 대기 중. BTC $82k-$85k 박스권, 방향성 불명확",
+  "updated": "2026-10-28 13:00:00 UTC",
+  "valid_until": "2026-10-28 17:00:00 UTC"
 }
