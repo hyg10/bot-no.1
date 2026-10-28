@@ -1,9 +1,10 @@
 {
   "regime": "neutral",
-  "confidence": 0.35,
+  "confidence": 0.4,
+  "btc_price_usd": 80811.84,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision (October 2026)",
+      "name": "FOMC Rate Decision (Fed)",
       "time": "2026-10-28 18:00 UTC",
       "impact": "high",
       "expected_direction": "neutral"
@@ -13,9 +14,15 @@
       "time": "2026-10-28 18:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "ECB Policy Press Conference",
+      "time": "2026-10-29 12:45 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 결정 대기 중. BTC $82k-$85k 박스권, 방향성 불명확",
-  "updated": "2026-10-28 13:00:00 UTC",
-  "valid_until": "2026-10-28 17:00:00 UTC"
+  "notes": "FOMC 금리 결정 당일, 시장 불확실성 높음. BTC ~$80,800",
+  "updated": "2026-10-28 06:35:00 UTC",
+  "valid_until": "2026-10-28 10:35:00 UTC"
 }
