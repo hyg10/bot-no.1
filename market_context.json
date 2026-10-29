@@ -1,15 +1,15 @@
 {
   "regime": "neutral",
-  "confidence": 0.45,
+  "confidence": 0.4,
   "key_events_next_24h": [
     {
-      "name": "FOMC Rate Decision & Powell Press Conference",
-      "time": "2026-10-28 18:00 UTC",
+      "name": "FOMC October 28 Rate Decision Aftermath",
+      "time": "2026-10-29 02:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 금리 발표 당일, BTC $80,807 횡보. 불확실성 높음",
-  "updated": "2026-10-28 18:35:00 UTC",
-  "valid_until": "2026-10-28 22:35:00 UTC"
+  "notes": "FOMC 결정 직후 BTC 8.1만달러 보합세, 방향성 불확실",
+  "updated": "2026-10-29 00:40:00 UTC",
+  "valid_until": "2026-10-29 04:40:00 UTC"
 }
