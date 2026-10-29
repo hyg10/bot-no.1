@@ -1,22 +1,22 @@
 {
-  "regime": "neutral",
-  "confidence": 0.45,
-  "btc_price_usd": 80018.20,
+  "regime": "bearish",
+  "confidence": 0.65,
+  "btc_price_usd": 80300,
   "key_events_next_24h": [
     {
-      "name": "Fed hawkish hold aftermath - potential Fed speaker commentary",
-      "time": "2026-10-29 14:00 UTC",
-      "impact": "medium",
+      "name": "FOMC October 27-28 Decision Aftermath - Fed held at 3.75-4.00%, hawkish tone with 2 dissents favoring hike",
+      "time": "2026-10-28 18:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US Q3 GDP Advance Estimate (possible release)",
-      "time": "2026-10-29 12:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
+      "name": "December FOMC rate hike probability at 86% - ongoing market pressure",
+      "time": "2026-10-29 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "연준 매파적 동결로 BTC 하락압력, ETF 유입으로 지지. 혼조세",
-  "updated": "2026-10-29 06:33:09 UTC",
-  "valid_until": "2026-10-29 10:33:09 UTC"
+  "notes": "연준 매파적 동결, 12월 인상 우려로 BTC 8만달러 부근 하락",
+  "updated": "2026-10-29 12:43:00 UTC",
+  "valid_until": "2026-10-29 16:43:00 UTC"
 }
