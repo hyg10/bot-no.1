@@ -1,15 +1,22 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
+  "confidence": 0.45,
+  "btc_price_usd": 80018.20,
   "key_events_next_24h": [
     {
-      "name": "FOMC October 28 Rate Decision Aftermath",
-      "time": "2026-10-29 02:00 UTC",
+      "name": "Fed hawkish hold aftermath - potential Fed speaker commentary",
+      "time": "2026-10-29 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US Q3 GDP Advance Estimate (possible release)",
+      "time": "2026-10-29 12:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "FOMC 결정 직후 BTC 8.1만달러 보합세, 방향성 불확실",
-  "updated": "2026-10-29 00:40:00 UTC",
-  "valid_until": "2026-10-29 04:40:00 UTC"
+  "notes": "연준 매파적 동결로 BTC 하락압력, ETF 유입으로 지지. 혼조세",
+  "updated": "2026-10-29 06:33:09 UTC",
+  "valid_until": "2026-10-29 10:33:09 UTC"
 }
