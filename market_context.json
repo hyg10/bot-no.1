@@ -1,22 +1,16 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 80300,
+  "regime": "neutral",
+  "confidence": 0.35,
+  "btc_price_usd": 80576.34,
   "key_events_next_24h": [
     {
-      "name": "FOMC October 27-28 Decision Aftermath - Fed held at 3.75-4.00%, hawkish tone with 2 dissents favoring hike",
-      "time": "2026-10-28 18:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "December FOMC rate hike probability at 86% - ongoing market pressure",
-      "time": "2026-10-29 18:00 UTC",
+      "name": "Post-FOMC market digestion (Oct 27-28 meeting concluded)",
+      "time": "2026-10-29 00:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "연준 매파적 동결, 12월 인상 우려로 BTC 8만달러 부근 하락",
-  "updated": "2026-10-29 12:43:00 UTC",
-  "valid_until": "2026-10-29 16:43:00 UTC"
+  "notes": "BTC 8만달러대 횡보, FOMC 직후 관망세, 방향성 불명확",
+  "updated": "2026-10-29 18:35:00 UTC",
+  "valid_until": "2026-10-29 22:35:00 UTC"
 }
