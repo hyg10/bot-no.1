@@ -3,13 +3,19 @@
   "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Halloween weekend low-volume trading",
+      "name": "Month-End Portfolio Rebalancing (Oct 31)",
       "time": "2026-10-31 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Fed Rate Decision (Oct 28, already released - rates held unchanged 10-2 vote)",
+      "time": "2026-10-28 18:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "연준 동결에도 BTC $80k 하락세, 할로윈 저거래량 예상",
-  "updated": "2026-10-30 10:00:00 UTC",
-  "valid_until": "2026-10-30 14:00:00 UTC"
+  "notes": "BTC -3.4% 하락($77,336), 연준 금리동결, 월말 매도 압력 예상",
+  "updated": "2026-10-30 12:57:00 UTC",
+  "valid_until": "2026-10-30 16:57:00 UTC"
 }
