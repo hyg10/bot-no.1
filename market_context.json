@@ -1,27 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Bitcoin Options Expiry ~$11B (Deribit, max pain $78K)",
-      "time": "2026-10-30 08:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Oct 28 Decision Aftermath (Fed hiked Sep; hold or hike expected)",
-      "time": "2026-10-30 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Binance Suspected Hack Report ($2.8B) - Unconfirmed",
-      "time": "2026-10-30 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "Halloween weekend low-volume trading",
+      "time": "2026-10-31 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "바이낸스 해킹의혹+옵션만기 압박, BTC $78-81K 약세",
+  "notes": "연준 동결에도 BTC $80k 하락세, 할로윈 저거래량 예상",
   "updated": "2026-10-30 10:00:00 UTC",
   "valid_until": "2026-10-30 14:00:00 UTC"
 }
