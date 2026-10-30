@@ -1,21 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.70,
   "key_events_next_24h": [
     {
-      "name": "Month-End Portfolio Rebalancing (Oct 31)",
-      "time": "2026-10-31 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Fed Rate Decision (Oct 28, already released - rates held unchanged 10-2 vote)",
-      "time": "2026-10-28 18:00 UTC",
+      "name": "No major scheduled economic releases",
+      "time": "2026-10-30 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC -3.4% 하락($77,336), 연준 금리동결, 월말 매도 압력 예상",
-  "updated": "2026-10-30 12:57:00 UTC",
-  "valid_until": "2026-10-30 16:57:00 UTC"
+  "notes": "BTC 오늘 -4.7% 하락, $76.8K, 심리 중립, 다음 CPI 11/10",
+  "updated": "2026-10-30 18:33:00 UTC",
+  "valid_until": "2026-10-30 22:33:00 UTC"
 }
