@@ -1,11 +1,21 @@
 {
-  "regime": "neutral",
-  "confidence": 0.35,
+  "regime": "bearish",
+  "confidence": 0.65,
   "key_events_next_24h": [
-    {"name": "FOMC October Minutes Release (scheduled Nov 18)", "time": "2026-11-18 19:00 UTC", "impact": "low", "expected_direction": "neutral"},
-    {"name": "RBA Rate Decision", "time": "2026-11-03 03:30 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "Mt. Gox BTC Distribution Deadline",
+      "time": "2026-10-31 23:59 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "FOMC October Minutes Release (scheduled Nov 18)",
+      "time": "2026-11-18 19:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "10월 BTC 하락세($80,800), 중립 심리지수(56), 연준 결과 불확실",
-  "updated": "2026-10-31 00:10:00 UTC",
-  "valid_until": "2026-10-31 04:10:00 UTC"
+  "notes": "BTC $77K 급락, 극도공포지수, Mt.Gox 배분 마감 영향",
+  "updated": "2026-10-31 18:33:05 UTC",
+  "valid_until": "2026-10-31 22:33:05 UTC"
 }
