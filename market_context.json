@@ -1,15 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "No major scheduled economic releases",
-      "time": "2026-10-30 00:00 UTC",
-      "impact": "low",
+      "name": "Binance exploit ($6.3B) ongoing market fallout",
+      "time": "2026-10-31 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "BTC 200-day MA support test (~$76,400)",
+      "time": "2026-10-31 06:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Month-end portfolio rebalancing (US close)",
+      "time": "2026-10-31 20:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC 오늘 -4.7% 하락, $76.8K, 심리 중립, 다음 CPI 11/10",
-  "updated": "2026-10-30 18:33:00 UTC",
-  "valid_until": "2026-10-30 22:33:00 UTC"
+  "notes": "바이낸스 해킹+연준 매파 동결로 하락세, $77K 지지선 테스트",
+  "updated": "2026-10-31 00:33:21 UTC",
+  "valid_until": "2026-10-31 04:33:21 UTC"
 }
