@@ -1,12 +1,11 @@
 {
   "regime": "neutral",
-  "confidence": 0.4,
+  "confidence": 0.35,
   "key_events_next_24h": [
-    {"name": "FOMC October Meeting Outcome (Oct 27-28, awaiting confirmation)", "time": "2026-10-31 00:00 UTC", "impact": "high", "expected_direction": "bearish"},
-    {"name": "US CPI October 2026 Report", "time": "2026-11-10 13:30 UTC", "impact": "high", "expected_direction": "neutral"},
-    {"name": "US PPI October 2026 Report", "time": "2026-11-13 13:30 UTC", "impact": "medium", "expected_direction": "neutral"}
+    {"name": "FOMC October Minutes Release (scheduled Nov 18)", "time": "2026-11-18 19:00 UTC", "impact": "low", "expected_direction": "neutral"},
+    {"name": "RBA Rate Decision", "time": "2026-11-03 03:30 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "연준 불확실성으로 중립, ETF 유입은 긍정적",
-  "updated": "2026-10-31 00:00:00 UTC",
-  "valid_until": "2026-10-31 04:00:00 UTC"
+  "notes": "10월 BTC 하락세($80,800), 중립 심리지수(56), 연준 결과 불확실",
+  "updated": "2026-10-31 00:10:00 UTC",
+  "valid_until": "2026-10-31 04:10:00 UTC"
 }
