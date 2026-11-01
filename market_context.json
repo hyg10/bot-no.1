@@ -1,21 +1,22 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
+  "btc_price_usd": 77857.75,
   "key_events_next_24h": [
     {
-      "name": "No major scheduled macro events",
-      "time": "2026-11-01 to 2026-11-02",
-      "impact": "low",
+      "name": "US Midterm Elections (pre-election volatility)",
+      "time": "2026-11-03 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "US CPI Report (October data) - upcoming",
-      "time": "2026-11-10 13:30 UTC",
-      "impact": "high",
+      "name": "Bank of England Rate Decision",
+      "time": "2026-11-05 12:00 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $77.7K, $80K 지지선 붕괴, 10월 -7.3% 약세장",
-  "updated": "2026-11-01 12:35:00 UTC",
-  "valid_until": "2026-11-01 16:35:00 UTC"
+  "notes": "바이낸스 해킹 충격·ETF 대규모 유출·공포지수 지배, BTC 주간 -4%",
+  "updated": "2026-11-01 18:33:00 UTC",
+  "valid_until": "2026-11-01 22:33:00 UTC"
 }
