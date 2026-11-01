@@ -3,19 +3,19 @@
   "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "Mt. Gox BTC Distribution Deadline",
-      "time": "2026-10-31 23:59 UTC",
+      "name": "US Midterm Elections 2026",
+      "time": "2026-11-03 00:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "FOMC October Minutes Release (scheduled Nov 18)",
-      "time": "2026-11-18 19:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "US CPI Report (Oct data)",
+      "time": "2026-11-10 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $77K 급락, 극도공포지수, Mt.Gox 배분 마감 영향",
-  "updated": "2026-10-31 18:33:05 UTC",
-  "valid_until": "2026-10-31 22:33:05 UTC"
+  "notes": "바이낸스 해킹 급락, 단기 하락세 우세, EMAs 위 저항",
+  "updated": "2026-11-01 00:35:00 UTC",
+  "valid_until": "2026-11-01 04:35:00 UTC"
 }
