@@ -1,22 +1,10 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 77857.75,
+  "regime": "neutral",
+  "confidence": 0.35,
   "key_events_next_24h": [
-    {
-      "name": "US Midterm Elections (pre-election volatility)",
-      "time": "2026-11-03 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Bank of England Rate Decision",
-      "time": "2026-11-05 12:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    }
+    {"name": "No major macro events", "time": "2026-11-02 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "바이낸스 해킹 충격·ETF 대규모 유출·공포지수 지배, BTC 주간 -4%",
-  "updated": "2026-11-01 18:33:00 UTC",
-  "valid_until": "2026-11-01 22:33:00 UTC"
+  "notes": "BTC $78K 소폭 상승, 공포지수 34, 11월 약세 우려. 주요 이벤트 없음",
+  "updated": "2026-11-02 00:34:00 UTC",
+  "valid_until": "2026-11-02 04:34:00 UTC"
 }
