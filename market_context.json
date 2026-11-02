@@ -1,22 +1,34 @@
 {
-  "regime": "neutral",
-  "confidence": 0.40,
+  "regime": "bearish",
+  "confidence": 0.65,
+  "btc_price_usd": 76900.33,
   "key_events_next_24h": [
     {
-      "name": "US Midterm Elections 2026",
+      "name": "Binance hack aftermath ($6.3B) - ongoing market pressure",
       "time": "2026-11-02 00:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "US CPI Report (October data)",
-      "time": "2026-11-10 13:30 UTC",
+      "name": "Spot BTC ETF flows monitoring (recent $643M outflow on Oct 30)",
+      "time": "2026-11-02 21:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Fed rate hike probability ~70% (next FOMC Dec 9)",
+      "time": "2026-12-09 19:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "US CPI October report",
+      "time": "2026-11-10 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "바이낸스 해킹 회복 중, ETF 유출 지속, 중간선거 불확실성",
-  "btc_price_usd": 78350,
-  "updated": "2026-11-02 12:37:00 UTC",
-  "valid_until": "2026-11-02 16:37:00 UTC"
+  "notes": "바이낸스 해킹+ETF 유출+금리인상 우려로 하락압력 지속",
+  "updated": "2026-11-02 18:33:00 UTC",
+  "valid_until": "2026-11-02 22:33:00 UTC"
 }
