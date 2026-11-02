@@ -1,16 +1,22 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 78103.58,
+  "regime": "neutral",
+  "confidence": 0.40,
   "key_events_next_24h": [
     {
-      "name": "No major macro releases (CPI on Nov 10, next FOMC Dec 9-10)",
+      "name": "US Midterm Elections 2026",
       "time": "2026-11-02 00:00 UTC",
-      "impact": "low",
+      "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "US CPI Report (October data)",
+      "time": "2026-11-10 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "4주 연속 하락, 바이낸스 해킹 FUD, RSI 40 약세",
-  "updated": "2026-11-02 06:33:30 UTC",
-  "valid_until": "2026-11-02 10:33:30 UTC"
+  "notes": "바이낸스 해킹 회복 중, ETF 유출 지속, 중간선거 불확실성",
+  "btc_price_usd": 78350,
+  "updated": "2026-11-02 12:37:00 UTC",
+  "valid_until": "2026-11-02 16:37:00 UTC"
 }
