@@ -1,10 +1,15 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
+  "regime": "neutral",
+  "confidence": 0.4,
   "key_events_next_24h": [
-    {"name": "No major macro events scheduled", "time": "2026-11-03 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "No major macro events (CPI Nov 10, FOMC Dec)",
+      "time": "2026-11-10 08:30 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "10월 -7.3% 약세 지속, $77K대. 24h내 주요 이벤트 없음",
-  "updated": "2026-11-03 12:33:00 UTC",
-  "valid_until": "2026-11-03 16:33:00 UTC"
+  "notes": "BTC $77,787 소폭 상승, ETF 유출 $4억 혼조세",
+  "updated": "2026-11-03 18:35:00 UTC",
+  "valid_until": "2026-11-03 22:35:00 UTC"
 }
