@@ -1,34 +1,10 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "current_price_usd": 76671,
+  "confidence": 0.55,
   "key_events_next_24h": [
-    {
-      "name": "US Midterm Elections (voting underway)",
-      "time": "2026-11-03 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Binance $6.3B hack - ongoing market impact",
-      "time": "2026-11-03 06:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US Jobs Report (Non-Farm Payrolls)",
-      "time": "2026-11-06 13:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Minutes (October meeting)",
-      "time": "2026-11-18 19:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    }
+    {"name": "No major macro events scheduled", "time": "2026-11-03 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "Binance $63억 해킹+미국 중간선거로 하락압력 강함. 지지선 $76K",
-  "updated": "2026-11-03 06:35:00 UTC",
-  "valid_until": "2026-11-03 10:35:00 UTC"
+  "notes": "10월 -7.3% 약세 지속, $77K대. 24h내 주요 이벤트 없음",
+  "updated": "2026-11-03 12:33:00 UTC",
+  "valid_until": "2026-11-03 16:33:00 UTC"
 }
