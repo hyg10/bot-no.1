@@ -1,28 +1,34 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
-  "btc_price_usd": 77019.58,
+  "confidence": 0.65,
+  "current_price_usd": 76671,
   "key_events_next_24h": [
     {
-      "name": "Bank of England Rate Decision",
-      "time": "2026-11-05 12:00 UTC",
-      "impact": "medium",
+      "name": "US Midterm Elections (voting underway)",
+      "time": "2026-11-03 00:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "US Non-Farm Payrolls / Jobs Report",
+      "name": "Binance $6.3B hack - ongoing market impact",
+      "time": "2026-11-03 06:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US Jobs Report (Non-Farm Payrolls)",
       "time": "2026-11-06 13:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "impact": "medium",
+      "expected_direction": "neutral"
     },
     {
-      "name": "US October CPI Release",
-      "time": "2026-11-10 13:30 UTC",
-      "impact": "high",
+      "name": "FOMC Minutes (October meeting)",
+      "time": "2026-11-18 19:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $77K, 바이낸스 해킹 후 4주 연속 하락. 금리인하 기대 약화",
-  "updated": "2026-11-03 00:33:00 UTC",
-  "valid_until": "2026-11-03 04:33:00 UTC"
+  "notes": "Binance $63억 해킹+미국 중간선거로 하락압력 강함. 지지선 $76K",
+  "updated": "2026-11-03 06:35:00 UTC",
+  "valid_until": "2026-11-03 10:35:00 UTC"
 }
