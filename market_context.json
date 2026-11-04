@@ -1,21 +1,11 @@
 {
-  "regime": "bearish",
-  "confidence": 0.65,
+  "regime": "neutral",
+  "confidence": 0.4,
   "key_events_next_24h": [
-    {
-      "name": "Bank of England MPC Rate Decision",
-      "time": "2026-11-05 12:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "US October Jobs Report (Nonfarm Payrolls)",
-      "time": "2026-11-06 13:30 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    }
+    {"name": "US Midterm Election Results Digestion", "time": "2026-11-04 00:00 UTC", "impact": "medium", "expected_direction": "bullish"},
+    {"name": "FOMC October Minutes Release (upcoming)", "time": "2026-11-18 19:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "대만 긴장 고조로 BTC $77K대 약세, BoE 금리결정 주목",
-  "updated": "2026-11-04 12:00:00 UTC",
-  "valid_until": "2026-11-04 16:00:00 UTC"
+  "notes": "BTC $75.6K→$80.5K 반등, 중간선거 후 숏 청산 $380M. 11월 최악 경로 우려.",
+  "updated": "2026-11-04 16:00:00 UTC",
+  "valid_until": "2026-11-04 20:00:00 UTC"
 }
