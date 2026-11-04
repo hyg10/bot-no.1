@@ -1,33 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.6,
-  "btc_price_usd": 77300,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US Midterm Election Results (finalizing)",
-      "time": "2026-11-04 12:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Bank of England Rate Decision",
+      "name": "Bank of England MPC Rate Decision",
       "time": "2026-11-05 12:00 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "US October Jobs Report (Nonfarm Payrolls)",
+      "time": "2026-11-06 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "미국 중간선거·바이낸스 해킹 여파, BTC 77K 하방 압력 지속",
-  "updated": "2026-11-04 06:33:00 UTC",
-  "valid_until": "2026-11-04 10:33:00 UTC",
-  "analysis_summary": {
-    "price_range_24h": {"low": 75729, "high": 77662},
-    "trend": "bearish",
-    "key_resistance": 78000,
-    "key_support": 76000,
-    "fear_greed_index": 45,
-    "fear_greed_label": "Neutral",
-    "etf_flow": "outflows",
-    "sentiment": "weak",
-    "sources": ["sundayguardianlive", "analyticsinsight", "cfgi.io", "bloomingbit", "fxstreet"]
-  }
+  "notes": "대만 긴장 고조로 BTC $77K대 약세, BoE 금리결정 주목",
+  "updated": "2026-11-04 12:00:00 UTC",
+  "valid_until": "2026-11-04 16:00:00 UTC"
 }
