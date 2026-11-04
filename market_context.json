@@ -1,27 +1,33 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 76988.38,
+  "confidence": 0.6,
+  "btc_price_usd": 77300,
   "key_events_next_24h": [
     {
-      "name": "FOMC Next Meeting",
-      "time": "2026-12-08 14:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral",
-      "note": "No FOMC in November 2026; next decision is Dec 8-9"
+      "name": "US Midterm Election Results (finalizing)",
+      "time": "2026-11-04 12:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Bank of England Rate Decision",
+      "time": "2026-11-05 12:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $77K 하방압력, $78,677 저항 돌파실패, ETF유출·기술지표 약세",
-  "updated": "2026-11-04 00:33:00 UTC",
-  "valid_until": "2026-11-04 04:33:00 UTC",
+  "notes": "미국 중간선거·바이낸스 해킹 여파, BTC 77K 하방 압력 지속",
+  "updated": "2026-11-04 06:33:00 UTC",
+  "valid_until": "2026-11-04 10:33:00 UTC",
   "analysis_summary": {
-    "price_range_24h": {"low": 76277.78, "high": 77997.18},
+    "price_range_24h": {"low": 75729, "high": 77662},
     "trend": "bearish",
-    "key_resistance": 78677,
-    "key_support": 76400,
-    "rsi_approx": 34,
+    "key_resistance": 78000,
+    "key_support": 76000,
+    "fear_greed_index": 45,
+    "fear_greed_label": "Neutral",
     "etf_flow": "outflows",
-    "technical_signal": "strong_sell",
-    "sources": ["dailyforex", "admiralmarkets", "investing.com", "crypto.com_live"]
+    "sentiment": "weak",
+    "sources": ["sundayguardianlive", "analyticsinsight", "cfgi.io", "bloomingbit", "fxstreet"]
   }
 }
