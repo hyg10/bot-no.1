@@ -1,15 +1,27 @@
 {
-  "regime": "neutral",
-  "confidence": 0.4,
+  "regime": "bearish",
+  "confidence": 0.65,
+  "btc_price_usd": 76988.38,
   "key_events_next_24h": [
     {
-      "name": "No major macro events (CPI Nov 10, FOMC Dec)",
-      "time": "2026-11-10 08:30 UTC",
+      "name": "FOMC Next Meeting",
+      "time": "2026-12-08 14:00 UTC",
       "impact": "low",
-      "expected_direction": "neutral"
+      "expected_direction": "neutral",
+      "note": "No FOMC in November 2026; next decision is Dec 8-9"
     }
   ],
-  "notes": "BTC $77,787 소폭 상승, ETF 유출 $4억 혼조세",
-  "updated": "2026-11-03 18:35:00 UTC",
-  "valid_until": "2026-11-03 22:35:00 UTC"
+  "notes": "BTC $77K 하방압력, $78,677 저항 돌파실패, ETF유출·기술지표 약세",
+  "updated": "2026-11-04 00:33:00 UTC",
+  "valid_until": "2026-11-04 04:33:00 UTC",
+  "analysis_summary": {
+    "price_range_24h": {"low": 76277.78, "high": 77997.18},
+    "trend": "bearish",
+    "key_resistance": 78677,
+    "key_support": 76400,
+    "rsi_approx": 34,
+    "etf_flow": "outflows",
+    "technical_signal": "strong_sell",
+    "sources": ["dailyforex", "admiralmarkets", "investing.com", "crypto.com_live"]
+  }
 }
