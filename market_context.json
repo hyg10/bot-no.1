@@ -1,15 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.55,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US Spot BTC ETF Daily Flow Report",
-      "time": "2026-11-05 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "name": "US October Non-Farm Payrolls (Jobs Report)",
+      "time": "2026-11-06 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "ETF 누적 5억달러 순유출, $78K→$80K 단기 반등세. CPI 11/10 주목",
-  "updated": "2026-11-05 12:35:00 UTC",
-  "valid_until": "2026-11-05 16:35:00 UTC"
+  "notes": "BTC $77K권 하락세, ETF 주간 $1.16B 유출. 고용지표 발표 대기",
+  "updated": "2026-11-05 10:00:00 UTC",
+  "valid_until": "2026-11-05 14:00:00 UTC"
 }
