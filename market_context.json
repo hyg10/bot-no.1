@@ -1,30 +1,15 @@
 {
-  "regime": "neutral",
-  "confidence": 0.4,
-  "btc_price_usd": 80406.20,
-  "price_change_24h_pct": 3.21,
-  "price_range_24h": {"low": 77790.17, "high": 81136.85},
+  "regime": "bearish",
+  "confidence": 0.55,
   "key_events_next_24h": [
     {
-      "name": "US Midterm Election Aftermath (Democrat Congress win)",
-      "time": "2026-11-05 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Fed Hawkish Tone / Rate Hold (3.50-3.75%)",
-      "time": "2026-11-05 18:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC ETF Flow Data (ongoing outflows)",
-      "time": "2026-11-05 20:00 UTC",
+      "name": "US Spot BTC ETF Daily Flow Report",
+      "time": "2026-11-05 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "중간선거 쇼트스퀴즈로 반등, ETF유출·연준매파 지속으로 중립",
-  "updated": "2026-11-05 06:35:00 UTC",
-  "valid_until": "2026-11-05 10:35:00 UTC"
+  "notes": "ETF 누적 5억달러 순유출, $78K→$80K 단기 반등세. CPI 11/10 주목",
+  "updated": "2026-11-05 12:35:00 UTC",
+  "valid_until": "2026-11-05 16:35:00 UTC"
 }
