@@ -1,19 +1,30 @@
 {
-  "regime": "bearish",
-  "confidence": 0.55,
-  "btc_price_usd": 80698.36,
-  "btc_24h_high": 81211.61,
-  "btc_24h_low": 75729.73,
-  "btc_24h_change_pct": 0.046,
+  "regime": "neutral",
+  "confidence": 0.4,
+  "btc_price_usd": 80406.20,
+  "price_change_24h_pct": 3.21,
+  "price_range_24h": {"low": 77790.17, "high": 81136.85},
   "key_events_next_24h": [
     {
-      "name": "Bank of England MPC Rate Decision",
-      "time": "2026-11-05 12:00 UTC",
-      "impact": "low",
+      "name": "US Midterm Election Aftermath (Democrat Congress win)",
+      "time": "2026-11-05 00:00 UTC",
+      "impact": "high",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Fed Hawkish Tone / Rate Hold (3.50-3.75%)",
+      "time": "2026-11-05 18:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "BTC ETF Flow Data (ongoing outflows)",
+      "time": "2026-11-05 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC 약세, 미중 갈등 지속·$80,698 등락 혼조세",
-  "updated": "2026-11-05 00:35:00 UTC",
-  "valid_until": "2026-11-05 04:35:00 UTC"
+  "notes": "중간선거 쇼트스퀴즈로 반등, ETF유출·연준매파 지속으로 중립",
+  "updated": "2026-11-05 06:35:00 UTC",
+  "valid_until": "2026-11-05 10:35:00 UTC"
 }
