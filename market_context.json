@@ -1,11 +1,19 @@
 {
-  "regime": "neutral",
-  "confidence": 0.4,
+  "regime": "bearish",
+  "confidence": 0.55,
+  "btc_price_usd": 80698.36,
+  "btc_24h_high": 81211.61,
+  "btc_24h_low": 75729.73,
+  "btc_24h_change_pct": 0.046,
   "key_events_next_24h": [
-    {"name": "US Midterm Election Results Digestion", "time": "2026-11-04 00:00 UTC", "impact": "medium", "expected_direction": "bullish"},
-    {"name": "FOMC October Minutes Release (upcoming)", "time": "2026-11-18 19:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "Bank of England MPC Rate Decision",
+      "time": "2026-11-05 12:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "BTC $75.6K→$80.5K 반등, 중간선거 후 숏 청산 $380M. 11월 최악 경로 우려.",
-  "updated": "2026-11-04 16:00:00 UTC",
-  "valid_until": "2026-11-04 20:00:00 UTC"
+  "notes": "BTC 약세, 미중 갈등 지속·$80,698 등락 혼조세",
+  "updated": "2026-11-05 00:35:00 UTC",
+  "valid_until": "2026-11-05 04:35:00 UTC"
 }
