@@ -1,28 +1,25 @@
 {
   "regime": "bearish",
-  "confidence": 0.6,
-  "btc_price_usd": 75628,
+  "confidence": 0.65,
+  "btc_price_usd": 76115.96,
+  "btc_24h_change_pct": -4.73,
+  "btc_24h_high": 79902.84,
+  "btc_24h_low": 75101.00,
   "key_events_next_24h": [
     {
-      "name": "US Midterm Election Uncertainty",
-      "time": "2026-11-06 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "No FOMC meeting this month (last: Oct 28 held at 3.75-4%)",
-      "time": "N/A",
+      "name": "No major macro events scheduled",
+      "time": "2026-11-06 12:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "El Salvador Bitcoin National Events begin",
-      "time": "2026-11-10 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "bullish"
+      "name": "US CPI Report (October)",
+      "time": "2026-11-10 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC -6% 하락, 선거 불확실성·약세 심리 지배",
-  "updated": "2026-11-06 06:35:00 UTC",
-  "valid_until": "2026-11-06 10:35:00 UTC"
+  "notes": "BTC -4.7% 하락, 7년 최악 11월 진행 중, 공포 심리 극단적",
+  "updated": "2026-11-06 12:35:00 UTC",
+  "valid_until": "2026-11-06 16:35:00 UTC"
 }
