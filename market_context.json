@@ -1,44 +1,28 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 76197.90,
-  "price_24h_high": 80856.82,
-  "price_24h_low": 75101.00,
-  "price_change_24h_pct": -5.61,
+  "confidence": 0.6,
+  "btc_price_usd": 75628,
   "key_events_next_24h": [
     {
-      "name": "FOMC October 2026 Minutes Release",
-      "time": "2026-11-18 19:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Hawkish tilt expected; 9 of 18 officials projected rate hike"
+      "name": "US Midterm Election Uncertainty",
+      "time": "2026-11-06 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     },
     {
-      "name": "Next FOMC Rate Decision",
-      "time": "2026-12-09 19:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Rate hike probability ~28% priced in"
+      "name": "No FOMC meeting this month (last: Oct 28 held at 3.75-4%)",
+      "time": "N/A",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "El Salvador Bitcoin National Events begin",
+      "time": "2026-11-10 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "bullish"
     }
   ],
-  "sentiment": {
-    "fear_greed_index": 45,
-    "fear_greed_label": "Fear",
-    "santiment_bull_bear_ratio": 0.51,
-    "note": "Santiment ratio at 0.51 (bearish); retail activity multi-year low"
-  },
-  "macro_context": {
-    "sp500_24h_change_pct": -4.4,
-    "nasdaq_24h_change_pct": -5.5,
-    "fed_rate_range": "3.75%-4.00%",
-    "drivers": [
-      "US election uncertainty",
-      "Broad equity market selloff",
-      "Binance hack (~$6.3B) dampening sentiment",
-      "Hawkish Fed signals for December meeting"
-    ]
-  },
-  "notes": "BTC -5.6% 하락, 글로벌 매도세·약세 감성 지속",
-  "updated": "2026-11-06 00:35:00 UTC",
-  "valid_until": "2026-11-06 04:35:00 UTC"
+  "notes": "BTC -6% 하락, 선거 불확실성·약세 심리 지배",
+  "updated": "2026-11-06 06:35:00 UTC",
+  "valid_until": "2026-11-06 10:35:00 UTC"
 }
