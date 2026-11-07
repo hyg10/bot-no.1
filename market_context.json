@@ -1,12 +1,23 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 76000,
-  "key_events_next_24h": [
-    {"name": "No major macro events scheduled", "time": "2026-11-07 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
-    {"name": "US CPI (Oct 2026) - upcoming", "time": "2026-11-10 13:30 UTC", "impact": "high", "expected_direction": "neutral"}
+  "btc_price_usd": 75957.06,
+  "key_events_next_24h": [],
+  "upcoming_events": [
+    {
+      "name": "US CPI (October)",
+      "time": "2026-11-10 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US PPI (October)",
+      "time": "2026-11-13 13:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "BTC $76K 하락세, ETF 유출, 11월 최악 가능성",
-  "updated": "2026-11-07 00:33:22 UTC",
-  "valid_until": "2026-11-07 04:33:22 UTC"
+  "notes": "BTC $76K, 11월 최악 전망. CPI(11/10) 대기, 단기 중립",
+  "updated": "2026-11-07 06:34:00 UTC",
+  "valid_until": "2026-11-07 10:34:00 UTC"
 }
