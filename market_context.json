@@ -1,8 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.5,
-  "key_events_next_24h": [],
-  "notes": "10월 -7.3% 하락세, 현재 $75,921, CPI 11/10 대기",
-  "updated": "2026-11-07 12:35:00 UTC",
-  "valid_until": "2026-11-07 16:35:00 UTC"
+  "confidence": 0.6,
+  "key_events_next_24h": [
+    {
+      "name": "US CPI October 2026 Release",
+      "time": "2026-11-10 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    }
+  ],
+  "notes": "BTC 약세 지속, 10월 7.3% 하락. CPI 11/10 발표 주목",
+  "updated": "2026-11-07 18:33:00 UTC",
+  "valid_until": "2026-11-07 22:33:00 UTC"
 }
