@@ -1,16 +1,22 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 75754,
+  "btc_price_usd": 75991,
   "key_events_next_24h": [
     {
-      "name": "US CPI Oct data release",
-      "time": "2026-11-10 13:30 UTC",
-      "impact": "high",
+      "name": "Pre-CPI positioning (Oct CPI due Nov 10 08:30 ET)",
+      "time": "2026-11-09 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Spot Bitcoin ETF daily flow data",
+      "time": "2026-11-08 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "공포지수 25(극단적 공포), 기술지표 23개 약세, BTC $75K 지지선 주시",
-  "updated": "2026-11-08 06:33:00 UTC",
-  "valid_until": "2026-11-08 10:33:00 UTC"
+  "notes": "BTC $76K 약세, 공포지수 34, ETF 유출 지속, 10월 -7.3%",
+  "updated": "2026-11-08 12:35:00 UTC",
+  "valid_until": "2026-11-08 16:35:00 UTC"
 }
