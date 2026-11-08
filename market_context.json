@@ -1,15 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.6,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US CPI October 2026 Release",
+      "name": "No high-impact macro releases in next 24h",
+      "time": "2026-11-08 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "US CPI October 2026 (pre-event caution)",
       "time": "2026-11-10 13:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC 약세 지속, 10월 7.3% 하락. CPI 11/10 발표 주목",
-  "updated": "2026-11-07 18:33:00 UTC",
-  "valid_until": "2026-11-07 22:33:00 UTC"
+  "notes": "BTC $75,690, 공포지수 34, ETF 유출세, 약세 지속",
+  "updated": "2026-11-08 00:33:00 UTC",
+  "valid_until": "2026-11-08 04:33:00 UTC"
 }
