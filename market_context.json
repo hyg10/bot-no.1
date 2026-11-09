@@ -1,29 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.60,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "US Midterm Election Results Fallout",
-      "time": "2026-11-09 13:00 UTC",
+      "name": "US CPI Inflation Data Release",
+      "time": "2026-11-10 13:30 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     },
     {
-      "name": "BTC Spot ETF Daily Flow Report",
-      "time": "2026-11-09 20:00 UTC",
+      "name": "Bitcoin ETF Daily Flow Report",
+      "time": "2026-11-09 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC ETF 순유출, 미드텀 불확실성, 소셜 센티먼트 하락세",
-  "updated": "2026-11-09 12:33:00 UTC",
-  "valid_until": "2026-11-09 16:33:00 UTC",
-  "price_snapshot": {
-    "price_usd": 74907.67,
-    "change_24h_pct": -1.31,
-    "high_24h": 76114.43,
-    "low_24h": 73325.70,
-    "source": "crypto.com",
-    "as_of": "2026-11-09T12:33:24Z"
-  }
+  "notes": "BTC $74,600, ETF 주간유출 $1.28B, 공포지수 32, CPI 대기",
+  "updated": "2026-11-09 18:32:59 UTC",
+  "valid_until": "2026-11-09 22:32:59 UTC"
 }
