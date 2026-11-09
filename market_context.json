@@ -3,25 +3,19 @@
   "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US Midterm Elections Results",
-      "time": "2026-11-09 05:00 UTC",
+      "name": "US CPI Report (October data)",
+      "time": "2026-11-10 13:30 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
     },
     {
-      "name": "BTC Spot ETF Daily Flow Data",
-      "time": "2026-11-09 21:00 UTC",
+      "name": "US PPI Report (October data)",
+      "time": "2026-11-13 13:30 UTC",
       "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "FOMC Minutes Release",
-      "time": "2026-11-18 19:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $74K 급락, 10억달러 청산. ETF 유출, 공포지수 34",
-  "updated": "2026-11-09 06:30:00 UTC",
-  "valid_until": "2026-11-09 10:30:00 UTC"
+  "notes": "BTC $78K 부근 약세, ETF 유출·CPI 발표 앞두고 불확실성 고조",
+  "updated": "2026-11-09 06:00:00 UTC",
+  "valid_until": "2026-11-09 10:00:00 UTC"
 }
