@@ -1,11 +1,26 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.65,
   "key_events_next_24h": [
-    {"name": "No major scheduled macro events found", "time": "2026-11-10 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
-    {"name": "BTC Spot ETF daily flow data", "time": "2026-11-10 20:00 UTC", "impact": "medium", "expected_direction": "bearish"}
+    {
+      "name": "US CPI Oct 2026 (released 13:30 UTC)",
+      "time": "2026-11-10 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "neutral",
+      "note": "Came in +0.3% MoM, in-line with estimates. Inflation 2.6% YoY. Kashkari: heading right direction."
+    },
+    {
+      "name": "BTC/ETH Spot ETF Daily Flow",
+      "time": "2026-11-10 20:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    }
   ],
-  "notes": "BTC $74,235 하락세, 공포지수 34, ETF 연속 자금유출 중",
-  "updated": "2026-11-10 12:35:00 UTC",
-  "valid_until": "2026-11-10 16:35:00 UTC"
+  "notes": "BTC $76K 하락세, CPI 예상치 부합, ETF 순유출, 공포지수 34",
+  "updated": "2026-11-10 18:33:00 UTC",
+  "valid_until": "2026-11-10 22:33:00 UTC",
+  "price_ref": "~$76,024 (Nov 6 2026 last known)",
+  "etf_flows": "Net outflows $530M+ on Nov 6; $1.3B outflows for 2nd consecutive week",
+  "fear_greed_index": 34,
+  "analysis": "BTC has fallen from ~$106K (Nov 2025) to ~$76K (Nov 2026). Fear sentiment dominant. ETF outflows sustained. CPI in-line with expectations (neutral-slightly positive) but insufficient to reverse macro bearish trend. Fed holds at 3.75-4%, next FOMC Dec 9."
 }
