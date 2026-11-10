@@ -1,21 +1,16 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
+  "confidence": 0.60,
+  "btc_price_usd": 74969,
   "key_events_next_24h": [
     {
-      "name": "US CPI Inflation Data Release",
+      "name": "October 2026 CPI Release (US BLS)",
       "time": "2026-11-10 13:30 UTC",
       "impact": "high",
       "expected_direction": "neutral"
-    },
-    {
-      "name": "Bitcoin ETF Daily Flow Report",
-      "time": "2026-11-09 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $74,600, ETF 주간유출 $1.28B, 공포지수 32, CPI 대기",
-  "updated": "2026-11-09 18:32:59 UTC",
-  "valid_until": "2026-11-09 22:32:59 UTC"
+  "notes": "BTC $75k권, ETF 유출·청산 $10억↑, CPI 발표 예정, 하락 압력",
+  "updated": "2026-11-10 00:33:05 UTC",
+  "valid_until": "2026-11-10 04:33:05 UTC"
 }
