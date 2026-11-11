@@ -1,12 +1,22 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 73693.05,
+  "confidence": 0.7,
+  "btc_price_usd": 73763,
   "key_events_next_24h": [
-    {"name": "US Veterans Day (low liquidity)", "time": "2026-11-11 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
-    {"name": "FOMC Minutes (Oct 27-28 meeting)", "time": "2026-11-18 19:00 UTC", "impact": "medium", "expected_direction": "neutral"}
+    {
+      "name": "Hot CPI data digestion (Oct CPI released Nov 10, above expectations)",
+      "time": "2026-11-11 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Fed December 25bp rate hike expectations priced in",
+      "time": "2026-11-11 14:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    }
   ],
-  "notes": "BTC $73.7K 하락세, 미중 긴장·자금유출 지속, 베어리시",
-  "updated": "2026-11-11 00:33:00 UTC",
-  "valid_until": "2026-11-11 04:33:00 UTC"
+  "notes": "BTC 200일 MA 하회, ETF 대규모 유출, 뜨거운 CPI 하락 압력",
+  "updated": "2026-11-11 06:35:00 UTC",
+  "valid_until": "2026-11-11 10:35:00 UTC"
 }
