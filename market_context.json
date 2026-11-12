@@ -1,15 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.45,
   "key_events_next_24h": [
     {
-      "name": "US PPI (Oct 2026) Release",
-      "time": "2026-11-13 13:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
+      "name": "PPI (Oct 2026) - possible release",
+      "time": "2026-11-13 08:30 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $72,857 하락세, ETF 자금유출, $95K 저항 실패. PPI 발표 주의",
-  "updated": "2026-11-12 12:33:00 UTC",
-  "valid_until": "2026-11-12 16:33:00 UTC"
+  "notes": "BTC 7만4천달러대 하락세, CPI발표완료, 다음FOMC는12월",
+  "updated": "2026-11-12 18:32:44 UTC",
+  "valid_until": "2026-11-12 22:32:44 UTC"
 }
