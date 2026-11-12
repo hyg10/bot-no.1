@@ -1,21 +1,22 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.70,
+  "btc_price_usd": 74075.66,
   "key_events_next_24h": [
     {
-      "name": "Veterans Day - US Bond Markets Closed",
-      "time": "2026-11-11 00:00 UTC",
+      "name": "No major scheduled macro releases",
+      "time": "2026-11-12 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "US PPI Data Release (October)",
-      "time": "2026-11-13 13:30 UTC",
+      "name": "Fed hawkish stance (rates held 3.5-3.75%, hike signals)",
+      "time": "2026-11-12 00:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $74.5K 하락세, ETF 자금 유출 지속, 공포 지수 34",
-  "updated": "2026-11-11 18:33:00 UTC",
-  "valid_until": "2026-11-11 22:33:00 UTC"
+  "notes": "BTC $74K 하락세, 공포지수 34, ETF 자금유출 지속",
+  "updated": "2026-11-12 00:33:00 UTC",
+  "valid_until": "2026-11-12 04:33:00 UTC"
 }
