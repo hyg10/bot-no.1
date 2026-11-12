@@ -1,12 +1,15 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 73606.05,
-  "price_change_24h_pct": -0.36,
   "key_events_next_24h": [
-    {"name": "No major scheduled macro releases", "time": "2026-11-12 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "US PPI (Oct 2026) Release",
+      "time": "2026-11-13 13:30 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    }
   ],
-  "notes": "BTC $73,606, 2026 약세장 지속. 10월比 -8.7%. FOMC 의사록 11/18",
-  "updated": "2026-11-12 06:35:00 UTC",
-  "valid_until": "2026-11-12 10:35:00 UTC"
+  "notes": "BTC $72,857 하락세, ETF 자금유출, $95K 저항 실패. PPI 발표 주의",
+  "updated": "2026-11-12 12:33:00 UTC",
+  "valid_until": "2026-11-12 16:33:00 UTC"
 }
