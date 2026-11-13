@@ -1,21 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.85,
+  "confidence": 0.70,
   "key_events_next_24h": [
     {
-      "name": "BTC Spot ETF Flow Data (Daily)",
-      "time": "2026-11-13 20:00 UTC",
-      "impact": "medium",
+      "name": "US PPI (Oct 2026)",
+      "time": "2026-11-13 13:30 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "Fed Rate Environment (Hawkish Hold - 3.5-3.75%)",
-      "time": "2026-11-13 00:00 UTC",
+      "name": "BTC Spot ETF Daily Flow",
+      "time": "2026-11-13 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $68,843 (-6.4%), 극단적 공포, 엔비디아 CEO 사임·ETF 유출 지속",
-  "updated": "2026-11-13 06:33:00 UTC",
-  "valid_until": "2026-11-13 10:33:00 UTC"
+  "notes": "CPI 쇼크 후 BTC 급락, PPI 발표 임박, ETF 대규모 유출 지속",
+  "updated": "2026-11-13 12:35:00 UTC",
+  "valid_until": "2026-11-13 16:35:00 UTC"
 }
