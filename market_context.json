@@ -1,33 +1,15 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 68930.76,
-  "price_24h_high": 72081.99,
-  "price_24h_low": 67550.28,
-  "price_change_24h_pct": -4.24,
   "key_events_next_24h": [
     {
-      "name": "US PPI (Oct) Release",
-      "time": "2026-11-13 13:30 UTC",
+      "name": "FOMC Minutes Release (upcoming Nov 18)",
+      "time": "2026-11-18 14:00 UTC",
       "impact": "medium",
-      "expected_direction": "bearish",
-      "note": "Already released today; outcome unknown but CPI week = risk-off context"
-    },
-    {
-      "name": "No FOMC or major macro event",
-      "time": "2026-11-14 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral",
-      "note": "Next FOMC is Dec 9-10, 2026"
+      "expected_direction": "bearish"
     }
   ],
-  "sentiment": {
-    "fear_greed_index": 34,
-    "label": "Fear",
-    "etf_flows": "net_outflow",
-    "etf_note": "BlackRock sold $105M BTC; 6 ETFs had outflows on Nov 5"
-  },
-  "notes": "BTC $68.9K 하락세, 공포지수 34, ETF 자금유출 지속",
-  "updated": "2026-11-13 18:33:00 UTC",
-  "valid_until": "2026-11-13 22:33:00 UTC"
+  "notes": "BTC $69K, 주간 -9% 하락세. ETF 자금유출, 약세 지속",
+  "updated": "2026-11-14 10:30:00 UTC",
+  "valid_until": "2026-11-14 14:30:00 UTC"
 }
