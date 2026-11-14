@@ -2,9 +2,14 @@
   "regime": "bearish",
   "confidence": 0.65,
   "key_events_next_24h": [
-    {"name": "No major macro events scheduled", "time": "2026-11-14 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "No major macro releases scheduled",
+      "time": "2026-11-14 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "BTC $74K대 하락세 지속, 11월 CPI/PPI 이미 발표, 다음 FOMC 12월",
-  "updated": "2026-11-14 06:33:00 UTC",
-  "valid_until": "2026-11-14 10:33:00 UTC"
+  "notes": "BTC $67K대, 11월 약 20% 하락. 공포지수 34, ETF 유출. 기관 매수 주목.",
+  "updated": "2026-11-14 12:35:00 UTC",
+  "valid_until": "2026-11-14 16:35:00 UTC"
 }
