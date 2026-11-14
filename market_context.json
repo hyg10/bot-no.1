@@ -3,13 +3,20 @@
   "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "No major macro releases scheduled",
+      "name": "No major scheduled economic events",
       "time": "2026-11-14 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "FOMC October Meeting Minutes (upcoming)",
+      "time": "2026-11-18 19:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $67K대, 11월 약 20% 하락. 공포지수 34, ETF 유출. 기관 매수 주목.",
-  "updated": "2026-11-14 12:35:00 UTC",
-  "valid_until": "2026-11-14 16:35:00 UTC"
+  "notes": "BTC $74K 하락세, 1개월 -11%, 24h 이벤트 없음",
+  "btc_price_approx": 73938,
+  "updated": "2026-11-14 09:00:00 UTC",
+  "valid_until": "2026-11-14 13:00:00 UTC"
 }
