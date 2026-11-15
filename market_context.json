@@ -1,21 +1,10 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
+  "confidence": 0.75,
   "key_events_next_24h": [
-    {
-      "name": "No major scheduled macro releases (CPI Nov 10 / PPI Nov 13 already released)",
-      "time": "2026-11-15 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC October meeting minutes release",
-      "time": "2026-11-18 19:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    }
+    {"name": "No major scheduled macro events", "time": "2026-11-15 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $65.5K, 공포지수 26, Fed 금리인상 여파, 약세 지속",
-  "updated": "2026-11-15 12:33:00 UTC",
-  "valid_until": "2026-11-15 16:33:00 UTC"
+  "notes": "BTC 23% 하락, 극도 공포 지수(17), ETF 유출 지속, 약세장",
+  "updated": "2026-11-15 12:00:00 UTC",
+  "valid_until": "2026-11-15 16:00:00 UTC"
 }
