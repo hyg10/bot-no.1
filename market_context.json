@@ -1,12 +1,12 @@
 {
   "regime": "bearish",
-  "confidence": 0.78,
+  "confidence": 0.65,
+  "btc_price_usd": 63982.1,
   "key_events_next_24h": [
-    {"name": "Fed Governor Speeches (Multiple)", "time": "2026-11-16 14:00 UTC", "impact": "high", "expected_direction": "bearish"},
-    {"name": "Nvidia Q3 Earnings", "time": "2026-11-16 21:00 UTC", "impact": "medium", "expected_direction": "neutral"},
-    {"name": "US Spot BTC ETF Flow Data", "time": "2026-11-16 20:00 UTC", "impact": "medium", "expected_direction": "bearish"}
+    {"name": "No major macro releases scheduled", "time": "2026-11-16 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
+    {"name": "Next FOMC Meeting (December)", "time": "2026-12-09 14:00 UTC", "impact": "high", "expected_direction": "neutral"}
   ],
-  "notes": "공포지수 10, 5주 연속 하락, ETF 순유출 지속, Fed 금리인상 우려",
-  "updated": "2026-11-16 06:32:52 UTC",
-  "valid_until": "2026-11-16 10:32:52 UTC"
+  "notes": "BTC 7일 -13%, 공포지수 34, ETF 대량 유출, 단기 약세",
+  "updated": "2026-11-16 12:35:00 UTC",
+  "valid_until": "2026-11-16 16:35:00 UTC"
 }
