@@ -1,10 +1,18 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
+  "confidence": 0.65,
+  "btc_price_usd": 65035.51,
+  "price_24h_change_pct": 2.04,
+  "price_24h_range": {"low": 61991.45, "high": 66151.06},
   "key_events_next_24h": [
-    {"name": "No major scheduled macro events", "time": "2026-11-15 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "No major macro event scheduled (CPI released Nov 10, FOMC next in Dec 2026)",
+      "time": "2026-11-16 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "BTC 23% 하락, 극도 공포 지수(17), ETF 유출 지속, 약세장",
-  "updated": "2026-11-15 12:00:00 UTC",
-  "valid_until": "2026-11-15 16:00:00 UTC"
+  "notes": "BTC $65K, 9월 고점 대비 -22% 하락세, 공포 심리 지속",
+  "updated": "2026-11-16 00:33:00 UTC",
+  "valid_until": "2026-11-16 04:33:00 UTC"
 }
