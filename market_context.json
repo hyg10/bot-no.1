@@ -1,12 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 63982.1,
+  "confidence": 0.70,
   "key_events_next_24h": [
-    {"name": "No major macro releases scheduled", "time": "2026-11-16 00:00 UTC", "impact": "low", "expected_direction": "neutral"},
-    {"name": "Next FOMC Meeting (December)", "time": "2026-12-09 14:00 UTC", "impact": "high", "expected_direction": "neutral"}
+    {
+      "name": "FOMC Oct 27-28 Meeting Minutes Release",
+      "time": "2026-11-18 19:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    }
   ],
-  "notes": "BTC 7일 -13%, 공포지수 34, ETF 대량 유출, 단기 약세",
-  "updated": "2026-11-16 12:35:00 UTC",
-  "valid_until": "2026-11-16 16:35:00 UTC"
+  "notes": "BTC $64K, 11월 ETF 순유출 $514M, 단기보유자 원가 $76K 하회, 약세",
+  "updated": "2026-11-16 18:33:20 UTC",
+  "valid_until": "2026-11-16 22:33:20 UTC"
 }
