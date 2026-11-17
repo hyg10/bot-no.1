@@ -2,9 +2,9 @@
   "regime": "bearish",
   "confidence": 0.65,
   "key_events_next_24h": [
-    {"name": "No Major Scheduled Events", "time": "2026-11-17 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {"name": "No major macro events scheduled", "time": "2026-11-17 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $64K대 하락, ETF 유출 지속, 공포 심리 지배",
-  "updated": "2026-11-17 00:33:34 UTC",
-  "valid_until": "2026-11-17 04:33:34 UTC"
+  "notes": "BTC 7일 -11.86%, $65K 근방, 약세 심리 지속, 거시 이벤트 없음",
+  "updated": "2026-11-17 13:30:00 UTC",
+  "valid_until": "2026-11-17 17:30:00 UTC"
 }
