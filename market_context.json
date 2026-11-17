@@ -1,24 +1,11 @@
 {
   "regime": "bearish",
-  "confidence": 0.6,
-  "btc_price_usd": 64838.14,
-  "price_change_24h_pct": 1.35,
-  "price_change_7d_pct": -11.86,
+  "confidence": 0.55,
   "key_events_next_24h": [
-    {
-      "name": "US Retail Sales (Oct 2026)",
-      "time": "2026-11-18 13:30 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Minutes (Oct 28 meeting - Fed held 3.75-4.00%)",
-      "time": "2026-11-19 19:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    }
+    {"name": "FOMC Minutes (Oct meeting)", "time": "2026-11-18 19:00 UTC", "impact": "high", "expected_direction": "bearish"},
+    {"name": "Fed Governor Waller Dec hike signal", "time": "2026-11-17 00:00 UTC", "impact": "medium", "expected_direction": "bearish"}
   ],
-  "notes": "주간 -11.9% 하락세, 단기 반등 +1.4%. FOMC 의사록 수요일 예정",
-  "updated": "2026-11-17 12:35:00 UTC",
-  "valid_until": "2026-11-17 16:35:00 UTC"
+  "notes": "BTC $63.8K 하락(-1.55%), FOMC의사록 내일, 연준 12월 금리인상 예고",
+  "updated": "2026-11-17 18:33:00 UTC",
+  "valid_until": "2026-11-17 22:33:00 UTC"
 }
