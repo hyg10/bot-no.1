@@ -1,15 +1,10 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
+  "confidence": 0.65,
   "key_events_next_24h": [
-    {
-      "name": "FOMC Oct 27-28 Meeting Minutes Release",
-      "time": "2026-11-18 19:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    }
+    {"name": "No Major Scheduled Events", "time": "2026-11-17 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $64K, 11월 ETF 순유출 $514M, 단기보유자 원가 $76K 하회, 약세",
-  "updated": "2026-11-16 18:33:20 UTC",
-  "valid_until": "2026-11-16 22:33:20 UTC"
+  "notes": "BTC $64K대 하락, ETF 유출 지속, 공포 심리 지배",
+  "updated": "2026-11-17 00:33:34 UTC",
+  "valid_until": "2026-11-17 04:33:34 UTC"
 }
