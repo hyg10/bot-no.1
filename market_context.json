@@ -1,23 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "No major macro releases",
-      "time": "2026-11-18 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "FOMC Minutes Release (October 2026 Meeting)",
+      "time": "2026-11-18 19:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "BTC ETF Daily Flow Data",
+      "time": "2026-11-18 21:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "ETF 자금유출 지속, $65K 아래 약세장, $62K 지지 주시",
-  "updated": "2026-11-18 12:35:00 UTC",
-  "valid_until": "2026-11-18 16:35:00 UTC",
-  "price_snapshot": {
-    "price": 64173.61,
-    "change_24h_pct": -1.04,
-    "high_24h": 65399.99,
-    "low_24h": 63285.40,
-    "source": "crypto.com live"
-  },
-  "analysis_summary": "BTC trading at $64,173, down 1.04% on the day. Below 200-week SMA (~$68K). ETF outflows: $69M Monday, $1.07B cumulative last week. Bears in control with resistance at $66K-$68.5K and support at $62K. Oversold RSI may limit immediate downside."
+  "notes": "BTC $63,118 하락세 지속, ETF 유출·주요MA 하회, RSI 과매도",
+  "updated": "2026-11-18 18:35:00 UTC",
+  "valid_until": "2026-11-18 22:35:00 UTC"
 }
