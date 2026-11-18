@@ -1,28 +1,29 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
-  "btc_price_usd": 64782.79,
+  "confidence": 0.65,
+  "btc_price_approx": 64500,
+  "fear_greed_index": 10,
   "key_events_next_24h": [
     {
-      "name": "Nvidia Earnings Report",
-      "time": "2026-11-18 21:00 UTC",
+      "name": "FOMC Minutes Release (Nov Meeting)",
+      "time": "2026-11-18 19:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "US Retail Sales (Oct)",
+      "time": "2026-11-19 13:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Next Meeting (Dec 8-9)",
-      "time": "2026-12-09 19:00 UTC",
-      "impact": "high",
+      "name": "US Philly Fed Manufacturing Index (Nov)",
+      "time": "2026-11-19 13:30 UTC",
+      "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "극심한공포(FGI:12), 기술지표76%하락, $50K경고",
-  "updated": "2026-11-18 00:40:00 UTC",
-  "valid_until": "2026-11-18 04:40:00 UTC",
-  "sources": {
-    "price": "Crypto.com ticker BTC_USD at 2026-11-18T00:32:40Z",
-    "sentiment": "CoinCodex Fear&Greed=12 (Extreme Fear), 76% bearish technicals",
-    "news_summary": "Wintermute warns $50K crash; BTC below all major EMAs; ETF outflows; failed $95K resistance",
-    "macro": "No FOMC/CPI in next 24h; next FOMC Dec 8-9 2026"
-  }
+  "notes": "BTC $64k 약세, 공포지수 10, ETF 유출 $240M",
+  "updated": "2026-11-18 07:00:00 UTC",
+  "valid_until": "2026-11-18 11:00:00 UTC"
 }
