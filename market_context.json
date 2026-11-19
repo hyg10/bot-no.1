@@ -1,21 +1,14 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.65,
+  "btc_price_usd": 62914.4,
+  "btc_24h_change_pct": -2.83,
+  "btc_24h_high": 64889.8,
+  "btc_24h_low": 61983.7,
   "key_events_next_24h": [
-    {
-      "name": "FOMC Minutes Release (October 2026 Meeting)",
-      "time": "2026-11-18 19:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC ETF Daily Flow Data",
-      "time": "2026-11-18 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    }
+    {"name": "No major scheduled macro events", "time": "2026-11-19 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $63,118 하락세 지속, ETF 유출·주요MA 하회, RSI 과매도",
-  "updated": "2026-11-18 18:35:00 UTC",
-  "valid_until": "2026-11-18 22:35:00 UTC"
+  "notes": "BTC -2.83% 하락, 공포 심리 지속, 주요 이벤트 없음",
+  "updated": "2026-11-19 00:33:22 UTC",
+  "valid_until": "2026-11-19 04:33:22 UTC"
 }
