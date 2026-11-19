@@ -1,14 +1,22 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 62914.4,
-  "btc_24h_change_pct": -2.83,
-  "btc_24h_high": 64889.8,
-  "btc_24h_low": 61983.7,
+  "btc_price_usd": 63627,
   "key_events_next_24h": [
-    {"name": "No major scheduled macro events", "time": "2026-11-19 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "No major scheduled macro events",
+      "time": "2026-11-19 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "FOMC Meeting (next)",
+      "time": "2026-12-08 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    }
   ],
-  "notes": "BTC -2.83% 하락, 공포 심리 지속, 주요 이벤트 없음",
-  "updated": "2026-11-19 00:33:22 UTC",
-  "valid_until": "2026-11-19 04:33:22 UTC"
+  "notes": "BTC $63,627 하락세, 연준 매파적 기조, 약세 심리 지속",
+  "updated": "2026-11-19 06:35:00 UTC",
+  "valid_until": "2026-11-19 10:35:00 UTC"
 }
