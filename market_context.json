@@ -1,22 +1,21 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 63627,
   "key_events_next_24h": [
     {
-      "name": "No major scheduled macro events",
-      "time": "2026-11-19 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
+      "name": "FOMC Minutes Release (November 2026) - Hawkish Rate Hike Signal",
+      "time": "2026-11-19 19:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     },
     {
-      "name": "FOMC Meeting (next)",
-      "time": "2026-12-08 00:00 UTC",
-      "impact": "high",
+      "name": "December FOMC Meeting Preparation (Dec 9-10)",
+      "time": "2026-11-20 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $63,627 하락세, 연준 매파적 기조, 약세 심리 지속",
-  "updated": "2026-11-19 06:35:00 UTC",
-  "valid_until": "2026-11-19 10:35:00 UTC"
+  "notes": "FOMC 매파적 신호로 BTC $63K 하락, ETF 자금 유출 지속",
+  "updated": "2026-11-19 12:35:00 UTC",
+  "valid_until": "2026-11-19 16:35:00 UTC"
 }
