@@ -1,21 +1,10 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
+  "confidence": 0.65,
   "key_events_next_24h": [
-    {
-      "name": "No major macro events scheduled (Nov 20-21)",
-      "time": "2026-11-20 00:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "Fed December rate hike risk - hawkish Oct minutes in effect",
-      "time": "2026-11-20 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    }
+    {"name": "No major macro events scheduled", "time": "2026-11-20 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "BTC $62K 약세, 연준 12월 금리인상 우려, ETF 유출 지속",
-  "updated": "2026-11-20 00:33:00 UTC",
-  "valid_until": "2026-11-20 04:33:00 UTC"
+  "notes": "BTC $64K대, 月20% 하락, Fed 긴축 기조, 기관 자금 유출 지속",
+  "updated": "2026-11-20 06:32:54 UTC",
+  "valid_until": "2026-11-20 10:32:54 UTC"
 }
