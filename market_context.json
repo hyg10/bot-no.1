@@ -1,29 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.65,
-  "btc_price_usd": 63500,
+  "confidence": 0.70,
   "key_events_next_24h": [
     {
-      "name": "FOMC Minutes Aftermath (released Nov 18)",
-      "time": "2026-11-19 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish",
-      "note": "Hawkish tone confirmed; Kevin Warsh Fed signals potential rate hikes, weighing on crypto"
+      "name": "No major macro events scheduled (Nov 20-21)",
+      "time": "2026-11-20 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
-      "name": "BTC ETF Fund Flow Watch",
-      "time": "2026-11-19 16:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral",
-      "note": "Recent ETF outflows ~$398M on Nov 2; BlackRock buying ~$900M is a partial offset"
+      "name": "Fed December rate hike risk - hawkish Oct minutes in effect",
+      "time": "2026-11-20 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $63K 주간-14% 공포심리, 연준 매파적 단기 하락세",
-  "updated": "2026-11-19 09:00:00 UTC",
-  "valid_until": "2026-11-19 13:00:00 UTC",
-  "sources": {
-    "price": "Coinglass ~$63,775 at 08:18 UTC Nov 19",
-    "sentiment": "Fear & Greed ~34 (Fear), BTC -14% weekly",
-    "macro": "FOMC minutes Nov 18 hawkish; Fed rate 3.5-3.75%, Warsh signaling hikes"
-  }
+  "notes": "BTC $62K 약세, 연준 12월 금리인상 우려, ETF 유출 지속",
+  "updated": "2026-11-20 00:33:00 UTC",
+  "valid_until": "2026-11-20 04:33:00 UTC"
 }
