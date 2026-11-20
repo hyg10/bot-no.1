@@ -2,9 +2,26 @@
   "regime": "bearish",
   "confidence": 0.65,
   "key_events_next_24h": [
-    {"name": "No major macro events scheduled", "time": "2026-11-20 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
+    {
+      "name": "No FOMC meeting (next is December)",
+      "time": "2026-12-01 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "Fed holds rates 3.5-3.75% (Oct 28 decision still active)",
+      "time": "2026-11-20 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Kevin Warsh Fed Chair signals potential hikes, inflation 3.6% median projection",
+      "time": "2026-11-20 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
+    }
   ],
-  "notes": "BTC $64K대, 月20% 하락, Fed 긴축 기조, 기관 자금 유출 지속",
-  "updated": "2026-11-20 06:32:54 UTC",
-  "valid_until": "2026-11-20 10:32:54 UTC"
+  "notes": "BTC 13% 급락, 공포지수 34, ETF 대량 유출, 약세 지속",
+  "updated": "2026-11-20 06:00:00 UTC",
+  "valid_until": "2026-11-20 10:00:00 UTC"
 }
