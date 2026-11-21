@@ -1,16 +1,16 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
-  "btc_price_usd": 58539.85,
+  "confidence": 0.72,
+  "btc_price_usd": 60075.68,
   "key_events_next_24h": [
     {
-      "name": "Russia crypto exchange rules effective",
-      "time": "2026-11-22 00:00 UTC",
+      "name": "No major scheduled macro events",
+      "time": "2026-11-21 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "6주 연속 하락, 극도 공포, 연준 매파 기조, BTC $58K",
-  "updated": "2026-11-21 12:33:00 UTC",
-  "valid_until": "2026-11-21 16:33:00 UTC"
+  "notes": "BTC 55K 급락 후 60K 반등, 극도 공포, 6주 연속 하락세",
+  "updated": "2026-11-21 18:33:00 UTC",
+  "valid_until": "2026-11-21 22:33:00 UTC"
 }
