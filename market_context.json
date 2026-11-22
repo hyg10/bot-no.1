@@ -1,26 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "No major scheduled macro events",
+      "name": "No major macro events scheduled (Sunday)",
       "time": "2026-11-22 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "Fed hawkish bias (held at 3.5-3.75% Oct 28 FOMC, next Dec)",
-      "time": "2026-12-01 00:00 UTC",
-      "impact": "medium",
+      "name": "FOMC Next Meeting (Dec 9) - December rate hike risk elevated",
+      "time": "2026-12-09 19:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC 11월 하락세 지속, $64K 근방 매도압력, ETF 유출",
-  "updated": "2026-11-22 00:33:14 UTC",
-  "valid_until": "2026-11-22 04:33:14 UTC",
-  "price_reference": {
-    "btc_usd": 63750,
-    "as_of": "2026-11-19",
-    "source": "Fortune/FXNX"
-  }
+  "notes": "BTC $59K 급락, 극단적공포(12), 12월 금리인상 우려",
+  "updated": "2026-11-22 06:33:30 UTC",
+  "valid_until": "2026-11-22 10:33:30 UTC"
 }
