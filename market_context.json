@@ -1,16 +1,26 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
-  "btc_price_usd": 60075.68,
+  "confidence": 0.70,
   "key_events_next_24h": [
     {
       "name": "No major scheduled macro events",
-      "time": "2026-11-21 00:00 UTC",
+      "time": "2026-11-22 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
+    },
+    {
+      "name": "Fed hawkish bias (held at 3.5-3.75% Oct 28 FOMC, next Dec)",
+      "time": "2026-12-01 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC 55K 급락 후 60K 반등, 극도 공포, 6주 연속 하락세",
-  "updated": "2026-11-21 18:33:00 UTC",
-  "valid_until": "2026-11-21 22:33:00 UTC"
+  "notes": "BTC 11월 하락세 지속, $64K 근방 매도압력, ETF 유출",
+  "updated": "2026-11-22 00:33:14 UTC",
+  "valid_until": "2026-11-22 04:33:14 UTC",
+  "price_reference": {
+    "btc_usd": 63750,
+    "as_of": "2026-11-19",
+    "source": "Fortune/FXNX"
+  }
 }
