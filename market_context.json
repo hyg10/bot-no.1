@@ -1,21 +1,30 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
+  "confidence": 0.65,
+  "btc_price_usd": 60677.1,
+  "price_change_24h_pct": 3.88,
+  "price_range_24h": {"low": 58412.1, "high": 61577.4},
   "key_events_next_24h": [
     {
-      "name": "No major macro events scheduled (Sunday)",
+      "name": "No major macro releases scheduled (Thanksgiving week approaching)",
       "time": "2026-11-22 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     },
     {
-      "name": "FOMC Next Meeting (Dec 9) - December rate hike risk elevated",
-      "time": "2026-12-09 19:00 UTC",
-      "impact": "high",
+      "name": "FOMC rate decision (December meeting - background risk)",
+      "time": "2026-12-01 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $59K 급락, 극단적공포(12), 12월 금리인상 우려",
-  "updated": "2026-11-22 06:33:30 UTC",
-  "valid_until": "2026-11-22 10:33:30 UTC"
+  "notes": "BTC $60.7K 반등(+3.9%), 고점比-52%. 공포심리, FOMC 12월",
+  "updated": "2026-11-22 12:35:00 UTC",
+  "valid_until": "2026-11-22 16:35:00 UTC",
+  "analysis_summary": {
+    "price_context": "BTC at ~$60,677 (ATH $126,210 on Oct 6 2025; down ~52%). Dropped from $78,500 on Nov 4 to $55-57K low (lowest since Sep 2024), now rebounding +3.88% today.",
+    "sentiment": "Fear/Extreme Fear dominates. ETF outflows noted. Glassnode reported capitulation-level losses near $62K around Nov 17.",
+    "macro": "No FOMC this week (next meeting December). Week appears light on major scheduled data releases. Fed Chair Kevin Warsh may have speaking engagements.",
+    "regime_rationale": "Bearish: sustained downtrend from ATH, fear sentiment, ETF outflows. Today's +3.88% bounce is likely a relief rally within a broader downtrend."
+  }
 }
