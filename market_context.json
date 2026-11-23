@@ -1,27 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
+  "confidence": 0.68,
   "key_events_next_24h": [
     {
-      "name": "Hormuz Tanker Strikes - Geopolitical Risk",
-      "time": "2026-11-23 ongoing",
-      "impact": "medium",
+      "name": "Fed Hawkish Hold - Ongoing pressure (3.5-3.75%, rate hike risk)",
+      "time": "2026-11-23 00:00 UTC",
+      "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "BTC Spot ETF Weekly Flow Data",
-      "time": "2026-11-24 00:00 UTC",
+      "name": "BTC ETF Outflow Watch",
+      "time": "2026-11-23 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
-    },
-    {
-      "name": "Fed Statistical Release",
-      "time": "2026-11-25 21:15 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
     }
   ],
-  "notes": "11월 BTC 약세장. 공포지수 11, ETF 순유출 $3.5B. $55K 재테스트 위험",
-  "updated": "2026-11-23 13:00:00 UTC",
-  "valid_until": "2026-11-23 17:00:00 UTC"
+  "notes": "BTC $61,500 하락세, ETF 유출 및 연준 매파 압력",
+  "updated": "2026-11-23 18:35:00 UTC",
+  "valid_until": "2026-11-23 22:35:00 UTC"
 }
