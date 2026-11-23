@@ -1,21 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
+  "confidence": 0.72,
   "key_events_next_24h": [
     {
-      "name": "FOMC Minutes Release (Oct 27-28 meeting)",
-      "time": "2026-11-23 19:00 UTC",
+      "name": "Hormuz Tanker Strikes - Geopolitical Risk",
+      "time": "2026-11-23 ongoing",
       "impact": "medium",
       "expected_direction": "bearish"
     },
     {
-      "name": "BTC ETF Daily Flow Data",
-      "time": "2026-11-23 20:00 UTC",
-      "impact": "high",
+      "name": "BTC Spot ETF Weekly Flow Data",
+      "time": "2026-11-24 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "Fed Statistical Release",
+      "time": "2026-11-25 21:15 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $61K 반등, 극단적 공포(11), ETF 순유출 지속, 저항 $62-65K",
-  "updated": "2026-11-23 06:32:46 UTC",
-  "valid_until": "2026-11-23 10:32:46 UTC"
+  "notes": "11월 BTC 약세장. 공포지수 11, ETF 순유출 $3.5B. $55K 재테스트 위험",
+  "updated": "2026-11-23 13:00:00 UTC",
+  "valid_until": "2026-11-23 17:00:00 UTC"
 }
