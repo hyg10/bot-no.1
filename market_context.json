@@ -1,21 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.68,
+  "confidence": 0.70,
   "key_events_next_24h": [
     {
-      "name": "Fed Hawkish Hold - Ongoing pressure (3.5-3.75%, rate hike risk)",
-      "time": "2026-11-23 00:00 UTC",
+      "name": "Fed Rate Hike Risk (Chair Warsh inflation concerns)",
+      "time": "2026-11-24 00:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     },
     {
-      "name": "BTC ETF Outflow Watch",
-      "time": "2026-11-23 21:00 UTC",
+      "name": "BTC Spot ETF Daily Flow Release (IBIT outflows trend)",
+      "time": "2026-11-24 21:00 UTC",
       "impact": "medium",
       "expected_direction": "bearish"
+    },
+    {
+      "name": "US Thanksgiving Holiday Week (Reduced liquidity)",
+      "time": "2026-11-26 00:00 UTC",
+      "impact": "medium",
+      "expected_direction": "neutral"
     }
   ],
-  "notes": "BTC $61,500 하락세, ETF 유출 및 연준 매파 압력",
-  "updated": "2026-11-23 18:35:00 UTC",
-  "valid_until": "2026-11-23 22:35:00 UTC"
+  "notes": "BTC 11월 -20%(2018년래 최악), 공포지수 11, 61K 소폭 반등",
+  "updated": "2026-11-24 06:00:00 UTC",
+  "valid_until": "2026-11-24 10:00:00 UTC"
 }
