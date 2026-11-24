@@ -1,21 +1,15 @@
 {
   "regime": "bearish",
-  "confidence": 0.68,
+  "confidence": 0.70,
   "key_events_next_24h": [
     {
-      "name": "Fed Beige Book Release",
+      "name": "Fed Beige Book",
       "time": "2026-11-25 19:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "No FOMC/CPI/PPI scheduled (next FOMC: Dec 9-10)",
-      "time": "2026-11-24 00:00 UTC",
       "impact": "low",
       "expected_direction": "neutral"
     }
   ],
-  "notes": "11월 BTC 급락($78K→$63K), ETF 25.8억달러 유출, 단기 반등 불투명",
-  "updated": "2026-11-24 12:00:00 UTC",
-  "valid_until": "2026-11-24 16:00:00 UTC"
+  "notes": "BTC 월간 -26% 하락세, ETF 대규모 유출, 극도의 공포 심리 지속",
+  "updated": "2026-11-24 18:33:00 UTC",
+  "valid_until": "2026-11-24 22:33:00 UTC"
 }
