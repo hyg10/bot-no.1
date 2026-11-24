@@ -1,27 +1,10 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
+  "confidence": 0.65,
   "key_events_next_24h": [
-    {
-      "name": "Fed Rate Hike Risk (Chair Warsh inflation concerns)",
-      "time": "2026-11-24 00:00 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "BTC Spot ETF Daily Flow Release (IBIT outflows trend)",
-      "time": "2026-11-24 21:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US Thanksgiving Holiday Week (Reduced liquidity)",
-      "time": "2026-11-26 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "neutral"
-    }
+    {"name": "No confirmed major macro events (FOMC/CPI/PPI)", "time": "2026-11-24 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "BTC 11월 -20%(2018년래 최악), 공포지수 11, 61K 소폭 반등",
+  "notes": "BTC $60k대 하락, ETF 유출 및 시장 공포 지수 지속",
   "updated": "2026-11-24 06:00:00 UTC",
   "valid_until": "2026-11-24 10:00:00 UTC"
 }
