@@ -1,15 +1,11 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
+  "confidence": 0.65,
   "key_events_next_24h": [
-    {
-      "name": "Fed Beige Book",
-      "time": "2026-11-25 19:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    }
+    {"name": "US Thanksgiving Holiday (Thin Liquidity)", "time": "2026-11-26 00:00 UTC", "impact": "medium", "expected_direction": "neutral"},
+    {"name": "FOMC Meeting (Dec 8-9 upcoming)", "time": "2026-12-08 14:00 UTC", "impact": "high", "expected_direction": "bearish"}
   ],
-  "notes": "BTC 월간 -26% 하락세, ETF 대규모 유출, 극도의 공포 심리 지속",
-  "updated": "2026-11-24 18:33:00 UTC",
-  "valid_until": "2026-11-24 22:33:00 UTC"
+  "notes": "BTC $60K 하락세, ETF 유출·침체 심리, 추수감사절 유동성 감소 주의",
+  "updated": "2026-11-25 06:00:00 UTC",
+  "valid_until": "2026-11-25 10:00:00 UTC"
 }
