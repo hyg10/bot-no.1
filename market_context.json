@@ -2,10 +2,14 @@
   "regime": "bearish",
   "confidence": 0.65,
   "key_events_next_24h": [
-    {"name": "US Thanksgiving Holiday (Thin Liquidity)", "time": "2026-11-26 00:00 UTC", "impact": "medium", "expected_direction": "neutral"},
-    {"name": "FOMC Meeting (Dec 8-9 upcoming)", "time": "2026-12-08 14:00 UTC", "impact": "high", "expected_direction": "bearish"}
+    {
+      "name": "FOMC Meeting (December 9-10)",
+      "time": "2026-12-09 19:00 UTC",
+      "impact": "high",
+      "expected_direction": "neutral"
+    }
   ],
-  "notes": "BTC $60K 하락세, ETF 유출·침체 심리, 추수감사절 유동성 감소 주의",
-  "updated": "2026-11-25 06:00:00 UTC",
-  "valid_until": "2026-11-25 10:00:00 UTC"
+  "notes": "BTC $59K 하락세, 월간 -22%, 공포 심리 지속",
+  "updated": "2026-11-25 06:35:00 UTC",
+  "valid_until": "2026-11-25 10:35:00 UTC"
 }
