@@ -1,27 +1,21 @@
 {
   "regime": "bearish",
-  "confidence": 0.70,
+  "confidence": 0.75,
   "key_events_next_24h": [
     {
-      "name": "US Thanksgiving - Thin Liquidity / Market Holiday",
+      "name": "US Thanksgiving (Market Holiday)",
       "time": "2026-11-26 14:30 UTC",
-      "impact": "low",
+      "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "BTC Spot ETF Daily Flow Report (6 consecutive outflow days)",
-      "time": "2026-11-26 21:00 UTC",
+      "name": "Fed Next Meeting (Dec 8-9) - Rate Decision",
+      "time": "2026-12-09 19:00 UTC",
       "impact": "high",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "US Tariff Impact Continuation (14 trade partners announced Nov 25)",
-      "time": "2026-11-26 00:00 UTC",
-      "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $60.6K, ETF 6일 연속 순유출, 관세·인플레 우려 지속",
-  "updated": "2026-11-26 06:35:00 UTC",
-  "valid_until": "2026-11-26 10:35:00 UTC"
+  "notes": "BTC $60.5K, 극단적 공포(11), ETF 대규모 유출, 약세장 지속",
+  "updated": "2026-11-26 12:33:21 UTC",
+  "valid_until": "2026-11-26 16:33:21 UTC"
 }
