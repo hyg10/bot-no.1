@@ -1,22 +1,10 @@
 {
   "regime": "bearish",
-  "confidence": 0.72,
-  "btc_price_usd": 59435,
+  "confidence": 0.75,
   "key_events_next_24h": [
-    {
-      "name": "US Thanksgiving (Nov 26) - Low Market Liquidity",
-      "time": "2026-11-26 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
-    },
-    {
-      "name": "Core PCE Oct (already released today - 3.3% YoY, above consensus)",
-      "time": "2026-11-25 13:30 UTC",
-      "impact": "high",
-      "expected_direction": "bearish"
-    }
+    {"name": "No major macro events scheduled", "time": "2026-11-26 00:00 UTC", "impact": "low", "expected_direction": "neutral"}
   ],
-  "notes": "PCE 호조+ETF 순유출로 하락세, 추수감사절 유동성 주의",
-  "updated": "2026-11-25 18:35:00 UTC",
-  "valid_until": "2026-11-25 22:35:00 UTC"
+  "notes": "11월 BTC 하락세 지속, $60.8K 근처, 센티먼트 공포",
+  "updated": "2026-11-26 00:35:00 UTC",
+  "valid_until": "2026-11-26 04:35:00 UTC"
 }
