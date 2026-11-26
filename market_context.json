@@ -1,21 +1,27 @@
 {
   "regime": "bearish",
-  "confidence": 0.75,
+  "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US Thanksgiving (Market Holiday)",
+      "name": "US Thanksgiving (Low Volume Day)",
       "time": "2026-11-26 14:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Fed Next Meeting (Dec 8-9) - Rate Decision",
+      "name": "Fed Beige Book (released yesterday)",
+      "time": "2026-11-25 19:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
+    },
+    {
+      "name": "FOMC Next Meeting - Rate Decision",
       "time": "2026-12-09 19:00 UTC",
       "impact": "high",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $60.5K, 극단적 공포(11), ETF 대규모 유출, 약세장 지속",
-  "updated": "2026-11-26 12:33:21 UTC",
-  "valid_until": "2026-11-26 16:33:21 UTC"
+  "notes": "BTC $60.7K 단기+3% 반등, 11월 -20% 약세, 추수감사절 거래량 저조",
+  "updated": "2026-11-26 16:30:00 UTC",
+  "valid_until": "2026-11-26 20:30:00 UTC"
 }
