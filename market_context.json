@@ -3,19 +3,25 @@
   "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US Black Friday / Post-Thanksgiving Low Liquidity",
-      "time": "2026-11-27 14:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Rate Decision (advance notice - Dec 9)",
+      "name": "December FOMC Rate Decision (upcoming - Dec 8-9)",
       "time": "2026-12-09 19:00 UTC",
       "impact": "high",
-      "expected_direction": "neutral"
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Fed Rate Hike Probability (~70-82% chance of Dec hike)",
+      "time": "2026-11-27 00:00 UTC",
+      "impact": "high",
+      "expected_direction": "bearish"
+    },
+    {
+      "name": "Core PCE Data (BEA release - was due Nov 25)",
+      "time": "2026-11-25 13:30 UTC",
+      "impact": "medium",
+      "expected_direction": "bearish"
     }
   ],
-  "notes": "11월 BTC 하락세 지속, 약 $6만대. 소폭 반등이나 약세 추세",
-  "updated": "2026-11-27 07:00:00 UTC",
-  "valid_until": "2026-11-27 11:00:00 UTC"
+  "notes": "비트코인 $65K권, Fed 12월 금리인상 70~82% 우려로 약세",
+  "updated": "2026-11-27 12:33:06 UTC",
+  "valid_until": "2026-11-27 16:33:06 UTC"
 }
