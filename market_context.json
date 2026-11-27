@@ -3,25 +3,19 @@
   "confidence": 0.65,
   "key_events_next_24h": [
     {
-      "name": "US Thanksgiving (Low Volume Day)",
-      "time": "2026-11-26 14:30 UTC",
+      "name": "US Black Friday (Post-Thanksgiving) - Low Volume Session",
+      "time": "2026-11-27 14:30 UTC",
       "impact": "medium",
       "expected_direction": "neutral"
     },
     {
-      "name": "Fed Beige Book (released yesterday)",
-      "time": "2026-11-25 19:00 UTC",
-      "impact": "low",
-      "expected_direction": "neutral"
-    },
-    {
-      "name": "FOMC Next Meeting - Rate Decision",
-      "time": "2026-12-09 19:00 UTC",
-      "impact": "high",
+      "name": "SpaceX BTC Transfer (1,163 BTC ~$105M) - Potential Sell Pressure",
+      "time": "2026-11-27 00:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $60.7K 단기+3% 반등, 11월 -20% 약세, 추수감사절 거래량 저조",
-  "updated": "2026-11-26 16:30:00 UTC",
-  "valid_until": "2026-11-26 20:30:00 UTC"
+  "notes": "BTC $60,531 하락세, ATH 대비 52% 하락, 공포 심리 지속",
+  "updated": "2026-11-27 00:33:00 UTC",
+  "valid_until": "2026-11-27 04:33:00 UTC"
 }
