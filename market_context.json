@@ -1,24 +1,29 @@
 {
   "regime": "bearish",
   "confidence": 0.65,
-  "btc_price_usd": 59837.74,
-  "price_24h_range": {"low": 58720.34, "high": 62167.08},
-  "price_change_24h_pct": -1.19,
   "key_events_next_24h": [
     {
-      "name": "Post-Thanksgiving Low-Liquidity Trading (US Market Holiday)",
-      "time": "2026-11-27 00:00 UTC",
-      "impact": "medium",
-      "expected_direction": "bearish"
+      "name": "Weekend - No major scheduled macro events",
+      "time": "2026-11-28 00:00 UTC",
+      "impact": "low",
+      "expected_direction": "neutral"
     },
     {
-      "name": "FOMC December Meeting Anticipation (Dec 8-9) - Rate Hike Expected After Hot CPI",
-      "time": "2026-12-09 19:00 UTC",
-      "impact": "high",
+      "name": "BTC ETF Flows Monitoring (ongoing negative trend)",
+      "time": "2026-11-28 09:00 UTC",
+      "impact": "medium",
       "expected_direction": "bearish"
     }
   ],
-  "notes": "BTC $59.8K, Fed 12월 금리인상 우려, 베어리시 추세 지속",
-  "updated": "2026-11-27 18:35:00 UTC",
-  "valid_until": "2026-11-27 22:35:00 UTC"
+  "notes": "BTC $60K 하락세, ETF 자금유출·바이낸스 해킹 여파 지속",
+  "updated": "2026-11-28 00:35:00 UTC",
+  "valid_until": "2026-11-28 04:35:00 UTC",
+  "price_snapshot": {
+    "price_usd": 59938.0,
+    "24h_high": 62167.08,
+    "24h_low": 58720.34,
+    "24h_change_pct": -1.0,
+    "source": "Crypto.com live ticker",
+    "as_of": "2026-11-28T00:33:05Z"
+  }
 }
